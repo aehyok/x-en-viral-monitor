@@ -3,7 +3,7 @@ name: X 博主爆款帖监测
 description: >-
   Use this when monitoring specific X accounts for posts whose views grow past a
   per-hour threshold (爆款帖 / viral post watch), for a one-shot scan or as the
-  body of an hourly routine. Delivered hits must include a full Chinese
+  body of a half-hourly routine. Delivered hits must include a full Chinese
   translation of the post body.
 ---
 # X 博主爆款帖监测
@@ -18,16 +18,16 @@ This skill is the **scan recipe**. Account list, threshold, lookback window, tim
 | --- | --- |
 | `accounts` | Required: list of X `@username`s |
 | `threshold` | `5000` views per hour |
-| `lookback_hours` | `24` |
+| `lookback_hours` | `12` |
 | `timezone` | `Asia/Shanghai` |
-| `state_path` | Caller-owned JSON under the bot store, e.g. `…/x-en-viral-monitor/state.json` |
+| `state_path` | Caller-owned JSON under the bot store. Placeholder: `/cursor/stores/<STORE_ID>/x-en-viral-monitor/state.json`. Intended path for this bot: `/cursor/stores/bot/x-en-viral-monitor/state.json` |
 | `language` | Hit blocks are Chinese (full translation). Surrounding status text matches the user. |
 
 ## State file shape
 
 ```json
 {
-  "note": "Hourly X watch state.",
+  "note": "Half-hourly X watch state.",
   "accounts": { "username": "numeric_user_id" },
   "snapshots": {
     "post_id": { "views": 0, "checked_at": "ISO-8601 UTC" }
@@ -54,10 +54,10 @@ Respect X rate limits (429): retry with backoff; on partial failure still save s
 
 1. **Load state** from `state_path` (or initialize empty).
 2. **Resolve accounts** if ids are missing.
-3. **Fetch** each account's posts; keep originals and quotes; drop pure retweets/replies unless the caller asks otherwise.
+3. **Fetch** each account's posts; keep originals and quotes; drop replies and pure retweets unless the caller asks otherwise.
 4. **Filter** to posts with `created_at` within `lookback_hours` of now (use tweet id / timestamp; do not invent posts).
 5. For each kept post, read current `views` (impressions). Body source for translation: the full `note_tweet` text when present, otherwise `text`.
-6. **Rate**:
+6. **Rate** (views per hour; threshold stays `> 5000`). A half-hourly routine makes `hours_since_prev` about **0.5**. Divide by that actual interval. Do not replace it with 1 hour.
    - If the post is already in `snapshots`:  
      `rate = (views_now - views_prev) / max(hours_since_prev, 1/60)`  
      (`hours_since_prev` from `checked_at` → now, UTC).
@@ -84,7 +84,7 @@ Respect X rate limits (429): retry with backoff; on partial failure still save s
 
 ## Archive fields
 
-When the caller writes the hourly JSON (see the routine), each checked post keeps the original body and the translation in separate fields:
+When the caller writes the half-hourly archive JSON under `data/hourly/` (HHMM such as `0604`, `0634`; see the routine), each checked post keeps the original body and the translation in separate fields:
 
 | Field | Content |
 | --- | --- |
@@ -95,12 +95,12 @@ Optional for quote posts only: `quoted_text` (original quoted body) and `quoted_
 
 ## Rules
 
-- Re-scan the full lookback every pass so a post that spikes in hour 2 still qualifies.
+- Re-scan the full lookback every pass so a post that spikes later in the window still qualifies. Default lookback is 12 hours.
 - Never re-push an id in `pushed`, even if it is still growing.
 - Do not invent view counts, titles, links, or translations.
 - Prefer public `x` tools over the signed-in X plugin for this read-only watch.
-- Schedule (cron, hours of day) lives in a **routine**, not in this skill. A routine should say: run this skill with these accounts / threshold / state_path, then deliver any hit blocks (with full Chinese translations) to the user.
+- Schedule (cron) lives in a **routine**, not in this skill. The English-circle routine runs every 30 minutes (`CRON_TZ=Asia/Shanghai 4,34 6-23 * * *`) with `lookback_hours = 12`. A routine should say: run this skill with these accounts / threshold / state_path, then deliver any hit blocks (with full Chinese translations) to the user. The alert line `每小时 +R` is the per-hour rate, not the scan cadence.
 
 ## Manual catch-up
 
-If the user asks to补跑 after a missed hour, run **one** full pass now with the same inputs and deliver any new hits in the format above.
+If the user asks to补跑 after a missed half-hour, run **one** full pass now with the same inputs and deliver any new hits in the format above.
