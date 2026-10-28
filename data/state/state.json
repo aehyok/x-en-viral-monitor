@@ -1,5 +1,5 @@
 {
-  "note": "Half-hourly X watch state for English AI/indie accounts (every 30 minutes, lookback 12h). snapshots: post_id -> {views, checked_at UTC}. pushed: post ids already sent to user.",
+  "note": "Half-hourly English X viral watch.",
   "accounts": {
     "levelsio": "1577241403",
     "marclou": "2311987360",
@@ -9,34 +9,37 @@
     "karpathy": "33836629"
   },
   "snapshots": {
-    "2115199427271086583": {
-      "views": 34167,
-      "checked_at": "2026-10-28T02:39:52Z"
+    "2115172540238979474": {
+      "views": 109708,
+      "checked_at": "2026-10-28T03:11:48Z"
     },
     "2115174088809320569": {
-      "views": 80022,
-      "checked_at": "2026-10-28T02:39:52Z"
-    },
-    "2115155070706720857": {
-      "views": 60784,
-      "checked_at": "2026-10-28T02:39:52Z"
-    },
-    "2115131978831872136": {
-      "views": 13155,
-      "checked_at": "2026-10-28T02:39:52Z"
+      "views": 82202,
+      "checked_at": "2026-10-28T03:11:48Z"
     },
     "2115124961463394550": {
-      "views": 59859,
-      "checked_at": "2026-10-28T02:39:52Z"
+      "views": 62595,
+      "checked_at": "2026-10-28T03:11:48Z"
     },
-    "2115172540238979474": {
-      "views": 106117,
-      "checked_at": "2026-10-28T02:39:52Z"
+    "2115155070706720857": {
+      "views": 62021,
+      "checked_at": "2026-10-28T03:11:48Z"
+    },
+    "2115199427271086583": {
+      "views": 35585,
+      "checked_at": "2026-10-28T03:11:48Z"
+    },
+    "2115131978831872136": {
+      "views": 13363,
+      "checked_at": "2026-10-28T03:11:48Z"
     },
     "2115188626296385864": {
-      "views": 1666,
-      "checked_at": "2026-10-28T02:39:52Z"
+      "views": 1735,
+      "checked_at": "2026-10-28T03:11:48Z"
     }
   },
-  "pushed": []
+  "pushed": [
+    "2115172540238979474",
+    "2115124961463394550"
+  ]
 }
