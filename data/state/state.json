@@ -1,5 +1,5 @@
 {
-  "note": "Hourly X watch state for English AI/indie accounts. snapshots: post_id -> {views, checked_at UTC}. pushed: post ids already sent to user. Initialized 2026-10-28 with empty snapshots and pushed; no historical posts.",
+  "note": "Half-hourly English X viral watch.",
   "accounts": {
     "levelsio": "1577241403",
     "marclou": "2311987360",
@@ -8,6 +8,35 @@
     "egeberkina": "1790083138959400961",
     "karpathy": "33836629"
   },
-  "snapshots": {},
+  "snapshots": {
+    "2115199427271086583": {
+      "views": 34167,
+      "checked_at": "2026-10-28T02:39:52Z"
+    },
+    "2115174088809320569": {
+      "views": 80022,
+      "checked_at": "2026-10-28T02:39:52Z"
+    },
+    "2115155070706720857": {
+      "views": 60784,
+      "checked_at": "2026-10-28T02:39:52Z"
+    },
+    "2115131978831872136": {
+      "views": 13155,
+      "checked_at": "2026-10-28T02:39:52Z"
+    },
+    "2115124961463394550": {
+      "views": 59859,
+      "checked_at": "2026-10-28T02:39:52Z"
+    },
+    "2115172540238979474": {
+      "views": 106117,
+      "checked_at": "2026-10-28T02:39:52Z"
+    },
+    "2115188626296385864": {
+      "views": 1666,
+      "checked_at": "2026-10-28T02:39:52Z"
+    }
+  },
   "pushed": []
 }
