@@ -1,5 +1,5 @@
 {
-  "note": "Half-hourly English X viral watch.",
+  "note": "Half-hourly X watch state for English AI/indie accounts (every 30 minutes, lookback 12h). snapshots: post_id -> {views, checked_at UTC}. pushed: post ids already sent to user.",
   "accounts": {
     "levelsio": "1577241403",
     "marclou": "2311987360",

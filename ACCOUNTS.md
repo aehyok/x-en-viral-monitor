@@ -4,6 +4,8 @@
 
 共 **6** 个英文圈 AI / 独立开发相关账号。用户 ID 于同日经公开查询核对，与已知 id 一致。
 
+监测范围是近 **12 小时**的原创帖与引用帖（不含回复、纯转发），节奏为**每半小时**一轮（北京时间 :04 与 :34，06–23 点）。规则详见 [README.md](README.md)。
+
 1. [@levelsio](https://x.com/levelsio) — id `1577241403` — 独立黑客 Pieter Levels
 2. [@marclou](https://x.com/marclou) — id `2311987360` — 独立开发者 Marc Lou
 3. [@gregisenberg](https://x.com/gregisenberg) — id `14642331` — 创业与社区，startup ideas

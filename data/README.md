@@ -1,6 +1,6 @@
 # data
 
-每小时扫描的归档与运行状态。起步时只有空的 `hourly/` 和一份空快照的 `state/state.json`，没有历史小时文件。不要从中文账号仓库 [aehyok/x-viral-monitor](https://github.com/aehyok/x-viral-monitor) 复制旧归档，也不要写入没有经工具读到的帖子或指标。
+每半小时扫描的归档与运行状态。目录名仍是 `hourly/`；文件名为 `HHMM`（`0604`、`0634`，直到 `2334`）。起步时只有空的 `hourly/` 和一份空快照的 `state/state.json`，没有历史归档。不要从中文账号仓库 [aehyok/x-viral-monitor](https://github.com/aehyok/x-viral-monitor) 复制旧归档，也不要写入没有经工具读到的帖子或指标。归档仓库是 `aehyok/x-en-viral-monitor`。回看窗口为 12 小时。
 
 ## state/state.json
 
