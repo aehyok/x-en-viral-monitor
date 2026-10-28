@@ -1,0 +1,13 @@
+{
+  "note": "Hourly X watch state for English AI/indie accounts. snapshots: post_id -> {views, checked_at UTC}. pushed: post ids already sent to user. Initialized 2026-10-28 with empty snapshots and pushed; no historical posts.",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "snapshots": {},
+  "pushed": []
+}
