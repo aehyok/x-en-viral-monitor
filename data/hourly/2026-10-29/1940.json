@@ -1,0 +1,73 @@
+{
+  "run_at": "2026-10-29T19:40:55+08:00",
+  "run_at_utc": "2026-10-29T11:40:55Z",
+  "timezone": "Asia/Shanghai",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "accounts": [
+    "levelsio",
+    "marclou",
+    "gregisenberg",
+    "steipete",
+    "egeberkina",
+    "karpathy"
+  ],
+  "posts": [
+    {
+      "id": "2115594451217187315",
+      "username": "levelsio",
+      "author_id": "1577241403",
+      "url": "https://x.com/levelsio/status/2115594451217187315",
+      "created_at": "2026-10-28T23:59:57.000Z",
+      "created_at_beijing": "2026-10-29 07:59",
+      "text": "Famous last tweets https://t.co/5cLdGgpFiu https://t.co/KJE2kNi2cx",
+      "text_zh": "Famous last tweets（著名的“遗言推文”，调侃自己说过的话）https://t.co/5cLdGgpFiu https://t.co/KJE2kNi2cx\n（附一张图片，并引用了自己之前关于买入 $GOOG / 父亲因 Google AI 取消 ChatGPT 的长文）",
+      "views": 211760,
+      "like_count": 2103,
+      "retweet_count": 20,
+      "bookmark_count": 152,
+      "reply_count": 211,
+      "quote_count": 14,
+      "rate_per_hour": 13515.5,
+      "basis": "delta",
+      "delta_views": 6686,
+      "hours_interval": 0.4947,
+      "already_pushed": true,
+      "is_new_hit": false,
+      "is_quote": true,
+      "quoted_summary_zh": "引用自己此前帖：Google 无故大跌，自己趁低买入 $GOOG；父亲因 Google 搜索已有 AI 且更信任来源链接而取消了 ChatGPT。"
+    },
+    {
+      "id": "2115608906760135136",
+      "username": "gregisenberg",
+      "author_id": "14642331",
+      "url": "https://x.com/gregisenberg/status/2115608906760135136",
+      "created_at": "2026-10-29T00:57:24.000Z",
+      "created_at_beijing": "2026-10-29 08:57",
+      "text": "Why I think building an AI startup with OpenAI or Anthropic or Google or Grok models is kinda like ordering a crisp McDonald's Diet Coke. https://t.co/U1DRcCbKqi",
+      "text_zh": "为什么我觉得用 OpenAI、Anthropic、Google 或 Grok 的模型做 AI 创业，有点像点一杯清爽的麦当劳 Diet Coke。https://t.co/U1DRcCbKqi",
+      "views": 25748,
+      "like_count": 200,
+      "retweet_count": 10,
+      "bookmark_count": 153,
+      "reply_count": 103,
+      "quote_count": 8,
+      "rate_per_hour": 1404.9,
+      "basis": "delta",
+      "delta_views": 695,
+      "hours_interval": 0.4947,
+      "already_pushed": true,
+      "is_new_hit": false,
+      "is_quote": false,
+      "quoted_summary_zh": null
+    }
+  ],
+  "new_hits": [],
+  "empty_accounts": [
+    "marclou",
+    "steipete",
+    "egeberkina",
+    "karpathy"
+  ]
+}
