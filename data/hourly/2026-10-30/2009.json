@@ -1,0 +1,117 @@
+{
+  "run_at": "2026-10-30T12:09:21Z",
+  "run_at_beijing": "2026-10-30T20:09:21+08:00",
+  "slot": "2009",
+  "baseline": false,
+  "threshold": 5000,
+  "lookback_hours": 12,
+  "hours_since_prev_check": 0.551667,
+  "accounts": [
+    "levelsio",
+    "marclou",
+    "gregisenberg",
+    "steipete",
+    "egeberkina",
+    "karpathy"
+  ],
+  "posts": [
+    {
+      "id": "2116138744679993690",
+      "author": "levelsio",
+      "url": "https://x.com/levelsio/status/2116138744679993690",
+      "text": "😳",
+      "text_zh": "😳",
+      "views": 5084,
+      "likes": 14,
+      "reposts": 0,
+      "bookmarks": 3,
+      "created_at": "2026-10-30T12:02:47.000Z",
+      "quote_note": "引用他人吐槽荷兰雇佣法：试用期刚结束员工请一天病假就无法解约，期间还装修房子、不配合 UWV 材料，雇主可能要多付一年约 8 万欧；对约 350 万营收的公司压力很大，保险也贵，赛事后不想再雇人。",
+      "prev_views": null,
+      "rate": 46452.8,
+      "hours": 0.109444
+    },
+    {
+      "id": "2116103755993337883",
+      "author": "marclou",
+      "url": "https://x.com/marclou/status/2116103755993337883",
+      "text": "I'm adding @Razorpay to TrustMRR, and I need your help.\n\nIf you've made $1,000 on Razorpay and want to join TrustMRR, please send me a DM.\n\nI'll manually build the public revenue page for your startup so I can test the Razorpay API with real API keys. Thanks!",
+      "text_zh": "我要把 @Razorpay 加进 TrustMRR，需要你的帮助。\n\n如果你在 Razorpay 上做过 $1,000，又想加入 TrustMRR，请私信我。\n\n我会手动给你的创业项目搭公开营收页，好用真实 API key 测 Razorpay API。谢谢！",
+      "views": 25125,
+      "likes": 349,
+      "reposts": 4,
+      "bookmarks": 30,
+      "created_at": "2026-10-30T09:43:45.000Z",
+      "quote_note": null,
+      "prev_views": 20185,
+      "rate": 8954.7,
+      "hours": 0.551667
+    },
+    {
+      "id": "2116089091582275585",
+      "author": "marclou",
+      "url": "https://x.com/marclou/status/2116089091582275585",
+      "text": "It took me:\n\n- 2 years to make $1 online\n- 8 months to get 1,000 followers \n- 3 months to grow a SaaS to $1k MRR\n\nI’ve built 43 startups and posted 38.7K tweets.\n\nIt takes time. \n\nWhoever pretends otherwise is trying to sell you a get-rich-quick dream.",
+      "text_zh": "我花了：\n\n- 2 年才在网上赚到第 1 美元\n- 8 个月才涨到 1,000 粉丝\n- 3 个月才把一个 SaaS 做到 $1k MRR\n\n我已经做过 43 个创业项目，发过 38.7K 条推文。\n\n这需要时间。\n\n谁假装不是这样，多半是在向你兜售暴富速成梦。",
+      "views": 24031,
+      "likes": 550,
+      "reposts": 22,
+      "bookmarks": 177,
+      "created_at": "2026-10-30T08:45:29.000Z",
+      "quote_note": "引用 @gregisenberg：提醒创始人，现在外面有大量虚报的 ARR 数字。",
+      "prev_views": 21379,
+      "rate": 4807.3,
+      "hours": 0.551667
+    },
+    {
+      "id": "2116121832919122164",
+      "author": "steipete",
+      "url": "https://x.com/steipete/status/2116121832919122164",
+      "text": "Bullish on Andy Yen and Proton. He gets it.\n\nThe culture war, or rather the loss of identity some engineers feel as AI redefines our jobs is difficult; I sympathize. Also understand that he runs a business and might has limited patience when we now had two years to process, learn, change and grow.",
+      "text_zh": "看好 Andy Yen 和 Proton。他懂行。\n\n文化战争，或者说部分工程师在 AI 重塑我们工作时感到的身份失落，确实很难；我同情。也理解他要经营公司——我们已经有两年时间去消化、学习、改变和成长，他的耐心可能有限。",
+      "views": 31404,
+      "likes": 283,
+      "reposts": 21,
+      "bookmarks": 240,
+      "created_at": "2026-10-30T10:55:35.000Z",
+      "quote_note": "引用他人晒出的 Proton CTO（Andy Yen 相关）AI 宣言（AI manifesto）。",
+      "prev_views": 13973,
+      "rate": 31597.0,
+      "hours": 0.551667
+    }
+  ],
+  "new_hits": [
+    {
+      "id": "2116138744679993690",
+      "author": "levelsio",
+      "url": "https://x.com/levelsio/status/2116138744679993690",
+      "text": "😳",
+      "text_zh": "😳",
+      "views": 5084,
+      "likes": 14,
+      "reposts": 0,
+      "bookmarks": 3,
+      "created_at": "2026-10-30T12:02:47.000Z",
+      "quote_note": "引用他人吐槽荷兰雇佣法：试用期刚结束员工请一天病假就无法解约，期间还装修房子、不配合 UWV 材料，雇主可能要多付一年约 8 万欧；对约 350 万营收的公司压力很大，保险也贵，赛事后不想再雇人。",
+      "prev_views": null,
+      "rate": 46452.8,
+      "hours": 0.109444
+    }
+  ],
+  "fetch": {
+    "levelsio": 1,
+    "marclou": 2,
+    "gregisenberg": 0,
+    "steipete": 1,
+    "egeberkina": 0,
+    "karpathy": 0
+  },
+  "fetch_status": {
+    "levelsio": "ok",
+    "marclou": "ok",
+    "gregisenberg": "ok",
+    "steipete": "ok",
+    "egeberkina": "ok",
+    "karpathy": "ok"
+  }
+}
