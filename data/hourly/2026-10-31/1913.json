@@ -1,0 +1,95 @@
+{
+  "run_at": "2026-10-31T11:13:57.134488Z",
+  "run_at_beijing": "2026-10-31T19:13:57.134488+08:00",
+  "slot": "1913",
+  "baseline": false,
+  "threshold": 5000,
+  "lookback_hours": 12,
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "accounts_failed": 0,
+  "accounts_status": {
+    "levelsio": "ok",
+    "marclou": "ok",
+    "gregisenberg": "ok",
+    "steipete": "ok",
+    "egeberkina": "ok",
+    "karpathy": "ok"
+  },
+  "hours_since_prev": 0.52,
+  "posts_checked": 3,
+  "posts_checked_per_account": {
+    "levelsio": 2,
+    "marclou": 0,
+    "gregisenberg": 1,
+    "steipete": 0,
+    "egeberkina": 0,
+    "karpathy": 0
+  },
+  "new_hits": [
+    "2116485229779058954"
+  ],
+  "posts": [
+    {
+      "id": "2116485229779058954",
+      "author": "levelsio",
+      "url": "https://x.com/levelsio/status/2116485229779058954",
+      "created_at": "2026-10-31T10:59:35.000Z",
+      "views": 5263,
+      "likes": 197,
+      "retweets": 10,
+      "bookmarks": 13,
+      "is_quote": true,
+      "text": "Yesterday France announced tax of €0.055 per GB on internet traffic\n\nToday Germany is considering taxing all AI-generated revenue\n\nYou will see European countries keep clawing more and more money from foreign companies as they are slowly running out of money themselves to pay https://t.co/GhGFhRhncU",
+      "text_zh": "昨天法国宣布对互联网流量征收每 GB €0.055 的税\n\n今天德国正在考虑对所有 AI 产生的收入征税\n\n你会看到欧洲国家不断从外国公司身上抠越来越多的钱，因为他们自己正慢慢没钱可付了 https://t.co/GhGFhRhncU",
+      "rate_per_hour": 21976.6,
+      "basis": "first_seen",
+      "already_pushed": false,
+      "qualified": true,
+      "quoted_text": "JUST IN: German minister proposes a new tax on all economic value created by AI.",
+      "quoted_text_zh": "引用：刚刚：德国部长提议对 AI 创造的全部经济价值征收新税。"
+    },
+    {
+      "id": "2116310269525901776",
+      "author": "levelsio",
+      "url": "https://x.com/levelsio/status/2116310269525901776",
+      "created_at": "2026-10-30T23:24:22.000Z",
+      "views": 60067,
+      "likes": 892,
+      "retweets": 16,
+      "bookmarks": 113,
+      "is_quote": true,
+      "text": "Updated my site for French audiences https://t.co/O4acLihXRR https://t.co/KvrcQtRYaK",
+      "text_zh": "更新了我的网站面向法国受众 https://t.co/O4acLihXRR https://t.co/KvrcQtRYaK",
+      "rate_per_hour": 4603.1,
+      "basis": "snapshot",
+      "already_pushed": true,
+      "qualified": false,
+      "quoted_text": "I thought it was just a proposal, but it actually passed 🤯\n\nFrance will charge €0.055 per GB on all internet traffic! https://t.co/mfiiPnttK2",
+      "quoted_text_zh": "引用：自己关于法国按每 GB 征 €0.055 流量税的帖子。"
+    },
+    {
+      "id": "2116312266056286626",
+      "author": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2116312266056286626",
+      "created_at": "2026-10-30T23:32:18.000Z",
+      "views": 18064,
+      "likes": 117,
+      "retweets": 2,
+      "bookmarks": 64,
+      "is_quote": false,
+      "text": "Strange feeling: finding out an album you love was made with AI music models (Suno, Udio, Lyria) and with no people playing instruments.\n\nI play music. I listened for months and had no idea.\n\nThe top 1% of AI music is getting scary good. https://t.co/abc3g3nyl8",
+      "text_zh": "奇怪的感觉：发现自己喜欢的一张专辑是用 AI 音乐模型（Suno、Udio、Lyria）做的，没有真人演奏乐器。\n\n我自己也玩音乐。听了好几个月完全没听出来。\n\nAI 音乐顶尖的那 1% 已经好到吓人了。https://t.co/abc3g3nyl8",
+      "rate_per_hour": 792.7,
+      "basis": "snapshot",
+      "already_pushed": true,
+      "qualified": false
+    }
+  ]
+}
