@@ -1,0 +1,80 @@
+{
+  "run_at": "2026-10-31T11:42:57.321627Z",
+  "run_at_beijing": "2026-10-31T19:42:57.321627+08:00",
+  "slot": "1942",
+  "baseline": false,
+  "threshold": 5000,
+  "lookback_hours": 12,
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "accounts_failed": 0,
+  "accounts_status": {
+    "levelsio": "ok",
+    "marclou": "ok",
+    "gregisenberg": "ok",
+    "steipete": "ok",
+    "egeberkina": "ok",
+    "karpathy": "ok"
+  },
+  "hours_since_prev": 0.48,
+  "posts_checked": 2,
+  "posts_checked_per_account": {
+    "levelsio": 2,
+    "marclou": 0,
+    "gregisenberg": 0,
+    "steipete": 0,
+    "egeberkina": 0,
+    "karpathy": 0
+  },
+  "new_hits": [
+    "2116493713769652294"
+  ],
+  "posts": [
+    {
+      "id": "2116493713769652294",
+      "author": "levelsio",
+      "url": "https://x.com/levelsio/status/2116493713769652294",
+      "created_at": "2026-10-31T11:33:18.000Z",
+      "views": 4865,
+      "likes": 41,
+      "retweets": 3,
+      "bookmarks": 5,
+      "is_quote": true,
+      "text": "There seems to be an inverse correlation with spending money on social welfare and your economy's growth\n\nIt's like repeatedly spoiling a child, they'll just want more and more and will never be satisfied\n\nInstead of teaching the importance of frugality, the value of money and not wasting it",
+      "text_zh": "社会福利支出与经济增长之间，似乎存在负相关。\n\n这就像不断溺爱一个孩子，他们只会想要越来越多，永远不会满足。\n\n而不是去教节俭的重要性、金钱的价值，以及不要浪费。",
+      "rate_per_hour": 30231.9,
+      "basis": "first_seen",
+      "already_pushed": false,
+      "qualified": true,
+      "created_at_beijing": "2026-10-31 19:33",
+      "quoted_text": "@levelsio But Europe has 35 hour work week, two weeks paid vacation, free healthcare, free education..and homeless shelters, food stamps.\n\nMeanwhile China has none of that, because China only spends 8% of its GDP on welfare.",
+      "quoted_text_zh": "引用：对方说欧洲有 35 小时工作周、带薪休假、免费医疗和教育等福利，中国几乎没有这些，因为中国福利开支只占 GDP 的 8%。"
+    },
+    {
+      "id": "2116485229779058954",
+      "author": "levelsio",
+      "url": "https://x.com/levelsio/status/2116485229779058954",
+      "created_at": "2026-10-31T10:59:35.000Z",
+      "views": 23100,
+      "likes": 768,
+      "retweets": 44,
+      "bookmarks": 74,
+      "is_quote": true,
+      "text": "Yesterday France announced tax of €0.055 per GB on internet traffic\n\nToday Germany is considering taxing all AI-generated revenue\n\nYou will see European countries keep clawing more and more money from foreign companies as they are slowly running out of money themselves to pay for their pensions and welfare state\n\nAdd to this the planned wealth taxes and exit taxes on any European who will try to leave (already active in many EU countries)\n\nEurope is running out of money",
+      "text_zh": "昨天法国宣布对互联网流量征收每 GB €0.055 的税。\n\n今天德国正在考虑对所有 AI 产生的收入征税。\n\n你会看到欧洲国家不断从外国公司身上抠越来越多的钱，因为他们自己正慢慢没钱支付养老金和福利国家。\n\n再加上计划中的财富税，以及对任何试图离开的欧洲人征收的出境税（已在许多欧盟国家实施）。\n\n欧洲正在没钱。",
+      "rate_per_hour": 36897.3,
+      "basis": "snapshot",
+      "already_pushed": true,
+      "qualified": false,
+      "created_at_beijing": "2026-10-31 18:59",
+      "quoted_text": "JUST IN: German minister proposes a new tax on all economic value created by AI.",
+      "quoted_text_zh": "引用：刚刚：德国部长提议对 AI 创造的全部经济价值征收新税。"
+    }
+  ]
+}
