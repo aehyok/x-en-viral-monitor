@@ -1,0 +1,56 @@
+{
+  "run_at": "2026-11-01T08:10:22+00:00",
+  "run_at_beijing": "2026-11-01 16:10",
+  "slot": "1610",
+  "baseline": false,
+  "threshold": 5000,
+  "lookback_hours": 12,
+  "accounts": [
+    "levelsio",
+    "marclou",
+    "gregisenberg",
+    "steipete",
+    "egeberkina",
+    "karpathy"
+  ],
+  "accounts_failed": [],
+  "posts": [
+    {
+      "id": "2116770602036158780",
+      "author": "marclou",
+      "created_at": "2026-11-01T05:53:33Z",
+      "views": 7327,
+      "likes": 89,
+      "retweets": 4,
+      "bookmarks": 2,
+      "text": "The scariest Halloween costume https://t.co/Oi0lnAXUDp",
+      "text_zh": "最吓人的万圣节装扮 https://t.co/Oi0lnAXUDp",
+      "url": "https://x.com/marclou/status/2116770602036158780",
+      "is_quote": false,
+      "quoted_text": null,
+      "basis": "snapshot",
+      "rate_per_hour": 1616.5,
+      "already_pushed": true,
+      "qualified": false
+    },
+    {
+      "id": "2116638257132024026",
+      "author": "egeberkina",
+      "created_at": "2026-10-31T21:07:40Z",
+      "views": 1981,
+      "likes": 7,
+      "retweets": 0,
+      "bookmarks": 2,
+      "text": "My entry for #OpenArtAfterDark\n\nA little Halloween nightmare brought to life.\n\nMade with @openart_ai \n\n#OpenArt https://t.co/zYwADR57Gz",
+      "text_zh": "我参加 #OpenArtAfterDark 的作品\n\n把一场万圣节小噩梦变成了现实。\n\n使用 @openart_ai 制作\n\n#OpenArt https://t.co/zYwADR57Gz",
+      "url": "https://x.com/egeberkina/status/2116638257132024026",
+      "is_quote": false,
+      "quoted_text": null,
+      "basis": "snapshot",
+      "rate_per_hour": 180.7,
+      "already_pushed": false,
+      "qualified": false
+    }
+  ],
+  "new_qualified": []
+}
