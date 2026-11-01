@@ -1,0 +1,92 @@
+{
+  "run_at": "2026-11-01T20:12:32+08:00",
+  "run_at_utc": "2026-11-01T12:12:32Z",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2116843791214629021",
+      "author": "levelsio",
+      "created_at": "2026-11-01T10:44:23.000Z",
+      "views": 56538,
+      "likes": 882,
+      "retweets": 31,
+      "bookmarks": 805,
+      "is_quote": true,
+      "quoted_text": "Software is dead\n\nIt's now the era of personal software and everyone just builds what they need whenever they need it I think (@levelsio, 2026-10-11)",
+      "text": "What's left to do when AI can build everything?\n\nMany things actually! https://t.co/aLwbVNoemN https://t.co/HkzkurJHi9",
+      "text_zh": "当 AI 什么都能造出来的时候，还剩下什么可做？\n\n其实还有很多事！https://t.co/aLwbVNoemN https://t.co/HkzkurJHi9",
+      "url": "https://x.com/levelsio/status/2116843791214629021",
+      "basis": "delta",
+      "rate_per_hour": 40862.0,
+      "already_pushed": true,
+      "qualified": false
+    },
+    {
+      "id": "2116858042704883727",
+      "author": "marclou",
+      "created_at": "2026-11-01T11:41:01.000Z",
+      "views": 4495,
+      "likes": 62,
+      "retweets": 1,
+      "bookmarks": 4,
+      "is_quote": true,
+      "quoted_text": "I'm adding @Razorpay to TrustMRR, and I need your help. If you've made $1,000 on Razorpay and want to join TrustMRR, please send me a DM. I'll manually build the public revenue page for your startup so I can test the Razorpay API with real API keys. Thanks! (@marclou, 2026-10-30)",
+      "text": "The 13th payment provider just landed on https://t.co/Fz0cUG0u3O 🎉\n\nYou can now get a verified revenue page for your startup using @Razorpay. https://t.co/5Qh6ncKc8m https://t.co/LDzr7nQCB8",
+      "text_zh": "第 13 个支付服务商刚刚接入 https://t.co/Fz0cUG0u3O 🎉\n\n现在你可以用 @Razorpay 为你的创业项目生成一个经过验证的收入页面了。https://t.co/5Qh6ncKc8m https://t.co/LDzr7nQCB8",
+      "url": "https://x.com/marclou/status/2116858042704883727",
+      "basis": "first_seen",
+      "rate_per_hour": 8557.4,
+      "already_pushed": false,
+      "qualified": true
+    },
+    {
+      "id": "2116817843777949748",
+      "author": "marclou",
+      "created_at": "2026-11-01T09:01:17.000Z",
+      "views": 34786,
+      "likes": 346,
+      "retweets": 6,
+      "bookmarks": 87,
+      "is_quote": true,
+      "quoted_text": "(被引帖无法获取)",
+      "text": "If @levelsio lost everything today, I bet my net worth he’d make it again. And even faster.\n\nSame for @jackfriks and a few other people I’ve had the pleasure to meet.\n\nIt’s anything but luck. https://t.co/2jkPpH6kc2",
+      "text_zh": "如果 @levelsio 今天失去一切，我敢拿我的全部身家打赌，他还能再赚回来，而且更快。\n\n@jackfriks 和其他几位我有幸见过的人也一样。\n\n这绝不是运气。https://t.co/2jkPpH6kc2",
+      "url": "https://x.com/marclou/status/2116817843777949748",
+      "basis": "delta",
+      "rate_per_hour": 2604.1,
+      "already_pushed": true,
+      "qualified": false
+    },
+    {
+      "id": "2116770602036158780",
+      "author": "marclou",
+      "created_at": "2026-11-01T05:53:33.000Z",
+      "views": 12241,
+      "likes": 157,
+      "retweets": 6,
+      "bookmarks": 2,
+      "is_quote": false,
+      "text": "The scariest Halloween costume https://t.co/Oi0lnAXUDp",
+      "text_zh": "最吓人的万圣节装扮 https://t.co/Oi0lnAXUDp",
+      "url": "https://x.com/marclou/status/2116770602036158780",
+      "basis": "delta",
+      "rate_per_hour": 955.1,
+      "already_pushed": true,
+      "qualified": false
+    }
+  ],
+  "new_qualified": [
+    "2116858042704883727"
+  ],
+  "notes": "gregisenberg/steipete/egeberkina/karpathy 近 12 小时无原创或引用帖；levelsio 两条自回复未计入。"
+}
