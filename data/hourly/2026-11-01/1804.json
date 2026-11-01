@@ -1,0 +1,62 @@
+{
+  "run_at": "2026-11-01T18:04:40+08:00",
+  "run_at_utc": "2026-11-01T10:04:40Z",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "accounts": [
+    "levelsio",
+    "marclou",
+    "gregisenberg",
+    "steipete",
+    "egeberkina",
+    "karpathy"
+  ],
+  "posts": [
+    {
+      "id": "2116817843777949748",
+      "author": "marclou",
+      "url": "https://x.com/marclou/status/2116817843777949748",
+      "created_at": "2026-11-01T09:01:17.000Z",
+      "views": 15067,
+      "likes": 184,
+      "retweets": 3,
+      "bookmarks": 36,
+      "is_quote": true,
+      "quoted_text": "A estas alturas peter levels ha dejado claro a todo tuiter la lección más valiosa de emprendimiento: lo que importa es la suerte",
+      "rate_per_hour": 17195.5,
+      "basis": "snapshot",
+      "already_pushed": true,
+      "qualified": false,
+      "text": "If @levelsio lost everything today, I bet my net worth he’d make it again. And even faster.\n\nSame for @jackfriks and a few other people I’ve had the pleasure to meet.\n\nIt’s anything but luck. https://t.co/2jkPpH6kc2",
+      "text_zh": "如果 @levelsio 今天失去一切，我敢拿我的全部身家打赌，他会重新赚回来，而且会更快。\n\n@jackfriks 和其他几个我有幸见过的人也一样。\n\n这绝对不是运气。https://t.co/2jkPpH6kc2"
+    },
+    {
+      "id": "2116770602036158780",
+      "author": "marclou",
+      "url": "https://x.com/marclou/status/2116770602036158780",
+      "created_at": "2026-11-01T05:53:33.000Z",
+      "views": 10009,
+      "likes": 128,
+      "retweets": 5,
+      "bookmarks": 2,
+      "is_quote": false,
+      "quoted_text": null,
+      "rate_per_hour": 1557.3,
+      "basis": "snapshot",
+      "already_pushed": true,
+      "qualified": false,
+      "text": "The scariest Halloween costume https://t.co/Oi0lnAXUDp",
+      "text_zh": "最吓人的万圣节装扮 https://t.co/Oi0lnAXUDp"
+    }
+  ],
+  "new_qualified": [],
+  "accounts_without_posts": [
+    "levelsio",
+    "gregisenberg",
+    "steipete",
+    "egeberkina",
+    "karpathy"
+  ],
+  "failed_accounts": []
+}
