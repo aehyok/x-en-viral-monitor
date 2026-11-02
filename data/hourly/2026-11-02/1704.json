@@ -1,0 +1,40 @@
+{
+  "run_at": "2026-11-02T09:14:41Z",
+  "run_at_beijing": "2026-11-02 17:14",
+  "scheduled_slot": "1704",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2117026421113516516",
+      "author": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2117026421113516516",
+      "created_at": "2026-11-01T22:50:05.000Z",
+      "created_at_beijing": "2026-11-02 06:50",
+      "views": 1900,
+      "likes": 26,
+      "retweets": 2,
+      "bookmarks": 2,
+      "is_quote": false,
+      "rate_per_hour": 206.9,
+      "basis": "snapshot",
+      "already_pushed": false,
+      "qualified": false,
+      "text": "The Youngest Ever Formula 1 World Champion\n\nCongrats Kimi Antonelli! https://t.co/H521Pf0zkV",
+      "text_zh": "有史以来最年轻的一级方程式世界冠军\n\n恭喜 Kimi Antonelli！https://t.co/H521Pf0zkV",
+      "quoted_summary_zh": null
+    }
+  ],
+  "new_qualified": [],
+  "failed_accounts": [],
+  "notes": "Ran on schedule for the 17:04 slot. Only egeberkina post in window; rate under threshold."
+}
