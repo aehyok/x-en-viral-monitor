@@ -1,0 +1,74 @@
+{
+  "run_at": "2026-11-02T09:37:50Z",
+  "run_at_beijing": "2026-11-02 17:37",
+  "scheduled_slot": "1734",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2117186497527111784",
+      "author": "levelsio",
+      "url": "https://x.com/levelsio/status/2117186497527111784",
+      "created_at": "2026-11-02T09:26:11.000Z",
+      "views": 4606,
+      "likes": 16,
+      "retweets": 1,
+      "bookmarks": 1,
+      "is_quote": false,
+      "text": "My @Cloudflare Email Sending has been broken on an account level for the last 12 hours\n\nI keep get this error:\n\nHTTP: 429\nresponse: {\"success\":false,\"errors\":[{\"code\":10004,\"message\":\"email.sending.error.throttled\"}],\"messages\":[],\"result\":null}\n\nAnyone know why?",
+      "text_zh": "我的 @Cloudflare Email Sending 在账号层面已经坏了 12 小时了\n\n我一直收到这个错误：\n\nHTTP: 429\nresponse: {\"success\":false,\"errors\":[{\"code\":10004,\"message\":\"email.sending.error.throttled\"}],\"messages\":[],\"result\":null}\n\n有人知道为什么吗？",
+      "quoted_summary_zh": null,
+      "created_at_beijing": "2026-11-02 17:26",
+      "rate_per_hour": 23713.2,
+      "basis": "first_sight",
+      "already_pushed": false,
+      "qualified": true
+    },
+    {
+      "id": "2117026421113516516",
+      "author": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2117026421113516516",
+      "created_at": "2026-11-01T22:50:05.000Z",
+      "views": 1922,
+      "likes": 26,
+      "retweets": 2,
+      "bookmarks": 2,
+      "is_quote": false,
+      "text": "The Youngest Ever Formula 1 World Champion\n\nCongrats Kimi Antonelli! https://t.co/H521Pf0zkV",
+      "text_zh": "有史以来最年轻的一级方程式世界冠军\n\n恭喜 Kimi Antonelli！https://t.co/H521Pf0zkV",
+      "quoted_summary_zh": null,
+      "created_at_beijing": "2026-11-02 06:50",
+      "rate_per_hour": 57.0,
+      "basis": "snapshot",
+      "already_pushed": false,
+      "qualified": false
+    }
+  ],
+  "new_qualified": [
+    {
+      "id": "2117186497527111784",
+      "author": "levelsio",
+      "url": "https://x.com/levelsio/status/2117186497527111784",
+      "views": 4606,
+      "rate_per_hour": 23713.2,
+      "likes": 16,
+      "retweets": 1,
+      "bookmarks": 1,
+      "created_at_beijing": "2026-11-02 17:26",
+      "text": "My @Cloudflare Email Sending has been broken on an account level for the last 12 hours\n\nI keep get this error:\n\nHTTP: 429\nresponse: {\"success\":false,\"errors\":[{\"code\":10004,\"message\":\"email.sending.error.throttled\"}],\"messages\":[],\"result\":null}\n\nAnyone know why?",
+      "text_zh": "我的 @Cloudflare Email Sending 在账号层面已经坏了 12 小时了\n\n我一直收到这个错误：\n\nHTTP: 429\nresponse: {\"success\":false,\"errors\":[{\"code\":10004,\"message\":\"email.sending.error.throttled\"}],\"messages\":[],\"result\":null}\n\n有人知道为什么吗？",
+      "quoted_summary_zh": null
+    }
+  ],
+  "failed_accounts": [],
+  "notes": "Ran on schedule for the 17:34 slot. levelsio new post first-sight rate over threshold; egeberkina under."
+}
