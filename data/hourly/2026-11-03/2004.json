@@ -1,0 +1,91 @@
+{
+  "run_at": "2026-11-03T12:12:41.564000Z",
+  "run_at_beijing": "2026-11-03 20:12",
+  "scheduled_slot": "2004",
+  "baseline": false,
+  "note": "20:04 判定轮：窗口内 1 条 levelsio 引用帖（Wake Island）；首次见到，增速超阈值，新达标 1",
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "hours_since_prev_check": 0.52,
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "account_status": {
+    "levelsio": {
+      "ok": true,
+      "posts": 1,
+      "note": "1 quote in window (Wake Island map)"
+    },
+    "marclou": {
+      "ok": true,
+      "posts": 0,
+      "note": "no original/quote in 12h"
+    },
+    "gregisenberg": {
+      "ok": true,
+      "posts": 0,
+      "note": "no original/quote in 12h"
+    },
+    "steipete": {
+      "ok": true,
+      "posts": 0,
+      "note": "no posts in 12h"
+    },
+    "egeberkina": {
+      "ok": true,
+      "posts": 0,
+      "note": "no original/quote in 12h"
+    },
+    "karpathy": {
+      "ok": true,
+      "posts": 0,
+      "note": "no original/quote in 12h"
+    }
+  },
+  "posts": [
+    {
+      "id": "2117586103158853806",
+      "author": "levelsio",
+      "url": "https://x.com/levelsio/status/2117586103158853806",
+      "created_at": "2026-11-03T11:54:04.000Z",
+      "views": 6787,
+      "likes": 28,
+      "retweets": 1,
+      "bookmarks": 5,
+      "replies": 16,
+      "quotes": 1,
+      "is_quote": true,
+      "text": "Decompiled and got the Wake Island map working now, which is more fun because it has planes!\n\nI just can't figure out the controls yet to fly it 😬\n\nWill add this to the main server rotation soon once I tested it enough but you can play it here in multiplayer already:\n\nhttps://bf1942.pieter.com/wake?name=levelsio",
+      "quoted_text": "I decompiled probably my favorite game ever: Battlefield 1942 and I put it on the web with multiplayer for you to play here:\n\n👉 http://bf1942.pieter.com 👈\n\n(It's the free shareware demo)\n\nIt was way harder than the other ports like Quake and DOOM I did because they already had lots of open source projects and work behind them\n\nIn case of Battlefield 1942 there was literally absolutely nothing to work on top of, nobody had ever ported it and there was no open source engine for it, nor did the makers ever open source it (like id Software did with Quake 3)\n\nI tried it 6 months ago and essentiay gave up but I tried it today again with Opus 5.5 asking \"can you try port the BF1942 demo in this folder to web\"\n\nSo me and Claude Code (well let's be honest mostly Claude Code) did crazy shit today:\n- it disassembled the x86 raw machine code to find 57,000 x86 functions\n- it translated each x86 function into a C function (mov eax, [esi+0x110] becomes eax = READ32(esi + 0x110), I have no idea what any of this means btw)\n- it outputed 100,000 lines of C\n- it then compiled that to WebAsswmbly with Emscripten\n- there were 300x Windows and Direct3D functions used which we had to rewrite to WebGL 2 and OpenGL to work on the web\n- then we had to build our own network stack so it could connect to our multiplayer server via WebSockets\n\nI have no idea how it did any of this but it did it and it seems to work! 😊 \n\nCome play and report any bugs here!",
+      "text_zh": "反编译成功了，Wake Island 地图现在也能玩了，更好玩是因为有飞机！\n\n我暂时还搞不懂飞行操控 😬\n\n等我测够了就会加进主服务器轮换；不过你已经可以在多人模式里玩了：\n\nhttps://bf1942.pieter.com/wake?name=levelsio",
+      "quoted_text_zh": null,
+      "quoted_summary_zh": "引用他自己早前那条：把 Battlefield 1942 反编译并搬到网页、支持多人联机的帖。",
+      "quoted_author": "levelsio",
+      "quoted_id": "2117374984192512391",
+      "created_at_beijing": "2026-11-03 19:54",
+      "rate_per_hour": 21863,
+      "basis": "first_sight",
+      "hours_since_created": 0.310434,
+      "already_pushed": false,
+      "qualified": true,
+      "previously_pushed": false,
+      "is_new_hit": true,
+      "views_prev": null,
+      "delta_views": null
+    }
+  ],
+  "new_hits": [
+    {
+      "id": "2117586103158853806",
+      "author": "levelsio",
+      "rate": 21863,
+      "views": 6787
+    }
+  ],
+  "aged_out_of_window": []
+}
