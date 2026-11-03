@@ -1,0 +1,55 @@
+{
+  "run_at": "2026-11-03T11:41:30Z",
+  "run_at_beijing": "2026-11-03 19:41",
+  "scheduled_slot": "1934",
+  "baseline": false,
+  "note": "19:34 判定轮：窗口内 0 条原创/引用；上一轮唯一 snapshot 滚出 12h；无新达标",
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "hours_since_prev_check": 0.523,
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "account_status": {
+    "levelsio": {
+      "ok": true,
+      "posts": 0,
+      "note": "API returned many; none original/quote in 12h window; prior quote aged out"
+    },
+    "marclou": {
+      "ok": true,
+      "posts": 0,
+      "note": "newest original/quote outside 12h"
+    },
+    "gregisenberg": {
+      "ok": true,
+      "posts": 0,
+      "note": "newest original outside 12h"
+    },
+    "steipete": {
+      "ok": true,
+      "posts": 0,
+      "note": "no posts in 12h"
+    },
+    "egeberkina": {
+      "ok": true,
+      "posts": 0,
+      "note": "newest original/quote outside 12h"
+    },
+    "karpathy": {
+      "ok": true,
+      "posts": 0,
+      "note": "newest original outside 12h"
+    }
+  },
+  "posts": [],
+  "new_hits": [],
+  "aged_out_of_window": [
+    "2117396601916240229"
+  ]
+}
