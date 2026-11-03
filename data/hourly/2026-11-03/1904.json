@@ -1,0 +1,87 @@
+{
+  "run_at": "2026-11-03T11:10:08Z",
+  "run_at_beijing": "2026-11-03 19:10",
+  "scheduled_slot": "1904",
+  "baseline": false,
+  "note": "19:04 判定轮：对比 18:34 轮 snapshots；窗口内仅剩 1 条 quote；2 条旧帖滚出 12h；无新达标",
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "hours_since_prev_check": 0.444,
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "account_status": {
+    "levelsio": {
+      "ok": true,
+      "posts": 1,
+      "note": "API returned many; kept 1 quote in-window; discarded replies/RTs; 2 quotes aged out of 12h"
+    },
+    "marclou": {
+      "ok": true,
+      "posts": 0,
+      "note": "only replies in window"
+    },
+    "gregisenberg": {
+      "ok": true,
+      "posts": 0,
+      "note": "only replies in window"
+    },
+    "steipete": {
+      "ok": true,
+      "posts": 0
+    },
+    "egeberkina": {
+      "ok": true,
+      "posts": 0
+    },
+    "karpathy": {
+      "ok": true,
+      "posts": 0,
+      "note": "only replies in window"
+    }
+  },
+  "posts": [
+    {
+      "id": "2117396601916240229",
+      "author": "levelsio",
+      "url": "https://x.com/levelsio/status/2117396601916240229",
+      "created_at": "2026-11-02T23:21:03.000Z",
+      "views": 22270,
+      "likes": 95,
+      "retweets": 1,
+      "bookmarks": 3,
+      "replies": 43,
+      "quotes": 0,
+      "is_quote": true,
+      "text": "Sorry server player limit is 16 and it's full, trying to hack it to 64 or 128 now!",
+      "quoted_text": "cant comment, so here: :( ",
+      "text_zh": "抱歉，服务器玩家上限是 16，而且已经满了，我现在正试图黑进改成 64 或 128！",
+      "quoted_text_zh": null,
+      "quoted_summary_zh": "引用：有人引用他的 BF1942 网页版帖抱怨服务器满了、没法评论。",
+      "quoted_author": "moonsteroid",
+      "created_at_beijing": "2026-11-03 07:21",
+      "rate_per_hour": 1153,
+      "basis": "delta",
+      "already_pushed": true,
+      "qualified": false,
+      "previously_pushed": true,
+      "is_new_hit": false,
+      "views_prev": 21758,
+      "delta_views": 512
+    }
+  ],
+  "new_hits": [],
+  "aged_out_of_window": [
+    "2117389002470769143",
+    "2117391098729353573"
+  ],
+  "excluded_replies_sample": [
+    "2117399350150123748",
+    "2117431189074330032"
+  ]
+}
