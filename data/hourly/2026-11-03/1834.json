@@ -1,0 +1,126 @@
+{
+  "run_at": "2026-11-03T10:43:29Z",
+  "run_at_beijing": "2026-11-03 18:43",
+  "scheduled_slot": "1834",
+  "baseline": false,
+  "note": "18:34 判定轮：对比 18:04 轮 snapshots；无新达标",
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "hours_since_prev_check": 0.579,
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "account_status": {
+    "levelsio": {
+      "ok": true,
+      "posts": 3,
+      "note": "API returned 4; discarded 1 reply 2117399350150123748"
+    },
+    "marclou": {
+      "ok": true,
+      "posts": 0
+    },
+    "gregisenberg": {
+      "ok": true,
+      "posts": 0
+    },
+    "steipete": {
+      "ok": true,
+      "posts": 0
+    },
+    "egeberkina": {
+      "ok": true,
+      "posts": 0
+    },
+    "karpathy": {
+      "ok": true,
+      "posts": 0
+    }
+  },
+  "posts": [
+    {
+      "id": "2117389002470769143",
+      "author": "levelsio",
+      "url": "https://x.com/levelsio/status/2117389002470769143",
+      "created_at": "2026-11-02T22:50:52.000Z",
+      "views": 41192,
+      "likes": 279,
+      "retweets": 6,
+      "bookmarks": 66,
+      "replies": 52,
+      "quotes": 16,
+      "is_quote": true,
+      "text": "Decompiling Battlefield 1942 and then porting it to C and then WASM cost me 1 million output tokens\n\nAt API prices that's about $100\n\nBut I pay $100/mo Claude",
+      "quoted_text": "@levelsio Wow this is instance... Roughly, how many tokens (input/output/cache) did you use to do this?",
+      "text_zh": "反编译 Battlefield 1942，再移植成 C，再编译成 WASM，花掉了我 100 万输出 tokens\n\n按 API 价大约 100 美元\n\n但我付的是每月 100 美元的 Claude",
+      "quoted_text_zh": null,
+      "quoted_summary_zh": "引用：有人问他 BF1942 移植大概花了多少 token。",
+      "quoted_author": "vahagnzak",
+      "created_at_beijing": "2026-11-03 06:50",
+      "rate_per_hour": 1408,
+      "basis": "delta",
+      "already_pushed": true,
+      "qualified": false,
+      "previously_pushed": true,
+      "is_new_hit": false
+    },
+    {
+      "id": "2117391098729353573",
+      "author": "levelsio",
+      "url": "https://x.com/levelsio/status/2117391098729353573",
+      "created_at": "2026-11-02T22:59:11.000Z",
+      "views": 33060,
+      "likes": 187,
+      "retweets": 6,
+      "bookmarks": 41,
+      "replies": 29,
+      "quotes": 8,
+      "is_quote": true,
+      "text": "That's kind of the problem with X (or not)\n\nIt's a bad platform for sponsorships because (for me at least) it's about being as direct, transparent and honest as possible with your \"audience\"\n\nAlso it's not really an audience, it's more like a big internet forum I feel like where you can have cool discussions\n\nThe moment you take a sponsorship, the companies pay a lot of money for you to say something specific, that's probably not really what you believe in completely\n\nYour followers immediately can sense that's not your own voice and cringe and very often unfollow, I mean I know I do for sure\n\nBut if it's a YouTube video it's kind of accepted \"this video is sponsored by ACME, Inc.\", nobody cares and it's just a few seconds in a 10 min video anyway so it's fine, it doesn't affect the content usually\n\nThat's hard to do on X because look at this tweet, it'd just be hard to fit in a sponsored message here that doesn't sound supercringe!",
+      "quoted_text": "Paid engagement campaigns suffer from adverse selection because the most influential “influencers” can’t be bought\n\nA tweet from someone like @levelsio or @GergelyOrosz would be worth paying any amount for,  and it’s because you can’t",
+      "text_zh": "这就是 X 的问题所在（或者说也不是问题）\n\n对赞助来说它是个糟糕的平台，因为（至少对我而言）这里讲究的是尽可能直接、透明、诚实地对待你的「受众」\n\n而且这也算不上真正的受众，更像一个能玩酷讨论的大型互联网论坛\n\n一旦你接了赞助，公司会花很多钱让你说一些特定的话，那些话你多半并不是完全真心相信的\n\n粉丝马上就能感觉到那不是你自己的声音，会觉得尴尬，而且经常会取关——反正我自己肯定会\n\n但如果是 YouTube 视频，大家多少接受「本视频由 ACME, Inc. 赞助」，没人在意，反正只是 10 分钟视频里几秒钟，通常也不影响内容\n\n在 X 上就很难这样做，因为看看这条推文，硬塞进一句赞助信息而不显得超级尴尬，几乎做不到！",
+      "quoted_text_zh": null,
+      "quoted_summary_zh": "引用：有人指出付费推广存在逆向选择：真正有影响力的人买不到。",
+      "quoted_author": "lulumeservey",
+      "created_at_beijing": "2026-11-03 06:59",
+      "rate_per_hour": 1491,
+      "basis": "delta",
+      "already_pushed": true,
+      "qualified": false,
+      "previously_pushed": true,
+      "is_new_hit": false
+    },
+    {
+      "id": "2117396601916240229",
+      "author": "levelsio",
+      "url": "https://x.com/levelsio/status/2117396601916240229",
+      "created_at": "2026-11-02T23:21:03.000Z",
+      "views": 21758,
+      "likes": 95,
+      "retweets": 1,
+      "bookmarks": 3,
+      "replies": 42,
+      "quotes": 0,
+      "is_quote": true,
+      "text": "Sorry server player limit is 16 and it's full, trying to hack it to 64 or 128 now!",
+      "quoted_text": "cant comment, so here: :( ",
+      "text_zh": "抱歉，服务器玩家上限是 16，而且已经满了，我现在正试图黑进改成 64 或 128！",
+      "quoted_text_zh": null,
+      "quoted_summary_zh": "引用：有人引用他的 BF1942 网页版帖抱怨服务器满了、没法评论。",
+      "quoted_author": "moonsteroid",
+      "created_at_beijing": "2026-11-03 07:21",
+      "rate_per_hour": 1264,
+      "basis": "delta",
+      "already_pushed": true,
+      "qualified": false,
+      "previously_pushed": true,
+      "is_new_hit": false
+    }
+  ],
+  "new_hits": []
+}
