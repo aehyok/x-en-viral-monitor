@@ -1,0 +1,131 @@
+{
+  "run_at": "2026-11-04T07:13:05.289084Z",
+  "run_at_beijing": "2026-11-04 15:13",
+  "scheduled_slot": "15:04",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "account_status": {
+    "levelsio": {
+      "ok": true,
+      "posts_in_window": 1
+    },
+    "marclou": {
+      "ok": true,
+      "posts_in_window": 0
+    },
+    "gregisenberg": {
+      "ok": true,
+      "posts_in_window": 1
+    },
+    "steipete": {
+      "ok": true,
+      "posts_in_window": 1
+    },
+    "egeberkina": {
+      "ok": true,
+      "posts_in_window": 1
+    },
+    "karpathy": {
+      "ok": true,
+      "posts_in_window": 0
+    }
+  },
+  "posts": [
+    {
+      "id": "2117734977312047537",
+      "author": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2117734977312047537",
+      "created_at": "2026-11-03T21:45:38.000Z",
+      "created_at_beijing": "2026-11-04 05:45",
+      "views": 312782,
+      "likes": 2940,
+      "retweets": 158,
+      "bookmarks": 8526,
+      "replies": 304,
+      "quotes": 55,
+      "is_quote": false,
+      "text": "running a company nowadays feels kinda dystopian\n\nmy team is 50+ people in 12 countries, but i talk to my agents more than my human teammates\n\n- voice note to grokbot\n- mattpocock/skills /grill-me so the agent interrogates the idea before anything gets built\n- spec drops into linear through the linear mcp\n- exa + firecrawl agent reads every competitor site, pricing page and changelog\n- https://t.co/a5ARFnvSnA to find ideas and trends\n- apify pulls g2, reddit and app store reviews\n- prompt: \"find the 10 complaints that show up most and quote the users\"\n- context7 so the agent reads the latest docs before it touches any api\n\nthe design\n\n- claude code + paper mcp\n- 4 versions of every screen before a single line of code\n- pick pieces from 2, it merges them. diverge then converge\n- frontend-design skill from anthropic/skills + our own design system skill\n- cleanshot screenshots of any ui i like go straight in with \"make it feel like this\"\n\nthe build\n\n- pingdotgg/t3code as the control surface for every agent, from my phone too\n- stablyai/orca runs a fleet of agents in parallel, each in its own git worktree\n- graphify maps the whole codebase into a knowledge graph so agents navigate instead of guess\n- headroom compresses tool outputs before they hit the model, so tokens go 20-95% further\n- lsp plugins so the agent sees types and errors like an ide does\n- security guidance hook flags risky edits before they land\n- supabase mcp for the database, stripe for billing\n- github mcp opens the pr, vercel spins up a preview\n- loops run overnight, i check what shipped over coffee\n\nthe user testing\n\n- lightpanda as the headless browser, way lighter than chromium so you can run hundreds at once\n- agents click every flow on the preview like a first-time user\n- one persona is impatient, one is confused, one is on a phone\n- playwright + chrome devtools mcp for regression tests\n\nthe bugs\n\n- sentry mcp catches the error\n- agent reads the stack trace and opens a fix pr in under 10 minutes\n- human just approves\n\nthe data\n\n- posthog mcp cron at 7am on yesterday's funnel\n- any step that drops more than 10%, the agent watches 20 session replays and tells me why\n- stripe mcp pulls every cancellation reason into one doc every monday\n\nthe agents' tools\n\n- orgo so every agent gets its own computer\n- agentmail so every agent gets its own inbox\n- agentphone so i can call them from the car\n- composio connect-apps for every other connector\n- akitaonrails/ai-memory, a git-backed markdown wiki so they remember what we decided last week\n\nthe skills\n\n- wshobson/agents so skills work across claude code, codex and opencode\n- my writing voice\n- our design system\n- how we write specs\n- skill creator so the agents write new skills themselves\n\nsome helpful tricks\n\n- one agent per platform. the x agent never touches email\n- cheap model for triage, opus for anything that ships\n- every output gets scored 1-10 by an llm judge. under 8 goes back\n- every agent writes a 5-line log at night so i can read the whole company in 2 minutes\n- every agent mistake becomes a new skill, so it only happens once\n\nthe team\n\n- humans get version 5, not my voice note which they are happy about lol \n- their job is creative feedback, relationships and telling the agents what they got wrong\n\na human pm reviews the funnel once a week. this reviews it every morning\n\nrunning a company is now voice notes and inference",
+      "text_zh": "如今经营一家公司感觉有点反乌托邦\n\n我的团队有 50 多人、分布在 12 个国家，但我跟我的 agent 说话比跟人类同事还多\n\n- 给 grokbot 发语音备忘\n- 用 mattpocock/skills 的 /grill-me，让 agent 在动手构建前先把这个想法盘问一遍\n- spec 通过 linear mcp 直接落进 linear\n- exa + firecrawl 的 agent 读遍每个竞品的网站、定价页和更新日志\n- 用 https://t.co/a5ARFnvSnA（ideabrowser.com）找点子和趋势\n- apify 抓取 g2、reddit 和 app store 的评论\n- 提示词：\"找出出现最多的 10 条抱怨，并引用用户原话\"\n- context7，让 agent 在碰任何 api 之前先读最新文档\n\n设计\n\n- claude code + paper mcp\n- 每个页面先出 4 个版本，再写一行代码\n- 从其中 2 个里挑部分，让它合并。先发散再收敛\n- 用 anthropic/skills 里的 frontend-design skill + 我们自己的设计系统 skill\n- 看到喜欢的 ui 就用 cleanshot 截图，直接丢进去说\"做成这种感觉\"\n\n构建\n\n- 用 pingdotgg/t3code 作为所有 agent 的控制台，手机上也能用\n- stablyai/orca 并行跑一队 agent，每个都在自己的 git worktree 里\n- graphify 把整个代码库映射成知识图谱，让 agent 按图导航而不是瞎猜\n- headroom 在工具输出喂给模型之前先压缩，让 token 多撑 20-95%\n- lsp 插件让 agent 像 ide 一样看到类型和报错\n- 安全指引 hook 在高风险修改落地前就标记出来\n- 数据库用 supabase mcp，计费用 stripe\n- github mcp 开 pr，vercel 起一个预览环境\n- 循环任务通宵跑，我边喝咖啡边看昨晚上线了什么\n\n用户测试\n\n- 用 lightpanda 做无头浏览器，比 chromium 轻得多，能同时跑几百个\n- agent 像第一次来的用户一样点遍预览环境里的每个流程\n- 一个人设没耐心，一个人设很困惑，一个人设在用手机\n- playwright + chrome devtools mcp 做回归测试\n\nbug\n\n- sentry mcp 捕获报错\n- agent 读堆栈，10 分钟内开出修复 pr\n- 人只需要点批准\n\n数据\n\n- 每天早上 7 点 posthog mcp 定时分析昨天的漏斗\n- 任何一步流失超过 10%，agent 就去看 20 段会话回放并告诉我原因\n- 每周一 stripe mcp 把所有取消订阅原因汇总到一份文档\n\nagent 的工具\n\n- orgo，让每个 agent 都有自己的电脑\n- agentmail，让每个 agent 都有自己的邮箱\n- agentphone，让我开车时也能给它们打电话\n- composio connect-apps 搞定其他所有连接器\n- akitaonrails/ai-memory，一个基于 git 的 markdown wiki，让它们记得我们上周定了什么\n\nskills\n\n- wshobson/agents，让 skills 在 claude code、codex 和 opencode 之间通用\n- 我的写作风格\n- 我们的设计系统\n- 我们写 spec 的方式\n- skill creator，让 agent 自己写新 skill\n\n一些好用的技巧\n\n- 一个平台一个 agent。负责 x 的 agent 从不碰邮件\n- 分诊用便宜模型，要上线的东西一律用 opus\n- 每个产出都由 llm 评委打 1-10 分，低于 8 分打回\n- 每个 agent 每晚写 5 行日志，我 2 分钟就能读完整个公司\n- agent 犯的每个错都变成一个新 skill，所以同样的错只犯一次\n\n团队\n\n- 人类拿到的是第 5 版，而不是我的语音备忘，他们对此很开心 lol\n- 他们的工作是给创意反馈、维护关系，以及告诉 agent 哪里做错了\n\n人类 pm 每周看一次漏斗，而这套东西每天早上都看\n\n经营公司现在就是语音备忘加推理",
+      "basis": "delta",
+      "views_prev": 295300,
+      "rate_per_hour": 34891.93,
+      "already_pushed": true,
+      "qualified": false
+    },
+    {
+      "id": "2117698643843047690",
+      "author": "levelsio",
+      "url": "https://x.com/levelsio/status/2117698643843047690",
+      "created_at": "2026-11-03T19:21:16.000Z",
+      "created_at_beijing": "2026-11-04 03:21",
+      "views": 263739,
+      "likes": 1746,
+      "retweets": 25,
+      "bookmarks": 296,
+      "replies": 70,
+      "quotes": 3,
+      "is_quote": true,
+      "text": "The Learjet 60 should be banned by the FAA immediately https://t.co/8oUhIeBWOj",
+      "text_zh": "Learjet 60 应该被 FAA（美国联邦航空管理局）立即禁飞 https://t.co/8oUhIeBWOj",
+      "basis": "delta",
+      "views_prev": 261631,
+      "rate_per_hour": 4207.31,
+      "already_pushed": true,
+      "qualified": false,
+      "quote_note": "引用 @HangryDBowman 长文：其飞行员朋友称 Lear 60 危险、高空飞行窗口极窄，易在颠簸中失速，不该压着雷暴飞。"
+    },
+    {
+      "id": "2117755295552221683",
+      "author": "steipete",
+      "url": "https://x.com/steipete/status/2117755295552221683",
+      "created_at": "2026-11-03T23:06:23.000Z",
+      "created_at_beijing": "2026-11-04 07:06",
+      "views": 32928,
+      "likes": 147,
+      "retweets": 4,
+      "bookmarks": 16,
+      "replies": 11,
+      "quotes": 0,
+      "is_quote": true,
+      "text": "very neat! https://t.co/03s4V22Dm3",
+      "text_zh": "非常棒！ https://t.co/03s4V22Dm3",
+      "basis": "delta",
+      "views_prev": 31830,
+      "rate_per_hour": 2191.47,
+      "already_pushed": true,
+      "qualified": false,
+      "quote_note": "引用 @btraut：ChatGPT 的 side chats 不再会因为重启/更新而过期或消失。"
+    },
+    {
+      "id": "2117738306087862622",
+      "author": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2117738306087862622",
+      "created_at": "2026-11-03T21:58:52.000Z",
+      "created_at_beijing": "2026-11-04 05:58",
+      "views": 1920,
+      "likes": 58,
+      "retweets": 4,
+      "bookmarks": 7,
+      "replies": 0,
+      "quotes": 0,
+      "is_quote": false,
+      "text": "The Green Goblin https://t.co/6q0c7P1nmf",
+      "text_zh": "绿魔（The Green Goblin）https://t.co/6q0c7P1nmf",
+      "basis": "delta",
+      "views_prev": 1801,
+      "rate_per_hour": 237.51,
+      "already_pushed": false,
+      "qualified": false
+    }
+  ],
+  "new_hits": []
+}
