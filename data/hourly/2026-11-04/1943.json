@@ -1,0 +1,62 @@
+{
+  "run_at": "2026-11-04T11:43:24.000000Z",
+  "run_at_beijing": "2026-11-04 19:43:24 CST",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "accounts": [
+    "levelsio",
+    "marclou",
+    "gregisenberg",
+    "steipete",
+    "egeberkina",
+    "karpathy"
+  ],
+  "checked_posts": [
+    {
+      "id": "2117931029499642025",
+      "username": "marclou",
+      "author_id": "2311987360",
+      "created_at": "2026-11-04T10:44:41.000Z",
+      "text": "Are you happy?\n\nExplain why in replies plz",
+      "text_zh": "你快乐吗？\n\n请在回复里说明原因",
+      "url": "https://x.com/marclou/status/2117931029499642025",
+      "views": 11272,
+      "like_count": 52,
+      "retweet_count": 0,
+      "bookmark_count": 7,
+      "quote_count": 1,
+      "reply_count": 129,
+      "is_quote": false,
+      "views_prev": 5556,
+      "hours_gap": 0.5606,
+      "rate_per_hour": 10197.03,
+      "rate_kind": "delta",
+      "qualifies": false,
+      "already_pushed": true
+    },
+    {
+      "id": "2117931280809841082",
+      "username": "egeberkina",
+      "author_id": "1790083138959400961",
+      "created_at": "2026-11-04T10:45:41.000Z",
+      "text": "Subway https://t.co/xfnxR6tpYE",
+      "text_zh": "地铁 https://t.co/xfnxR6tpYE",
+      "url": "https://x.com/egeberkina/status/2117931280809841082",
+      "views": 747,
+      "like_count": 13,
+      "retweet_count": 0,
+      "bookmark_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "is_quote": false,
+      "views_prev": 462,
+      "hours_gap": 0.5606,
+      "rate_per_hour": 508.42,
+      "rate_kind": "delta",
+      "qualifies": false,
+      "already_pushed": false
+    }
+  ],
+  "new_hits": []
+}
