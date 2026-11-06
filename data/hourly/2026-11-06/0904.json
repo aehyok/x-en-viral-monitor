@@ -1,0 +1,829 @@
+{
+  "run_at": "2026-11-06T09:04:00+08:00",
+  "collected_at": "2026-11-06T09:12:48.200104+08:00",
+  "timezone": "Asia/Shanghai",
+  "window_start": "2026-11-05T21:04:00+08:00",
+  "window_end": "2026-11-06T09:04:00+08:00",
+  "baseline": false,
+  "newly_qualified": [],
+  "新达标列表": [],
+  "new_hits": [],
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "account_results": {
+    "levelsio": {
+      "count": 9,
+      "ok": true,
+      "raw_count": 10
+    },
+    "marclou": {
+      "count": 2,
+      "ok": true,
+      "raw_count": 2
+    },
+    "gregisenberg": {
+      "count": 1,
+      "ok": true,
+      "raw_count": 1
+    },
+    "steipete": {
+      "count": 2,
+      "ok": true,
+      "raw_count": 2
+    },
+    "egeberkina": {
+      "count": 1,
+      "ok": true,
+      "raw_count": 1
+    },
+    "karpathy": {
+      "count": 0,
+      "ok": true,
+      "raw_count": 0
+    }
+  },
+  "posts": [
+    {
+      "id": "2118435009354694853",
+      "account": "levelsio",
+      "author_id": "1577241403",
+      "url": "https://x.com/levelsio/status/2118435009354694853",
+      "created_at": "2026-11-06T04:07:19+08:00",
+      "created_at_utc": "2026-11-05T20:07:19.000Z",
+      "text": "I told you, they will try eat all industries one by one https://t.co/nhXYy5G5ow",
+      "text_zh": "我早说过，他们会试图一个接一个地吞掉所有行业。 https://t.co/nhXYy5G5ow",
+      "text_source": "text",
+      "api_text": "I told you, they will try eat all industries one by one https://t.co/nhXYy5G5ow",
+      "public_metrics": {
+        "bookmark_count": 650,
+        "impression_count": 231364,
+        "like_count": 2965,
+        "quote_count": 23,
+        "reply_count": 211,
+        "repost_count": 88
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118403114890137895",
+          "type": "quoted"
+        }
+      ],
+      "checked_at": "2026-11-06T09:12:48.200104+08:00",
+      "views": 231364,
+      "quoted_posts": [
+        {
+          "id": "2118403114890137895",
+          "author": "claudeai",
+          "text": "Introducing Personal Finance in Claude, in beta in the US.\n\nConnect the accounts you choose, and Claude answers your money questions in everyday language, from your own balances and transactions. Access is read-only, and Claude can't move, manage, or invest your money. https://t.co/V1JLYuWwrS",
+          "text_zh": "推出 Claude 个人理财功能，目前在美国公测。连接你选择的账户后，Claude 会用日常语言回答你的金钱问题，依据你自己的余额和交易。只读权限，Claude 不能动钱、管理或投资。 https://t.co/V1JLYuWwrS"
+        }
+      ],
+      "hours_since_created": 5.0914,
+      "rate_per_hour": 23300.7,
+      "rate_mode": "delta",
+      "already_pushed": true,
+      "qualified": true,
+      "username": "levelsio",
+      "metrics": {
+        "bookmark_count": 650,
+        "impression_count": 231364,
+        "like_count": 2965,
+        "quote_count": 23,
+        "reply_count": 211,
+        "repost_count": 88
+      },
+      "views_prev": 219187,
+      "hours_since_prev": 0.5226,
+      "views_delta": 12177
+    },
+    {
+      "id": "2118492097917628704",
+      "account": "steipete",
+      "author_id": "25401953",
+      "url": "https://x.com/steipete/status/2118492097917628704",
+      "created_at": "2026-11-06T07:54:10+08:00",
+      "created_at_utc": "2026-11-05T23:54:10.000Z",
+      "text": "Is my perception off or is Apple just lying here? Anytime I build for or use Safari, it’s slower, has fewer features, weird bugs and plenty websites just don’t work. It’s a fight to get even somewhat close to Chrome’s performance. https://t.co/GkoqN84Wxd",
+      "text_zh": "是我感觉有问题，还是 Apple 在这里说谎？只要我为 Safari 做开发或使用 Safari，它就更慢、功能更少、怪 bug 一堆，还有很多网站根本打不开。想逼近 Chrome 的性能，简直是场硬仗。 https://t.co/GkoqN84Wxd",
+      "text_source": "text",
+      "api_text": "Is my perception off or is Apple just lying here? Anytime I build for or use Safari, it’s slower, has fewer features, weird bugs and plenty websites just don’t work. It’s a fight to get even somewhat close to Chrome’s performance. https://t.co/GkoqN84Wxd",
+      "public_metrics": {
+        "bookmark_count": 16,
+        "impression_count": 21329,
+        "like_count": 135,
+        "quote_count": 0,
+        "reply_count": 47,
+        "repost_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118472226018357414",
+          "type": "quoted"
+        }
+      ],
+      "checked_at": "2026-11-06T09:12:48.200104+08:00",
+      "views": 21329,
+      "quoted_posts": [
+        {
+          "id": "2118472226018357414",
+          "author": "mjtsai",
+          "text": "Switch to Safari:\nhttps://t.co/f42PZNH1y4 #mjtsaiblog",
+          "text_zh": "换成 Safari：\nhttps://t.co/f42PZNH1y4 #mjtsaiblog"
+        }
+      ],
+      "hours_since_created": 1.3106,
+      "rate_per_hour": 16708.7,
+      "rate_mode": "delta",
+      "already_pushed": true,
+      "qualified": true,
+      "username": "steipete",
+      "metrics": {
+        "bookmark_count": 16,
+        "impression_count": 21329,
+        "like_count": 135,
+        "quote_count": 0,
+        "reply_count": 47,
+        "repost_count": 2
+      },
+      "views_prev": 12597,
+      "hours_since_prev": 0.5226,
+      "views_delta": 8732
+    },
+    {
+      "id": "2118441128181608831",
+      "account": "levelsio",
+      "author_id": "1577241403",
+      "url": "https://x.com/levelsio/status/2118441128181608831",
+      "created_at": "2026-11-06T04:31:38+08:00",
+      "created_at_utc": "2026-11-05T20:31:38.000Z",
+      "text": "💯 https://t.co/Kx6xL6LDXx",
+      "text_zh": "💯（完全赞同） https://t.co/Kx6xL6LDXx",
+      "text_source": "text",
+      "api_text": "💯 https://t.co/Kx6xL6LDXx",
+      "public_metrics": {
+        "bookmark_count": 262,
+        "impression_count": 113706,
+        "like_count": 1176,
+        "quote_count": 2,
+        "reply_count": 28,
+        "repost_count": 25
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118367196389003752",
+          "type": "quoted"
+        }
+      ],
+      "checked_at": "2026-11-06T09:12:48.200104+08:00",
+      "views": 113706,
+      "quoted_posts": [
+        {
+          "id": "2118367196389003752",
+          "author": "elder_plinius",
+          "text": "my spidey senses are telling me the labs are, as we speak, using unguardrailed versions of their unreleased models to systematically reverse-engineer ALL of the internet’s software, apps, and games, then feeding the reconstructed source code straight into their training pipelines while simultaneously building guardrails to ladder-pull the rest of us",
+          "text_zh": "我的第六感告诉我：实验室们此刻正在用未设防、未发布的模型版本，系统性地逆向工程全网软件、应用和游戏，把重建出的源码直接喂进训练流水线，同时再给普通人加上护栏，好把梯子抽走。"
+        }
+      ],
+      "hours_since_created": 4.6862,
+      "rate_per_hour": 9946.4,
+      "rate_mode": "delta",
+      "already_pushed": true,
+      "qualified": true,
+      "username": "levelsio",
+      "metrics": {
+        "bookmark_count": 262,
+        "impression_count": 113706,
+        "like_count": 1176,
+        "quote_count": 2,
+        "reply_count": 28,
+        "repost_count": 25
+      },
+      "views_prev": 108508,
+      "hours_since_prev": 0.5226,
+      "views_delta": 5198
+    },
+    {
+      "id": "2118414119514894340",
+      "account": "levelsio",
+      "author_id": "1577241403",
+      "url": "https://x.com/levelsio/status/2118414119514894340",
+      "created_at": "2026-11-06T02:44:18+08:00",
+      "created_at_utc": "2026-11-05T18:44:18.000Z",
+      "text": "New @X CEO going to fix the AI reply bots 👍👍👍👍👍 https://t.co/wfyCNVk5bI",
+      "text_zh": "@X 的新 CEO 要着手解决 AI 回复机器人了 👍👍👍👍👍 https://t.co/wfyCNVk5bI",
+      "text_source": "text",
+      "api_text": "New @X CEO going to fix the AI reply bots 👍👍👍👍👍 https://t.co/wfyCNVk5bI",
+      "public_metrics": {
+        "bookmark_count": 36,
+        "impression_count": 95326,
+        "like_count": 587,
+        "quote_count": 4,
+        "reply_count": 59,
+        "repost_count": 7
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118409767127486534",
+          "type": "quoted"
+        }
+      ],
+      "checked_at": "2026-11-06T09:12:48.200104+08:00",
+      "views": 95326,
+      "quoted_posts": [
+        {
+          "id": "2118409767127486534",
+          "author": "petersellis",
+          "text": "@levelsio @spacexai ack.\n\ntop two priority for the team rn. starting with v high bar for precision.",
+          "text_zh": "收到。这是团队眼下的两大优先事项之一。先从极高精度门槛做起。"
+        }
+      ],
+      "hours_since_created": 6.4751,
+      "rate_per_hour": 7799.4,
+      "rate_mode": "delta",
+      "already_pushed": true,
+      "qualified": true,
+      "username": "levelsio",
+      "metrics": {
+        "bookmark_count": 36,
+        "impression_count": 95326,
+        "like_count": 587,
+        "quote_count": 4,
+        "reply_count": 59,
+        "repost_count": 7
+      },
+      "views_prev": 91250,
+      "hours_since_prev": 0.5226,
+      "views_delta": 4076
+    },
+    {
+      "id": "2118431924968464743",
+      "account": "levelsio",
+      "author_id": "1577241403",
+      "url": "https://x.com/levelsio/status/2118431924968464743",
+      "created_at": "2026-11-06T03:55:04+08:00",
+      "created_at_utc": "2026-11-05T19:55:04.000Z",
+      "text": "New @X CEO seems very actionable and fast to react, very good! https://t.co/WVETQqEYtk",
+      "text_zh": "@X 的新 CEO 看起来行动力很强，反应也很快，非常好！ https://t.co/WVETQqEYtk",
+      "text_source": "text",
+      "api_text": "New @X CEO seems very actionable and fast to react, very good! https://t.co/WVETQqEYtk",
+      "public_metrics": {
+        "bookmark_count": 8,
+        "impression_count": 41309,
+        "like_count": 242,
+        "quote_count": 0,
+        "reply_count": 20,
+        "repost_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118414119514894340",
+          "type": "quoted"
+        }
+      ],
+      "checked_at": "2026-11-06T09:12:48.200104+08:00",
+      "views": 41309,
+      "quoted_posts": [
+        {
+          "id": "2118414119514894340",
+          "author": "levelsio",
+          "text": "New @X CEO going to fix the AI reply bots 👍👍👍👍👍 https://t.co/wfyCNVk5bI",
+          "text_zh": "@X 的新 CEO 要着手解决 AI 回复机器人了 👍👍👍👍👍 https://t.co/wfyCNVk5bI"
+        }
+      ],
+      "hours_since_created": 5.2956,
+      "rate_per_hour": 4314.9,
+      "rate_mode": "delta",
+      "already_pushed": true,
+      "qualified": false,
+      "username": "levelsio",
+      "metrics": {
+        "bookmark_count": 8,
+        "impression_count": 41309,
+        "like_count": 242,
+        "quote_count": 0,
+        "reply_count": 20,
+        "repost_count": 3
+      },
+      "views_prev": 39054,
+      "hours_since_prev": 0.5226,
+      "views_delta": 2255
+    },
+    {
+      "id": "2118471033816527358",
+      "account": "levelsio",
+      "author_id": "1577241403",
+      "url": "https://x.com/levelsio/status/2118471033816527358",
+      "created_at": "2026-11-06T06:30:28+08:00",
+      "created_at_utc": "2026-11-05T22:30:28.000Z",
+      "text": "Rate my painting skills\n\nWe had to weatherproof the outdoor sauna because it's been a 1.5 year old now and otherwise it get taken over by nature itself\n\nMaybe this can be my new post-AGI job? 🙏 😬 https://t.co/Y1kSVKMgjz",
+      "text_zh": "评价一下我的粉刷技术\n\n户外桑拿房已经用了一年半，我们得给它做防水，不然会被大自然直接接管。\n\n也许这可以成为我后 AGI 时代的新工作？🙏 😬 https://t.co/Y1kSVKMgjz",
+      "text_source": "text",
+      "api_text": "Rate my painting skills\n\nWe had to weatherproof the outdoor sauna because it's been a 1.5 year old now and otherwise it get taken over by nature itself\n\nMaybe this can be my new post-AGI job? 🙏 😬 https://t.co/Y1kSVKMgjz",
+      "public_metrics": {
+        "bookmark_count": 7,
+        "impression_count": 21585,
+        "like_count": 120,
+        "quote_count": 0,
+        "reply_count": 25,
+        "repost_count": 0
+      },
+      "referenced_tweets": null,
+      "checked_at": "2026-11-06T09:12:48.200104+08:00",
+      "views": 21585,
+      "quoted_posts": [],
+      "hours_since_created": 2.7056,
+      "rate_per_hour": 3404.1,
+      "rate_mode": "delta",
+      "already_pushed": true,
+      "qualified": false,
+      "username": "levelsio",
+      "metrics": {
+        "bookmark_count": 7,
+        "impression_count": 21585,
+        "like_count": 120,
+        "quote_count": 0,
+        "reply_count": 25,
+        "repost_count": 0
+      },
+      "views_prev": 19806,
+      "hours_since_prev": 0.5226,
+      "views_delta": 1779
+    },
+    {
+      "id": "2118438879787196685",
+      "account": "levelsio",
+      "author_id": "1577241403",
+      "url": "https://x.com/levelsio/status/2118438879787196685",
+      "created_at": "2026-11-06T04:22:42+08:00",
+      "created_at_utc": "2026-11-05T20:22:42.000Z",
+      "text": "P.S. This is good, I built my own expenses tracker with Claude Code, it's how I found so much stuff to save on\n\nIt just proves my point that almost every industry will be entered by Anthropic, OpenAI and probably xAI too https://t.co/w90I6j6AIR",
+      "text_zh": "补充：这是好事。我用 Claude Code 做了自己的支出追踪器，就是靠它发现了很多可以省钱的地方。\n\n这恰恰证明了我的观点：Anthropic、OpenAI，大概还有 xAI，都会进入几乎每一个行业。 https://t.co/w90I6j6AIR",
+      "text_source": "text",
+      "api_text": "P.S. This is good, I built my own expenses tracker with Claude Code, it's how I found so much stuff to save on\n\nIt just proves my point that almost every industry will be entered by Anthropic, OpenAI and probably xAI too https://t.co/w90I6j6AIR",
+      "public_metrics": {
+        "bookmark_count": 124,
+        "impression_count": 42937,
+        "like_count": 421,
+        "quote_count": 8,
+        "reply_count": 31,
+        "repost_count": 8
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118435009354694853",
+          "type": "quoted"
+        }
+      ],
+      "checked_at": "2026-11-06T09:12:48.200104+08:00",
+      "views": 42937,
+      "quoted_posts": [
+        {
+          "id": "2118435009354694853",
+          "author": "levelsio",
+          "text": "I told you, they will try eat all industries one by one https://t.co/nhXYy5G5ow",
+          "text_zh": "我早说过，他们会试图一个接一个地吞掉所有行业。 https://t.co/nhXYy5G5ow"
+        }
+      ],
+      "hours_since_created": 4.8351,
+      "rate_per_hour": 3331.4,
+      "rate_mode": "delta",
+      "already_pushed": true,
+      "qualified": false,
+      "username": "levelsio",
+      "metrics": {
+        "bookmark_count": 124,
+        "impression_count": 42937,
+        "like_count": 421,
+        "quote_count": 8,
+        "reply_count": 31,
+        "repost_count": 8
+      },
+      "views_prev": 41196,
+      "hours_since_prev": 0.5226,
+      "views_delta": 1741
+    },
+    {
+      "id": "2118476416501285129",
+      "account": "levelsio",
+      "author_id": "1577241403",
+      "url": "https://x.com/levelsio/status/2118476416501285129",
+      "created_at": "2026-11-06T06:51:51+08:00",
+      "created_at_utc": "2026-11-05T22:51:51.000Z",
+      "text": "Same with AI computering has become boring and with that being indoors has become boring https://t.co/q0tj0rId3Q",
+      "text_zh": "AI 也一样：对着电脑已经变得无聊，于是待在室内也跟着无聊了 https://t.co/q0tj0rId3Q",
+      "text_source": "text",
+      "api_text": "Same with AI computering has become boring and with that being indoors has become boring https://t.co/q0tj0rId3Q",
+      "public_metrics": {
+        "bookmark_count": 10,
+        "impression_count": 18715,
+        "like_count": 110,
+        "quote_count": 1,
+        "reply_count": 22,
+        "repost_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118474149270290928",
+          "type": "quoted"
+        }
+      ],
+      "checked_at": "2026-11-06T09:12:48.200104+08:00",
+      "views": 18715,
+      "quoted_posts": [
+        {
+          "id": "2118474149270290928",
+          "author": "martindonadieu",
+          "text": "@levelsio Honestly I find more fund doing outside job than computer lately",
+          "text_zh": "老实说，我最近觉得干户外的活儿比对着电脑更有意思"
+        }
+      ],
+      "hours_since_created": 2.3492,
+      "rate_per_hour": 2789.9,
+      "rate_mode": "delta",
+      "already_pushed": true,
+      "qualified": false,
+      "username": "levelsio",
+      "metrics": {
+        "bookmark_count": 10,
+        "impression_count": 18715,
+        "like_count": 110,
+        "quote_count": 1,
+        "reply_count": 22,
+        "repost_count": 3
+      },
+      "views_prev": 17257,
+      "hours_since_prev": 0.5226,
+      "views_delta": 1458
+    },
+    {
+      "id": "2118480812010348741",
+      "account": "levelsio",
+      "author_id": "1577241403",
+      "url": "https://x.com/levelsio/status/2118480812010348741",
+      "created_at": "2026-11-06T07:09:19+08:00",
+      "created_at_utc": "2026-11-05T23:09:19.000Z",
+      "text": "Many of my friends like @csonotes and @NorbertDragan devoutly believe we have to go outside more and I think AI will help us to :D https://t.co/JmTMp0xkwN",
+      "text_zh": "我很多朋友，比如 @csonotes 和 @NorbertDragan，都坚信我们得多出门走走，我觉得 AI 会帮我们做到这一点 :D https://t.co/JmTMp0xkwN",
+      "text_source": "text",
+      "api_text": "Many of my friends like @csonotes and @NorbertDragan devoutly believe we have to go outside more and I think AI will help us to :D https://t.co/JmTMp0xkwN",
+      "public_metrics": {
+        "bookmark_count": 5,
+        "impression_count": 10319,
+        "like_count": 36,
+        "quote_count": 0,
+        "reply_count": 19,
+        "repost_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118479369857307057",
+          "type": "quoted"
+        }
+      ],
+      "checked_at": "2026-11-06T09:12:48.200104+08:00",
+      "views": 10319,
+      "quoted_posts": [
+        {
+          "id": "2118479369857307057",
+          "author": "ALCFX1",
+          "text": "@levelsio It’s the whole purpose of AI :)",
+          "text_zh": "这就是 AI 的全部意义 :)"
+        }
+      ],
+      "hours_since_created": 2.0581,
+      "rate_per_hour": 1664.7,
+      "rate_mode": "delta",
+      "already_pushed": true,
+      "qualified": false,
+      "username": "levelsio",
+      "metrics": {
+        "bookmark_count": 5,
+        "impression_count": 10319,
+        "like_count": 36,
+        "quote_count": 0,
+        "reply_count": 19,
+        "repost_count": 1
+      },
+      "views_prev": 9449,
+      "hours_since_prev": 0.5226,
+      "views_delta": 870
+    },
+    {
+      "id": "2118380936882803044",
+      "account": "steipete",
+      "author_id": "25401953",
+      "url": "https://x.com/steipete/status/2118380936882803044",
+      "created_at": "2026-11-06T00:32:27+08:00",
+      "created_at_utc": "2026-11-05T16:32:27.000Z",
+      "text": "Just a normal Thursday. https://t.co/ss7kbiO9ng",
+      "text_zh": "不过是一个普通的星期四。 https://t.co/ss7kbiO9ng",
+      "text_source": "text",
+      "api_text": "Just a normal Thursday. https://t.co/ss7kbiO9ng",
+      "public_metrics": {
+        "bookmark_count": 18,
+        "impression_count": 45500,
+        "like_count": 231,
+        "quote_count": 0,
+        "reply_count": 21,
+        "repost_count": 9
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118306312736116835",
+          "type": "quoted"
+        }
+      ],
+      "checked_at": "2026-11-06T09:12:48.200104+08:00",
+      "views": 45500,
+      "quoted_posts": [
+        {
+          "id": "2118306312736116835",
+          "author": "kultekin",
+          "text": "*sshole is out\n\nif you run sshd on alpine, openwrt or any musl box with password auth on: update now\n\nofficial writeup: https://t.co/hQUJXVPKwE https://t.co/KB6Nyz3dUo",
+          "text_zh": "*sshole 漏洞已公开。\n\n如果你在 alpine、openwrt 或任何 musl 机器上跑 sshd 且开了密码登录：立刻更新。\n\n官方说明：https://t.co/hQUJXVPKwE https://t.co/KB6Nyz3dUo"
+        }
+      ],
+      "hours_since_created": 8.6726,
+      "rate_per_hour": 1129.0,
+      "rate_mode": "delta",
+      "already_pushed": false,
+      "qualified": false,
+      "username": "steipete",
+      "metrics": {
+        "bookmark_count": 18,
+        "impression_count": 45500,
+        "like_count": 231,
+        "quote_count": 0,
+        "reply_count": 21,
+        "repost_count": 9
+      },
+      "views_prev": 44910,
+      "hours_since_prev": 0.5226,
+      "views_delta": 590
+    },
+    {
+      "id": "2118337933681873316",
+      "account": "gregisenberg",
+      "author_id": "14642331",
+      "url": "https://x.com/gregisenberg/status/2118337933681873316",
+      "created_at": "2026-11-05T21:41:34+08:00",
+      "created_at_utc": "2026-11-05T13:41:34.000Z",
+      "text": "How I'm using Grokbot (specialized jobs, more routines, chief of staff agent) https://t.co/n7ap9FzDj3",
+      "text_zh": "我如何使用 Grokbot（专门的工作任务、更多例行流程、幕僚长智能体）。 https://t.co/n7ap9FzDj3",
+      "text_source": "text",
+      "api_text": "How I'm using Grokbot (specialized jobs, more routines, chief of staff agent) https://t.co/n7ap9FzDj3",
+      "public_metrics": {
+        "bookmark_count": 272,
+        "impression_count": 30507,
+        "like_count": 243,
+        "quote_count": 5,
+        "reply_count": 162,
+        "repost_count": 16
+      },
+      "referenced_tweets": null,
+      "checked_at": "2026-11-06T09:12:48.200104+08:00",
+      "views": 30507,
+      "quoted_posts": [],
+      "hours_since_created": 11.5206,
+      "rate_per_hour": 939.5,
+      "rate_mode": "delta",
+      "already_pushed": true,
+      "qualified": false,
+      "username": "gregisenberg",
+      "metrics": {
+        "bookmark_count": 272,
+        "impression_count": 30507,
+        "like_count": 243,
+        "quote_count": 5,
+        "reply_count": 162,
+        "repost_count": 16
+      },
+      "views_prev": 30016,
+      "hours_since_prev": 0.5226,
+      "views_delta": 491
+    },
+    {
+      "id": "2118331501817557398",
+      "account": "marclou",
+      "author_id": "2311987360",
+      "url": "https://x.com/marclou/status/2118331501817557398",
+      "created_at": "2026-11-05T21:16:01+08:00",
+      "created_at_utc": "2026-11-05T13:16:01.000Z",
+      "text": "I'm coming for, honey 🐝🍯 https://t.co/SKDunce5Lt https://t.co/5rLYy1DV5O",
+      "text_zh": "亲爱的，我来找你了 🐝🍯 https://t.co/SKDunce5Lt https://t.co/5rLYy1DV5O",
+      "text_source": "text",
+      "api_text": "I'm coming for, honey 🐝🍯 https://t.co/SKDunce5Lt https://t.co/5rLYy1DV5O",
+      "public_metrics": {
+        "bookmark_count": 27,
+        "impression_count": 28275,
+        "like_count": 289,
+        "quote_count": 3,
+        "reply_count": 57,
+        "repost_count": 4
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115772388352930189",
+          "type": "quoted"
+        }
+      ],
+      "checked_at": "2026-11-06T09:12:48.200104+08:00",
+      "views": 28275,
+      "quoted_posts": [
+        {
+          "id": "2115772388352930189",
+          "author": "marclou",
+          "text": "\"No one serious is going to use MailCheap\"\n\"You can't vibe code a profitable SaaS\"\n\"MailCheap is dead next week\"\n\nDo what you can't.\n\nhttps://t.co/doMhF11flP https://t.co/4O3z7aKCBl",
+          "text_zh": "“没人正经会用 MailCheap”\n“你不可能 vibe code 出一个能赚钱的 SaaS”\n“MailCheap 下周就死”\n\n去做别人说你做不到的事。\n\nhttps://t.co/doMhF11flP https://t.co/4O3z7aKCBl"
+        }
+      ],
+      "hours_since_created": 11.9464,
+      "rate_per_hour": 642.9,
+      "rate_mode": "delta",
+      "already_pushed": true,
+      "qualified": false,
+      "username": "marclou",
+      "metrics": {
+        "bookmark_count": 27,
+        "impression_count": 28275,
+        "like_count": 289,
+        "quote_count": 3,
+        "reply_count": 57,
+        "repost_count": 4
+      },
+      "views_prev": 27939,
+      "hours_since_prev": 0.5226,
+      "views_delta": 336
+    },
+    {
+      "id": "2118359303937544394",
+      "account": "marclou",
+      "author_id": "2311987360",
+      "url": "https://x.com/marclou/status/2118359303937544394",
+      "created_at": "2026-11-05T23:06:29+08:00",
+      "created_at_utc": "2026-11-05T15:06:29.000Z",
+      "text": "I've been waiting 15 years for this day... 🥹\n\nIf you want to level up together:\n\nI play Horde on the PvP server. Currently level 12. My @battlenet tag is marclou#2719. https://t.co/bXQDM5bJOh",
+      "text_zh": "我等这一天已经等了 15 年……🥹\n\n如果你想一起练级：\n\n我在 PvP 服务器玩部落，目前 12 级。我的 @battlenet 战网昵称是 marclou#2719。 https://t.co/bXQDM5bJOh",
+      "text_source": "text",
+      "api_text": "I've been waiting 15 years for this day... 🥹\n\nIf you want to level up together:\n\nI play Horde on the PvP server. Currently level 12. My @battlenet tag is marclou#2719. https://t.co/bXQDM5bJOh",
+      "public_metrics": {
+        "bookmark_count": 48,
+        "impression_count": 27123,
+        "like_count": 254,
+        "quote_count": 1,
+        "reply_count": 71,
+        "repost_count": 2
+      },
+      "referenced_tweets": null,
+      "checked_at": "2026-11-06T09:12:48.200104+08:00",
+      "views": 27123,
+      "quoted_posts": [],
+      "hours_since_created": 10.1053,
+      "rate_per_hour": 595.1,
+      "rate_mode": "delta",
+      "already_pushed": true,
+      "qualified": false,
+      "username": "marclou",
+      "metrics": {
+        "bookmark_count": 48,
+        "impression_count": 27123,
+        "like_count": 254,
+        "quote_count": 1,
+        "reply_count": 71,
+        "repost_count": 2
+      },
+      "views_prev": 26812,
+      "hours_since_prev": 0.5226,
+      "views_delta": 311
+    },
+    {
+      "id": "2118338780469801138",
+      "account": "levelsio",
+      "author_id": "1577241403",
+      "url": "https://x.com/levelsio/status/2118338780469801138",
+      "created_at": "2026-11-05T21:44:56+08:00",
+      "created_at_utc": "2026-11-05T13:44:56.000Z",
+      "text": "\"here's a complete regurgitation of your post but with strong AI tells.\" \n\nExactly why AI replies suck https://t.co/40mvDScWIc",
+      "text_zh": "“把你的帖子完整复述一遍，但带着明显的 AI 痕迹。”\n\n这正是 AI 回复糟糕的原因。 https://t.co/40mvDScWIc",
+      "text_source": "text",
+      "api_text": "\"here's a complete regurgitation of your post but with strong AI tells.\" \n\nExactly why AI replies suck https://t.co/40mvDScWIc",
+      "public_metrics": {
+        "bookmark_count": 9,
+        "impression_count": 37092,
+        "like_count": 189,
+        "quote_count": 3,
+        "reply_count": 78,
+        "repost_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118336734719021249",
+          "type": "quoted"
+        }
+      ],
+      "checked_at": "2026-11-06T09:12:48.200104+08:00",
+      "views": 37092,
+      "quoted_posts": [
+        {
+          "id": "2118336734719021249",
+          "author": "ryanlanciaux",
+          "text": "It's so obnoxious. I have a much much smaller reach and any of my posts that get outside normal follower band gets some AI reply bots. \n\nI don't understand what the people running the account think it does for them. It's so so easy to spot too. \n\n\"here's a complete regurgitation of your post but with strong AI tells.\" \n\nALSO not sure what the platform gains by allowing this. Maybe they're working on a fix but I keep wondering if it's going to get to a point where people leave / lock down the conversation (hurting conversation) / etc. Basically it seems on a long enough timeframe it hurts the platform more than the money they get from the people paying for the $8/month bot account.",
+          "text_zh": "太烦人了。我的触达小得多，但只要帖子超出平常粉丝圈，就会冒出一些 AI 回复机器人。不懂这些人开号图什么，而且特别好认：“把你的帖子完整复述一遍，但带着明显的 AI 痕迹。”也不确定平台允许这事有什么好处。也许在修，但我一直担心最终会有人离开 / 锁帖（伤害讨论）等。长期看对平台伤害可能大于每月 8 美元的机器人账号收入。"
+        }
+      ],
+      "hours_since_created": 11.4645,
+      "rate_per_hour": 457.3,
+      "rate_mode": "delta",
+      "already_pushed": true,
+      "qualified": false,
+      "username": "levelsio",
+      "metrics": {
+        "bookmark_count": 9,
+        "impression_count": 37092,
+        "like_count": 189,
+        "quote_count": 3,
+        "reply_count": 78,
+        "repost_count": 0
+      },
+      "views_prev": 36853,
+      "hours_since_prev": 0.5226,
+      "views_delta": 239
+    },
+    {
+      "id": "2118381567793872911",
+      "account": "egeberkina",
+      "author_id": "1790083138959400961",
+      "url": "https://x.com/egeberkina/status/2118381567793872911",
+      "created_at": "2026-11-06T00:34:58+08:00",
+      "created_at_utc": "2026-11-05T16:34:58.000Z",
+      "text": "Portugal will never forget its number 7 https://t.co/IRZFX5PcM5",
+      "text_zh": "葡萄牙永远不会忘记自己的 7 号。 https://t.co/IRZFX5PcM5",
+      "text_source": "text",
+      "api_text": "Portugal will never forget its number 7 https://t.co/IRZFX5PcM5",
+      "public_metrics": {
+        "bookmark_count": 43,
+        "impression_count": 6106,
+        "like_count": 352,
+        "quote_count": 0,
+        "reply_count": 4,
+        "repost_count": 34
+      },
+      "referenced_tweets": null,
+      "checked_at": "2026-11-06T09:12:48.200104+08:00",
+      "views": 6106,
+      "quoted_posts": [],
+      "hours_since_created": 8.6306,
+      "rate_per_hour": 61.2,
+      "rate_mode": "delta",
+      "already_pushed": false,
+      "qualified": false,
+      "username": "egeberkina",
+      "metrics": {
+        "bookmark_count": 43,
+        "impression_count": 6106,
+        "like_count": 352,
+        "quote_count": 0,
+        "reply_count": 4,
+        "repost_count": 34
+      },
+      "views_prev": 6074,
+      "hours_since_prev": 0.5226,
+      "views_delta": 32
+    }
+  ],
+  "state_delta": {
+    "snapshots_before": 16,
+    "snapshots_after": 15,
+    "new_snapshots": [],
+    "refreshed_snapshots": [
+      "2118480812010348741",
+      "2118476416501285129",
+      "2118471033816527358",
+      "2118441128181608831",
+      "2118438879787196685",
+      "2118435009354694853",
+      "2118431924968464743",
+      "2118414119514894340",
+      "2118338780469801138",
+      "2118359303937544394",
+      "2118331501817557398",
+      "2118337933681873316",
+      "2118492097917628704",
+      "2118380936882803044",
+      "2118381567793872911"
+    ],
+    "removed_expired_ids": [
+      "2118328194239529218"
+    ],
+    "pushed_before": 27,
+    "pushed_after": 27,
+    "pushed_added": []
+  },
+  "failures": []
+}
