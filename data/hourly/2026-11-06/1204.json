@@ -1,0 +1,708 @@
+{
+  "run_at": "2026-11-06T12:04:00+08:00",
+  "collected_at": "2026-11-06T12:11:55.346822+08:00",
+  "timezone": "Asia/Shanghai",
+  "window_start": "2026-11-06T00:04:00+08:00",
+  "window_end": "2026-11-06T12:04:00+08:00",
+  "baseline": false,
+  "newly_qualified": [],
+  "新达标列表": [],
+  "new_hits": [],
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "account_results": {
+    "levelsio": {
+      "count": 8,
+      "ok": true,
+      "raw_count": 8,
+      "source": "get_users_posts",
+      "exclude": "replies,retweets"
+    },
+    "marclou": {
+      "count": 0,
+      "ok": true,
+      "raw_count": 0,
+      "source": "get_users_posts",
+      "exclude": "replies,retweets"
+    },
+    "gregisenberg": {
+      "count": 0,
+      "ok": true,
+      "raw_count": 0,
+      "source": "get_users_posts",
+      "exclude": "replies,retweets"
+    },
+    "steipete": {
+      "count": 2,
+      "ok": true,
+      "raw_count": 2,
+      "source": "get_users_posts",
+      "exclude": "replies,retweets"
+    },
+    "egeberkina": {
+      "count": 1,
+      "ok": true,
+      "raw_count": 1,
+      "source": "get_users_posts",
+      "exclude": "replies,retweets"
+    },
+    "karpathy": {
+      "count": 0,
+      "ok": true,
+      "raw_count": 0,
+      "source": "get_users_posts",
+      "exclude": "replies,retweets"
+    }
+  },
+  "posts": [
+    {
+      "id": "2118435009354694853",
+      "account": "levelsio",
+      "username": "levelsio",
+      "author_id": "1577241403",
+      "url": "https://x.com/levelsio/status/2118435009354694853",
+      "created_at": "2026-11-06T04:07:19+08:00",
+      "created_at_utc": "2026-11-05T20:07:19.000Z",
+      "text": "I told you, they will try eat all industries one by one https://t.co/nhXYy5G5ow",
+      "text_zh": "我早说过，他们会试图一个接一个地吞掉所有行业。 https://t.co/nhXYy5G5ow",
+      "text_source": "text",
+      "api_text": "I told you, they will try eat all industries one by one https://t.co/nhXYy5G5ow",
+      "public_metrics": {
+        "bookmark_count": 825,
+        "impression_count": 282592,
+        "like_count": 3814,
+        "quote_count": 27,
+        "reply_count": 253,
+        "retweet_count": 128
+      },
+      "metrics": {
+        "views": 282592,
+        "likes": 3814,
+        "reposts": 128,
+        "replies": 253,
+        "quotes": 27,
+        "bookmarks": 825
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118403114890137895",
+          "type": "quoted"
+        }
+      ],
+      "checked_at": "2026-11-06T12:11:55.346822+08:00",
+      "views": 282592,
+      "quoted_posts": [
+        {
+          "id": "2118403114890137895",
+          "author_id": "1943306828697550848",
+          "username": "claudeai",
+          "text": "Introducing Personal Finance in Claude, in beta in the US.\n\nConnect the accounts you choose, and Claude answers your money questions in everyday language, from your own balances and transactions. Access is read-only, and Claude can't move, manage, or invest your money. https://t.co/V1JLYuWwrS",
+          "public_metrics": {
+            "bookmark_count": 10740,
+            "impression_count": 4283896,
+            "like_count": 28253,
+            "quote_count": 1469,
+            "reply_count": 987,
+            "retweet_count": 1363
+          }
+        }
+      ],
+      "hours_since_created": 8.076763,
+      "rate_per_hour": 13784.9148,
+      "rate": 13784.9148,
+      "rate_mode": "delta",
+      "already_pushed": true,
+      "qualified": true,
+      "views_prev": 274762,
+      "hours_since_prev": 0.568012,
+      "views_delta": 7830
+    },
+    {
+      "id": "2118492097917628704",
+      "account": "steipete",
+      "username": "steipete",
+      "author_id": "25401953",
+      "url": "https://x.com/steipete/status/2118492097917628704",
+      "created_at": "2026-11-06T07:54:10+08:00",
+      "created_at_utc": "2026-11-05T23:54:10.000Z",
+      "text": "Is my perception off or is Apple just lying here? Anytime I build for or use Safari, it’s slower, has fewer features, weird bugs and plenty websites just don’t work. It’s a fight to get even somewhat close to Chrome’s performance. https://t.co/GkoqN84Wxd",
+      "text_zh": "是我感觉有问题，还是 Apple 在这里说谎？只要我为 Safari 做开发或使用 Safari，它就更慢、功能更少、怪 bug 一堆，还有很多网站根本打不开。想逼近 Chrome 的性能，简直是场硬仗。 https://t.co/GkoqN84Wxd",
+      "text_source": "text",
+      "api_text": "Is my perception off or is Apple just lying here? Anytime I build for or use Safari, it’s slower, has fewer features, weird bugs and plenty websites just don’t work. It’s a fight to get even somewhat close to Chrome’s performance. https://t.co/GkoqN84Wxd",
+      "public_metrics": {
+        "bookmark_count": 47,
+        "impression_count": 49749,
+        "like_count": 308,
+        "quote_count": 1,
+        "reply_count": 73,
+        "retweet_count": 4
+      },
+      "metrics": {
+        "views": 49749,
+        "likes": 308,
+        "reposts": 4,
+        "replies": 73,
+        "quotes": 1,
+        "bookmarks": 47
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118472226018357414",
+          "type": "quoted"
+        }
+      ],
+      "checked_at": "2026-11-06T12:11:55.346822+08:00",
+      "views": 49749,
+      "quoted_posts": [
+        {
+          "id": "2118472226018357414",
+          "author_id": "8011702",
+          "username": "mjtsai",
+          "text": "Switch to Safari:\nhttps://t.co/f42PZNH1y4 #mjtsaiblog",
+          "public_metrics": {
+            "bookmark_count": 41,
+            "impression_count": 60694,
+            "like_count": 52,
+            "quote_count": 2,
+            "reply_count": 3,
+            "retweet_count": 2
+          }
+        }
+      ],
+      "hours_since_created": 4.29593,
+      "rate_per_hour": 7670.6097,
+      "rate": 7670.6097,
+      "rate_mode": "delta",
+      "already_pushed": true,
+      "qualified": true,
+      "views_prev": 45392,
+      "hours_since_prev": 0.568012,
+      "views_delta": 4357
+    },
+    {
+      "id": "2118441128181608831",
+      "account": "levelsio",
+      "username": "levelsio",
+      "author_id": "1577241403",
+      "url": "https://x.com/levelsio/status/2118441128181608831",
+      "created_at": "2026-11-06T04:31:38+08:00",
+      "created_at_utc": "2026-11-05T20:31:38.000Z",
+      "text": "💯 https://t.co/Kx6xL6LDXx",
+      "text_zh": "💯（完全赞同） https://t.co/Kx6xL6LDXx",
+      "text_source": "text",
+      "api_text": "💯 https://t.co/Kx6xL6LDXx",
+      "public_metrics": {
+        "bookmark_count": 310,
+        "impression_count": 135928,
+        "like_count": 1410,
+        "quote_count": 4,
+        "reply_count": 28,
+        "retweet_count": 33
+      },
+      "metrics": {
+        "views": 135928,
+        "likes": 1410,
+        "reposts": 33,
+        "replies": 28,
+        "quotes": 4,
+        "bookmarks": 310
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118367196389003752",
+          "type": "quoted"
+        }
+      ],
+      "checked_at": "2026-11-06T12:11:55.346822+08:00",
+      "views": 135928,
+      "quoted_posts": [
+        {
+          "id": "2118367196389003752",
+          "author_id": "1656536425087500288",
+          "username": "elder_plinius",
+          "text": "my spidey senses are telling me the labs are, as we speak, using unguardrailed versions of their unreleased models to systematically reverse-engineer ALL of the internet’s software, apps, and games, then feeding the reconstructed source code straight into their training pipelines while simultaneously building guardrails to ladder-pull the rest of us",
+          "public_metrics": {
+            "bookmark_count": 3868,
+            "impression_count": 1094547,
+            "like_count": 18200,
+            "quote_count": 321,
+            "reply_count": 599,
+            "retweet_count": 1486
+          }
+        }
+      ],
+      "hours_since_created": 7.671485,
+      "rate_per_hour": 5954.0973,
+      "rate": 5954.0973,
+      "rate_mode": "delta",
+      "already_pushed": true,
+      "qualified": true,
+      "views_prev": 132546,
+      "hours_since_prev": 0.568012,
+      "views_delta": 3382
+    },
+    {
+      "id": "2118414119514894340",
+      "account": "levelsio",
+      "username": "levelsio",
+      "author_id": "1577241403",
+      "url": "https://x.com/levelsio/status/2118414119514894340",
+      "created_at": "2026-11-06T02:44:18+08:00",
+      "created_at_utc": "2026-11-05T18:44:18.000Z",
+      "text": "New @X CEO going to fix the AI reply bots 👍👍👍👍👍 https://t.co/wfyCNVk5bI",
+      "text_zh": "@X 的新 CEO 要着手解决 AI 回复机器人了 👍👍👍👍👍 https://t.co/wfyCNVk5bI",
+      "text_source": "text",
+      "api_text": "New @X CEO going to fix the AI reply bots 👍👍👍👍👍 https://t.co/wfyCNVk5bI",
+      "public_metrics": {
+        "bookmark_count": 44,
+        "impression_count": 109103,
+        "like_count": 631,
+        "quote_count": 4,
+        "reply_count": 61,
+        "retweet_count": 7
+      },
+      "metrics": {
+        "views": 109103,
+        "likes": 631,
+        "reposts": 7,
+        "replies": 61,
+        "quotes": 4,
+        "bookmarks": 44
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118409767127486534",
+          "type": "quoted"
+        }
+      ],
+      "checked_at": "2026-11-06T12:11:55.346822+08:00",
+      "views": 109103,
+      "quoted_posts": [
+        {
+          "id": "2118409767127486534",
+          "author_id": "15093118",
+          "username": "petersellis",
+          "text": "@levelsio @spacexai ack.\n\ntop two priority for the team rn. starting with v high bar for precision.",
+          "public_metrics": {
+            "bookmark_count": 19,
+            "impression_count": 79139,
+            "like_count": 427,
+            "quote_count": 9,
+            "reply_count": 29,
+            "retweet_count": 3
+          }
+        }
+      ],
+      "hours_since_created": 9.460374,
+      "rate_per_hour": 3853.7903,
+      "rate": 3853.7903,
+      "rate_mode": "delta",
+      "already_pushed": true,
+      "qualified": false,
+      "views_prev": 106914,
+      "hours_since_prev": 0.568012,
+      "views_delta": 2189
+    },
+    {
+      "id": "2118471033816527358",
+      "account": "levelsio",
+      "username": "levelsio",
+      "author_id": "1577241403",
+      "url": "https://x.com/levelsio/status/2118471033816527358",
+      "created_at": "2026-11-06T06:30:28+08:00",
+      "created_at_utc": "2026-11-05T22:30:28.000Z",
+      "text": "Rate my painting skills\n\nWe had to weatherproof the outdoor sauna because it's been a 1.5 year old now and otherwise it get taken over by nature itself\n\nMaybe this can be my new post-AGI job? 🙏 😬 https://t.co/Y1kSVKMgjz",
+      "text_zh": "评价一下我的粉刷技术\n\n户外桑拿房已经用了一年半，我们得给它做防水，不然会被大自然直接接管。\n\n也许这可以成为我后 AGI 时代的新工作？🙏 😬 https://t.co/Y1kSVKMgjz",
+      "text_source": "text",
+      "api_text": "Rate my painting skills\n\nWe had to weatherproof the outdoor sauna because it's been a 1.5 year old now and otherwise it get taken over by nature itself\n\nMaybe this can be my new post-AGI job? 🙏 😬 https://t.co/Y1kSVKMgjz",
+      "public_metrics": {
+        "bookmark_count": 11,
+        "impression_count": 28442,
+        "like_count": 147,
+        "quote_count": 1,
+        "reply_count": 31,
+        "retweet_count": 0
+      },
+      "metrics": {
+        "views": 28442,
+        "likes": 147,
+        "reposts": 0,
+        "replies": 31,
+        "quotes": 1,
+        "bookmarks": 11
+      },
+      "referenced_tweets": [],
+      "checked_at": "2026-11-06T12:11:55.346822+08:00",
+      "views": 28442,
+      "quoted_posts": [],
+      "hours_since_created": 5.69093,
+      "rate_per_hour": 2241.149,
+      "rate": 2241.149,
+      "rate_mode": "delta",
+      "already_pushed": true,
+      "qualified": false,
+      "views_prev": 27169,
+      "hours_since_prev": 0.568012,
+      "views_delta": 1273
+    },
+    {
+      "id": "2118438879787196685",
+      "account": "levelsio",
+      "username": "levelsio",
+      "author_id": "1577241403",
+      "url": "https://x.com/levelsio/status/2118438879787196685",
+      "created_at": "2026-11-06T04:22:42+08:00",
+      "created_at_utc": "2026-11-05T20:22:42.000Z",
+      "text": "P.S. This is good, I built my own expenses tracker with Claude Code, it's how I found so much stuff to save on\n\nIt just proves my point that almost every industry will be entered by Anthropic, OpenAI and probably xAI too https://t.co/w90I6j6AIR",
+      "text_zh": "补充：这是好事。我用 Claude Code 做了自己的支出追踪器，就是靠它发现了很多可以省钱的地方。\n\n这恰恰证明了我的观点：Anthropic、OpenAI，大概还有 xAI，都会进入几乎每一个行业。 https://t.co/w90I6j6AIR",
+      "text_source": "text",
+      "api_text": "P.S. This is good, I built my own expenses tracker with Claude Code, it's how I found so much stuff to save on\n\nIt just proves my point that almost every industry will be entered by Anthropic, OpenAI and probably xAI too https://t.co/w90I6j6AIR",
+      "public_metrics": {
+        "bookmark_count": 155,
+        "impression_count": 50601,
+        "like_count": 501,
+        "quote_count": 10,
+        "reply_count": 33,
+        "retweet_count": 10
+      },
+      "metrics": {
+        "views": 50601,
+        "likes": 501,
+        "reposts": 10,
+        "replies": 33,
+        "quotes": 10,
+        "bookmarks": 155
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118435009354694853",
+          "type": "quoted"
+        }
+      ],
+      "checked_at": "2026-11-06T12:11:55.346822+08:00",
+      "views": 50601,
+      "quoted_posts": [
+        {
+          "id": "2118435009354694853",
+          "author_id": "1577241403",
+          "username": "levelsio",
+          "text": "I told you, they will try eat all industries one by one https://t.co/nhXYy5G5ow",
+          "public_metrics": {
+            "bookmark_count": 825,
+            "impression_count": 282592,
+            "like_count": 3814,
+            "quote_count": 27,
+            "reply_count": 253,
+            "retweet_count": 128
+          }
+        }
+      ],
+      "hours_since_created": 7.820374,
+      "rate_per_hour": 2158.4043,
+      "rate": 2158.4043,
+      "rate_mode": "delta",
+      "already_pushed": true,
+      "qualified": false,
+      "views_prev": 49375,
+      "hours_since_prev": 0.568012,
+      "views_delta": 1226
+    },
+    {
+      "id": "2118431924968464743",
+      "account": "levelsio",
+      "username": "levelsio",
+      "author_id": "1577241403",
+      "url": "https://x.com/levelsio/status/2118431924968464743",
+      "created_at": "2026-11-06T03:55:04+08:00",
+      "created_at_utc": "2026-11-05T19:55:04.000Z",
+      "text": "New @X CEO seems very actionable and fast to react, very good! https://t.co/WVETQqEYtk",
+      "text_zh": "@X 的新 CEO 看起来行动力很强，反应也很快，非常好！ https://t.co/WVETQqEYtk",
+      "text_source": "text",
+      "api_text": "New @X CEO seems very actionable and fast to react, very good! https://t.co/WVETQqEYtk",
+      "public_metrics": {
+        "bookmark_count": 8,
+        "impression_count": 48912,
+        "like_count": 268,
+        "quote_count": 0,
+        "reply_count": 22,
+        "retweet_count": 3
+      },
+      "metrics": {
+        "views": 48912,
+        "likes": 268,
+        "reposts": 3,
+        "replies": 22,
+        "quotes": 0,
+        "bookmarks": 8
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118414119514894340",
+          "type": "quoted"
+        }
+      ],
+      "checked_at": "2026-11-06T12:11:55.346822+08:00",
+      "views": 48912,
+      "quoted_posts": [
+        {
+          "id": "2118414119514894340",
+          "author_id": "1577241403",
+          "username": "levelsio",
+          "text": "New @X CEO going to fix the AI reply bots 👍👍👍👍👍 https://t.co/wfyCNVk5bI",
+          "public_metrics": {
+            "bookmark_count": 44,
+            "impression_count": 109103,
+            "like_count": 631,
+            "quote_count": 4,
+            "reply_count": 61,
+            "retweet_count": 7
+          }
+        }
+      ],
+      "hours_since_created": 8.28093,
+      "rate_per_hour": 2058.0543,
+      "rate": 2058.0543,
+      "rate_mode": "delta",
+      "already_pushed": true,
+      "qualified": false,
+      "views_prev": 47743,
+      "hours_since_prev": 0.568012,
+      "views_delta": 1169
+    },
+    {
+      "id": "2118476416501285129",
+      "account": "levelsio",
+      "username": "levelsio",
+      "author_id": "1577241403",
+      "url": "https://x.com/levelsio/status/2118476416501285129",
+      "created_at": "2026-11-06T06:51:51+08:00",
+      "created_at_utc": "2026-11-05T22:51:51.000Z",
+      "text": "Same with AI computering has become boring and with that being indoors has become boring https://t.co/q0tj0rId3Q",
+      "text_zh": "AI 也一样：对着电脑已经变得无聊，于是待在室内也跟着无聊了 https://t.co/q0tj0rId3Q",
+      "text_source": "text",
+      "api_text": "Same with AI computering has become boring and with that being indoors has become boring https://t.co/q0tj0rId3Q",
+      "public_metrics": {
+        "bookmark_count": 14,
+        "impression_count": 23512,
+        "like_count": 138,
+        "quote_count": 1,
+        "reply_count": 27,
+        "retweet_count": 3
+      },
+      "metrics": {
+        "views": 23512,
+        "likes": 138,
+        "reposts": 3,
+        "replies": 27,
+        "quotes": 1,
+        "bookmarks": 14
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118474149270290928",
+          "type": "quoted"
+        }
+      ],
+      "checked_at": "2026-11-06T12:11:55.346822+08:00",
+      "views": 23512,
+      "quoted_posts": [
+        {
+          "id": "2118474149270290928",
+          "author_id": "365398423",
+          "username": "martindonadieu",
+          "text": "@levelsio Honestly I find more fund doing outside job than computer lately",
+          "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 19652,
+            "like_count": 11,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 0
+          }
+        }
+      ],
+      "hours_since_created": 5.334541,
+      "rate_per_hour": 1304.5494,
+      "rate": 1304.5494,
+      "rate_mode": "delta",
+      "already_pushed": true,
+      "qualified": false,
+      "views_prev": 22771,
+      "hours_since_prev": 0.568012,
+      "views_delta": 741
+    },
+    {
+      "id": "2118480812010348741",
+      "account": "levelsio",
+      "username": "levelsio",
+      "author_id": "1577241403",
+      "url": "https://x.com/levelsio/status/2118480812010348741",
+      "created_at": "2026-11-06T07:09:19+08:00",
+      "created_at_utc": "2026-11-05T23:09:19.000Z",
+      "text": "Many of my friends like @csonotes and @NorbertDragan devoutly believe we have to go outside more and I think AI will help us to :D https://t.co/JmTMp0xkwN",
+      "text_zh": "我很多朋友，比如 @csonotes 和 @NorbertDragan，都坚信我们得多出门走走，我觉得 AI 会帮我们做到这一点 :D https://t.co/JmTMp0xkwN",
+      "text_source": "text",
+      "api_text": "Many of my friends like @csonotes and @NorbertDragan devoutly believe we have to go outside more and I think AI will help us to :D https://t.co/JmTMp0xkwN",
+      "public_metrics": {
+        "bookmark_count": 7,
+        "impression_count": 13344,
+        "like_count": 43,
+        "quote_count": 0,
+        "reply_count": 25,
+        "retweet_count": 1
+      },
+      "metrics": {
+        "views": 13344,
+        "likes": 43,
+        "reposts": 1,
+        "replies": 25,
+        "quotes": 0,
+        "bookmarks": 7
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118479369857307057",
+          "type": "quoted"
+        }
+      ],
+      "checked_at": "2026-11-06T12:11:55.346822+08:00",
+      "views": 13344,
+      "quoted_posts": [
+        {
+          "id": "2118479369857307057",
+          "author_id": "408710308",
+          "username": "ALCFX1",
+          "text": "@levelsio It’s the whole purpose of AI :)",
+          "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 9918,
+            "like_count": 2,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 0
+          }
+        }
+      ],
+      "hours_since_created": 5.04343,
+      "rate_per_hour": 838.0101,
+      "rate": 838.0101,
+      "rate_mode": "delta",
+      "already_pushed": true,
+      "qualified": false,
+      "views_prev": 12868,
+      "hours_since_prev": 0.568012,
+      "views_delta": 476
+    },
+    {
+      "id": "2118380936882803044",
+      "account": "steipete",
+      "username": "steipete",
+      "author_id": "25401953",
+      "url": "https://x.com/steipete/status/2118380936882803044",
+      "created_at": "2026-11-06T00:32:27+08:00",
+      "created_at_utc": "2026-11-05T16:32:27.000Z",
+      "text": "Just a normal Thursday. https://t.co/ss7kbiO9ng",
+      "text_zh": "不过是一个普通的星期四。 https://t.co/ss7kbiO9ng",
+      "text_source": "text",
+      "api_text": "Just a normal Thursday. https://t.co/ss7kbiO9ng",
+      "public_metrics": {
+        "bookmark_count": 21,
+        "impression_count": 47865,
+        "like_count": 243,
+        "quote_count": 0,
+        "reply_count": 21,
+        "retweet_count": 11
+      },
+      "metrics": {
+        "views": 47865,
+        "likes": 243,
+        "reposts": 11,
+        "replies": 21,
+        "quotes": 0,
+        "bookmarks": 21
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118306312736116835",
+          "type": "quoted"
+        }
+      ],
+      "checked_at": "2026-11-06T12:11:55.346822+08:00",
+      "views": 47865,
+      "quoted_posts": [
+        {
+          "id": "2118306312736116835",
+          "author_id": "1276829779900104708",
+          "username": "kultekin",
+          "text": "*sshole is out\n\nif you run sshd on alpine, openwrt or any musl box with password auth on: update now\n\nofficial writeup: https://t.co/hQUJXVPKwE https://t.co/KB6Nyz3dUo",
+          "public_metrics": {
+            "bookmark_count": 2015,
+            "impression_count": 1311970,
+            "like_count": 4879,
+            "quote_count": 409,
+            "reply_count": 172,
+            "retweet_count": 834
+          }
+        }
+      ],
+      "hours_since_created": 11.657874,
+      "rate_per_hour": 661.9576,
+      "rate": 661.9576,
+      "rate_mode": "delta",
+      "already_pushed": false,
+      "qualified": false,
+      "views_prev": 47489,
+      "hours_since_prev": 0.568012,
+      "views_delta": 376
+    },
+    {
+      "id": "2118381567793872911",
+      "account": "egeberkina",
+      "username": "egeberkina",
+      "author_id": "1790083138959400961",
+      "url": "https://x.com/egeberkina/status/2118381567793872911",
+      "created_at": "2026-11-06T00:34:58+08:00",
+      "created_at_utc": "2026-11-05T16:34:58.000Z",
+      "text": "Portugal will never forget its number 7 https://t.co/IRZFX5PcM5",
+      "text_zh": "葡萄牙永远不会忘记自己的 7 号。 https://t.co/IRZFX5PcM5",
+      "text_source": "text",
+      "api_text": "Portugal will never forget its number 7 https://t.co/IRZFX5PcM5",
+      "public_metrics": {
+        "bookmark_count": 45,
+        "impression_count": 6374,
+        "like_count": 368,
+        "quote_count": 0,
+        "reply_count": 4,
+        "retweet_count": 36
+      },
+      "metrics": {
+        "views": 6374,
+        "likes": 368,
+        "reposts": 36,
+        "replies": 4,
+        "quotes": 0,
+        "bookmarks": 45
+      },
+      "referenced_tweets": [],
+      "checked_at": "2026-11-06T12:11:55.346822+08:00",
+      "views": 6374,
+      "quoted_posts": [],
+      "hours_since_created": 11.61593,
+      "rate_per_hour": 66.9,
+      "rate": 66.9,
+      "rate_mode": "delta",
+      "already_pushed": false,
+      "qualified": false,
+      "views_prev": 6336,
+      "hours_since_prev": 0.568012,
+      "views_delta": 38
+    }
+  ],
+  "notes": "1204 round; no new hits (qualifying posts already in pushed)."
+}
