@@ -1,0 +1,466 @@
+{
+  "run_at": "2026-11-06T12:34:00+08:00",
+  "collected_at": "2026-11-06T12:39:04.728313+08:00",
+  "timezone": "Asia/Shanghai",
+  "window_start": "2026-11-06T00:34:00+08:00",
+  "window_end": "2026-11-06T12:34:00+08:00",
+  "baseline": false,
+  "newly_qualified": [],
+  "新达标列表": [],
+  "new_hits": [],
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "account_results": {
+    "levelsio": "8 posts (ok)",
+    "marclou": "0 posts (ok)",
+    "gregisenberg": "0 posts (ok)",
+    "steipete": "1 posts (ok)",
+    "egeberkina": "0 posts (ok)",
+    "karpathy": "0 posts (ok)"
+  },
+  "posts": [
+    {
+      "id": "2118435009354694853",
+      "account": "levelsio",
+      "username": "levelsio",
+      "author_id": "1577241403",
+      "url": "https://x.com/levelsio/status/2118435009354694853",
+      "created_at": "2026-11-06T04:07:19+08:00",
+      "created_at_utc": "2026-11-05T20:07:19.000Z",
+      "text": "I told you, they will try eat all industries one by one https://t.co/nhXYy5G5ow",
+      "text_zh": "我早说过，他们会试图一个接一个地吞掉所有行业。 https://t.co/nhXYy5G5ow",
+      "text_source": "prev_archive",
+      "api_text": "I told you, they will try eat all industries one by one https://t.co/nhXYy5G5ow",
+      "public_metrics": {
+        "impression_count": 288478,
+        "like_count": 3934,
+        "retweet_count": 131,
+        "bookmark_count": 847,
+        "reply_count": 257,
+        "quote_count": 28
+      },
+      "metrics": {
+        "impression_count": 288478,
+        "like_count": 3934,
+        "retweet_count": 131,
+        "bookmark_count": 847,
+        "reply_count": 257,
+        "quote_count": 28
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118403114890137895",
+          "type": "quoted"
+        }
+      ],
+      "checked_at": "2026-11-06T12:39:04.728313+08:00",
+      "views": 288478,
+      "quoted_posts": [],
+      "quoted_note": "被引：Claude 推出美国 beta「Personal Finance」，只读连接账户答理财问题。",
+      "hours_since_created": 8.5294,
+      "rate_per_hour": 13004.7,
+      "rate": 13004.7,
+      "rate_mode": "delta",
+      "already_pushed": true,
+      "qualified": false,
+      "views_prev": 282592,
+      "hours_since_prev": 0.4526,
+      "views_delta": 5886,
+      "still_over_threshold": true
+    },
+    {
+      "id": "2118441128181608831",
+      "account": "levelsio",
+      "username": "levelsio",
+      "author_id": "1577241403",
+      "url": "https://x.com/levelsio/status/2118441128181608831",
+      "created_at": "2026-11-06T04:31:38+08:00",
+      "created_at_utc": "2026-11-05T20:31:38.000Z",
+      "text": "💯 https://t.co/Kx6xL6LDXx",
+      "text_zh": "💯（完全赞同） https://t.co/Kx6xL6LDXx",
+      "text_source": "prev_archive",
+      "api_text": "💯 https://t.co/Kx6xL6LDXx",
+      "public_metrics": {
+        "impression_count": 138630,
+        "like_count": 1438,
+        "retweet_count": 34,
+        "bookmark_count": 316,
+        "reply_count": 28,
+        "quote_count": 4
+      },
+      "metrics": {
+        "impression_count": 138630,
+        "like_count": 1438,
+        "retweet_count": 34,
+        "bookmark_count": 316,
+        "reply_count": 28,
+        "quote_count": 4
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118367196389003752",
+          "type": "quoted"
+        }
+      ],
+      "checked_at": "2026-11-06T12:39:04.728313+08:00",
+      "views": 138630,
+      "quoted_posts": [],
+      "quoted_note": "被引：有人猜测实验室正用无护栏未发布模型逆向全网软件/游戏源码并喂进训练。",
+      "hours_since_created": 8.1241,
+      "rate_per_hour": 5969.9,
+      "rate": 5969.9,
+      "rate_mode": "delta",
+      "already_pushed": true,
+      "qualified": false,
+      "views_prev": 135928,
+      "hours_since_prev": 0.4526,
+      "views_delta": 2702,
+      "still_over_threshold": true
+    },
+    {
+      "id": "2118492097917628704",
+      "account": "steipete",
+      "username": "steipete",
+      "author_id": "25401953",
+      "url": "https://x.com/steipete/status/2118492097917628704",
+      "created_at": "2026-11-06T07:54:10+08:00",
+      "created_at_utc": "2026-11-05T23:54:10.000Z",
+      "text": "Is my perception off or is Apple just lying here? Anytime I build for or use Safari, it’s slower, has fewer features, weird bugs and plenty websites just don’t work. It’s a fight to get even somewhat close to Chrome’s performance. https://t.co/GkoqN84Wxd",
+      "text_zh": "是我感觉有问题，还是 Apple 在这里说谎？只要我为 Safari 做开发或使用 Safari，它就更慢、功能更少、怪 bug 一堆，还有很多网站根本打不开。想逼近 Chrome 的性能，简直是场硬仗。 https://t.co/GkoqN84Wxd",
+      "text_source": "prev_archive",
+      "api_text": "Is my perception off or is Apple just lying here? Anytime I build for or use Safari, it’s slower, has fewer features, weird bugs and plenty websites just don’t work. It’s a fight to get even somewhat close to Chrome’s performance. https://t.co/GkoqN84Wxd",
+      "public_metrics": {
+        "impression_count": 52448,
+        "like_count": 327,
+        "retweet_count": 4,
+        "bookmark_count": 50,
+        "reply_count": 75,
+        "quote_count": 1
+      },
+      "metrics": {
+        "impression_count": 52448,
+        "like_count": 327,
+        "retweet_count": 4,
+        "bookmark_count": 50,
+        "reply_count": 75,
+        "quote_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118472226018357414",
+          "type": "quoted"
+        }
+      ],
+      "checked_at": "2026-11-06T12:39:04.728313+08:00",
+      "views": 52448,
+      "quoted_posts": [],
+      "quoted_note": "被引：有人发文呼吁 Switch to Safari。",
+      "hours_since_created": 4.7485,
+      "rate_per_hour": 5963.2,
+      "rate": 5963.2,
+      "rate_mode": "delta",
+      "already_pushed": true,
+      "qualified": false,
+      "views_prev": 49749,
+      "hours_since_prev": 0.4526,
+      "views_delta": 2699,
+      "still_over_threshold": true
+    },
+    {
+      "id": "2118414119514894340",
+      "account": "levelsio",
+      "username": "levelsio",
+      "author_id": "1577241403",
+      "url": "https://x.com/levelsio/status/2118414119514894340",
+      "created_at": "2026-11-06T02:44:18+08:00",
+      "created_at_utc": "2026-11-05T18:44:18.000Z",
+      "text": "New @X CEO going to fix the AI reply bots 👍👍👍👍👍 https://t.co/wfyCNVk5bI",
+      "text_zh": "@X 的新 CEO 要着手解决 AI 回复机器人了 👍👍👍👍👍 https://t.co/wfyCNVk5bI",
+      "text_source": "prev_archive",
+      "api_text": "New @X CEO going to fix the AI reply bots 👍👍👍👍👍 https://t.co/wfyCNVk5bI",
+      "public_metrics": {
+        "impression_count": 110752,
+        "like_count": 636,
+        "retweet_count": 7,
+        "bookmark_count": 44,
+        "reply_count": 62,
+        "quote_count": 5
+      },
+      "metrics": {
+        "impression_count": 110752,
+        "like_count": 636,
+        "retweet_count": 7,
+        "bookmark_count": 44,
+        "reply_count": 62,
+        "quote_count": 5
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118409767127486534",
+          "type": "quoted"
+        }
+      ],
+      "checked_at": "2026-11-06T12:39:04.728313+08:00",
+      "views": 110752,
+      "quoted_posts": [],
+      "quoted_note": "被引：X 方面回复称这是团队当前两大优先事项之一，精度门槛很高。",
+      "hours_since_created": 9.913,
+      "rate_per_hour": 3643.3,
+      "rate": 3643.3,
+      "rate_mode": "delta",
+      "already_pushed": true,
+      "qualified": false,
+      "views_prev": 109103,
+      "hours_since_prev": 0.4526,
+      "views_delta": 1649,
+      "still_over_threshold": false
+    },
+    {
+      "id": "2118438879787196685",
+      "account": "levelsio",
+      "username": "levelsio",
+      "author_id": "1577241403",
+      "url": "https://x.com/levelsio/status/2118438879787196685",
+      "created_at": "2026-11-06T04:22:42+08:00",
+      "created_at_utc": "2026-11-05T20:22:42.000Z",
+      "text": "P.S. This is good, I built my own expenses tracker with Claude Code, it's how I found so much stuff to save on\n\nIt just proves my point that almost every industry will be entered by Anthropic, OpenAI and probably xAI too https://t.co/w90I6j6AIR",
+      "text_zh": "补充：这是好事。我用 Claude Code 做了自己的支出追踪器，就是靠它发现了很多可以省钱的地方。\n\n这恰恰证明了我的观点：Anthropic、OpenAI，大概还有 xAI，都会进入几乎每一个行业。 https://t.co/w90I6j6AIR",
+      "text_source": "prev_archive",
+      "api_text": "P.S. This is good, I built my own expenses tracker with Claude Code, it's how I found so much stuff to save on\n\nIt just proves my point that almost every industry will be entered by Anthropic, OpenAI and probably xAI too https://t.co/w90I6j6AIR",
+      "public_metrics": {
+        "impression_count": 51571,
+        "like_count": 517,
+        "retweet_count": 10,
+        "bookmark_count": 164,
+        "reply_count": 33,
+        "quote_count": 10
+      },
+      "metrics": {
+        "impression_count": 51571,
+        "like_count": 517,
+        "retweet_count": 10,
+        "bookmark_count": 164,
+        "reply_count": 33,
+        "quote_count": 10
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118435009354694853",
+          "type": "quoted"
+        }
+      ],
+      "checked_at": "2026-11-06T12:39:04.728313+08:00",
+      "views": 51571,
+      "quoted_posts": [],
+      "quoted_note": "被引：他自己关于大厂逐个吞掉行业的那条帖。",
+      "hours_since_created": 8.273,
+      "rate_per_hour": 2143.1,
+      "rate": 2143.1,
+      "rate_mode": "delta",
+      "already_pushed": true,
+      "qualified": false,
+      "views_prev": 50601,
+      "hours_since_prev": 0.4526,
+      "views_delta": 970,
+      "still_over_threshold": false
+    },
+    {
+      "id": "2118471033816527358",
+      "account": "levelsio",
+      "username": "levelsio",
+      "author_id": "1577241403",
+      "url": "https://x.com/levelsio/status/2118471033816527358",
+      "created_at": "2026-11-06T06:30:28+08:00",
+      "created_at_utc": "2026-11-05T22:30:28.000Z",
+      "text": "Rate my painting skills\n\nWe had to weatherproof the outdoor sauna because it's been a 1.5 year old now and otherwise it get taken over by nature itself\n\nMaybe this can be my new post-AGI job? 🙏 😬 https://t.co/Y1kSVKMgjz",
+      "text_zh": "评价一下我的粉刷技术\n\n户外桑拿房已经用了一年半，我们得给它做防水，不然会被大自然直接接管。\n\n也许这可以成为我后 AGI 时代的新工作？🙏 😬 https://t.co/Y1kSVKMgjz",
+      "text_source": "prev_archive",
+      "api_text": "Rate my painting skills\n\nWe had to weatherproof the outdoor sauna because it's been a 1.5 year old now and otherwise it get taken over by nature itself\n\nMaybe this can be my new post-AGI job? 🙏 😬 https://t.co/Y1kSVKMgjz",
+      "public_metrics": {
+        "impression_count": 29369,
+        "like_count": 149,
+        "retweet_count": 0,
+        "bookmark_count": 12,
+        "reply_count": 31,
+        "quote_count": 1
+      },
+      "metrics": {
+        "impression_count": 29369,
+        "like_count": 149,
+        "retweet_count": 0,
+        "bookmark_count": 12,
+        "reply_count": 31,
+        "quote_count": 1
+      },
+      "referenced_tweets": [],
+      "checked_at": "2026-11-06T12:39:04.728313+08:00",
+      "views": 29369,
+      "quoted_posts": [],
+      "quoted_note": null,
+      "hours_since_created": 6.1435,
+      "rate_per_hour": 2048.1,
+      "rate": 2048.1,
+      "rate_mode": "delta",
+      "already_pushed": true,
+      "qualified": false,
+      "views_prev": 28442,
+      "hours_since_prev": 0.4526,
+      "views_delta": 927,
+      "still_over_threshold": false
+    },
+    {
+      "id": "2118431924968464743",
+      "account": "levelsio",
+      "username": "levelsio",
+      "author_id": "1577241403",
+      "url": "https://x.com/levelsio/status/2118431924968464743",
+      "created_at": "2026-11-06T03:55:04+08:00",
+      "created_at_utc": "2026-11-05T19:55:04.000Z",
+      "text": "New @X CEO seems very actionable and fast to react, very good! https://t.co/WVETQqEYtk",
+      "text_zh": "@X 的新 CEO 看起来行动力很强，反应也很快，非常好！ https://t.co/WVETQqEYtk",
+      "text_source": "prev_archive",
+      "api_text": "New @X CEO seems very actionable and fast to react, very good! https://t.co/WVETQqEYtk",
+      "public_metrics": {
+        "impression_count": 49800,
+        "like_count": 273,
+        "retweet_count": 3,
+        "bookmark_count": 8,
+        "reply_count": 22,
+        "quote_count": 0
+      },
+      "metrics": {
+        "impression_count": 49800,
+        "like_count": 273,
+        "retweet_count": 3,
+        "bookmark_count": 8,
+        "reply_count": 22,
+        "quote_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118414119514894340",
+          "type": "quoted"
+        }
+      ],
+      "checked_at": "2026-11-06T12:39:04.728313+08:00",
+      "views": 49800,
+      "quoted_posts": [],
+      "quoted_note": "被引：他自己关于新 CEO 要修 AI 回复机器人的帖。",
+      "hours_since_created": 8.7335,
+      "rate_per_hour": 1962.0,
+      "rate": 1962.0,
+      "rate_mode": "delta",
+      "already_pushed": true,
+      "qualified": false,
+      "views_prev": 48912,
+      "hours_since_prev": 0.4526,
+      "views_delta": 888,
+      "still_over_threshold": false
+    },
+    {
+      "id": "2118476416501285129",
+      "account": "levelsio",
+      "username": "levelsio",
+      "author_id": "1577241403",
+      "url": "https://x.com/levelsio/status/2118476416501285129",
+      "created_at": "2026-11-06T06:51:51+08:00",
+      "created_at_utc": "2026-11-05T22:51:51.000Z",
+      "text": "Same with AI computering has become boring and with that being indoors has become boring https://t.co/q0tj0rId3Q",
+      "text_zh": "AI 也一样：对着电脑已经变得无聊，于是待在室内也跟着无聊了 https://t.co/q0tj0rId3Q",
+      "text_source": "prev_archive",
+      "api_text": "Same with AI computering has become boring and with that being indoors has become boring https://t.co/q0tj0rId3Q",
+      "public_metrics": {
+        "impression_count": 24085,
+        "like_count": 143,
+        "retweet_count": 3,
+        "bookmark_count": 15,
+        "reply_count": 28,
+        "quote_count": 1
+      },
+      "metrics": {
+        "impression_count": 24085,
+        "like_count": 143,
+        "retweet_count": 3,
+        "bookmark_count": 15,
+        "reply_count": 28,
+        "quote_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118474149270290928",
+          "type": "quoted"
+        }
+      ],
+      "checked_at": "2026-11-06T12:39:04.728313+08:00",
+      "views": 24085,
+      "quoted_posts": [],
+      "quoted_note": "被引：有人回复说最近觉得户外干活比对着电脑更有意思。",
+      "hours_since_created": 5.7871,
+      "rate_per_hour": 1266.0,
+      "rate": 1266.0,
+      "rate_mode": "delta",
+      "already_pushed": true,
+      "qualified": false,
+      "views_prev": 23512,
+      "hours_since_prev": 0.4526,
+      "views_delta": 573,
+      "still_over_threshold": false
+    },
+    {
+      "id": "2118480812010348741",
+      "account": "levelsio",
+      "username": "levelsio",
+      "author_id": "1577241403",
+      "url": "https://x.com/levelsio/status/2118480812010348741",
+      "created_at": "2026-11-06T07:09:19+08:00",
+      "created_at_utc": "2026-11-05T23:09:19.000Z",
+      "text": "Many of my friends like @csonotes and @NorbertDragan devoutly believe we have to go outside more and I think AI will help us to :D https://t.co/JmTMp0xkwN",
+      "text_zh": "我很多朋友，比如 @csonotes 和 @NorbertDragan，都坚信我们得多出门走走，我觉得 AI 会帮我们做到这一点 :D https://t.co/JmTMp0xkwN",
+      "text_source": "prev_archive",
+      "api_text": "Many of my friends like @csonotes and @NorbertDragan devoutly believe we have to go outside more and I think AI will help us to :D https://t.co/JmTMp0xkwN",
+      "public_metrics": {
+        "impression_count": 13715,
+        "like_count": 44,
+        "retweet_count": 1,
+        "bookmark_count": 7,
+        "reply_count": 26,
+        "quote_count": 0
+      },
+      "metrics": {
+        "impression_count": 13715,
+        "like_count": 44,
+        "retweet_count": 1,
+        "bookmark_count": 7,
+        "reply_count": 26,
+        "quote_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118479369857307057",
+          "type": "quoted"
+        }
+      ],
+      "checked_at": "2026-11-06T12:39:04.728313+08:00",
+      "views": 13715,
+      "quoted_posts": [],
+      "quoted_note": "被引：@csonotes 回复称 AI 的整个目的就是让人多出门。",
+      "hours_since_created": 5.496,
+      "rate_per_hour": 819.7,
+      "rate": 819.7,
+      "rate_mode": "delta",
+      "already_pushed": true,
+      "qualified": false,
+      "views_prev": 13344,
+      "hours_since_prev": 0.4526,
+      "views_delta": 371,
+      "still_over_threshold": false
+    }
+  ],
+  "notes": "1234 round; no new hits (qualifying posts already in pushed)."
+}
