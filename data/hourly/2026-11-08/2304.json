@@ -1,0 +1,201 @@
+{
+  "run_at": "2026-11-08T23:07:12.206784+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2119436404304547870",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2119436404304547870",
+      "created_at": "2026-11-08T14:26:30.000Z",
+      "created_at_bj": "2026-11-08 22:26",
+      "views": 671,
+      "rate_per_hour": 639,
+      "basis": "delta",
+      "prev": {
+        "views": 388,
+        "checked_at": "2026-11-08T22:40:37.590045+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 2,
+        "impression_count": 671,
+        "like_count": 17,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "Press start https://t.co/wfx5qfovTv https://t.co/ToWuGG5bc9",
+      "text_zh": "按下开始 https://t.co/wfx5qfovTv https://t.co/ToWuGG5bc9",
+      "quoted": [
+        {
+          "id": "2119134238624584186",
+          "text": "Ready, player one? https://t.co/c26IUNNGCt https://t.co/2dUUtP6aUF",
+          "text_zh": "准备好了吗，玩家一号？ https://t.co/c26IUNNGCt https://t.co/2dUUtP6aUF"
+        }
+      ],
+      "hit": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2119430368390414598",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2119430368390414598",
+      "created_at": "2026-11-08T14:02:31.000Z",
+      "created_at_bj": "2026-11-08 22:02",
+      "views": 10797,
+      "rate_per_hour": 5809,
+      "basis": "delta",
+      "prev": {
+        "views": 8224,
+        "checked_at": "2026-11-08T22:40:37.590045+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 4,
+        "impression_count": 10797,
+        "like_count": 33,
+        "quote_count": 0,
+        "reply_count": 16,
+        "retweet_count": 0
+      },
+      "text": "When you try to install your new Midea dehumidifier in your gym to your Photo AI website https://t.co/CAmKxhmv85",
+      "text_zh": "当你想把新买的 Midea 除湿机装进你的健身房，结果装到了你的 Photo AI 网站上 https://t.co/CAmKxhmv85",
+      "quoted": [],
+      "hit": false,
+      "already_pushed": true
+    },
+    {
+      "id": "2119419832097812760",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2119419832097812760",
+      "created_at": "2026-11-08T13:20:39.000Z",
+      "created_at_bj": "2026-11-08 21:20",
+      "views": 14937,
+      "rate_per_hour": 4531,
+      "basis": "delta",
+      "prev": {
+        "views": 12930,
+        "checked_at": "2026-11-08T22:40:37.590045+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 4,
+        "impression_count": 14937,
+        "like_count": 48,
+        "quote_count": 0,
+        "reply_count": 25,
+        "retweet_count": 0
+      },
+      "text": "I like to illustrate my dreams (if I ever remember them) with AI \n\nHere's last night's dream involving @DJFreshUK https://t.co/FIM0KP6QkR",
+      "text_zh": "我喜欢用 AI 把我的梦画出来（如果我还记得的话）\n\n这是昨晚的梦，里面有 @DJFreshUK https://t.co/FIM0KP6QkR",
+      "quoted": [],
+      "hit": false,
+      "already_pushed": true
+    },
+    {
+      "id": "2119419423979458589",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2119419423979458589",
+      "created_at": "2026-11-08T13:19:02.000Z",
+      "created_at_bj": "2026-11-08 21:19",
+      "views": 15382,
+      "rate_per_hour": 6969,
+      "basis": "delta",
+      "prev": {
+        "views": 12295,
+        "checked_at": "2026-11-08T22:40:37.590045+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 16,
+        "impression_count": 15382,
+        "like_count": 213,
+        "quote_count": 1,
+        "reply_count": 66,
+        "retweet_count": 2
+      },
+      "text": "🌟 all-time high traffic on TrustMRR 🌟 https://t.co/5PxLSuPoEX",
+      "text_zh": "🌟 TrustMRR 流量创历史新高 🌟 https://t.co/5PxLSuPoEX",
+      "quoted": [],
+      "hit": false,
+      "already_pushed": true
+    },
+    {
+      "id": "2119410219436642480",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2119410219436642480",
+      "created_at": "2026-11-08T12:42:27.000Z",
+      "created_at_bj": "2026-11-08 20:42",
+      "views": 25710,
+      "rate_per_hour": 9620,
+      "basis": "delta",
+      "prev": {
+        "views": 21449,
+        "checked_at": "2026-11-08T22:40:37.590045+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 56,
+        "impression_count": 25710,
+        "like_count": 147,
+        "quote_count": 6,
+        "reply_count": 51,
+        "retweet_count": 7
+      },
+      "text": "📟 Inspired by @ThePrimeagen's Terminal Shop where you can order coffee via SSH\n\nI made https://t.co/nBzG5NG7sV \n\n> ssh https://t.co/IECCbaSMt1\n\nAnd you can even walk around in my teenage bedroom in 3d via SSH, or chat on IRC, or read my blog or sign the guestbook! https://t.co/YV8O67hrIF https://t.co/UTQwF37O7M",
+      "text_zh": "📟 受 @ThePrimeagen 的 Terminal Shop（可以通过 SSH 订咖啡）启发\n\n我做了 https://t.co/nBzG5NG7sV\n\n> ssh https://t.co/IECCbaSMt1\n\n你甚至还能通过 SSH 以 3D 方式在我青少年时期的卧室里四处走动，或者在 IRC 上聊天、读我的博客、签留言簿！ https://t.co/YV8O67hrIF https://t.co/UTQwF37O7M",
+      "quoted": [
+        {
+          "id": "2119257016086806879",
+          "text": "@levelsio Hello Pieter https://t.co/gvlbUN8vnb",
+          "text_zh": "@levelsio 你好 Pieter https://t.co/gvlbUN8vnb"
+        }
+      ],
+      "hit": false,
+      "already_pushed": true
+    },
+    {
+      "id": "2119408873488703574",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2119408873488703574",
+      "created_at": "2026-11-08T12:37:06.000Z",
+      "created_at_bj": "2026-11-08 20:37",
+      "views": 28954,
+      "rate_per_hour": 7087,
+      "basis": "delta",
+      "prev": {
+        "views": 25815,
+        "checked_at": "2026-11-08T22:40:37.590045+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 44,
+        "impression_count": 28954,
+        "like_count": 792,
+        "quote_count": 4,
+        "reply_count": 27,
+        "retweet_count": 15
+      },
+      "text": "POV: you're Jensen Huang now https://t.co/yiiqg6pujF",
+      "text_zh": "POV：你现在就是黄仁勋了 https://t.co/yiiqg6pujF",
+      "quoted": [],
+      "hit": false,
+      "already_pushed": true
+    }
+  ],
+  "new_hits": [],
+  "dropped_from_window": [
+    "2119264334627090514"
+  ],
+  "notes": "steipete 2119264334627090514 已超出 12 小时窗口；gregisenberg/steipete/karpathy 窗口内无原创或引用帖。本轮无新达标。"
+}
