@@ -1,0 +1,162 @@
+{
+  "run_at": "2026-11-08T21:41:52.993157+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2119419832097812760",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2119419832097812760",
+      "created_at": "2026-11-08T13:20:39.000Z",
+      "created_at_bj": "2026-11-08 21:20",
+      "views": 6158,
+      "rate_per_hour": 17401,
+      "basis": "first_seen",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 2,
+        "impression_count": 6158,
+        "like_count": 16,
+        "quote_count": 0,
+        "reply_count": 10,
+        "retweet_count": 0
+      },
+      "text": "I like to illustrate my dreams (if I ever remember them) with AI \n\nHere's last night's dream involving @DJFreshUK https://t.co/FIM0KP6QkR",
+      "text_zh": "我喜欢用 AI 把我的梦画出来（如果我还记得的话）\n\n这是昨晚的梦，里面有 @DJFreshUK https://t.co/FIM0KP6QkR",
+      "quoted": [],
+      "hit": true,
+      "already_pushed": false
+    },
+    {
+      "id": "2119419423979458589",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2119419423979458589",
+      "created_at": "2026-11-08T13:19:02.000Z",
+      "created_at_bj": "2026-11-08 21:19",
+      "views": 4363,
+      "rate_per_hour": 11457,
+      "basis": "first_seen",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 4,
+        "impression_count": 4363,
+        "like_count": 67,
+        "quote_count": 0,
+        "reply_count": 35,
+        "retweet_count": 0
+      },
+      "text": "🌟 all-time high traffic on TrustMRR 🌟 https://t.co/5PxLSuPoEX",
+      "text_zh": "🌟 TrustMRR 流量创历史新高 🌟 https://t.co/5PxLSuPoEX",
+      "quoted": [],
+      "hit": true,
+      "already_pushed": false
+    },
+    {
+      "id": "2119410219436642480",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2119410219436642480",
+      "created_at": "2026-11-08T12:42:27.000Z",
+      "created_at_bj": "2026-11-08 20:42",
+      "views": 14431,
+      "rate_per_hour": 8028,
+      "basis": "delta",
+      "prev": {
+        "views": 10270,
+        "checked_at": "2026-11-08T21:10:47+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 37,
+        "impression_count": 14431,
+        "like_count": 85,
+        "quote_count": 1,
+        "reply_count": 29,
+        "retweet_count": 4
+      },
+      "text": "📟 Inspired by @ThePrimeagen's Terminal Shop where you can order coffee via SSH\n\nI made https://t.co/nBzG5NG7sV \n\n> ssh https://t.co/IECCbaSMt1\n\nAnd you can even walk around in my teenage bedroom in 3d via SSH, or chat on IRC, or read my blog or sign the guestbook! https://t.co/YV8O67hrIF https://t.co/UTQwF37O7M",
+      "text_zh": "📟 受 @ThePrimeagen 的 Terminal Shop（可以通过 SSH 订咖啡）启发\n\n我做了 https://t.co/nBzG5NG7sV\n\n> ssh https://t.co/IECCbaSMt1\n\n你甚至还能通过 SSH 以 3D 方式在我青少年时期的卧室里四处走动，或者在 IRC 上聊天、读我的博客、签留言簿！ https://t.co/YV8O67hrIF https://t.co/UTQwF37O7M",
+      "quoted": [
+        {
+          "id": "2119257016086806879",
+          "text": "@levelsio Hello Pieter https://t.co/gvlbUN8vnb",
+          "text_zh": "@levelsio 你好 Pieter https://t.co/gvlbUN8vnb"
+        }
+      ],
+      "hit": false,
+      "already_pushed": true
+    },
+    {
+      "id": "2119408873488703574",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2119408873488703574",
+      "created_at": "2026-11-08T12:37:06.000Z",
+      "created_at_bj": "2026-11-08 20:37",
+      "views": 17180,
+      "rate_per_hour": 10752,
+      "basis": "delta",
+      "prev": {
+        "views": 11607,
+        "checked_at": "2026-11-08T21:10:47+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 18,
+        "impression_count": 17180,
+        "like_count": 385,
+        "quote_count": 3,
+        "reply_count": 18,
+        "retweet_count": 7
+      },
+      "text": "POV: you're Jensen Huang now https://t.co/yiiqg6pujF",
+      "text_zh": "POV：你现在就是黄仁勋了 https://t.co/yiiqg6pujF",
+      "quoted": [],
+      "hit": false,
+      "already_pushed": true
+    },
+    {
+      "id": "2119264334627090514",
+      "user": "steipete",
+      "url": "https://x.com/steipete/status/2119264334627090514",
+      "created_at": "2026-11-08T03:02:46.000Z",
+      "created_at_bj": "2026-11-08 11:02",
+      "views": 218414,
+      "rate_per_hour": 31619,
+      "basis": "delta",
+      "prev": {
+        "views": 202025,
+        "checked_at": "2026-11-08T21:10:47+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 205,
+        "impression_count": 218414,
+        "like_count": 2506,
+        "quote_count": 34,
+        "reply_count": 143,
+        "retweet_count": 86
+      },
+      "text": "The Asahi project was all about taking something closed and restricted and opening it up.\n\nAdding new restrictions that make it harder for other projects to build on that is not the way. And that AI rejection is just silly. https://t.co/fT4O4wieQm",
+      "text_zh": "Asahi 项目的初衷，就是把封闭、受限的东西打开。\n\n再加上新的限制、让其他项目更难在它基础上构建，这不是正确的做法。而那种对 AI 的排斥简直荒唐。 https://t.co/fT4O4wieQm",
+      "quoted": [],
+      "hit": false,
+      "already_pushed": true
+    }
+  ],
+  "new_hits": [
+    "2119419832097812760",
+    "2119419423979458589"
+  ],
+  "dropped_from_window": [],
+  "notes": "gregisenberg/egeberkina/karpathy 12 小时内无原创或引用帖。上轮 2119410219436642480 的推送消息未送达，本轮补发。"
+}
