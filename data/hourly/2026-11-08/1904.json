@@ -1,0 +1,236 @@
+{
+  "run_at": "2026-11-08T19:12:53+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2119264334627090514",
+      "user": "steipete",
+      "url": "https://x.com/steipete/status/2119264334627090514",
+      "created_at": "2026-11-08T03:02:46.000Z",
+      "views": 139387,
+      "rate_per_hour": 34707,
+      "prev": {
+        "views": 120443,
+        "checked_at": "2026-11-08T18:40:08+08:00"
+      },
+      "metrics": {
+        "bookmark_count": 168,
+        "impression_count": 139387,
+        "like_count": 2140,
+        "quote_count": 27,
+        "reply_count": 123,
+        "retweet_count": 69
+      },
+      "text": "The Asahi project was all about taking something closed and restricted and opening it up.\n\nAdding new restrictions that make it harder for other projects to build on that is not the way. And that AI rejection is just silly. https://t.co/fT4O4wieQm",
+      "quoted": [],
+      "hit": false,
+      "already_pushed": true,
+      "text_zh": "Asahi 项目的意义就在于把封闭、受限的东西打开。\n\n增加新的限制、让其他项目更难在其基础上构建，不是正确的路。而那种拒绝 AI 的做法实在很傻。",
+      "created_at_bj": "2026-11-08 11:02"
+    },
+    {
+      "id": "2119229734563271124",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2119229734563271124",
+      "created_at": "2026-11-08T00:45:16.000Z",
+      "views": 121130,
+      "rate_per_hour": 8411,
+      "prev": {
+        "views": 116539,
+        "checked_at": "2026-11-08T18:40:08+08:00"
+      },
+      "metrics": {
+        "bookmark_count": 4026,
+        "impression_count": 121130,
+        "like_count": 1797,
+        "quote_count": 20,
+        "reply_count": 181,
+        "retweet_count": 101
+      },
+      "text": "now that apple put xcode inside claude code, here’s how i’d find, build and grow an iOS app with AI agents:\n\nfind it\n- open appfigures or sensor tower and sort utilities by revenue\n- filter for apps with a rating under 3.5\n- bonus points if the top app hasn't shipped an update in 6+ months\n- check the keywords they rank for in appfigures. low difficulty + high revenue is the sweet spot\n- scroll the \"you might also like\" row on the top app's page. every app there is another market to check\n- or find a startup idea on https://t.co/a5ARFnvky2 based on social sentiment\n\nvalidate it\n- use facundoolano/app-store-scraper to pull every review for the top 20\n- give them to an agent: \"cluster the 1 and 2 star reviews into the top 5 complaints and quote the users\"\n- pick the app where the complaints are about the product, not the price\n- if people complain about the price but keep paying, that's demand. if they complain about bugs, that's your opening\n- search reddit for \"alternative to [app]\". every thread is a list of people waiting for you\n\nbuild it\n- claude code + apple's new xcode plugin to build, preview and fix\n- cameroncooke/XcodeBuildMCP so the agent can build, test and run the simulator on its own\n- joshuayoes/ios-simulator-mcp so it can tap, swipe and screenshot like a user\n- write a skill with the top 5 complaints so every feature gets checked against them\n- apple's foundation models for on-device ai, so your inference cost is $0\n- app intents so siri and personal agents can use your app too\n- add an \"import from [competitor]\" button. make switching take 10 seconds\n\ntest it\n- maestro tests every flow the reviewers complained about\n- the agent runs them on every screen size before each build\n- if the competitor's worst flow takes 6 taps, yours takes 2\n- sentry for crashes, telemetrydeck for analytics\n- testflight it to 20 people from those reddit threads before launch\n\nmonetize it\n- revenuecat for subscriptions and mrr\n- superwall to test paywalls without shipping a new build\n- paywall right after the first win, never on launch\n- annual as the default with a 3-day trial, weekly as the anchor\n- turn on win-back offers for everyone who cancels\n\nrank it\n- your screenshots answer each complaint directly. \"no ads.\" \"works offline.\" \"cancel anytime.\"\n- fastlane snapshot + frameit regenerates every screenshot automatically\n- a/b test them with app store connect's product page optimization\n- have the agent localize your listing into 10 languages. most competitors only rank in english\n- ask for a review right after a win with apple's built-in review prompt, never after an error\n\ngrow it\n- find 10 creators in your niche on tiktok one. small monthly base + a bonus for every 100k views\n- give each one a fresh tiktok account that only posts about your niche\n- apify's tiktok scraper pulls the top 100 hooks in your niche every week. that's your hook bank\n- every creator tests 3 new hooks a day in capcut. anything that loses people in the first 3 seconds gets cut\n- arcads or heygen for ai ugc when you need 50 variations of a winner\n- postiz to schedule everything across tiktok, reels and shorts\n- faceless slideshow accounts posting 3x a day: problem, screenshot, result\n- when an organic video takes off, put money behind it with tiktok spark ads instead of making new ads\n- a unique apple offer code for every creator so you know exactly who drove each subscriber\n- a quiz landing page on framer that ends in \"download the app.\" web-to-app funnels convert better than cold traffic\n- appsflyer to track which video, creator and ad actually turned into revenue\n- apple ads on the competitor's name\n\ni could do a whole episode on @startupideaspod if people are interested. i will never gatekeep anything im learning in real-time.\n\nwelcome to the golden age of ios apps, because now anyone can build one",
+      "quoted": [
+        "Apple just put Xcode inside Claude Code.\n\nIt's an official Apple plugin, now in Claude Code's plugin directory:\n\n•⁠  ⁠Build, run and test your app\n•⁠  ⁠Render SwiftUI previews\n•⁠  ⁠Drive simulators and real iPhones\n•⁠  ⁠Read build logs and errors\n•⁠  ⁠Search Apple's developer docs\n\nClaude can now build your iPhone app, see what it looks like, and fix it without you opening Xcode.\n\nInstall in Claude Code:\n/plugin install xcode@claude-plugins-official\n\nNeeds the latest Xcode on your Mac."
+      ],
+      "hit": false,
+      "already_pushed": true,
+      "text_zh": "既然 Apple 已经把 Xcode 放进了 Claude Code，下面是我会如何用 AI agents 找到、开发并增长一个 iOS app：\n\n找方向\n- 打开 appfigures 或 sensor tower，把工具类 app 按收入排序\n- 筛选评分低于 3.5 的 app\n- 如果排名第一的 app 很久没更新，那就更加分……（正文到此截断）\n（引用帖：Apple 刚把 Xcode 放进 Claude Code，这是 Claude Code 插件目录里的官方 Apple 插件，可以构建、运行、测试 app，渲染 SwiftUI 预览，操控模拟器和真机，读取构建日志和错误等。）",
+      "created_at_bj": "2026-11-08 08:45"
+    },
+    {
+      "id": "2119228899754209356",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2119228899754209356",
+      "created_at": "2026-11-08T00:41:57.000Z",
+      "views": 56366,
+      "rate_per_hour": 3921,
+      "prev": {
+        "views": 54226,
+        "checked_at": "2026-11-08T18:40:08+08:00"
+      },
+      "metrics": {
+        "bookmark_count": 84,
+        "impression_count": 56366,
+        "like_count": 171,
+        "quote_count": 3,
+        "reply_count": 31,
+        "retweet_count": 3
+      },
+      "text": "ssh https://t.co/IECCbaSeDt",
+      "quoted": [],
+      "hit": false,
+      "already_pushed": true,
+      "text_zh": "ssh https://t.co/IECCbaSeDt",
+      "created_at_bj": "2026-11-08 08:41"
+    },
+    {
+      "id": "2119224682998047222",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2119224682998047222",
+      "created_at": "2026-11-08T00:25:12.000Z",
+      "views": 74973,
+      "rate_per_hour": 4549,
+      "prev": {
+        "views": 72490,
+        "checked_at": "2026-11-08T18:40:08+08:00"
+      },
+      "metrics": {
+        "bookmark_count": 413,
+        "impression_count": 74973,
+        "like_count": 403,
+        "quote_count": 5,
+        "reply_count": 181,
+        "retweet_count": 13
+      },
+      "text": "Intermediary conclusion for now:\n\nMost of the good non-fluoride hydroxyapatite toothpaste like Nobs, Boka and Biomin are only sold in the US as most Europeans are blissfully unaware of the problem with fluoride\n\nTrying to buy it on Amazon Europe you pay like 5x to 10x the price, if it's available at all, it's crazy!\n\nGuess we have to fly to 🇺🇸 America again",
+      "quoted": [
+        "Guys, it's that time again\n\nWhat's the best toothpaste?\n\nPreferrably without fluoride etc, and as clean and bio and healthy as possible\n\nThank you!!!"
+      ],
+      "hit": false,
+      "already_pushed": true,
+      "text_zh": "目前的阶段性结论：\n\n大多数好用的无氟羟基磷灰石牙膏，比如 Nobs、Boka 和 Biomin，都只在美国销售，因为大部分欧洲人对氟化物的问题浑然不觉。\n\n想在欧洲亚马逊上买，价格要贵 5 到 10 倍。（引用自己此前的帖子：问大家最好的牙膏是什么，最好无氟、尽量干净天然健康。）",
+      "created_at_bj": "2026-11-08 08:25"
+    },
+    {
+      "id": "2119223829172007255",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2119223829172007255",
+      "created_at": "2026-11-08T00:21:48.000Z",
+      "views": 66069,
+      "rate_per_hour": 3371,
+      "prev": {
+        "views": 64229,
+        "checked_at": "2026-11-08T18:40:08+08:00"
+      },
+      "metrics": {
+        "bookmark_count": 346,
+        "impression_count": 66069,
+        "like_count": 937,
+        "quote_count": 8,
+        "reply_count": 84,
+        "retweet_count": 34
+      },
+      "text": "\"What the smartest people (or nerds) do on the weekend is what everyone else will do during the week in ten years.\" https://t.co/pMg7ZBAaXb",
+      "quoted": [
+        "I think you might be overestimating how representative the tech bubble is of ordinary people's preferences. It might be worth talking to people outside those circles. \n\nJust because AI makes something easier to do doesn't necessarily mean people will want to do it themselves. Convenience, time, and the willingness to outsource are still very powerful drivers of consumer behavior."
+      ],
+      "hit": false,
+      "already_pushed": true,
+      "text_zh": "「最聪明的人（或者说极客）周末在做的事，就是十年后所有人在工作日会做的事。」（引用一条回复：对方认为 @levelsio 高估了科技圈对普通人偏好的代表性，AI 让事情变容易不代表人们就想自己动手。）",
+      "created_at_bj": "2026-11-08 08:21"
+    },
+    {
+      "id": "2119221698213924874",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2119221698213924874",
+      "created_at": "2026-11-08T00:13:20.000Z",
+      "views": 43511,
+      "rate_per_hour": 2845,
+      "prev": {
+        "views": 41958,
+        "checked_at": "2026-11-08T18:40:08+08:00"
+      },
+      "metrics": {
+        "bookmark_count": 149,
+        "impression_count": 43511,
+        "like_count": 170,
+        "quote_count": 5,
+        "reply_count": 31,
+        "retweet_count": 3
+      },
+      "text": "Very interesting... 🇨🇳 Foshan for custom furniture! https://t.co/EnRwpMFu2T",
+      "quoted": [
+        "@levelsio My observation: when visiting furniture stores i rarely like anything. When i tried to check online i didn’t like anything from china. But when i came in person, maaan, totally different game. Foshan in a furniture capital of the world, i was walking their furniture mall …."
+      ],
+      "hit": false,
+      "already_pushed": true,
+      "text_zh": "很有意思……🇨🇳 佛山定制家具！（引用一条回复：对方说在网上看中国家具没什么喜欢的，但亲自去佛山——世界家具之都——逛家具商场，体验完全不同。）",
+      "created_at_bj": "2026-11-08 08:13"
+    },
+    {
+      "id": "2119213778294435966",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2119213778294435966",
+      "created_at": "2026-11-07T23:41:52.000Z",
+      "views": 38731,
+      "rate_per_hour": 1453,
+      "prev": {
+        "views": 37938,
+        "checked_at": "2026-11-08T18:40:08+08:00"
+      },
+      "metrics": {
+        "bookmark_count": 108,
+        "impression_count": 38731,
+        "like_count": 726,
+        "quote_count": 6,
+        "reply_count": 51,
+        "retweet_count": 40
+      },
+      "text": "I think the coolest part of having kids is reliving your own childhood in a different way.  \n\nYou remember what it felt like to be scared of the dark, to wait all year for a birthday or to think a cardboard box was the best toy in the world. \n\nThe difference is that now you're on the other side of it. And you get to be the person who makes those moments feel safe and magical.\n\nYou see the world through someone who's seeing it for the first time, and it makes you curious again. \n\nI didn't expect parenting to make me feel younger on one hand, and older on the other but some days it does.\n\nHighly recommend :)",
+      "quoted": [],
+      "hit": false,
+      "already_pushed": true,
+      "text_zh": "我觉得有孩子最酷的一点，是能以另一种方式重温自己的童年。\n\n你会想起怕黑是什么感觉，想起一整年都在等生日，想起觉得一个纸箱就是世界上最好的玩具。\n\n不同的是，现在你站在……（正文到此截断）",
+      "created_at_bj": "2026-11-08 07:41"
+    },
+    {
+      "id": "2119211192132510200",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2119211192132510200",
+      "created_at": "2026-11-07T23:31:35.000Z",
+      "views": 46588,
+      "rate_per_hour": 3067,
+      "prev": {
+        "views": 44914,
+        "checked_at": "2026-11-08T18:40:08+08:00"
+      },
+      "metrics": {
+        "bookmark_count": 185,
+        "impression_count": 46588,
+        "like_count": 373,
+        "quote_count": 7,
+        "reply_count": 80,
+        "retweet_count": 6
+      },
+      "text": "I think many people are underestimating basic economics\n\nIf something is 5x cheaper to buy and it's personalized (aka better) it'll be worth it\n\nAlso you've ever ordered something from furniture brands these days? Service is non-existent and everything is delayed because of labor shortages, on top of that two of the furniture companies I ordered from went bankrupt after we got our orders!\n\nWe're in the era of personal software and as an extension of that personal hardware, with kind of a second maker wave happening, because now it's suddenly become accessible to design and build hardware for almost everybody, thanks to AI\n\nThe question here is will suppliers (mostly in China) also start doing custom assembly and shipping it worldwide, many already do but this seems a market they could jump on\n\nMany furniture brands are essentially dropshippers for products made in cheap countries anyway. Even the fancy Italian brands mostly produce in Eastern Europe and China!\n\nSo all you're doing is removing the intermediary I think 🤔",
+      "quoted": [
+        "I think you're substantially underestimating how many people would simply rather pay for something than spend their own time designing, sourcing, coordinating, and assembling it themselves.\n\nTime and convenience have value too. Not everyone wants to become a furniture designer or manufacturer just to save money on a sofa."
+      ],
+      "hit": false,
+      "already_pushed": true,
+      "text_zh": "我觉得很多人低估了基本的经济学。\n\n如果一样东西买起来便宜 5 倍，而且是个性化的（也就是更好），那就值得。\n\n另外，你最近从家具品牌订过东西吗？服务几乎不存在，而且因为人工问题什么都延期。（引用一条回复：对方认为很多人宁愿花钱，也不想自己花时间去设计、采购、协调和组装。）",
+      "created_at_bj": "2026-11-08 07:31"
+    }
+  ],
+  "new_hits": [],
+  "note": "Posts over threshold were already in pushed; no new hits."
+}
