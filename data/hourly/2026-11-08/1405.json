@@ -1,0 +1,386 @@
+{
+  "run_at": "2026-11-08T14:05:13+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2119228899754209356",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2119228899754209356",
+      "created_at": "2026-11-08T00:41:57.000Z",
+      "views": 33936,
+      "rate_per_hour": 4156,
+      "prev": {
+        "views": 32040,
+        "checked_at": "2026-11-08T13:37:51+08:00"
+      },
+      "metrics": {
+        "bookmark_count": 48,
+        "impression_count": 33936,
+        "like_count": 94,
+        "quote_count": 3,
+        "reply_count": 19,
+        "retweet_count": 2
+      },
+      "text": "ssh https://t.co/IECCbaSeDt",
+      "quoted": [],
+      "hit": false,
+      "text_zh": "ssh https://t.co/IECCbaSeDt",
+      "created_at_bj": "2026-11-08 08:41"
+    },
+    {
+      "id": "2119224682998047222",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2119224682998047222",
+      "created_at": "2026-11-08T00:25:12.000Z",
+      "views": 45679,
+      "rate_per_hour": 5522,
+      "prev": {
+        "views": 43160,
+        "checked_at": "2026-11-08T13:37:51+08:00"
+      },
+      "metrics": {
+        "bookmark_count": 252,
+        "impression_count": 45679,
+        "like_count": 248,
+        "quote_count": 3,
+        "reply_count": 94,
+        "retweet_count": 10
+      },
+      "text": "Intermediary conclusion for now:\n\nMost of the good non-fluoride hydroxyapatite toothpaste like Nobs, Boka and Biomin are only sold in the US as most Europeans are blissfully unaware of the problem with fluoride\n\nTrying to buy it on Amazon Europe you pay like 5x to 10x the price, https://t.co/nbUorS95Wc",
+      "quoted": [
+        "Guys, it's that time again\n\nWhat's the best toothpaste?\n\nPreferrably without fluoride etc, and as clean and bio and healthy as possible\n\nThank you!!!"
+      ],
+      "hit": false,
+      "text_zh": "目前的阶段性结论：\n\n大多数好用的无氟羟基磷灰石牙膏，比如 Nobs、Boka 和 Biomin，都只在美国销售，因为大部分欧洲人对氟化物的问题浑然不觉。\n\n想在欧洲亚马逊上买，价格要贵 5 到 10 倍。（引用自己此前的帖子：问大家最好的牙膏是什么，最好无氟、尽量干净天然健康。）",
+      "created_at_bj": "2026-11-08 08:25"
+    },
+    {
+      "id": "2119223829172007255",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2119223829172007255",
+      "created_at": "2026-11-08T00:21:48.000Z",
+      "views": 42355,
+      "rate_per_hour": 4209,
+      "prev": {
+        "views": 40435,
+        "checked_at": "2026-11-08T13:37:51+08:00"
+      },
+      "metrics": {
+        "bookmark_count": 227,
+        "impression_count": 42355,
+        "like_count": 646,
+        "quote_count": 6,
+        "reply_count": 63,
+        "retweet_count": 25
+      },
+      "text": "\"What the smartest people (or nerds) do on the weekend is what everyone else will do during the week in ten years.\" https://t.co/pMg7ZBAaXb",
+      "quoted": [
+        "@cogentgene1 @levelsio I think you might be overestimating how representative the tech bubble is of ordinary people's preferences. It might be worth talking to people outside those circles. \n\nJust because AI makes something easier to do doesn't necessarily mean people will want to do it themselves."
+      ],
+      "hit": false,
+      "text_zh": "「最聪明的人（或者说极客）周末在做的事，就是十年后所有人在工作日会做的事。」（引用一条回复：对方认为 @levelsio 高估了科技圈对普通人偏好的代表性，AI 让事情变容易不代表人们就想自己动手。）",
+      "created_at_bj": "2026-11-08 08:21"
+    },
+    {
+      "id": "2119221698213924874",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2119221698213924874",
+      "created_at": "2026-11-08T00:13:20.000Z",
+      "views": 28001,
+      "rate_per_hour": 2104,
+      "prev": {
+        "views": 27041,
+        "checked_at": "2026-11-08T13:37:51+08:00"
+      },
+      "metrics": {
+        "bookmark_count": 81,
+        "impression_count": 28001,
+        "like_count": 107,
+        "quote_count": 3,
+        "reply_count": 25,
+        "retweet_count": 3
+      },
+      "text": "Very interesting... 🇨🇳 Foshan for custom furniture! https://t.co/EnRwpMFu2T",
+      "quoted": [
+        "@levelsio My observation: when visiting furniture stores i rarely like anything. When i tried to check online i didn’t like anything from china. But when i came in person, maaan, totally different game. Foshan in a furniture capital of the world, i was walking their furniture mall …."
+      ],
+      "hit": false,
+      "text_zh": "很有意思……🇨🇳 佛山定制家具！（引用一条回复：对方说在网上看中国家具没什么喜欢的，但亲自去佛山——世界家具之都——逛家具商场，体验完全不同。）",
+      "created_at_bj": "2026-11-08 08:13"
+    },
+    {
+      "id": "2119211192132510200",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2119211192132510200",
+      "created_at": "2026-11-07T23:31:35.000Z",
+      "views": 30388,
+      "rate_per_hour": 2284,
+      "prev": {
+        "views": 29346,
+        "checked_at": "2026-11-08T13:37:51+08:00"
+      },
+      "metrics": {
+        "bookmark_count": 115,
+        "impression_count": 30388,
+        "like_count": 245,
+        "quote_count": 4,
+        "reply_count": 59,
+        "retweet_count": 3
+      },
+      "text": "I think many people are underestimating basic economics\n\nIf something is 5x cheaper to buy and it's personalized (aka better) it'll be worth it\n\nAlso you've ever ordered something from furniture brands these days? Service is non-existent and everything is delayed because of labor https://t.co/gvl567LHrm",
+      "quoted": [
+        "@levelsio I think you're substantially underestimating how many people would simply rather pay for something than spend their own time designing, sourcing, coordinating, and assembling it themselves.\n\nTime and convenience have value too. Not everyone wants to become a furniture designer or"
+      ],
+      "hit": false,
+      "text_zh": "我觉得很多人低估了基本的经济学。\n\n如果一样东西买起来便宜 5 倍，而且是个性化的（也就是更好），那就值得。\n\n另外，你最近从家具品牌订过东西吗？服务几乎不存在，而且因为人工问题什么都延期。（引用一条回复：对方认为很多人宁愿花钱，也不想自己花时间去设计、采购、协调和组装。）",
+      "created_at_bj": "2026-11-08 07:31"
+    },
+    {
+      "id": "2119134858534416596",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2119134858534416596",
+      "created_at": "2026-11-07T18:28:16.000Z",
+      "views": 43943,
+      "rate_per_hour": 1002,
+      "prev": {
+        "views": 43486,
+        "checked_at": "2026-11-08T13:37:51+08:00"
+      },
+      "metrics": {
+        "bookmark_count": 325,
+        "impression_count": 43943,
+        "like_count": 520,
+        "quote_count": 4,
+        "reply_count": 88,
+        "retweet_count": 17
+      },
+      "text": "Massive market maybe opening up now for woodworkers and carpenters etc to put stuff together that people design themselves with their AI agent and then buy raw materials from suppliers https://t.co/3CHfB5V3yR",
+      "quoted": [
+        "@levelsio big in diy here. Agreed that its gonna be cheaper than most big brands that charge 1000% markups. In the case of IKEA, getting the raw materials is more expensive that getting the finished piece, because of economies of scale (sourcing in big vols).\nAtm there's a sweet spot of"
+      ],
+      "hit": false,
+      "text_zh": "也许一个巨大的市场正在打开：木工、木匠等可以帮人组装那些人们用自己的 AI agent 设计、再从供应商那里买原材料的家具。（引用一条回复：对方说自己很喜欢 DIY，同意会比加价 1000% 的大品牌便宜，但像 IKEA 因为规模效应，原材料反而比成品贵。）",
+      "created_at_bj": "2026-11-08 02:28"
+    },
+    {
+      "id": "2119132202952798369",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2119132202952798369",
+      "created_at": "2026-11-07T18:17:43.000Z",
+      "views": 161056,
+      "rate_per_hour": 6563,
+      "prev": {
+        "views": 158062,
+        "checked_at": "2026-11-08T13:37:51+08:00"
+      },
+      "metrics": {
+        "bookmark_count": 1923,
+        "impression_count": 161056,
+        "like_count": 1885,
+        "quote_count": 72,
+        "reply_count": 293,
+        "retweet_count": 86
+      },
+      "text": "Claude Code can design furniture part by part and then give you a bill of materials to order each part and put it together yourself \n\nAnd way cheaper than big interior brands sell you their furniture\n\nFurnishing my house I discovered how absolutely insane prices are for the most https://t.co/tCV4AHYPnn",
+      "quoted": [],
+      "hit": false,
+      "text_zh": "Claude Code 可以一块一块地设计家具，然后给你一份物料清单，让你逐个订购零件、自己组装。\n\n而且比大型家居品牌卖给你的家具便宜得多。\n\n在给我家添置家具的过程中，我发现大多数东西的价格简直离谱……（帖子正文到此截断）",
+      "created_at_bj": "2026-11-08 02:17"
+    },
+    {
+      "id": "2119229734563271124",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2119229734563271124",
+      "created_at": "2026-11-08T00:45:16.000Z",
+      "views": 74225,
+      "rate_per_hour": 8679,
+      "prev": {
+        "views": 70266,
+        "checked_at": "2026-11-08T13:37:51+08:00"
+      },
+      "metrics": {
+        "bookmark_count": 2279,
+        "impression_count": 74225,
+        "like_count": 1112,
+        "quote_count": 15,
+        "reply_count": 129,
+        "retweet_count": 57
+      },
+      "text": "now that apple put xcode inside claude code, here’s how i’d find, build and grow an iOS app with AI agents:\n\nfind it\n- open appfigures or sensor tower and sort utilities by revenue\n- filter for apps with a rating under 3.5\n- bonus points if the top app hasn't shipped an update in https://t.co/NPpSt7cug2",
+      "quoted": [
+        "Apple just put Xcode inside Claude Code.\n\nIt's an official Apple plugin, now in Claude Code's plugin directory:\n\n•⁠  ⁠Build, run and test your app\n•⁠  ⁠Render SwiftUI previews\n•⁠  ⁠Drive simulators and real iPhones\n•⁠  ⁠Read build logs and errors\n•⁠  ⁠Search"
+      ],
+      "hit": false,
+      "text_zh": "既然 Apple 已经把 Xcode 放进了 Claude Code，下面是我会如何用 AI agents 找到、开发并增长一个 iOS app：\n\n找方向\n- 打开 appfigures 或 sensor tower，把工具类 app 按收入排序\n- 筛选评分低于 3.5 的 app\n- 如果排名第一的 app 很久没更新，那就更加分……（正文到此截断）\n（引用帖：Apple 刚把 Xcode 放进 Claude Code，这是 Claude Code 插件目录里的官方 Apple 插件，可以构建、运行、测试 app，渲染 SwiftUI 预览，操控模拟器和真机，读取构建日志和错误等。）",
+      "created_at_bj": "2026-11-08 08:45"
+    },
+    {
+      "id": "2119213778294435966",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2119213778294435966",
+      "created_at": "2026-11-07T23:41:52.000Z",
+      "views": 29175,
+      "rate_per_hour": 2525,
+      "prev": {
+        "views": 28023,
+        "checked_at": "2026-11-08T13:37:51+08:00"
+      },
+      "metrics": {
+        "bookmark_count": 83,
+        "impression_count": 29175,
+        "like_count": 539,
+        "quote_count": 3,
+        "reply_count": 43,
+        "retweet_count": 32
+      },
+      "text": "I think the coolest part of having kids is reliving your own childhood in a different way.  \n\nYou remember what it felt like to be scared of the dark, to wait all year for a birthday or to think a cardboard box was the best toy in the world. \n\nThe difference is that now you're on",
+      "quoted": [],
+      "hit": false,
+      "text_zh": "我觉得有孩子最酷的一点，是能以另一种方式重温自己的童年。\n\n你会想起怕黑是什么感觉，想起一整年都在等生日，想起觉得一个纸箱就是世界上最好的玩具。\n\n不同的是，现在你站在……（正文到此截断）",
+      "created_at_bj": "2026-11-08 07:41"
+    },
+    {
+      "id": "2119158496524714097",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2119158496524714097",
+      "created_at": "2026-11-07T20:02:12.000Z",
+      "views": 15370,
+      "rate_per_hour": 399,
+      "prev": {
+        "views": 15188,
+        "checked_at": "2026-11-08T13:37:51+08:00"
+      },
+      "metrics": {
+        "bookmark_count": 69,
+        "impression_count": 15370,
+        "like_count": 125,
+        "quote_count": 1,
+        "reply_count": 37,
+        "retweet_count": 7
+      },
+      "text": "the story of how stripe started is pretty fascinating (now it's a $159B company) \n\njohn and patrick were 2 brothers from small town ireland, only 19 and 21 when they started stripe!\n\nit's a good reminder that you don't need to be older or super experienced to build something big https://t.co/JSRPMPpols",
+      "quoted": [],
+      "hit": false,
+      "text_zh": "Stripe 的创业故事相当精彩（现在是一家 1590 亿美元的公司）。\n\nJohn 和 Patrick 是来自爱尔兰小镇的两兄弟，创办 Stripe 时只有 19 岁和 21 岁！\n\n这很好地提醒我们：要做出大事，不一定要年纪更大或经验特别丰富。",
+      "created_at_bj": "2026-11-08 04:02"
+    },
+    {
+      "id": "2119151666083643870",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2119151666083643870",
+      "created_at": "2026-11-07T19:35:03.000Z",
+      "views": 24182,
+      "rate_per_hour": 809,
+      "prev": {
+        "views": 23813,
+        "checked_at": "2026-11-08T13:37:51+08:00"
+      },
+      "metrics": {
+        "bookmark_count": 336,
+        "impression_count": 24182,
+        "like_count": 387,
+        "quote_count": 0,
+        "reply_count": 97,
+        "retweet_count": 19
+      },
+      "text": "the state of startups in 1 chart: acquire niche data, orchestrate ai agents and run the loop as fast as possible https://t.co/LvOJBhwFcK https://t.co/P99qe1hyCq",
+      "quoted": [
+        "building a company these days is basically a loop:\n\nacquire valuable context\norchestrate agents to build on it\nfeed the data back in\ncall humans like an api\nrepeat\n\nthe best context/faster loop wins"
+      ],
+      "hit": false,
+      "text_zh": "一张图看懂创业现状：获取细分领域数据，编排 AI agents，然后尽可能快地跑这个循环。（引用帖：如今创业基本就是一个循环——获取有价值的上下文、编排 agents 在其上构建、把数据回灌、像调用 API 一样调用人类、重复；上下文最好、循环最快的人赢。）",
+      "created_at_bj": "2026-11-08 03:35"
+    },
+    {
+      "id": "2119134064091484422",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2119134064091484422",
+      "created_at": "2026-11-07T18:25:07.000Z",
+      "views": 35631,
+      "rate_per_hour": 1324,
+      "prev": {
+        "views": 35027,
+        "checked_at": "2026-11-08T13:37:51+08:00"
+      },
+      "metrics": {
+        "bookmark_count": 193,
+        "impression_count": 35631,
+        "like_count": 726,
+        "quote_count": 14,
+        "reply_count": 126,
+        "retweet_count": 40
+      },
+      "text": "learn to market is the new learn to code https://t.co/2d8LTzHtzg",
+      "quoted": [
+        "i think we've reached the point where the cracked marketer is more in demand than the cracked engineer"
+      ],
+      "hit": false,
+      "text_zh": "学会营销就是新的学会编程。（引用帖：我觉得我们已经到了顶尖营销人比顶尖工程师更抢手的时候。）",
+      "created_at_bj": "2026-11-08 02:25"
+    },
+    {
+      "id": "2119264334627090514",
+      "user": "steipete",
+      "url": "https://x.com/steipete/status/2119264334627090514",
+      "created_at": "2026-11-08T03:02:46.000Z",
+      "views": 44491,
+      "rate_per_hour": 11347,
+      "prev": {
+        "views": 39315,
+        "checked_at": "2026-11-08T13:37:51+08:00"
+      },
+      "metrics": {
+        "bookmark_count": 69,
+        "impression_count": 44491,
+        "like_count": 977,
+        "quote_count": 8,
+        "reply_count": 78,
+        "retweet_count": 42
+      },
+      "text": "The Asahi project was all about taking something closed and restricted and opening it up.\n\nAdding new restrictions that make it harder for other projects to build on that is not the way. And that AI rejection is just silly. https://t.co/fT4O4wieQm",
+      "quoted": [],
+      "hit": false,
+      "text_zh": "Asahi 项目的意义就在于把封闭、受限的东西打开。\n\n增加新的限制、让其他项目更难在其基础上构建，不是正确的路。而那种拒绝 AI 的做法实在很傻。",
+      "created_at_bj": "2026-11-08 11:02"
+    },
+    {
+      "id": "2119134238624584186",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2119134238624584186",
+      "created_at": "2026-11-07T18:25:48.000Z",
+      "views": 2823,
+      "rate_per_hour": 254,
+      "prev": {
+        "views": 2707,
+        "checked_at": "2026-11-08T13:37:51+08:00"
+      },
+      "metrics": {
+        "bookmark_count": 28,
+        "impression_count": 2823,
+        "like_count": 95,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 4
+      },
+      "text": "Ready, player one? https://t.co/c26IUNNGCt https://t.co/2dUUtP6aUF",
+      "quoted": [
+        "Lost frequencies https://t.co/975FzeZ1tx https://t.co/OEAx59fDWK"
+      ],
+      "hit": false,
+      "text_zh": "准备好了吗，玩家一号？（引用自己的帖子：Lost frequencies，附作品链接。）",
+      "created_at_bj": "2026-11-08 02:25"
+    }
+  ],
+  "new_hits": [],
+  "note": "No new qualifying posts this round (rates above 5000/h only on already-pushed posts)."
+}
