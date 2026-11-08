@@ -1,0 +1,232 @@
+{
+  "run_at": "2026-11-08T23:40:02.434080+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2119450489561731567",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2119450489561731567",
+      "created_at": "2026-11-08T15:22:28.000Z",
+      "created_at_bj": "2026-11-08 23:22",
+      "views": 7287,
+      "rate_per_hour": 24879,
+      "basis": "first_seen",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 7,
+        "impression_count": 7287,
+        "like_count": 23,
+        "quote_count": 1,
+        "reply_count": 12,
+        "retweet_count": 0
+      },
+      "text": "Not local at all\n\nYour AI agent designs it with you based on your ideas and pictures (mood board)\n\nThen it's ordered from China https://t.co/Ct31EsNjUY",
+      "text_zh": "根本不是本地的\n\n你的 AI 智能体会根据你的想法和图片（情绪板）跟你一起把它设计出来\n\n然后从中国下单 https://t.co/Ct31EsNjUY",
+      "quoted": [
+        {
+          "id": "2119445966314987684",
+          "text": "@levelsio Is this the rise of the local makerspace / high mix assembly center? 3d print spare parts, assemble wood furniture, machines for metal, etc?",
+          "text_zh": "@levelsio 这是本地创客空间 / 多品种小批量组装中心要兴起了吗？3D 打印备件、组装木制家具、加工金属的机器之类的？"
+        }
+      ],
+      "hit": true,
+      "already_pushed": false
+    },
+    {
+      "id": "2119436404304547870",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2119436404304547870",
+      "created_at": "2026-11-08T14:26:30.000Z",
+      "created_at_bj": "2026-11-08 22:26",
+      "views": 923,
+      "rate_per_hour": 460,
+      "basis": "delta",
+      "prev": {
+        "views": 671,
+        "checked_at": "2026-11-08T23:07:12.206784+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 5,
+        "impression_count": 923,
+        "like_count": 26,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "Press start https://t.co/wfx5qfovTv https://t.co/ToWuGG5bc9",
+      "text_zh": "按下开始 https://t.co/wfx5qfovTv https://t.co/ToWuGG5bc9",
+      "quoted": [
+        {
+          "id": "2119134238624584186",
+          "text": "Ready, player one? https://t.co/c26IUNNGCt https://t.co/2dUUtP6aUF",
+          "text_zh": "准备好了吗，玩家一号？ https://t.co/c26IUNNGCt https://t.co/2dUUtP6aUF"
+        }
+      ],
+      "hit": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2119430368390414598",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2119430368390414598",
+      "created_at": "2026-11-08T14:02:31.000Z",
+      "created_at_bj": "2026-11-08 22:02",
+      "views": 13556,
+      "rate_per_hour": 5041,
+      "basis": "delta",
+      "prev": {
+        "views": 10797,
+        "checked_at": "2026-11-08T23:07:12.206784+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 8,
+        "impression_count": 13556,
+        "like_count": 38,
+        "quote_count": 0,
+        "reply_count": 18,
+        "retweet_count": 0
+      },
+      "text": "When you try to install your new Midea dehumidifier in your gym to your Photo AI website https://t.co/CAmKxhmv85",
+      "text_zh": "当你想把新买的 Midea 除湿机装进你的健身房，结果装到了你的 Photo AI 网站上 https://t.co/CAmKxhmv85",
+      "quoted": [],
+      "hit": false,
+      "already_pushed": true
+    },
+    {
+      "id": "2119419832097812760",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2119419832097812760",
+      "created_at": "2026-11-08T13:20:39.000Z",
+      "created_at_bj": "2026-11-08 21:20",
+      "views": 17262,
+      "rate_per_hour": 4248,
+      "basis": "delta",
+      "prev": {
+        "views": 14937,
+        "checked_at": "2026-11-08T23:07:12.206784+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 4,
+        "impression_count": 17262,
+        "like_count": 57,
+        "quote_count": 0,
+        "reply_count": 30,
+        "retweet_count": 0
+      },
+      "text": "I like to illustrate my dreams (if I ever remember them) with AI \n\nHere's last night's dream involving @DJFreshUK https://t.co/FIM0KP6QkR",
+      "text_zh": "我喜欢用 AI 把我的梦画出来（如果我还记得的话）\n\n这是昨晚的梦，里面有 @DJFreshUK https://t.co/FIM0KP6QkR",
+      "quoted": [],
+      "hit": false,
+      "already_pushed": true
+    },
+    {
+      "id": "2119419423979458589",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2119419423979458589",
+      "created_at": "2026-11-08T13:19:02.000Z",
+      "created_at_bj": "2026-11-08 21:19",
+      "views": 18260,
+      "rate_per_hour": 5259,
+      "basis": "delta",
+      "prev": {
+        "views": 15382,
+        "checked_at": "2026-11-08T23:07:12.206784+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 19,
+        "impression_count": 18260,
+        "like_count": 243,
+        "quote_count": 2,
+        "reply_count": 78,
+        "retweet_count": 3
+      },
+      "text": "🌟 all-time high traffic on TrustMRR 🌟 https://t.co/5PxLSuPoEX",
+      "text_zh": "🌟 TrustMRR 流量创历史新高 🌟 https://t.co/5PxLSuPoEX",
+      "quoted": [],
+      "hit": false,
+      "already_pushed": true
+    },
+    {
+      "id": "2119410219436642480",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2119410219436642480",
+      "created_at": "2026-11-08T12:42:27.000Z",
+      "created_at_bj": "2026-11-08 20:42",
+      "views": 29395,
+      "rate_per_hour": 6733,
+      "basis": "delta",
+      "prev": {
+        "views": 25710,
+        "checked_at": "2026-11-08T23:07:12.206784+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 63,
+        "impression_count": 29395,
+        "like_count": 162,
+        "quote_count": 7,
+        "reply_count": 59,
+        "retweet_count": 7
+      },
+      "text": "📟 Inspired by @ThePrimeagen's Terminal Shop where you can order coffee via SSH\n\nI made https://t.co/nBzG5NG7sV \n\n> ssh https://t.co/IECCbaSMt1\n\nAnd you can even walk around in my teenage bedroom in 3d via SSH, or chat on IRC, or read my blog or sign the guestbook! https://t.co/YV8O67hrIF https://t.co/UTQwF37O7M",
+      "text_zh": "📟 受 @ThePrimeagen 的 Terminal Shop（可以通过 SSH 订咖啡）启发\n\n我做了 https://t.co/nBzG5NG7sV\n\n> ssh https://t.co/IECCbaSMt1\n\n你甚至还能通过 SSH 以 3D 方式在我青少年时期的卧室里四处走动，或者在 IRC 上聊天、读我的博客、签留言簿！ https://t.co/YV8O67hrIF https://t.co/UTQwF37O7M",
+      "quoted": [
+        {
+          "id": "2119257016086806879",
+          "text": "@levelsio Hello Pieter https://t.co/gvlbUN8vnb",
+          "text_zh": "@levelsio 你好 Pieter https://t.co/gvlbUN8vnb"
+        }
+      ],
+      "hit": false,
+      "already_pushed": true
+    },
+    {
+      "id": "2119408873488703574",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2119408873488703574",
+      "created_at": "2026-11-08T12:37:06.000Z",
+      "created_at_bj": "2026-11-08 20:37",
+      "views": 32282,
+      "rate_per_hour": 6081,
+      "basis": "delta",
+      "prev": {
+        "views": 28954,
+        "checked_at": "2026-11-08T23:07:12.206784+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 58,
+        "impression_count": 32282,
+        "like_count": 917,
+        "quote_count": 4,
+        "reply_count": 27,
+        "retweet_count": 17
+      },
+      "text": "POV: you're Jensen Huang now https://t.co/yiiqg6pujF",
+      "text_zh": "POV：你现在就是黄仁勋了 https://t.co/yiiqg6pujF",
+      "quoted": [],
+      "hit": false,
+      "already_pushed": true
+    }
+  ],
+  "new_hits": [
+    "2119450489561731567"
+  ],
+  "dropped_from_window": [],
+  "notes": "gregisenberg/steipete/karpathy 窗口内无原创或引用帖。"
+}
