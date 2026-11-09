@@ -1,0 +1,111 @@
+{
+  "run_at": "2026-11-09T18:40:00+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "1834",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2119564112208257515",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2119564112208257515",
+      "created_at": "2026-11-08T22:53:58.000Z",
+      "created_at_bj": "2026-11-09 06:53",
+      "views": 63637,
+      "rate_per_hour": 3527,
+      "basis": "delta",
+      "prev": {
+        "views": 61991,
+        "checked_at": "2026-11-09T18:12:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 103,
+        "impression_count": 63637,
+        "like_count": 384,
+        "quote_count": 14,
+        "reply_count": 122,
+        "retweet_count": 6
+      },
+      "already_pushed": true,
+      "text": "🪦 RIP \n\n🫟 Infinite Slop TV\n\nAugust 2026 - October 2026\n\nIt let anybody on the internet write into a chat that fed into a perpetual stream of live generated AI video (aka slop)\n\nIt wasn't possible before that because there weren't AI video models yet that generated faster than they could be played, but then @fal hacked @MiniMax_AI's H3 to be so fast that it finally could! FAL also sponsored me to do this project because otherwise it would have costed me $200,000/mo in GPU cost, at least!\n\nHere's some stats:\n\n📈 17,800,000 clip views\n💬 287,555 chat messages\n❤️ 287,000 likes on clips\n📺 210,196 AI clips aired\n🛡 125,808 messages blocked by moderation 💀 (so about 44% was blocked!)\n👀 185,000 visitors\n💬 47,000 people made videos\n⏱ 860 hours of never-repeating video\n💰 3 sponsors: @sideshiftai + @creem_io + @chatbase\n\nPaid out 3 prizes: \n🏆 $5000 to \"67\" (wanted to stay anon)\n🪙 $2500 to @ssthormess (aka \"SS\" on the site)\n🥉 $1000 to @tatusea_ (\"tatusea\" on the site)\n\nIn the end it didn't manage to keep catching attention though but it was a great little fun internet experiment\n\nLots of funny weird things happened, because each video generated would take cues from the previous (the AI would try keep some type of cohesion), you'd get these kind of trends keep going through videos. For awhile every video had goth girls, then slime girls, then pickles, then it'd turn into pixel art, and then people would spam it back to goth girls\n\nThere is something here though, but I'm not sure what it is, or how to make it work in the future. Slop is of course slop, and it is addictive but after awhile it also gets boring because it's still too basic. I can see that there will be interactive and personalized content in the future that's live generated and will work but we're not there yetttt\n\nIt's also a bit dystopian but utopian in other ways: live generated teachers explaining stuff to kids is awesome for example and I think I saw Minimax H3 Max used for that too\n\nAnyway, everyone thanks for watching and creating! 🙏😊",
+      "text_zh": "🪦 RIP\n\n🫟 Infinite Slop TV\n\n2026 年 8 月 - 2026 年 10 月\n\n它让互联网上的任何人都可以往聊天里写内容，这些内容会进入一条永不停歇的实时生成 AI 视频流（也就是 slop）\n\n以前这不可能，因为还没有生成速度快过播放速度的 AI 视频模型，但后来 @fal 把 @MiniMax_AI 的 H3 优化到足够快，终于做到了！FAL 还赞助了我做这个项目，否则光 GPU 成本每月至少要花掉我 $200,000！\n\n一些数据：\n\n📈 17,800,000 次片段播放\n💬 287,555 条聊天消息\n❤️ 片段收获 287,000 个赞\n📺 播出了 210,196 个 AI 片段\n🛡 125,808 条消息被审核拦截 💀（大约 44% 被拦了！）\n👀 185,000 名访客\n💬 47,000 人制作了视频\n⏱ 860 小时从不重复的视频\n💰 3 位赞助商：@sideshiftai + @creem_io + @chatbase\n\n发放了 3 个奖项：\n🏆 $5000 给了 \"67\"（希望保持匿名）\n🪙 $2500 给了 @ssthormess（站上的 \"SS\"）\n🥉 $1000 给了 @tatusea_（站上的 \"tatusea\"）\n\n最后它没能持续抓住大家的注意力，但这次有趣的互联网小实验还是很棒\n\n中间发生了很多又好笑又奇怪的事，因为每段生成的视频都会从上一段汲取线索（AI 会尽量保持某种连贯性），于是你会看到某种潮流在视频里延续。有一段时间每条视频都是哥特女孩，然后是史莱姆女孩，然后是泡菜，再变成像素艺术，接着人们又会刷回去要哥特女孩\n\n这里面确实有些东西，但我还不确定那是什么，也不确定将来怎么把它做起来。slop 当然还是 slop，它让人上瘾，但过一段时间也会觉得无聊，因为它仍然太基础。我能想象未来会有实时生成的、可交互且个性化的内容，而且能跑起来，但我们现在还没到那一步ttt\n\n这件事也有点反乌托邦，但从另一些角度看又很乌托邦：比如实时生成的老师给孩子们讲课就很棒，我好像也看到 Minimax H3 Max 被用在这方面\n\n总之，谢谢大家观看和创作！🙏😊",
+      "quoted": [
+        {
+          "id": "2093754163343593802",
+          "user": "levelsio",
+          "text": "Okay I built it!\n\n🍰 Infinite Slop\nhttps://t.co/wz0a7VSBtS\n\nAn infinite and interactive AI generated live stream of slop that goes on forever and ever\n\nAnything that you write in the chat is generated next and AI will try to connect it to the previous video so there's an actual sequence and story line\n\nIdea by @marcantoinefon and @rehan_shei's original stream so I made it\n\nIt'd be very expensive to run this so @fal very generously sponsors this\n\nThey also fine-tuned the model that makes this possible for the first time, making Minimax H3 50x faster and as \"Max\" and it can now generate videos faster than you can watch them, very cool!\n\nLet me know what you think!!!! 😊",
+          "text_zh": "好了，我做出来了！\n\n🍰 Infinite Slop\nhttps://t.co/wz0a7VSBtS\n\n一个无限且可互动的 AI 生成 slop 直播，会永远一直播下去\n\n你在聊天里写的任何内容，都会被生成到下一段视频里，而且 AI 会尽量把它和上一段视频衔接起来，从而形成真正的序列和故事线\n\n点子来自 @marcantoinefon 和 @rehan_shei 的原始直播，所以我把它做出来了\n\n跑这个会非常贵，所以 @fal 非常慷慨地赞助了这个项目\n\n他们还微调了让这一切首次成为可能的模型，把 Minimax H3 加速了 50 倍，做成了 “Max”，现在生成视频的速度已经快过你观看的速度，非常酷！\n\n告诉我你们怎么看！！！！😊"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2119705923644015097",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2119705923644015097",
+      "created_at": "2026-11-09T08:17:29.000Z",
+      "created_at_bj": "2026-11-09 16:17",
+      "views": 12429,
+      "rate_per_hour": 2880,
+      "basis": "delta",
+      "prev": {
+        "views": 11085,
+        "checked_at": "2026-11-09T18:12:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 6,
+        "impression_count": 12429,
+        "like_count": 117,
+        "quote_count": 1,
+        "reply_count": 51,
+        "retweet_count": 2
+      },
+      "already_pushed": true,
+      "text": "My official submission for the Guinness World Record in sleeping 😴 https://t.co/bjPoAvRsjv",
+      "text_zh": "这是我冲击 Guinness World Record「睡觉」项目的正式提交 😴 https://t.co/bjPoAvRsjv",
+      "quoted": [],
+      "hit": false
+    },
+    {
+      "id": "2119732555696198073",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2119732555696198073",
+      "created_at": "2026-11-09T10:03:18.000Z",
+      "created_at_bj": "2026-11-09 18:03",
+      "views": 476,
+      "rate_per_hour": 424,
+      "basis": "delta",
+      "prev": {
+        "views": 278,
+        "checked_at": "2026-11-09T18:12:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 0,
+        "impression_count": 476,
+        "like_count": 5,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "already_pushed": false,
+      "text": "Ghost rider https://t.co/oEkTn1nkUA",
+      "text_zh": "幽灵骑士 https://t.co/oEkTn1nkUA",
+      "quoted": [],
+      "hit": false
+    }
+  ],
+  "new_hits": [],
+  "dropped_from_window": [],
+  "notes": "18:34 判定轮（实际运行 18:40:00 北京时间）。间隔约 0.47 小时（上一轮 18:12:00 → 本轮 18:40:00 北京时间）。@gregisenberg 窗口内无原创或引用帖；@steipete 窗口内无原创或引用帖；@karpathy 窗口内无原创或引用帖。本轮 get_users_posts 使用 exclude=replies,retweets 与 start_time=2026-11-08T22:38:00Z；@levelsio 仍返回 2 条自身线程回复，已本地排除：2119564293280608566、2119564265010893292。移出 12 小时窗口：无。本轮窗口起点 2026-11-08T22:38:00Z。所有检查帖均有 impression_count。浏览量与互动数据以本轮 get_users_posts 返回的 public_metrics 为准。@levelsio 2119564112208257515 本轮 get_users_posts 未返回 note_tweet，已用 get_posts_by_ids 补全长文，原文与中文译文与 1812 轮归档一致。@marclou 2119705923644015097 原文与中文译文沿用 1812 轮归档。@egeberkina 2119732555696198073 按与上一快照的浏览量差值计算速率每小时 +424，未超过阈值。本轮新达标 0 条。已推送帖中 2119564112208257515 @levelsio 每小时 +3527 未超过阈值，不再推送。已推送帖中 2119705923644015097 @marclou 每小时 +2880 未超过阈值，不再推送。"
+}
