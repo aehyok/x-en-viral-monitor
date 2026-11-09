@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-11-09T19:41:00+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "1934",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2119751526201618472",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2119751526201618472",
+      "created_at": "2026-11-09T11:18:41.000Z",
+      "created_at_bj": "2026-11-09 19:18",
+      "views": 7302,
+      "rate_per_hour": 19632,
+      "basis": "first_seen",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 9,
+        "impression_count": 7302,
+        "like_count": 30,
+        "quote_count": 1,
+        "reply_count": 15,
+        "retweet_count": 1
+      },
+      "already_pushed": false,
+      "text": "Fixed with 1 prompt and took 1 minute https://t.co/e0abZ6SkK8 https://t.co/VOnWssT5ZQ",
+      "text_zh": "一条 prompt 就修好了，只花了 1 分钟 https://t.co/e0abZ6SkK8 https://t.co/VOnWssT5ZQ",
+      "quoted": [
+        {
+          "id": "2119741630005805415",
+          "user": "huangyun_122",
+          "text": "AI 做的 i18n 本地化，离可用还差太远\n\nlevels 这位独立开发大神，也仅仅只能做到菜单、标签级表面本地汉化，内容侧肯定比不上携程这类专业级本土网站\n\n我试用了下中国酒店导航，内容还是全英文，价格也都是以美刀为单位，地图也没切\n\n本地化最麻烦的就是让一个本地客户在两个语境中不停切换，脑袋要炸的。全英文体验更好，虽然反应会慢点\n\n人类只剩下一种工作 AI 抢不走：体验设计者",
+          "text_zh": "AI 做的 i18n 本地化，离可用还差太远\n\nlevels 这位独立开发大神，也仅仅只能做到菜单、标签级表面本地汉化，内容侧肯定比不上携程这类专业级本土网站\n\n我试用了下中国酒店导航，内容还是全英文，价格也都是以美刀为单位，地图也没切\n\n本地化最麻烦的就是让一个本地客户在两个语境中不停切换，脑袋要炸的。全英文体验更好，虽然反应会慢点\n\n人类只剩下一种工作 AI 抢不走：体验设计者"
+        }
+      ],
+      "hit": true
+    },
+    {
+      "id": "2119743459464729064",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2119743459464729064",
+      "created_at": "2026-11-09T10:46:38.000Z",
+      "created_at_bj": "2026-11-09 18:46",
+      "views": 6139,
+      "rate_per_hour": 4598,
+      "basis": "delta",
+      "prev": {
+        "views": 4070,
+        "checked_at": "2026-11-09T19:14:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 4,
+        "impression_count": 6139,
+        "like_count": 59,
+        "quote_count": 2,
+        "reply_count": 25,
+        "retweet_count": 3
+      },
+      "already_pushed": true,
+      "text": "I randomly met @fullpatstack in Orneval this morning.\n\nAnd… he just made his first $1 online today with his new app https://t.co/kEki052WF6 👏👏\n\nUnfortunately some Alliance people cut our conversation short but we obliterated them. For the Horde! https://t.co/NQij19N8UK",
+      "text_zh": "我今早在 Orneval 偶然遇到了 @fullpatstack。\n\n而且……他今天刚用自己的新 app 赚到了网上的第一美元 https://t.co/kEki052WF6 👏👏\n\n可惜有些 Alliance 的人打断了我们的谈话，但我们把他们消灭了。为了部落！https://t.co/NQij19N8UK",
+      "quoted": [],
+      "hit": false
+    },
+    {
+      "id": "2119705923644015097",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2119705923644015097",
+      "created_at": "2026-11-09T08:17:29.000Z",
+      "created_at_bj": "2026-11-09 16:17",
+      "views": 15138,
+      "rate_per_hour": 2640,
+      "basis": "delta",
+      "prev": {
+        "views": 13950,
+        "checked_at": "2026-11-09T19:14:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 9,
+        "impression_count": 15138,
+        "like_count": 129,
+        "quote_count": 2,
+        "reply_count": 55,
+        "retweet_count": 2
+      },
+      "already_pushed": true,
+      "text": "My official submission for the Guinness World Record in sleeping 😴 https://t.co/bjPoAvRsjv",
+      "text_zh": "这是我冲击 Guinness World Record「睡觉」项目的正式提交 😴 https://t.co/bjPoAvRsjv",
+      "quoted": [],
+      "hit": false
+    },
+    {
+      "id": "2119732555696198073",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2119732555696198073",
+      "created_at": "2026-11-09T10:03:18.000Z",
+      "created_at_bj": "2026-11-09 18:03",
+      "views": 763,
+      "rate_per_hour": 233,
+      "basis": "delta",
+      "prev": {
+        "views": 658,
+        "checked_at": "2026-11-09T19:14:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 2,
+        "impression_count": 763,
+        "like_count": 11,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "already_pushed": false,
+      "text": "Ghost rider https://t.co/oEkTn1nkUA",
+      "text_zh": "幽灵骑士 https://t.co/oEkTn1nkUA",
+      "quoted": [],
+      "hit": false
+    }
+  ],
+  "new_hits": [
+    "2119751526201618472"
+  ],
+  "dropped_from_window": [],
+  "notes": "19:34 判定轮（实际运行 19:41:00 北京时间）。间隔约 0.45 小时（上一轮 19:14:00 → 本轮 19:41:00 北京时间）。@gregisenberg 窗口内无原创或引用帖；@steipete 窗口内无原创或引用帖；@karpathy 窗口内无原创或引用帖。本轮 get_users_posts 使用 exclude=replies,retweets 与 start_time=2026-11-08T23:40:00Z。未移出 12 小时窗口的旧快照。所有检查帖均有 impression_count。浏览量与互动数据以本轮 get_users_posts 返回的 public_metrics 为准。@marclou 2119743459464729064 原文与中文译文沿用 1904 轮归档，按与上一快照的浏览量差值计算速率每小时 +4598，未超过阈值，且已在 pushed 中，不再推送。@marclou 2119705923644015097 原文与中文译文沿用 1834/1904 轮归档，每小时 +2640，未超过阈值，不再推送。@egeberkina 2119732555696198073 按与上一快照的浏览量差值计算速率每小时 +233，未超过阈值。本轮新达标 1 条：2119751526201618472 @levelsio 首次见到，浏览 7302，发帖于 2026-11-09T11:18:41.000Z（北京时间 19:18），距本轮约 0.372 小时，每小时 +19632。该帖为引用帖，引用 @huangyun_122 的 2119741630005805415（批评 AI i18n 本地化仍不够用，并以 levelsio 的中国酒店导航为例）。"
+}
