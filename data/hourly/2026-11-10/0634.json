@@ -1,0 +1,450 @@
+{
+  "run_at": "2026-11-10T06:40:21+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "0634",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2119775037687259452",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2119775037687259452",
+      "created_at": "2026-11-09T12:52:07.000Z",
+      "created_at_bj": "2026-11-09 20:52",
+      "views": 88219,
+      "rate_per_hour": 2962,
+      "basis": "delta",
+      "prev": {
+        "views": 86758,
+        "checked_at": "2026-11-10T06:10:46+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 115,
+        "impression_count": 88219,
+        "like_count": 1839,
+        "quote_count": 6,
+        "reply_count": 57,
+        "retweet_count": 39
+      },
+      "already_pushed": true,
+      "text": "Apparently it's illegal to be more intelligent, more healthy and more ripped in California https://t.co/WKq5rUypnH",
+      "text_zh": "看来在加州，变得更聪明、更健康、身材更精实是违法的 https://t.co/WKq5rUypnH\n\n引用内容：@InternetH0F 发帖称，加州通过一项法律，从 2027 年 1 月 1 日起购买 creatine 需要年龄验证。",
+      "quoted": [
+        {
+          "id": "2119686426811916717",
+          "user": "InternetH0F",
+          "text": "California has passed a law requiring age verification to buy creatine starting January 1, 2027 https://t.co/UrBnHBOBV5",
+          "text_zh": "加州通过了一项法律，从 2027 年 1 月 1 日起购买 creatine 需要年龄验证 https://t.co/UrBnHBOBV5"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2119773878222549451",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2119773878222549451",
+      "created_at": "2026-11-09T12:47:30.000Z",
+      "created_at_bj": "2026-11-09 20:47",
+      "views": 227884,
+      "rate_per_hour": 11868,
+      "basis": "delta",
+      "prev": {
+        "views": 222030,
+        "checked_at": "2026-11-10T06:10:46+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 683,
+        "impression_count": 227884,
+        "like_count": 6151,
+        "quote_count": 128,
+        "reply_count": 536,
+        "retweet_count": 305
+      },
+      "already_pushed": true,
+      "text": "It's never been this easy to build software\n\nAnd never this hard to make money with it",
+      "text_zh": "做软件从来没有像现在这么容易\n\n靠它赚钱也从来没有像现在这么难",
+      "quoted": [],
+      "hit": false
+    },
+    {
+      "id": "2119751526201618472",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2119751526201618472",
+      "created_at": "2026-11-09T11:18:41.000Z",
+      "created_at_bj": "2026-11-09 19:18",
+      "views": 42316,
+      "rate_per_hour": 1044,
+      "basis": "delta",
+      "prev": {
+        "views": 41801,
+        "checked_at": "2026-11-10T06:10:46+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 50,
+        "impression_count": 42316,
+        "like_count": 178,
+        "quote_count": 7,
+        "reply_count": 74,
+        "retweet_count": 2
+      },
+      "already_pushed": true,
+      "text": "Fixed with 1 prompt and took 1 minute https://t.co/e0abZ6SkK8 https://t.co/VOnWssT5ZQ",
+      "text_zh": "一条 prompt 就修好了，只花了 1 分钟 https://t.co/e0abZ6SkK8 https://t.co/VOnWssT5ZQ\n\n引用内容：@huangyun_122 发帖批评 AI 做的 i18n 本地化离可用还很远，levels 的中国酒店导航仍是英文内容和美元标价、地图也没切换，并认为体验设计是人类剩下的工作。",
+      "quoted": [
+        {
+          "id": "2119741630005805415",
+          "user": "huangyun_122",
+          "text": "AI 做的 i18n 本地化，离可用还差太远\n\nlevels 这位独立开发大神，也仅仅只能做到菜单、标签级表面本地汉化，内容侧肯定比不上携程这类专业级本土网站\n\n我试用了下中国酒店导航，内容还是全英文，价格也都是以美刀为单位，地图也没切 https://t.co/Uoay5GlYiX https://t.co/38BhRTi19E",
+          "text_zh": "AI 做的 i18n 本地化，离可用还差太远\n\nlevels 这位独立开发大神，也仅仅只能做到菜单、标签级表面本地汉化，内容侧肯定比不上携程这类专业级本土网站\n\n我试用了下中国酒店导航，内容还是全英文，价格也都是以美刀为单位，地图也没切\n\n本地化最麻烦的就是让一个本地客户在两个语境中不停切换，脑袋要炸的。全英文体验更好，虽然反应会慢点\n\n人类只剩下一种工作 AI 抢不走：体验设计者"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2119831016026276044",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2119831016026276044",
+      "created_at": "2026-11-09T16:34:33.000Z",
+      "created_at_bj": "2026-11-10 00:34",
+      "views": 16884,
+      "rate_per_hour": 961,
+      "basis": "delta",
+      "prev": {
+        "views": 16410,
+        "checked_at": "2026-11-10T06:10:46+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 30,
+        "impression_count": 16884,
+        "like_count": 82,
+        "quote_count": 3,
+        "reply_count": 30,
+        "retweet_count": 2
+      },
+      "already_pushed": false,
+      "text": "Tinder date idea: \n\nOpen Instagram explore page and discuss about what’s there. \n\nThis could even be a matchmaking app https://t.co/p7aMN5srtN",
+      "text_zh": "Tinder 约会点子：\n\n打开 Instagram 的 explore 页面，一起聊上面出现的内容。\n\n这甚至可以做成一个婚恋匹配 app https://t.co/p7aMN5srtN\n\n引用内容：他自己稍早发帖「把你的 Instagram Explore 页面给我看，我就能说出你是什么样的人」。",
+      "quoted": [
+        {
+          "id": "2119829370256892402",
+          "user": "marclou",
+          "text": "Show me your Instagram Explore page and I’ll tell you who you are https://t.co/GBlOBd9XlG",
+          "text_zh": "把你的 Instagram Explore 页面给我看，我就能说出你是什么样的人 https://t.co/GBlOBd9XlG"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2119829370256892402",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2119829370256892402",
+      "created_at": "2026-11-09T16:28:01.000Z",
+      "created_at_bj": "2026-11-10 00:28",
+      "views": 50997,
+      "rate_per_hour": 2984,
+      "basis": "delta",
+      "prev": {
+        "views": 49525,
+        "checked_at": "2026-11-10T06:10:46+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 23,
+        "impression_count": 50997,
+        "like_count": 127,
+        "quote_count": 8,
+        "reply_count": 127,
+        "retweet_count": 0
+      },
+      "already_pushed": false,
+      "text": "Show me your Instagram Explore page and I’ll tell you who you are https://t.co/GBlOBd9XlG",
+      "text_zh": "把你的 Instagram Explore 页面给我看，我就能说出你是什么样的人 https://t.co/GBlOBd9XlG",
+      "quoted": [],
+      "hit": false
+    },
+    {
+      "id": "2119809363980562502",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2119809363980562502",
+      "created_at": "2026-11-09T15:08:31.000Z",
+      "created_at_bj": "2026-11-09 23:08",
+      "views": 11854,
+      "rate_per_hour": 371,
+      "basis": "delta",
+      "prev": {
+        "views": 11671,
+        "checked_at": "2026-11-10T06:10:46+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 3,
+        "impression_count": 11854,
+        "like_count": 75,
+        "quote_count": 1,
+        "reply_count": 32,
+        "retweet_count": 0
+      },
+      "already_pushed": true,
+      "text": "The sudden urge to stream WoW while spinning AI agents https://t.co/QcSmiye9fq",
+      "text_zh": "突然很想一边开着 AI agents 一边直播 WoW https://t.co/QcSmiye9fq\n\n引用内容：他自己稍早发帖说，今早在 Orneval 偶遇 @fullpatstack，对方今天刚用新 app 赚到网上第一美元，还提到被 Alliance 的人打断，最后写下 For the Horde。",
+      "quoted": [
+        {
+          "id": "2119743459464729064",
+          "user": "marclou",
+          "text": "I randomly met @fullpatstack in Orneval this morning.\n\nAnd… he just made his first $1 online today with his new app https://t.co/kEki052WF6 👏👏\n\nUnfortunately some Alliance people cut our conversation short but we obliterated them. For the Horde! https://t.co/NQij19N8UK",
+          "text_zh": "我今早在 Orneval 偶然遇到了 @fullpatstack。\n\n而且……他今天刚用自己的新 app 赚到了网上的第一美元 https://t.co/kEki052WF6 👏👏\n\n可惜有些 Alliance 的人打断了我们的谈话，但我们把他们消灭了。为了部落！https://t.co/NQij19N8UK"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2119757141787787609",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2119757141787787609",
+      "created_at": "2026-11-09T11:41:00.000Z",
+      "created_at_bj": "2026-11-09 19:41",
+      "views": 103400,
+      "rate_per_hour": 4813,
+      "basis": "delta",
+      "prev": {
+        "views": 101026,
+        "checked_at": "2026-11-10T06:10:46+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 204,
+        "impression_count": 103400,
+        "like_count": 1298,
+        "quote_count": 17,
+        "reply_count": 195,
+        "retweet_count": 14
+      },
+      "already_pushed": true,
+      "text": "So... it happened.\n\nThe first 7-figure acquisition on TrustMRR.\n\n$1,000,000 exactly. Sold in October.\n\nIt’s a GTM startup that was just over a year old. The founders listed it on TrustMRR 9 months ago, when I launched the marketplace.\n\nThey received a dozen offers. They picked one, and it took more than 6 months to complete the process, including due diligence.\n\nI can’t describe how happy (and proud) I am to have built TrustMRR.\n\nIt started as a vibe-coded leaderboard, and it’s now a real startup marketplace.\n\n- 215 acquisitions this year\n- 23 days on average from listing to acquisition\n- 8,131 verified buyers\n- 84 offers/inquiries per day\n\nI’m spending more time working TrustMRR because I think it’s one of my most AI-resilient businesses (network effect).\n\nMy goal for 2027 is to make acquisitions 10x faster. Escrow accounts for 70–80% of the time from listing to acquisition, and it doesn’t support some currencies/countries, causing about 30% of transactions to fall through.\n\nGodspeed 🫡",
+      "text_zh": "所以……这件事成真了。\n\nTrustMRR 上的第一笔七位数收购。\n\n正好 $1,000,000。十月成交。\n\n这是一家成立刚过一年的 GTM 创业公司。创始人在 9 个月前、也就是我上线这个 marketplace 的时候，就把公司挂到了 TrustMRR 上。\n\n他们收到了十几份报价。他们选中了一份，整个流程（包括尽职调查）花了六个多月才完成。\n\n我无法形容自己建成 TrustMRR 有多开心（也有多自豪）。\n\n它最初只是一个 vibe-coded 的排行榜，现在已经是一个真正的创业公司 marketplace。\n\n- 今年已完成 215 笔收购\n- 从挂牌到成交平均 23 天\n- 8,131 位已验证买家\n- 每天 84 份报价/询盘\n\n我在 TrustMRR 上投入的时间越来越多，因为我觉得这是我最能抵御 AI 冲击的生意之一（网络效应）。\n\n我 2027 年的目标是让收购速度再快 10 倍。托管（Escrow）占了从挂牌到成交 70–80% 的时间，而且它不支持某些货币/国家，导致大约 30% 的交易因此黄掉。\n\nGodspeed 🫡",
+      "quoted": [],
+      "hit": false
+    },
+    {
+      "id": "2119743459464729064",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2119743459464729064",
+      "created_at": "2026-11-09T10:46:38.000Z",
+      "created_at_bj": "2026-11-09 18:46",
+      "views": 25638,
+      "rate_per_hour": 539,
+      "basis": "delta",
+      "prev": {
+        "views": 25372,
+        "checked_at": "2026-11-10T06:10:46+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 14,
+        "impression_count": 25638,
+        "like_count": 148,
+        "quote_count": 5,
+        "reply_count": 51,
+        "retweet_count": 3
+      },
+      "already_pushed": true,
+      "text": "I randomly met @fullpatstack in Orneval this morning.\n\nAnd… he just made his first $1 online today with his new app https://t.co/kEki052WF6 👏👏\n\nUnfortunately some Alliance people cut our conversation short but we obliterated them. For the Horde! https://t.co/NQij19N8UK",
+      "text_zh": "我今早在 Orneval 偶然遇到了 @fullpatstack。\n\n而且……他今天刚用自己的新 app 赚到了网上的第一美元 https://t.co/kEki052WF6 👏👏\n\n可惜有些 Alliance 的人打断了我们的谈话，但我们把他们消灭了。为了部落！https://t.co/NQij19N8UK",
+      "quoted": [],
+      "hit": false
+    },
+    {
+      "id": "2119889516152414518",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2119889516152414518",
+      "created_at": "2026-11-09T20:27:00.000Z",
+      "created_at_bj": "2026-11-10 04:27",
+      "views": 93908,
+      "rate_per_hour": 38936,
+      "basis": "delta",
+      "prev": {
+        "views": 74702,
+        "checked_at": "2026-11-10T06:10:46+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 766,
+        "impression_count": 93908,
+        "like_count": 1175,
+        "quote_count": 7,
+        "reply_count": 95,
+        "retweet_count": 65
+      },
+      "already_pushed": false,
+      "text": "quick observations from the claude fable and mythos 5.2 launch:\n\n1/ it went from doing 21% of real freelance work to 41% in one release, so agencies are about to start charging per deliverable instead of per hour!\n\n2/ it can work 10-12 hours on its own, which basically gives every small business a night shift (might as well use it if you know what you want to build)\n\n3/ over 90% of anthropic's own code is now written by claude, and so i think the solo $1b founder is coming soon\n\n4/ one engineer ran 1000+ subagents for 8 days and got an operating system that boots, so the ancient software running hospitals and airlines is finally rebuildable (lots of opportunity here on rebuilding)\n\n5/ it designed 3 working electronic devices from a single prompt, which makes 1 person hardware companies a real thing\n\n6/ it now says \"i don't know\" instead of guessing, and that's what law, medicine and finance have been waiting for (this has been the biggest thorn for these industries, hard to trust guessing)\n\n7/ 1000 agents formalized fermat's last theorem in 30 hours, so software that's mathematically proven not to break is coming for payments and medical devices\n\n8/ mythos is only for verified orgs, which means someone is going to build a business selling what only they have access to\n\n9/ the models are getting better at noticing when they're being tested, so testing ai out in the real world is about to become its own industry\n\ni love new model day",
+      "text_zh": "关于 Claude Fable 和 Mythos 5.2 发布的几点快速观察：\n\n1/ 它完成真实自由职业工作的比例从 21% 一下子提升到 41%，所以代理机构马上就要按交付物收费，而不是按小时收费了！\n\n2/ 它可以自己连续干 10-12 个小时，这基本上等于给每家小企业配了一个夜班（如果你知道自己想做什么，不妨就用起来）\n\n3/ Anthropic 自己超过 90% 的代码现在是由 Claude 写的，所以我觉得个人十亿美元创始人很快就会出现\n\n4/ 有位工程师跑了 1000 多个 subagents，连续 8 天，做出了一个能启动的操作系统，所以医院和航空公司那些老旧软件终于可以重建了（这里有很多重建的机会）\n\n5/ 它用一条 prompt 就设计出了 3 款能工作的电子设备，这意味着一个人的硬件公司成真了\n\n6/ 它现在会说 \"I don't know\" 而不是瞎猜，这正是法律、医疗和金融一直在等的（猜测一直是这些行业最大的刺，很难信任乱猜）\n\n7/ 1000 个 agents 用 30 小时形式化了费马大定理，所以经过数学证明不会出错的软件即将进入支付和医疗设备领域\n\n8/ Mythos 只对经过验证的机构开放，这意味着有人会做一门生意，专门出售只有他们能接触到的东西\n\n9/ 模型越来越擅长察觉自己正在被测试，所以在真实世界里测试 AI 马上会成为一个独立的行业\n\n我爱新模型发布日\n\n引用内容：@claudeai 发帖介绍 Claude Fable 5.2 和 Claude Mythos 5.2，称它们被设计用来应对最艰巨的技术挑战，是雄心勃勃项目的得力协作者，并在编程、推理和视觉等方面有所提升。",
+      "quoted": [
+        {
+          "id": "2119867114450268322",
+          "user": "claudeai",
+          "text": "Introducing Claude Fable 5.2 and Claude Mythos 5.2, designed to tackle the most daunting technical challenges.\n\nThey’re capable collaborators on ambitious projects in many fields, and show improvements in areas like coding, reasoning, and vision. https://t.co/jP0AutLxXb",
+          "text_zh": "隆重介绍 Claude Fable 5.2 和 Claude Mythos 5.2，它们被设计用来应对最艰巨的技术挑战。\n\n它们是许多领域里雄心勃勃项目的得力协作者，并在编程、推理和视觉等方面有所提升。https://t.co/jP0AutLxXb"
+        }
+      ],
+      "hit": true
+    },
+    {
+      "id": "2119865330210140339",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2119865330210140339",
+      "created_at": "2026-11-09T18:50:54.000Z",
+      "created_at_bj": "2026-11-10 02:50",
+      "views": 53873,
+      "rate_per_hour": 8845,
+      "basis": "delta",
+      "prev": {
+        "views": 49510,
+        "checked_at": "2026-11-10T06:10:46+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 1518,
+        "impression_count": 53873,
+        "like_count": 716,
+        "quote_count": 5,
+        "reply_count": 71,
+        "retweet_count": 46
+      },
+      "already_pushed": false,
+      "text": "CRACKED MARKETING 101 \n\nWatch AI agents ship 100+ static ads, make UGC videos for $4 that used to cost $500 and upload everything\n\nHere's the ENTIRE system step by step (and ALL of the skills): https://t.co/A1tvOwmwQ8",
+      "text_zh": "CRACKED MARKETING 101\n\n看 AI agents 上线 100 多条静态广告，用 4 美元做出过去要花 500 美元的 UGC 视频，再全部上传\n\n整套系统逐步拆解在这里（包括所有 skills）：https://t.co/A1tvOwmwQ8",
+      "quoted": [],
+      "hit": true
+    },
+    {
+      "id": "2119787875910979932",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2119787875910979932",
+      "created_at": "2026-11-09T13:43:08.000Z",
+      "created_at_bj": "2026-11-09 21:43",
+      "views": 35731,
+      "rate_per_hour": 995,
+      "basis": "delta",
+      "prev": {
+        "views": 35240,
+        "checked_at": "2026-11-10T06:10:46+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 16,
+        "impression_count": 35731,
+        "like_count": 438,
+        "quote_count": 3,
+        "reply_count": 153,
+        "retweet_count": 8
+      },
+      "already_pushed": true,
+      "text": "i'm old enough to remember when software developers weren't called members of technical staff",
+      "text_zh": "我这年纪还记得，软件开发者还不叫 members of technical staff 的时候",
+      "quoted": [],
+      "hit": false
+    },
+    {
+      "id": "2119911805820747879",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2119911805820747879",
+      "created_at": "2026-11-09T21:55:35.000Z",
+      "created_at_bj": "2026-11-10 05:55",
+      "views": 537,
+      "rate_per_hour": 393,
+      "basis": "delta",
+      "prev": {
+        "views": 343,
+        "checked_at": "2026-11-10T06:10:46+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 1,
+        "impression_count": 537,
+        "like_count": 10,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "already_pushed": false,
+      "text": "I used to think that my life was a tragedy, but now I realize, it's a comedy https://t.co/keFvZAFDmo",
+      "text_zh": "我以前觉得自己的人生是一部悲剧，现在才明白，其实是一部喜剧 https://t.co/keFvZAFDmo",
+      "quoted": [],
+      "hit": false
+    },
+    {
+      "id": "2119849382753222669",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2119849382753222669",
+      "created_at": "2026-11-09T17:47:32.000Z",
+      "created_at_bj": "2026-11-10 01:47",
+      "views": 1238,
+      "rate_per_hour": 93,
+      "basis": "delta",
+      "prev": {
+        "views": 1192,
+        "checked_at": "2026-11-10T06:10:46+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 4,
+        "impression_count": 1238,
+        "like_count": 33,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "already_pushed": false,
+      "text": "anya https://t.co/FXALX8bs1n",
+      "text_zh": "anya https://t.co/FXALX8bs1n",
+      "quoted": [],
+      "hit": false
+    },
+    {
+      "id": "2119830786052682171",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2119830786052682171",
+      "created_at": "2026-11-09T16:33:38.000Z",
+      "created_at_bj": "2026-11-10 00:33",
+      "views": 1236,
+      "rate_per_hour": 178,
+      "basis": "delta",
+      "prev": {
+        "views": 1148,
+        "checked_at": "2026-11-10T06:10:46+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 4,
+        "impression_count": 1236,
+        "like_count": 29,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "already_pushed": false,
+      "text": "Just vibes\n\n--sref 1728490559 https://t.co/UMKI1ddUMM",
+      "text_zh": "就是这种感觉\n\n--sref 1728490559 https://t.co/UMKI1ddUMM",
+      "quoted": [],
+      "hit": false
+    }
+  ],
+  "new_hits": [
+    "2119889516152414518",
+    "2119865330210140339"
+  ],
+  "dropped_from_window": [],
+  "notes": "06:34 判定轮（实际运行 06:40:21 北京时间）。间隔 0.4933 小时（上一轮 06:10:46 → 本轮 06:40:21 北京时间，29 分 36 秒）。@steipete 窗口内无原创或引用帖；@karpathy 窗口内无原创或引用帖。本轮 get_users_posts 使用 exclude=replies,retweets 与 start_time=2026-11-09T10:30:00Z。未移出 12 小时窗口的旧快照。所有检查帖均有 impression_count。浏览量与互动数据以本轮 get_users_posts 返回的 public_metrics 为准。本地排除 5 条回复：@marclou 2119867469498372295、2119832727029424609、2119829824193831229、2119757153603105175；@gregisenberg 2119865573429453276。@marclou 2119757141787787609 与 @gregisenberg 2119889516152414518 的长文由 get_users_posts 返回的 note_tweet 补全。本轮无新进入窗口的帖子，14 条均为 snapshots 已有记录，按（本次浏览量 − 上次浏览量）÷ 间隔小时数计算速率。@levelsio 2119775037687259452 浏览 88219（上次 86758），每小时 +2962，未超过阈值，已在 pushed 中，不再推送。@levelsio 2119773878222549451 浏览 227884（上次 222030），每小时 +11868，超过阈值，已在 pushed 中，不再推送。@levelsio 2119751526201618472 浏览 42316（上次 41801），每小时 +1044，未超过阈值，已在 pushed 中，不再推送。@marclou 2119831016026276044 浏览 16884（上次 16410），每小时 +961，未超过阈值。@marclou 2119829370256892402 浏览 50997（上次 49525），每小时 +2984，未超过阈值。@marclou 2119809363980562502 浏览 11854（上次 11671），每小时 +371，未超过阈值，已在 pushed 中，不再推送。@marclou 2119757141787787609 浏览 103400（上次 101026），每小时 +4813，未超过阈值，已在 pushed 中，不再推送。@marclou 2119743459464729064 浏览 25638（上次 25372），每小时 +539，未超过阈值，已在 pushed 中，不再推送。@gregisenberg 2119889516152414518 浏览 93908（上次 74702），每小时 +38936，超过阈值，本轮新达标，加入 pushed。@gregisenberg 2119865330210140339 浏览 53873（上次 49510），每小时 +8845，超过阈值，本轮新达标，加入 pushed。@gregisenberg 2119787875910979932 浏览 35731（上次 35240），每小时 +995，未超过阈值，已在 pushed 中，不再推送。@egeberkina 2119911805820747879 浏览 537（上次 343），每小时 +393，未超过阈值。@egeberkina 2119849382753222669 浏览 1238（上次 1192），每小时 +93，未超过阈值。@egeberkina 2119830786052682171 浏览 1236（上次 1148），每小时 +178，未超过阈值。本轮新达标 2 条。"
+}
