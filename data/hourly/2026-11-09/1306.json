@@ -1,0 +1,223 @@
+{
+  "run_at": "2026-11-09T13:06:00+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "1306",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2119564112208257515",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2119564112208257515",
+      "created_at": "2026-11-08T22:53:58.000Z",
+      "created_at_bj": "2026-11-09 06:53",
+      "views": 38755,
+      "rate_per_hour": 3086,
+      "basis": "delta",
+      "prev": {
+        "views": 37469,
+        "checked_at": "2026-11-09T12:41:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 67,
+        "impression_count": 38755,
+        "like_count": 244,
+        "quote_count": 8,
+        "reply_count": 76,
+        "retweet_count": 4
+      },
+      "text": "🪦 RIP \n\n🫟 Infinite Slop TV\n\nAugust 2026 - October 2026\n\nIt let anybody on the internet write into a chat that fed into a perpetual stream of live generated AI video (aka slop)\n\nIt wasn't possible before that because there weren't AI video models yet that generated faster than they could be played, but then @fal hacked @MiniMax_AI's H3 to be so fast that it finally could! FAL also sponsored me to do this project because otherwise it would have costed me $200,000/mo in GPU cost, at least!\n\nHere's some stats:\n\n📈 17,800,000 clip views\n💬 287,555 chat messages\n❤️ 287,000 likes on clips\n📺 210,196 AI clips aired\n🛡 125,808 messages blocked by moderation 💀 (so about 44% was blocked!)\n👀 185,000 visitors\n💬 47,000 people made videos\n⏱ 860 hours of never-repeating video\n💰 3 sponsors: @sideshiftai + @creem_io + @chatbase\n\nPaid out 3 prizes: \n🏆 $5000 to \"67\" (wanted to stay anon)\n🪙 $2500 to @ssthormess (aka \"SS\" on the site)\n🥉 $1000 to @tatusea_ (\"tatusea\" on the site)\n\nIn the end it didn't manage to keep catching attention though but it was a great little fun internet experiment\n\nLots of funny weird things happened, because each video generated would take cues from the previous (the AI would try keep some type of cohesion), you'd get these kind of trends keep going through videos. For awhile every video had goth girls, then slime girls, then pickles, then it'd turn into pixel art, and then people would spam it back to goth girls\n\nThere is something here though, but I'm not sure what it is, or how to make it work in the future. Slop is of course slop, and it is addictive but after awhile it also gets boring because it's still too basic. I can see that there will be interactive and personalized content in the future that's live generated and will work but we're not there yetttt\n\nIt's also a bit dystopian but utopian in other ways: live generated teachers explaining stuff to kids is awesome for example and I think I saw Minimax H3 Max used for that too\n\nAnyway, everyone thanks for watching and creating! 🙏😊",
+      "text_zh": "🪦 RIP\n\n🫟 Infinite Slop TV\n\n2026 年 8 月 - 2026 年 10 月\n\n它让互联网上的任何人都可以往聊天里写内容，这些内容会进入一条永不停歇的实时生成 AI 视频流（也就是 slop）\n\n以前这不可能，因为还没有生成速度快过播放速度的 AI 视频模型，但后来 @fal 把 @MiniMax_AI 的 H3 优化到足够快，终于做到了！FAL 还赞助了我做这个项目，否则光 GPU 成本每月至少要花掉我 $200,000！\n\n一些数据：\n\n📈 17,800,000 次片段播放\n💬 287,555 条聊天消息\n❤️ 片段收获 287,000 个赞\n📺 播出了 210,196 个 AI 片段\n🛡 125,808 条消息被审核拦截 💀（大约 44% 被拦了！）\n👀 185,000 名访客\n💬 47,000 人制作了视频\n⏱ 860 小时从不重复的视频\n💰 3 位赞助商：@sideshiftai + @creem_io + @chatbase\n\n发放了 3 个奖项：\n🏆 $5000 给了 \"67\"（希望保持匿名）\n🪙 $2500 给了 @ssthormess（站上的 \"SS\"）\n🥉 $1000 给了 @tatusea_（站上的 \"tatusea\"）\n\n最后它没能持续抓住大家的注意力，但这次有趣的互联网小实验还是很棒\n\n中间发生了很多又好笑又奇怪的事，因为每段生成的视频都会从上一段汲取线索（AI 会尽量保持某种连贯性），于是你会看到某种潮流在视频里延续。有一段时间每条视频都是哥特女孩，然后是史莱姆女孩，然后是泡菜，再变成像素艺术，接着人们又会刷回去要哥特女孩\n\n这里面确实有些东西，但我还不确定那是什么，也不确定将来怎么把它做起来。slop 当然还是 slop，它让人上瘾，但过一段时间也会觉得无聊，因为它仍然太基础。我能想象未来会有实时生成的、可交互且个性化的内容，而且能跑起来，但我们现在还没到那一步ttt\n\n这件事也有点反乌托邦，但从另一些角度看又很乌托邦：比如实时生成的老师给孩子们讲课就很棒，我好像也看到 Minimax H3 Max 被用在这方面\n\n总之，谢谢大家观看和创作！🙏😊",
+      "quoted": [
+        {
+          "id": "2093754163343593802",
+          "user": "levelsio",
+          "text": "Okay I built it!\n\n🍰 Infinite Slop\nhttps://t.co/wz0a7VSBtS\n\nAn infinite and interactive AI generated live stream of slop that goes on forever and ever\n\nAnything that you write in the chat is generated next and AI will try to connect it to the previous video so there's an actual sequence and story line\n\nIdea by @marcantoinefon and @rehan_shei's original stream so I made it\n\nIt'd be very expensive to run this so @fal very generously sponsors this\n\nThey also fine-tuned the model that makes this possible for the first time, making Minimax H3 50x faster and as \"Max\" and it can now generate videos faster than you can watch them, very cool!\n\nLet me know what you think!!!! 😊",
+          "text_zh": "好了，我做出来了！\n\n🍰 Infinite Slop\nhttps://t.co/wz0a7VSBtS\n\n一个无限且可互动的 AI 生成 slop 直播，会永远一直播下去\n\n你在聊天里写的任何内容，都会被生成到下一段视频里，而且 AI 会尽量把它和上一段视频衔接起来，从而形成真正的序列和故事线\n\n点子来自 @marcantoinefon 和 @rehan_shei 的原始直播，所以我把它做出来了\n\n跑这个会非常贵，所以 @fal 非常慷慨地赞助了这个项目\n\n他们还微调了让这一切首次成为可能的模型，把 Minimax H3 加速了 50 倍，做成了 “Max”，现在生成视频的速度已经快过你观看的速度，非常酷！\n\n告诉我你们怎么看！！！！😊"
+        }
+      ],
+      "hit": false,
+      "already_pushed": true
+    },
+    {
+      "id": "2119525458878566402",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2119525458878566402",
+      "created_at": "2026-11-08T20:20:22.000Z",
+      "created_at_bj": "2026-11-09 04:20",
+      "views": 85955,
+      "rate_per_hour": 3883,
+      "basis": "delta",
+      "prev": {
+        "views": 84337,
+        "checked_at": "2026-11-09T12:41:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 752,
+        "impression_count": 85955,
+        "like_count": 777,
+        "quote_count": 0,
+        "reply_count": 23,
+        "retweet_count": 35
+      },
+      "text": "Every project this guy makes is very cool\n\nVery good follow: @apekshik\n\nHis latest is an infinitely evolving Backrooms Simulator:\n\nhttps://t.co/RM0g6MSefF https://t.co/1O6Lr22yc3",
+      "text_zh": "这家伙做的每个项目都超酷\n\n非常值得关注：@apekshik\n\n他最新的作品是一个无限演化的 Backrooms Simulator：\n\nhttps://t.co/RM0g6MSefF https://t.co/1O6Lr22yc3",
+      "quoted": [
+        {
+          "id": "2119517930300076261",
+          "user": "apekshik",
+          "text": "i'm a solo dev and i built an infinitely evolving backrooms game and released it on the web. \n\n35,000 players and ~9,600 hours played. these are my metrics under 36 hours of launch. \n\neach blue dot below is a player on the map i recorded a moment ago. there's ~1,200 players playing the game at THIS moment. SIMULTANEOUSLY. let that sink in.  \n\nthis is incredible. we're entering a new era for sure.\n\nnote for video: only shows 200 players in total because my server chunks the shared space into worlds of 200, so 1200 players would be 6 different worlds and you're seeing one of em. \n\ni'm building out a shared space server that can sustain 2000 players in a single world. launching real soon.",
+          "text_zh": "我是独立开发者，做了一款无限演化的 backrooms 游戏，并放到了网页上发布。\n\n3.5 万名玩家，约 9600 小时游玩时长。这些是上线不到 36 小时的数据。\n\n下面每个蓝点都是我刚才录下来的地图上的一名玩家。此刻有大约 1200 人在玩。是同时在线。消化一下。\n\n这太不可思议了。我们无疑正在进入一个新时代。\n\n关于视频的说明：总共只显示了 200 名玩家，因为我的服务器把共享空间切成每 200 人一个世界，所以 1200 名玩家会是 6 个不同的世界，你看到的是其中一个。\n\n我正在做一个能在单个世界里撑住 2000 名玩家的共享空间服务器。很快就会上线。"
+        }
+      ],
+      "hit": false,
+      "already_pushed": true
+    },
+    {
+      "id": "2119518808712851831",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2119518808712851831",
+      "created_at": "2026-11-08T19:53:57.000Z",
+      "created_at_bj": "2026-11-09 03:53",
+      "views": 41980,
+      "rate_per_hour": 1543,
+      "basis": "delta",
+      "prev": {
+        "views": 41337,
+        "checked_at": "2026-11-09T12:41:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 105,
+        "impression_count": 41980,
+        "like_count": 381,
+        "quote_count": 4,
+        "reply_count": 53,
+        "retweet_count": 5
+      },
+      "text": "Same, it's lowering the cost of everything, first in time (we have more than time than ever) and then in cost of everything around us\n\nI keep saying it'll make everything 5x to 20x cheaper https://t.co/IzFYGqjPh8",
+      "text_zh": "同感，它在降低一切的成本，首先是时间成本（我们拥有的时间比以往任何时候都多），然后是我们周围一切东西的成本\n\n我一直说，它会让所有东西便宜 5 到 20 倍 https://t.co/IzFYGqjPh8",
+      "quoted": [
+        {
+          "id": "2119448664351674763",
+          "user": "adamdotdev",
+          "text": "I’m at least 100x more productive than I was before AI. And that’s with a much better quality of life; I can get more done in a day running errands than I did in a month of being chained to my desk.\n\nIf AI doesn’t kill us all, I can’t help but think we’re headed for some really great times.",
+          "text_zh": "有了 AI 之后，我的生产力至少是以前的 100 倍。而且生活质量好得多：我跑一天腿能办完的事，比以前被拴在桌前一个月还多。\n\n如果 AI 不把我们全灭了，我忍不住觉得，我们正走向一段非常美好的时光。"
+        }
+      ],
+      "hit": false,
+      "already_pushed": true
+    },
+    {
+      "id": "2119516562147426782",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2119516562147426782",
+      "created_at": "2026-11-08T19:45:01.000Z",
+      "created_at_bj": "2026-11-09 03:45",
+      "views": 70561,
+      "rate_per_hour": 3338,
+      "basis": "delta",
+      "prev": {
+        "views": 69170,
+        "checked_at": "2026-11-09T12:41:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 161,
+        "impression_count": 70561,
+        "like_count": 240,
+        "quote_count": 10,
+        "reply_count": 95,
+        "retweet_count": 4
+      },
+      "text": "🌎 I always hated internationalization (i18n) of my websites, it always involved some hacky solutions and making my codebase unreadable\n\nWrapping every single word in some translation function like \n\n> t('cinnamon rolls','pt-br')\n\nSo I never ever did it!\n\nWith AI however, I never read my code base anymore, nor do code review, so it doesn't matter anymore\n\nSo I've added i8n to Hotelist, it may possibly have some benefits for SEO to as it's localized\n\nThis took 10 minutes btw to do! 😍\n\nRight now I have:\n- 🇬🇧 English: https://t.co/jbe10CFiE8\n- 🇪🇸 Spanish: https://t.co/8k0yk6g3kA\n- 🇩🇪 German: https://t.co/An9kIdPAKC\n- 🇫🇷 French: https://t.co/GHbHCqdcqQ\n- 🇮🇹 Italian: https://t.co/srZjCWeRJd\n- 🇵🇹 Portuguese (Portugal): https://t.co/VJidvhM0ix\n- 🇧🇷 Portuguese (Brazil): https://t.co/kcAgBjaNS3\n- 🇨🇳 Chinese (Simplified) https://t.co/Z9qeYG1Ciu\n- 🇹🇼 Chinese (Traditional) https://t.co/qE2nSBSs7v",
+      "text_zh": "🌎 我一直很讨厌给自己的网站做国际化（i18n），总是要搞些 hacky 的方案，还会把代码库弄得难以阅读\n\n给每个词都包一层翻译函数，比如\n\n> t('cinnamon rolls','pt-br')\n\n所以我从来没做过！\n\n不过有了 AI，我再也不读自己的代码库了，也不做 code review，所以这已经无所谓了\n\n于是我给 Hotelist 加上了 i8n，本地化可能对 SEO 也有些好处\n\n顺便说一下，这只花了 10 分钟！😍\n\n目前已有：\n- 🇬🇧 English: https://t.co/jbe10CFiE8\n- 🇪🇸 Spanish: https://t.co/8k0yk6g3kA\n- 🇩🇪 German: https://t.co/An9kIdPAKC\n- 🇫🇷 French: https://t.co/GHbHCqdcqQ\n- 🇮🇹 Italian: https://t.co/srZjCWeRJd\n- 🇵🇹 Portuguese (Portugal): https://t.co/VJidvhM0ix\n- 🇧🇷 Portuguese (Brazil): https://t.co/kcAgBjaNS3\n- 🇨🇳 Chinese (Simplified) https://t.co/Z9qeYG1Ciu\n- 🇹🇼 Chinese (Traditional) https://t.co/qE2nSBSs7v",
+      "quoted": [
+        {
+          "id": "2115771822499049773",
+          "user": "levelsio",
+          "text": "🏩 Hotelist is now my most popular site with 700,000+ visitors per month\n\nSo I added user profiles today invite-only and invited @marckohlbrugge @jelmerdeboer @theannalux and they get 3 invites too so let's see who joins\n\nUsers can review and rate hotels, upvote/downvote other user's reviews and get karma from all of that\n\nThe idea is actually by Marc that you probably trust your friends' and their friends reviews better than random Google Maps reviews (which are also often fake)\n\nSo this is a natural social way to get rid of fake reviews, because you're probably far away from a fake reviewer and you trust your friends' reviews",
+          "text_zh": "🏩 Hotelist 现在是我最受欢迎的网站，每月访问量超过 70 万\n\n所以我今天加上了邀请制用户主页，邀请了 @marckohlbrugge @jelmerdeboer @theannalux，他们各自也有 3 个邀请名额，看看谁会加入\n\n用户可以点评和给酒店打分，给别人的评论点赞/点踩，并从中获得 karma\n\n这个想法其实来自 Marc：比起随机的 Google Maps 评价（而且经常是假的），你大概更信任朋友以及朋友的朋友的评价\n\n所以这是一种自然的社交方式来干掉假评，因为你和假评论者大概离得很远，而你信任朋友的评价"
+        }
+      ],
+      "hit": false,
+      "already_pushed": true
+    },
+    {
+      "id": "2119516046134788499",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2119516046134788499",
+      "created_at": "2026-11-08T19:42:58.000Z",
+      "created_at_bj": "2026-11-09 03:42",
+      "views": 21713,
+      "rate_per_hour": 492,
+      "basis": "delta",
+      "prev": {
+        "views": 21508,
+        "checked_at": "2026-11-09T12:41:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 61,
+        "impression_count": 21713,
+        "like_count": 184,
+        "quote_count": 4,
+        "reply_count": 60,
+        "retweet_count": 15
+      },
+      "text": "they are building data centers in the ocean now https://t.co/Hy7l2f9Tll",
+      "text_zh": "他们现在开始在海里建数据中心了 https://t.co/Hy7l2f9Tll",
+      "quoted": [],
+      "hit": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2119491739430113518",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2119491739430113518",
+      "created_at": "2026-11-08T18:06:23.000Z",
+      "created_at_bj": "2026-11-09 02:06",
+      "views": 23552,
+      "rate_per_hour": 312,
+      "basis": "delta",
+      "prev": {
+        "views": 23422,
+        "checked_at": "2026-11-09T12:41:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 20,
+        "impression_count": 23552,
+        "like_count": 121,
+        "quote_count": 1,
+        "reply_count": 19,
+        "retweet_count": 2
+      },
+      "text": "For anyone in 🇵🇹 Lisbon, there'll be a @nomads meetup tonight @ O'Gilins Irish Pub!\n\n\"Casual drinks the night before Web Summit. Meet founders, builders and nomads in town for the conference, swap plans for the week and find people to hang out with at the summit. Everyone buys their own drinks. Look for the table with the Web Summit sign 👋\"\n\nNomads is free to join and then you can RSVP\n\nhttps://t.co/qIoCVgp7L9",
+      "text_zh": "人在 🇵🇹 里斯本的朋友注意，今晚 @nomads 会在 O'Gilins Irish Pub 办一场聚会！\n\n\"Web Summit 前一晚的轻松酒会。认识来参会的创始人、开发者和数字游民，互换本周计划，找人一起参加峰会。酒水各自付。认准桌上有 Web Summit 标志的那桌 👋\"\n\nNomads 免费加入，然后就可以 RSVP\n\nhttps://t.co/qIoCVgp7L9",
+      "quoted": [
+        {
+          "id": "2117730174481633754",
+          "user": "nomadscom",
+          "text": "🇵🇹 Casual Lisbon drinks with founders and builders ahead of Web Summit.\n\n🗓 Sunday, 8 November in Lisbon · organized by olonysko\n✅ RSVP: https://t.co/zjtImII6SO",
+          "text_zh": "🇵🇹 Web Summit 前，在里斯本和创始人、开发者轻松喝一杯。\n\n🗓 11 月 8 日周日，里斯本 · 由 olonysko 组织\n✅ RSVP: https://t.co/zjtImII6SO"
+        }
+      ],
+      "hit": false,
+      "already_pushed": false
+    }
+  ],
+  "new_hits": [],
+  "dropped_from_window": [],
+  "notes": "13:04 判定轮（实际运行 13:06:00 北京时间）。间隔约 0.4167 小时（上一轮 12:41:00 → 本轮 13:06:00 北京时间）。@marclou 窗口内无原创或引用帖；@steipete 窗口内无原创或引用帖；@egeberkina 窗口内无原创或引用帖；@karpathy 窗口内无原创或引用帖。本轮 get_users_posts 使用 exclude=replies,retweets 与 start_time=2026-11-08T17:00:00Z；@levelsio 仍返回 3 条自身线程回复，已本地排除：2119564293280608566、2119564265010893292、2119520340993003827。未移出 12 小时窗口的快照。所有检查帖均有 impression_count。浏览量与互动数据以本轮 get_users_posts 返回的 public_metrics 为准。长文与中文译文沿用上一轮已归档的完整 note_tweet / 全文（本轮长帖 note_tweet 全文与上一轮归档一致）。本轮无新达标；最接近阈值为 2119525458878566402 @levelsio 每小时 +3883（已在 pushed）。"
+}
