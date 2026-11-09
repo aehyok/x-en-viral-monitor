@@ -1,0 +1,105 @@
+{
+  "run_at": "2026-11-09T19:14:00+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "1904",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2119743459464729064",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2119743459464729064",
+      "created_at": "2026-11-09T10:46:38.000Z",
+      "created_at_bj": "2026-11-09 18:46",
+      "views": 4070,
+      "rate_per_hour": 8923,
+      "basis": "first_seen",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 3,
+        "impression_count": 4070,
+        "like_count": 38,
+        "quote_count": 1,
+        "reply_count": 17,
+        "retweet_count": 2
+      },
+      "already_pushed": false,
+      "text": "I randomly met @fullpatstack in Orneval this morning.\n\nAnd… he just made his first $1 online today with his new app https://t.co/kEki052WF6 👏👏\n\nUnfortunately some Alliance people cut our conversation short but we obliterated them. For the Horde! https://t.co/NQij19N8UK",
+      "text_zh": "我今早在 Orneval 偶然遇到了 @fullpatstack。\n\n而且……他今天刚用自己的新 app 赚到了网上的第一美元 https://t.co/kEki052WF6 👏👏\n\n可惜有些 Alliance 的人打断了我们的谈话，但我们把他们消灭了。为了部落！https://t.co/NQij19N8UK",
+      "quoted": [],
+      "hit": true
+    },
+    {
+      "id": "2119705923644015097",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2119705923644015097",
+      "created_at": "2026-11-09T08:17:29.000Z",
+      "created_at_bj": "2026-11-09 16:17",
+      "views": 13950,
+      "rate_per_hour": 2684,
+      "basis": "delta",
+      "prev": {
+        "views": 12429,
+        "checked_at": "2026-11-09T18:40:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 7,
+        "impression_count": 13950,
+        "like_count": 125,
+        "quote_count": 2,
+        "reply_count": 55,
+        "retweet_count": 2
+      },
+      "already_pushed": true,
+      "text": "My official submission for the Guinness World Record in sleeping 😴 https://t.co/bjPoAvRsjv",
+      "text_zh": "这是我冲击 Guinness World Record「睡觉」项目的正式提交 😴 https://t.co/bjPoAvRsjv",
+      "quoted": [],
+      "hit": false
+    },
+    {
+      "id": "2119732555696198073",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2119732555696198073",
+      "created_at": "2026-11-09T10:03:18.000Z",
+      "created_at_bj": "2026-11-09 18:03",
+      "views": 658,
+      "rate_per_hour": 321,
+      "basis": "delta",
+      "prev": {
+        "views": 476,
+        "checked_at": "2026-11-09T18:40:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 2,
+        "impression_count": 658,
+        "like_count": 9,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "already_pushed": false,
+      "text": "Ghost rider https://t.co/oEkTn1nkUA",
+      "text_zh": "幽灵骑士 https://t.co/oEkTn1nkUA",
+      "quoted": [],
+      "hit": false
+    }
+  ],
+  "new_hits": [
+    "2119743459464729064"
+  ],
+  "dropped_from_window": [
+    "2119564112208257515"
+  ],
+  "notes": "19:04 判定轮（实际运行 19:14:00 北京时间）。间隔约 0.57 小时（上一轮 18:40:00 → 本轮 19:14:00 北京时间）。@levelsio 窗口内无原创或引用帖；@gregisenberg 窗口内无原创或引用帖；@steipete 窗口内无原创或引用帖；@karpathy 窗口内无原创或引用帖。本轮 get_users_posts 使用 exclude=replies,retweets 与 start_time=2026-11-08T23:13:00Z。移出 12 小时窗口：2119564112208257515（创建于 2026-11-08T22:53:58.000Z）；本轮窗口起点 2026-11-08T23:14:00Z，该帖早于 start_time，未再出现在本轮 get_users_posts 结果中。所有检查帖均有 impression_count。浏览量与互动数据以本轮 get_users_posts 返回的 public_metrics 为准。@marclou 2119705923644015097 原文与中文译文沿用 1834 轮归档。@egeberkina 2119732555696198073 按与上一快照的浏览量差值计算速率每小时 +321，未超过阈值。本轮新达标 1 条：2119743459464729064 @marclou 首次见到，浏览 4070，每小时 +8923。已推送帖中 2119705923644015097 @marclou 每小时 +2684 未超过阈值，不再推送。"
+}
