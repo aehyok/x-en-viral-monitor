@@ -1,0 +1,230 @@
+{
+  "run_at": "2026-11-09T21:43:00+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "2134",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2119775037687259452",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2119775037687259452",
+      "created_at": "2026-11-09T12:52:07.000Z",
+      "created_at_bj": "2026-11-09 20:52",
+      "views": 19640,
+      "rate_per_hour": 18685,
+      "basis": "delta",
+      "prev": {
+        "views": 9052,
+        "checked_at": "2026-11-09T21:09:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 13,
+        "impression_count": 19640,
+        "like_count": 210,
+        "quote_count": 2,
+        "reply_count": 24,
+        "retweet_count": 4
+      },
+      "already_pushed": true,
+      "text": "Apparently it's illegal to be more intelligent, more healthy and more ripped in California https://t.co/WKq5rUypnH",
+      "text_zh": "看来在加州，变得更聪明、更健康、身材更精实是违法的 https://t.co/WKq5rUypnH",
+      "quoted": [
+        {
+          "id": "2119686426811916717",
+          "user": "InternetH0F",
+          "text": "California has passed a law requiring age verification to buy creatine starting January 1, 2027 https://t.co/UrBnHBOBV5",
+          "text_zh": "加州通过了一项法律，从 2027 年 1 月 1 日起购买 creatine 需要年龄验证 https://t.co/UrBnHBOBV5"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2119773878222549451",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2119773878222549451",
+      "created_at": "2026-11-09T12:47:30.000Z",
+      "created_at_bj": "2026-11-09 20:47",
+      "views": 32188,
+      "rate_per_hour": 37211,
+      "basis": "delta",
+      "prev": {
+        "views": 11102,
+        "checked_at": "2026-11-09T21:09:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 99,
+        "impression_count": 32188,
+        "like_count": 1055,
+        "quote_count": 30,
+        "reply_count": 160,
+        "retweet_count": 45
+      },
+      "already_pushed": true,
+      "text": "It's never been this easy to build software\n\nAnd never this hard to make money with it",
+      "text_zh": "做软件从来没有像现在这么容易\n\n靠它赚钱也从来没有像现在这么难",
+      "quoted": [],
+      "hit": false
+    },
+    {
+      "id": "2119751526201618472",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2119751526201618472",
+      "created_at": "2026-11-09T11:18:41.000Z",
+      "created_at_bj": "2026-11-09 19:18",
+      "views": 22307,
+      "rate_per_hour": 5266,
+      "basis": "delta",
+      "prev": {
+        "views": 19323,
+        "checked_at": "2026-11-09T21:09:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 31,
+        "impression_count": 22307,
+        "like_count": 105,
+        "quote_count": 5,
+        "reply_count": 58,
+        "retweet_count": 1
+      },
+      "already_pushed": true,
+      "text": "Fixed with 1 prompt and took 1 minute https://t.co/e0abZ6SkK8 https://t.co/VOnWssT5ZQ",
+      "text_zh": "一条 prompt 就修好了，只花了 1 分钟 https://t.co/e0abZ6SkK8 https://t.co/VOnWssT5ZQ",
+      "quoted": [
+        {
+          "id": "2119741630005805415",
+          "user": "huangyun_122",
+          "text": "AI 做的 i18n 本地化，离可用还差太远\n\nlevels 这位独立开发大神，也仅仅只能做到菜单、标签级表面本地汉化，内容侧肯定比不上携程这类专业级本土网站\n\n我试用了下中国酒店导航，内容还是全英文，价格也都是以美刀为单位，地图也没切\n\n本地化最麻烦的就是让一个本地客户在两个语境中不停切换，脑袋要炸的。全英文体验更好，虽然反应会慢点\n\n人类只剩下一种工作 AI 抢不走：体验设计者",
+          "text_zh": "AI 做的 i18n 本地化，离可用还差太远\n\nlevels 这位独立开发大神，也仅仅只能做到菜单、标签级表面本地汉化，内容侧肯定比不上携程这类专业级本土网站\n\n我试用了下中国酒店导航，内容还是全英文，价格也都是以美刀为单位，地图也没切\n\n本地化最麻烦的就是让一个本地客户在两个语境中不停切换，脑袋要炸的。全英文体验更好，虽然反应会慢点\n\n人类只剩下一种工作 AI 抢不走：体验设计者"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2119757141787787609",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2119757141787787609",
+      "created_at": "2026-11-09T11:41:00.000Z",
+      "created_at_bj": "2026-11-09 19:41",
+      "views": 33043,
+      "rate_per_hour": 13364,
+      "basis": "delta",
+      "prev": {
+        "views": 25470,
+        "checked_at": "2026-11-09T21:09:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 86,
+        "impression_count": 33043,
+        "like_count": 605,
+        "quote_count": 8,
+        "reply_count": 113,
+        "retweet_count": 6
+      },
+      "already_pushed": true,
+      "text": "So... it happened.\n\nThe first 7-figure acquisition on TrustMRR.\n\n$1,000,000 exactly. Sold in October.\n\nIt’s a GTM startup that was just over a year old. The founders listed it on TrustMRR 9 months ago, when I launched the marketplace.\n\nThey received a dozen offers. They picked one, and it took more than 6 months to complete the process, including due diligence.\n\nI can’t describe how happy (and proud) I am to have built TrustMRR.\n\nIt started as a vibe-coded leaderboard, and it’s now a real startup marketplace.\n\n- 215 acquisitions this year\n- 23 days on average from listing to acquisition\n- 8,131 verified buyers\n- 84 offers/inquiries per day\n\nI’m spending more time working TrustMRR because I think it’s one of my most AI-resilient businesses (network effect).\n\nMy goal for 2027 is to make acquisitions 10x faster. Escrow accounts for 70–80% of the time from listing to acquisition, and it doesn’t support some currencies/countries, causing about 30% of transactions to fall through.\n\nGodspeed 🫡",
+      "text_zh": "所以……这件事成真了。\n\nTrustMRR 上的第一笔七位数收购。\n\n正好 $1,000,000。十月成交。\n\n这是一家成立刚过一年的 GTM 创业公司。创始人在 9 个月前、也就是我上线这个 marketplace 的时候，就把公司挂到了 TrustMRR 上。\n\n他们收到了十几份报价。他们选中了一份，整个流程（包括尽职调查）花了六个多月才完成。\n\n我无法形容自己建成 TrustMRR 有多开心（也有多自豪）。\n\n它最初只是一个 vibe-coded 的排行榜，现在已经是一个真正的创业公司 marketplace。\n\n- 今年已完成 215 笔收购\n- 从挂牌到成交平均 23 天\n- 8,131 位已验证买家\n- 每天 84 份报价/询盘\n\n我在 TrustMRR 上投入的时间越来越多，因为我觉得这是我最能抵御 AI 冲击的生意之一（网络效应）。\n\n我 2027 年的目标是让收购速度再快 10 倍。托管（Escrow）占了从挂牌到成交 70–80% 的时间，而且它不支持某些货币/国家，导致大约 30% 的交易因此黄掉。\n\nGodspeed 🫡",
+      "quoted": [],
+      "hit": false
+    },
+    {
+      "id": "2119743459464729064",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2119743459464729064",
+      "created_at": "2026-11-09T10:46:38.000Z",
+      "created_at_bj": "2026-11-09 18:46",
+      "views": 10740,
+      "rate_per_hour": 1597,
+      "basis": "delta",
+      "prev": {
+        "views": 9835,
+        "checked_at": "2026-11-09T21:09:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 7,
+        "impression_count": 10740,
+        "like_count": 110,
+        "quote_count": 3,
+        "reply_count": 41,
+        "retweet_count": 3
+      },
+      "already_pushed": true,
+      "text": "I randomly met @fullpatstack in Orneval this morning.\n\nAnd… he just made his first $1 online today with his new app https://t.co/kEki052WF6 👏👏\n\nUnfortunately some Alliance people cut our conversation short but we obliterated them. For the Horde! https://t.co/NQij19N8UK",
+      "text_zh": "我今早在 Orneval 偶然遇到了 @fullpatstack。\n\n而且……他今天刚用自己的新 app 赚到了网上的第一美元 https://t.co/kEki052WF6 👏👏\n\n可惜有些 Alliance 的人打断了我们的谈话，但我们把他们消灭了。为了部落！https://t.co/NQij19N8UK",
+      "quoted": [],
+      "hit": false
+    },
+    {
+      "id": "2119705923644015097",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2119705923644015097",
+      "created_at": "2026-11-09T08:17:29.000Z",
+      "created_at_bj": "2026-11-09 16:17",
+      "views": 20210,
+      "rate_per_hour": 2195,
+      "basis": "delta",
+      "prev": {
+        "views": 18966,
+        "checked_at": "2026-11-09T21:09:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 12,
+        "impression_count": 20210,
+        "like_count": 154,
+        "quote_count": 2,
+        "reply_count": 63,
+        "retweet_count": 2
+      },
+      "already_pushed": true,
+      "text": "My official submission for the Guinness World Record in sleeping 😴 https://t.co/bjPoAvRsjv",
+      "text_zh": "这是我冲击 Guinness World Record「睡觉」项目的正式提交 😴 https://t.co/bjPoAvRsjv",
+      "quoted": [],
+      "hit": false
+    },
+    {
+      "id": "2119732555696198073",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2119732555696198073",
+      "created_at": "2026-11-09T10:03:18.000Z",
+      "created_at_bj": "2026-11-09 18:03",
+      "views": 1149,
+      "rate_per_hour": 198,
+      "basis": "delta",
+      "prev": {
+        "views": 1037,
+        "checked_at": "2026-11-09T21:09:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 2,
+        "impression_count": 1149,
+        "like_count": 21,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "already_pushed": false,
+      "text": "Ghost rider https://t.co/oEkTn1nkUA",
+      "text_zh": "幽灵骑士 https://t.co/oEkTn1nkUA",
+      "quoted": [],
+      "hit": false
+    }
+  ],
+  "new_hits": [],
+  "dropped_from_window": [],
+  "notes": "21:34 判定轮（实际运行 21:43:00 北京时间）。间隔约 0.567 小时（上一轮 21:09:00 → 本轮 21:43:00 北京时间，34 分钟）。@gregisenberg 窗口内无原创或引用帖；@steipete 窗口内无原创或引用帖；@karpathy 窗口内无原创或引用帖。本轮 get_users_posts 使用 exclude=replies,retweets 与 start_time=2026-11-09T01:41:32Z。未移出 12 小时窗口的旧快照。所有检查帖均有 impression_count。浏览量与互动数据以本轮 get_users_posts 返回的 public_metrics 为准。@marclou 的 get_users_posts 额外返回自身线程回复 2119757153603105175，已按规则本地排除。本轮无新进入窗口的帖子，7 条均为 snapshots 中已有记录，按（本次浏览量 − 上次浏览量）÷ 两次间隔小时数计算速率。@levelsio 2119775037687259452 浏览 19640（上次 9052），每小时 +18685，超过阈值，但已在 pushed 中，不再推送。@levelsio 2119773878222549451 浏览 32188（上次 11102），每小时 +37211，超过阈值，但已在 pushed 中，不再推送。@levelsio 2119751526201618472 浏览 22307（上次 19323），每小时 +5266，超过阈值，但已在 pushed 中，不再推送。@marclou 2119757141787787609 浏览 33043（上次 25470），每小时 +13364，超过阈值，但已在 pushed 中，不再推送。@marclou 2119743459464729064 浏览 10740（上次 9835），每小时 +1597，未超过阈值，但已在 pushed 中，不再推送。@marclou 2119705923644015097 浏览 20210（上次 18966），每小时 +2195，未超过阈值，但已在 pushed 中，不再推送。@egeberkina 2119732555696198073 浏览 1149（上次 1037），每小时 +198，未超过阈值。本轮新达标 0 条。"
+}
