@@ -1,0 +1,116 @@
+{
+  "run_at": "2026-11-10T18:14:51+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "1804",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2119945847009862137",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2119945847009862137",
+      "created_at": "2026-11-10T00:10:51.000Z",
+      "created_at_bj": "2026-11-10 08:10",
+      "views": 181869,
+      "rate_per_hour": 12191,
+      "basis": "delta",
+      "prev": {
+        "views": 175621,
+        "checked_at": "2026-11-10T17:44:06+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 566,
+        "impression_count": 181869,
+        "like_count": 8753,
+        "quote_count": 18,
+        "reply_count": 37,
+        "retweet_count": 391
+      },
+      "already_pushed": true,
+      "text": "To a childless woman everything looks like a child https://t.co/4c9ujVPkoA",
+      "text_zh": "对没有孩子的女人来说，看什么都像孩子。 https://t.co/4c9ujVPkoA\n\n引用内容：@JordanFlrtn 发帖称，西班牙加那利群岛 Restinga 港口此刻出现超现实一幕：法国红十字会志愿者正欢快地迎接大多来自塞内加尔的非法移民。",
+      "quoted": [
+        {
+          "id": "2119883779322065046",
+          "user": "JordanFlrtn",
+          "text": "🚨 Scène surréaliste en ce moment même au port de la Restinga (îles Canaries, Espagne) ou des BÉNÉVOLES FRANÇAIS de la Croix-Rouge accueillent joyeusement des migrants venus illégalement en majeure partie du Sénégal.\n\nPartagez ! @Frontieresmedia https://t.co/UkcXeiDziN",
+          "text_zh": "🚨 此刻西班牙加那利群岛 Restinga 港口出现超现实一幕：法国红十字会志愿者正欢快地迎接大多来自塞内加尔、非法入境的移民。\n\n转发！@Frontieresmedia https://t.co/UkcXeiDziN"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2119948798638055570",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2119948798638055570",
+      "created_at": "2026-11-10T00:22:34.000Z",
+      "created_at_bj": "2026-11-10 08:22",
+      "views": 17195,
+      "rate_per_hour": 496,
+      "basis": "delta",
+      "prev": {
+        "views": 16941,
+        "checked_at": "2026-11-10T17:44:06+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 32,
+        "impression_count": 17195,
+        "like_count": 73,
+        "quote_count": 6,
+        "reply_count": 40,
+        "retweet_count": 5
+      },
+      "already_pushed": true,
+      "text": "Scientists copied a fruit fly’s entire brain into a computer and connected it to a virtual body\n\nNobody programmed it to do anything, but it started tasting sugar and cleaning itself anyway\n\nIt’s a long way from a human brain, but it’s hard not to think about where this goes! https://t.co/5t8dIRb6dR",
+      "text_zh": "科学家把一只果蝇的整个大脑复制进了电脑，并把它连接到一个虚拟身体上\n\n没有人给它编程去做任何事，但它自己就开始品尝糖分、清理自己\n\n这离人类大脑还很远，但很难不去想这会走向何方！https://t.co/5t8dIRb6dR",
+      "quoted": [],
+      "hit": false
+    },
+    {
+      "id": "2120093771790528718",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2120093771790528718",
+      "created_at": "2026-11-10T09:58:39.000Z",
+      "created_at_bj": "2026-11-10 17:58",
+      "views": 420,
+      "rate_per_hour": 1556,
+      "basis": "first_seen",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 2,
+        "impression_count": 420,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "already_pushed": false,
+      "text": "Retexturing images with H3 Image + JSON is insane!\n\nUploaded an image, used a JSON prompt and completely transformed its textures while keeping the original composition intact. \n\nPrompt 👇\n\n@MiniMax_AI #H3Image https://t.co/pZpowW7WOu",
+      "text_zh": "用 H3 Image + JSON 给图片重新贴材质也太离谱了！\n\n上传一张图，配上 JSON prompt，就能彻底改变材质，同时保持原来的构图不变。\n\n提示词 👇\n\n@MiniMax_AI #H3Image https://t.co/pZpowW7WOu",
+      "quoted": [],
+      "hit": false
+    }
+  ],
+  "new_hits": [],
+  "dropped_from_window": [
+    {
+      "id": "2119911805820747879",
+      "user": "egeberkina",
+      "created_at": "2026-11-09T21:55:35.000Z",
+      "created_at_bj": "2026-11-10 05:55",
+      "prev_views": 3068
+    }
+  ],
+  "notes": "18:04 判定轮（实际运行 18:14:51 北京时间）。间隔 0.5125 小时（上一轮 17:44:06 → 本轮 18:14:51 北京时间，30 分 45 秒）。@marclou 窗口内无原创或引用帖；@steipete 窗口内无原创或引用帖；@karpathy 窗口内无原创或引用帖。本轮 get_users_posts 使用 exclude=replies,retweets 与 start_time=2026-11-09T22:13:00Z。窗口起点 2026-11-10 06:14:51 北京时间；移出 12 小时窗口：1 条（@egeberkina 2119911805820747879，发于 2026-11-10 05:55 北京时间）。所有检查帖均有 impression_count。浏览量与互动数据以本轮 get_users_posts 返回的 public_metrics 为准。排除 1 条回复 2120093775498264923（@egeberkina 自己的线程续帖；exclude=replies 仍返回了该条，已按规则丢弃，不写入 snapshots）。新进入窗口 1 条：@egeberkina 2120093771790528718，按 浏览量 ÷ max(发帖至今小时数, 1/60) 计算速率。@levelsio 2119945847009862137 浏览 181869（上次 175621），每小时 +12191，超过阈值，已在 pushed 中，不再推送。@gregisenberg 2119948798638055570 浏览 17195（上次 16941），每小时 +496，未超过阈值，已在 pushed 中，不再推送。@egeberkina 2120093771790528718 浏览 420，发帖至今 0.2700 小时，每小时 +1556，未超过阈值。本轮新达标 0 条。"
+}
