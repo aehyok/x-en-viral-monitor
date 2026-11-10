@@ -1,0 +1,79 @@
+{
+  "run_at": "2026-11-10T20:36:15+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "2034",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2120120546088349854",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2120120546088349854",
+      "created_at": "2026-11-10T11:45:02.000Z",
+      "created_at_bj": "2026-11-10 19:45",
+      "views": 8632,
+      "rate_per_hour": 9548,
+      "basis": "delta",
+      "prev": {
+        "views": 4497,
+        "checked_at": "2026-11-10T20:10:16+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 16,
+        "impression_count": 8632,
+        "like_count": 101,
+        "quote_count": 1,
+        "reply_count": 48,
+        "retweet_count": 2
+      },
+      "already_pushed": true,
+      "text": "https://t.co/LxvaHueOFG is now on iOS 🎉\n\nIt took:\n\n- 4 hours for my agent to build it\n- 336 hours for Apple to review it\n\nYou can now chat with founders making the same revenue:\nhttps://t.co/sXgFjCD8Vz\n\nPS. I regret not naming this app iMRR. https://t.co/r5nXwd6pEK",
+      "text_zh": "https://t.co/LxvaHueOFG 现已登陆 iOS 🎉\n\n一共花了：\n\n- 4 小时让我的 agent 把它做出来\n- 336 小时等 Apple 审核\n\n你现在可以和收入体量相近的创始人聊天了：\nhttps://t.co/sXgFjCD8Vz\n\nPS. 我后悔没把这个应用命名为 iMRR。 https://t.co/r5nXwd6pEK",
+      "quoted": [],
+      "hit": false
+    },
+    {
+      "id": "2120093771790528718",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2120093771790528718",
+      "created_at": "2026-11-10T09:58:39.000Z",
+      "created_at_bj": "2026-11-10 17:58",
+      "views": 1046,
+      "rate_per_hour": 159,
+      "basis": "delta",
+      "prev": {
+        "views": 977,
+        "checked_at": "2026-11-10T20:10:16+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 4,
+        "impression_count": 1046,
+        "like_count": 10,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "already_pushed": false,
+      "text": "Retexturing images with H3 Image + JSON is insane!\n\nUploaded an image, used a JSON prompt and completely transformed its textures while keeping the original composition intact. \n\nPrompt 👇\n\n@MiniMax_AI #H3Image https://t.co/pZpowW7WOu",
+      "text_zh": "用 H3 Image + JSON 给图片重新贴材质也太离谱了！\n\n上传一张图，配上 JSON prompt，就能彻底改变材质，同时保持原来的构图不变。\n\n提示词 👇\n\n@MiniMax_AI #H3Image https://t.co/pZpowW7WOu",
+      "quoted": [],
+      "hit": false
+    }
+  ],
+  "new_hits": [],
+  "dropped_from_window": [
+    "2119945847009862137",
+    "2119948798638055570"
+  ],
+  "notes": "20:34 判定轮（实际运行 20:36:15 北京时间）。间隔 0.4331 小时（上一轮 20:10:16 → 本轮 20:36:15 北京时间，25 分 59 秒）。@levelsio 窗口内无原创或引用帖；@gregisenberg 窗口内无原创或引用帖；@steipete 窗口内无原创或引用帖；@karpathy 窗口内无原创或引用帖。本轮 get_users_posts 使用 exclude=replies,retweets 与 start_time=2026-11-10T00:35:00Z。窗口起点 2026-11-10 08:36:15 北京时间；移出 12 小时窗口：2 条（@levelsio 2119945847009862137，发于 08:10:51；@gregisenberg 2119948798638055570，发于 08:22:34）。所有检查帖均有 impression_count。浏览量与互动数据以本轮 get_users_posts 返回的 public_metrics 为准。排除 1 条回复 2120093775498264923（@egeberkina 自己的线程续帖；exclude=replies 仍返回了该条，已按规则丢弃，不写入 snapshots）。本轮无新进入窗口的帖子；2 条均为 snapshots 已有记录，按（本次浏览量 − 上次浏览量）÷ 间隔小时数计算速率。@marclou 2120120546088349854 浏览 8632（上次 4497），每小时 +9548，超过阈值，已在 pushed 中，不再推送。@egeberkina 2120093771790528718 浏览 1046（上次 977），每小时 +159，未超过阈值。本轮新达标 0 条。"
+}
