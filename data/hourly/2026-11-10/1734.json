@@ -1,0 +1,111 @@
+{
+  "run_at": "2026-11-10T17:44:06+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "1734",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2119945847009862137",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2119945847009862137",
+      "created_at": "2026-11-10T00:10:51.000Z",
+      "created_at_bj": "2026-11-10 08:10",
+      "views": 175621,
+      "rate_per_hour": 11914,
+      "basis": "delta",
+      "prev": {
+        "views": 168704,
+        "checked_at": "2026-11-10T17:09:16+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 556,
+        "impression_count": 175621,
+        "like_count": 8492,
+        "quote_count": 18,
+        "reply_count": 36,
+        "retweet_count": 384
+      },
+      "already_pushed": true,
+      "text": "To a childless woman everything looks like a child https://t.co/4c9ujVPkoA",
+      "text_zh": "对没有孩子的女人来说，看什么都像孩子。 https://t.co/4c9ujVPkoA\n\n引用内容：@JordanFlrtn 发帖称，西班牙加那利群岛 Restinga 港口此刻出现超现实一幕：法国红十字会志愿者正欢快地迎接大多来自塞内加尔的非法移民。",
+      "quoted": [
+        {
+          "id": "2119883779322065046",
+          "user": "JordanFlrtn",
+          "text": "🚨 Scène surréaliste en ce moment même au port de la Restinga (îles Canaries, Espagne) ou des BÉNÉVOLES FRANÇAIS de la Croix-Rouge accueillent joyeusement des migrants venus illégalement en majeure partie du Sénégal.\n\nPartagez ! @Frontieresmedia https://t.co/UkcXeiDziN",
+          "text_zh": "🚨 此刻西班牙加那利群岛 Restinga 港口出现超现实一幕：法国红十字会志愿者正欢快地迎接大多来自塞内加尔、非法入境的移民。\n\n转发！@Frontieresmedia https://t.co/UkcXeiDziN"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2119948798638055570",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2119948798638055570",
+      "created_at": "2026-11-10T00:22:34.000Z",
+      "created_at_bj": "2026-11-10 08:22",
+      "views": 16941,
+      "rate_per_hour": 505,
+      "basis": "delta",
+      "prev": {
+        "views": 16648,
+        "checked_at": "2026-11-10T17:09:16+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 31,
+        "impression_count": 16941,
+        "like_count": 73,
+        "quote_count": 6,
+        "reply_count": 39,
+        "retweet_count": 5
+      },
+      "already_pushed": true,
+      "text": "Scientists copied a fruit fly’s entire brain into a computer and connected it to a virtual body\n\nNobody programmed it to do anything, but it started tasting sugar and cleaning itself anyway\n\nIt’s a long way from a human brain, but it’s hard not to think about where this goes! https://t.co/5t8dIRb6dR",
+      "text_zh": "科学家把一只果蝇的整个大脑复制进了电脑，并把它连接到一个虚拟身体上\n\n没有人给它编程去做任何事，但它自己就开始品尝糖分、清理自己\n\n这离人类大脑还很远，但很难不去想这会走向何方！https://t.co/5t8dIRb6dR",
+      "quoted": [],
+      "hit": false
+    },
+    {
+      "id": "2119911805820747879",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2119911805820747879",
+      "created_at": "2026-11-09T21:55:35.000Z",
+      "created_at_bj": "2026-11-10 05:55",
+      "views": 3068,
+      "rate_per_hour": 251,
+      "basis": "delta",
+      "prev": {
+        "views": 2922,
+        "checked_at": "2026-11-10T17:09:16+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 22,
+        "impression_count": 3068,
+        "like_count": 105,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 13
+      },
+      "already_pushed": false,
+      "text": "I used to think that my life was a tragedy, but now I realize, it's a comedy https://t.co/keFvZAFDmo",
+      "text_zh": "我以前觉得自己的人生是一部悲剧，现在才明白，其实是一部喜剧 https://t.co/keFvZAFDmo",
+      "quoted": [],
+      "hit": false
+    }
+  ],
+  "new_hits": [],
+  "dropped_from_window": [],
+  "notes": "17:34 判定轮（实际运行 17:44:06 北京时间）。间隔 0.5806 小时（上一轮 17:09:16 → 本轮 17:44:06 北京时间，34 分 50 秒）。@marclou 窗口内无原创或引用帖；@steipete 窗口内无原创或引用帖；@karpathy 窗口内无原创或引用帖。本轮 get_users_posts 使用 exclude=replies,retweets 与 start_time=2026-11-09T21:43:00Z。窗口起点 2026-11-10 05:44:06 北京时间；移出 12 小时窗口：0 条。所有检查帖均有 impression_count。浏览量与互动数据以本轮 get_users_posts 返回的 public_metrics 为准。本轮无新进入窗口的帖子；3 条均为 snapshots 已有记录，按（本次浏览量 − 上次浏览量）÷ 间隔小时数计算速率。@levelsio 2119945847009862137 浏览 175621（上次 168704），每小时 +11914，超过阈值，已在 pushed 中，不再推送。@gregisenberg 2119948798638055570 浏览 16941（上次 16648），每小时 +505，未超过阈值，已在 pushed 中，不再推送。@egeberkina 2119911805820747879 浏览 3068（上次 2922），每小时 +251，未超过阈值。本轮新达标 0 条。"
+}
