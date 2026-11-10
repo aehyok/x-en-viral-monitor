@@ -1,0 +1,171 @@
+{
+  "run_at": "2026-11-10T22:08:01+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "2204",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2120150942674780181",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2120150942674780181",
+      "created_at": "2026-11-10T13:45:49.000Z",
+      "created_at_bj": "2026-11-10 21:45",
+      "views": 10783,
+      "rate_per_hour": 29143,
+      "basis": "first_seen",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 156,
+        "impression_count": 10783,
+        "like_count": 126,
+        "quote_count": 3,
+        "reply_count": 16,
+        "retweet_count": 2
+      },
+      "already_pushed": false,
+      "text": "More than ever it'll be important to get your business as lean as possible I think\n\nMoving from expensive PaaS platforms to your own VPS is usually 100x to 1000x cheaper:\n\nVultr VPS is $2.50/month\nAWS Lightsail VPS is $3.50/mo\nDigitalOcean VPS starts at $4/month\nLinode VPS starts https://t.co/SOgVaCix7f",
+      "text_zh": "现在比以往任何时候，都更要把生意做得足够精益，我觉得\n\n从昂贵的 PaaS 平台迁到自己的 VPS，通常能便宜 100 倍到 1000 倍：\n\nVultr VPS 是 $2.50/month\nAWS Lightsail VPS 是 $3.50/mo\nDigitalOcean VPS 起步价 $4/month\nLinode VPS 起步 https://t.co/SOgVaCix7f\n\n引用内容：@dannypostma 发帖称，他现在终于明白为什么 @levelsio 喜欢把服务托管在自己的 VPS 上——上线速度快太多了，尤其是在同时推出一大堆产品的时候。",
+      "quoted": [
+        {
+          "id": "2120113523321946355",
+          "user": "dannypostma",
+          "text": "i now understand why @levelsio likes to host on his own VPS\n\nso much faster to get stuff online\n\nespecially when launching tons of products",
+          "text_zh": "我现在明白为什么 @levelsio 喜欢把服务托管在自己的 VPS 上了\n\n上线速度快太多了\n\n尤其是在同时推出一大堆产品的时候"
+        }
+      ],
+      "hit": true
+    },
+    {
+      "id": "2120155404957311464",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2120155404957311464",
+      "created_at": "2026-11-10T14:03:33.000Z",
+      "created_at_bj": "2026-11-10 22:03",
+      "views": 1504,
+      "rate_per_hour": 20203,
+      "basis": "first_seen",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 4,
+        "impression_count": 1504,
+        "like_count": 13,
+        "quote_count": 0,
+        "reply_count": 6,
+        "retweet_count": 0
+      },
+      "already_pushed": false,
+      "text": "Higgsfield gave me $100,000 to realize my dream:\n\nA hackathon where participants build a real business, not just an app.\n\nSo... Introducing The $100K Hackathon:\n🏴‍☠️ https://t.co/fy1aKzsl5o 🏴‍☠️\n\nIt starts on November 16, and you'll have 30 days to build a startup and make it profitable. The prizes:\n\n🥇 $100,000\n🥈 iPhone Duo\n🥉 MacBook Neo\n\nThis is not a joke. The winner will get $100,000 in cash.\n\nTo win, you must:\n\n1. Start a completely new business on Nov 16\n2. Build a digital product (SaaS, directory, etc.)\n3. Make the most profit (not revenue)\n\nYou can already register at $99. When the hackathon starts on Nov 16, you can still join for $149.\n\nI'm running this with my dear friend @jackfriks, and we'll manually review each potential winner to make sure everything holds up.\n\nSee you on November 16, builders 🏴‍☠️🫡 https://t.co/pVvIwJttoT",
+      "text_zh": "Higgsfield 给了我 $100,000 来实现我的梦想：\n\n一场让参赛者去打造真实生意、而不只是做一个应用的黑客松。\n\n所以……隆重介绍 The $100K Hackathon：\n🏴‍☠️ https://t.co/fy1aKzsl5o 🏴‍☠️\n\n它将于 11 月 16 日开始，你有 30 天时间去做出一家创业公司并让它盈利。奖项：\n\n🥇 $100,000\n🥈 iPhone Duo\n🥉 MacBook Neo\n\n这不是开玩笑。冠军将获得 $100,000 现金。\n\n要赢，你必须：\n\n1. 在 11 月 16 日从零开始一家全新的生意\n2. 做出一款数字产品（SaaS、directory 等）\n3. 赚到最多利润（不是营收）\n\n你现在可以用 $99 报名。黑客松在 11 月 16 日开始后，仍可以 $149 加入。\n\n我和我的好朋友 @jackfriks 一起办这件事，我们会人工审核每一位潜在赢家，确保一切都经得起核验。\n\n11 月 16 日见，builders 🏴‍☠️🫡 https://t.co/pVvIwJttoT",
+      "quoted": [],
+      "hit": true
+    },
+    {
+      "id": "2120120546088349854",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2120120546088349854",
+      "created_at": "2026-11-10T11:45:02.000Z",
+      "created_at_bj": "2026-11-10 19:45",
+      "views": 24838,
+      "rate_per_hour": 11630,
+      "basis": "delta",
+      "prev": {
+        "views": 20593,
+        "checked_at": "2026-11-10T21:46:07+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 47,
+        "impression_count": 24838,
+        "like_count": 242,
+        "quote_count": 7,
+        "reply_count": 102,
+        "retweet_count": 4
+      },
+      "already_pushed": true,
+      "text": "https://t.co/LxvaHueOFG is now on iOS 🎉\n\nIt took:\n\n- 4 hours for my agent to build it\n- 336 hours for Apple to review it\n\nYou can now chat with founders making the same revenue:\nhttps://t.co/sXgFjCD8Vz\n\nPS. I regret not naming this app iMRR. https://t.co/r5nXwd6pEK",
+      "text_zh": "https://t.co/LxvaHueOFG 现已登陆 iOS 🎉\n\n一共花了：\n\n- 4 小时让我的 agent 把它做出来\n- 336 小时等 Apple 审核\n\n你现在可以和收入体量相近的创始人聊天了：\nhttps://t.co/sXgFjCD8Vz\n\nPS. 我后悔没把这个应用命名为 iMRR。 https://t.co/r5nXwd6pEK",
+      "quoted": [],
+      "hit": false
+    },
+    {
+      "id": "2120137776708661472",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2120137776708661472",
+      "created_at": "2026-11-10T12:53:30.000Z",
+      "created_at_bj": "2026-11-10 20:53",
+      "views": 817,
+      "rate_per_hour": 290,
+      "basis": "delta",
+      "prev": {
+        "views": 711,
+        "checked_at": "2026-11-10T21:46:07+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 3,
+        "impression_count": 817,
+        "like_count": 17,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "already_pushed": false,
+      "text": "Forgive my laughter: I have a condition https://t.co/sstCc5eJSe https://t.co/qWS2JWSgHX",
+      "text_zh": "请原谅我的笑声：我有这个毛病 https://t.co/sstCc5eJSe https://t.co/qWS2JWSgHX\n\n引用内容：@egeberkina 发帖称，我曾经觉得自己的人生是悲剧，但现在我意识到，这其实是喜剧。",
+      "quoted": [
+        {
+          "id": "2119911805820747879",
+          "user": "egeberkina",
+          "text": "I used to think that my life was a tragedy, but now I realize, it's a comedy https://t.co/keFvZAFDmo",
+          "text_zh": "我曾经觉得自己的人生是悲剧，但现在我意识到，这其实是喜剧。https://t.co/keFvZAFDmo"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2120093771790528718",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2120093771790528718",
+      "created_at": "2026-11-10T09:58:39.000Z",
+      "created_at_bj": "2026-11-10 17:58",
+      "views": 1318,
+      "rate_per_hour": 167,
+      "basis": "delta",
+      "prev": {
+        "views": 1257,
+        "checked_at": "2026-11-10T21:46:07+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 5,
+        "impression_count": 1318,
+        "like_count": 13,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "already_pushed": false,
+      "text": "Retexturing images with H3 Image + JSON is insane!\n\nUploaded an image, used a JSON prompt and completely transformed its textures while keeping the original composition intact. \n\nPrompt 👇\n\n@MiniMax_AI #H3Image https://t.co/pZpowW7WOu",
+      "text_zh": "用 H3 Image + JSON 给图片重新贴材质也太离谱了！\n\n上传一张图，配上 JSON prompt，就能彻底改变材质，同时保持原来的构图不变。\n\n提示词 👇\n\n@MiniMax_AI #H3Image https://t.co/pZpowW7WOu",
+      "quoted": [],
+      "hit": false
+    }
+  ],
+  "new_hits": [
+    "2120150942674780181",
+    "2120155404957311464"
+  ],
+  "dropped_from_window": [],
+  "notes": "22:04 判定轮（实际运行 22:08:01 北京时间）。间隔 0.3650 小时（上一轮 21:46:07 → 本轮 22:08:01 北京时间，21 分 54 秒）。@gregisenberg 窗口内无原创或引用帖；@steipete 窗口内无原创或引用帖；@karpathy 窗口内无原创或引用帖。本轮 get_users_posts 使用 exclude=retweets,replies 与 start_time=2026-11-10T02:04:00Z。窗口起点 2026-11-10 10:06 北京时间（2026-11-10T02:06:00Z）；移出 12 小时窗口：0 条。所有检查帖均有 impression_count。浏览量与互动数据以本轮 get_users_posts 返回的 public_metrics 为准。排除 2 条回复：2120155900207869994（@marclou 自己的线程续帖；exclude=replies 仍返回了该条，已按规则丢弃，不写入 snapshots）、2120093775498264923（@egeberkina 自己的线程续帖；exclude=replies 仍返回了该条，已按规则丢弃，不写入 snapshots）。本轮新进入窗口 2 条：@levelsio 2120150942674780181、@marclou 2120155404957311464，按 浏览量 ÷ max(发帖至今小时数, 1/60) 计算速率；其余 3 条为 snapshots 已有记录，按（本次浏览量 − 上次浏览量）÷ 间隔小时数计算速率。@levelsio 2120150942674780181 浏览 10783（首次见到，发帖至今 0.3700 小时），每小时 +29143，超过阈值，本轮新达标，加入 pushed。该帖不是 note_tweet，正文在 280 字处截断，以 get_users_posts 返回的完整 280 字原文为准（句末停在 “Linode VPS starts”）。引用 @dannypostma 2120113523321946355。@marclou 2120155404957311464 浏览 1504（首次见到，发帖至今 0.0744 小时），每小时 +20203，超过阈值，本轮新达标，加入 pushed。get_users_posts / get_posts_by_id 未返回 note_tweet 字段，正文被截断；已使用完整长文（note tweet）写入 text / text_zh。@marclou 2120120546088349854 浏览 24838（上次 20593），每小时 +11630，超过阈值，已在 pushed 中，不再推送。@egeberkina 2120137776708661472 浏览 817（上次 711），每小时 +290，未超过阈值。@egeberkina 2120093771790528718 浏览 1318（上次 1257），每小时 +167，未超过阈值。本轮新达标 2 条。"
+}
