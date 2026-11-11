@@ -1,0 +1,127 @@
+{
+  "run_at": "2026-11-11T17:12:43+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "1704",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2120288352981119373",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2120288352981119373",
+      "created_at": "2026-11-10T22:51:51.000Z",
+      "created_at_bj": "2026-11-11 06:51",
+      "views": 38257,
+      "rate_per_hour": 2466,
+      "basis": "delta",
+      "prev": {
+        "views": 36837,
+        "checked_at": "2026-11-11T16:38:10+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 30,
+        "impression_count": 38257,
+        "like_count": 272,
+        "quote_count": 1,
+        "reply_count": 30,
+        "retweet_count": 0
+      },
+      "already_pushed": true,
+      "text": "I, for one, want my cybersecurity provider staff to be ripped https://t.co/XWJn2NeQ7d",
+      "text_zh": "就我个人而言，我希望我的网络安全服务商员工都练得够壮 https://t.co/XWJn2NeQ7d\n\n引用内容：@Jilles 发帖称，一大早跑完了步，agents 还在干活。",
+      "quoted": [
+        {
+          "id": "2120207170587242739",
+          "user": "Jilles",
+          "text": "Early morning run completed while the agents were working. https://t.co/e7TyN9RuZ1",
+          "text_zh": "一大早跑完了步，agents 还在干活。https://t.co/e7TyN9RuZ1"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2120285227050222057",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2120285227050222057",
+      "created_at": "2026-11-10T22:39:25.000Z",
+      "created_at_bj": "2026-11-11 06:39",
+      "views": 55038,
+      "rate_per_hour": 2513,
+      "basis": "delta",
+      "prev": {
+        "views": 53591,
+        "checked_at": "2026-11-11T16:38:10+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 47,
+        "impression_count": 55038,
+        "like_count": 419,
+        "quote_count": 0,
+        "reply_count": 9,
+        "retweet_count": 3
+      },
+      "already_pushed": true,
+      "text": "So epic https://t.co/RMqG8TD6NQ",
+      "text_zh": "太史诗了 https://t.co/RMqG8TD6NQ\n\n引用内容：@vxunderground 发帖称，萨尔瓦多派人去海地后遭黑帮绑架，Bukele 在社交平台众包 OSINT 拿到坐标并按其承诺实施轰炸；总结是推特上的 OSINT 极客像玩 Call of Duty 一样召唤了空袭，这在社交媒体上从未见过。",
+      "quoted": [
+        {
+          "id": "2120239415637295555",
+          "user": "vxunderground",
+          "text": "> be El Salvador \n> send nerds to Haiti for UN thingie \n> gang kidnaps Salvadorian nerds \n> bukele says \"give back\"\n> gang \"nah\"\n> bukele says \"ok we take back\"\n> gang \"nah, also you're a bitch\"\n> bukele comes to take back \n> gang \"wtf that's illegal, UN tell them something\"\n> UN says \"idk bro thats crazy\"\n> bukele goes on social media \n> \"does anyone know this houses coordinates? we will bomb it\"\n> crowdsources OSINT nerds\n> OSINT nerds deliver exact coordinates in like, 30 minutes\n> bombs it exactly as promised\n> goes on social media\n> calls them pussies\n\ntl;dr OSINT nerds on Twitter called in Airstrike like it's Call of Duty, never been seen before on social media",
+          "text_zh": "> 扮演萨尔瓦多\n> 派极客去海地做联合国的事\n> 黑帮绑架了萨尔瓦多极客\n> bukele 说「交出来」\n> 黑帮「不干」\n> bukele 说「那我们自己去抢回来」\n> 黑帮「不干，而且你就是个怂货」\n> bukele 亲自来抢人\n> 黑帮「卧槽这违法，联合国你说句话啊」\n> 联合国说「我也不知道兄弟，这也太疯狂了」\n> bukele 上了社交媒体\n> 「有谁知道这栋房子的坐标吗？我们要炸了它」\n> 向 OSINT 极客众包\n> OSINT 极客大概 30 分钟就给出了精确坐标\n> 完全按承诺炸掉了\n> 又上社交媒体\n> 骂他们是孬种\n\ntl;dr 推特上的 OSINT 极客像在玩 Call of Duty 一样召唤了空袭，这在社交媒体上从未见过"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2120301598630936813",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2120301598630936813",
+      "created_at": "2026-11-10T23:44:29.000Z",
+      "created_at_bj": "2026-11-11 07:44",
+      "views": 21145,
+      "rate_per_hour": 672,
+      "basis": "delta",
+      "prev": {
+        "views": 20758,
+        "checked_at": "2026-11-11T16:38:10+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 133,
+        "impression_count": 21145,
+        "like_count": 273,
+        "quote_count": 3,
+        "reply_count": 92,
+        "retweet_count": 16
+      },
+      "already_pushed": true,
+      "text": "The problem with social media right now, summarized:\n\n1) Rage bait works\n2) Bots are kinda everywhere\n3) AI slop is everywhere\n4) It doesn't feel super social anymore\n5) Extremely addictive\n6) Pressure to go viral\n7) You compare yourself without noticing\n8) Hard to tell what’s real\n9) You forget why you opened the app\n10) Everything is filtered\n\nYet, it’s still one of the greatest tools humanity has for building, connecting, and finding your people!\n\nIt's just far from perfect.",
+      "text_zh": "眼下社交媒体的问题，总结如下：\n\n1）Rage bait 有效\n2）机器人有点到处都是\n3）AI slop 到处都是\n4）感觉不再那么社交了\n5）极度上瘾\n6）有必须爆款的压力\n7）你会在不知不觉中和别人比较\n8）很难分辨什么是真的\n9）你会忘记自己为什么打开这个应用\n10）一切都被过滤过\n\n然而，它仍然是人类用来建设、连接和找到同类的最伟大工具之一！\n\n它只是远谈不上完美。",
+      "quoted": [],
+      "hit": false
+    }
+  ],
+  "new_hits": [],
+  "dropped_from_window": [
+    {
+      "id": "2120257439639703877",
+      "user": "egeberkina",
+      "created_at": "2026-11-10T20:49:00.000Z",
+      "created_at_bj": "2026-11-11 04:49",
+      "reason": "older_than_lookback",
+      "last_views": 2423
+    }
+  ],
+  "notes": "17:04 判定轮（实际运行 17:12:43 北京时间）。间隔 0.5758 小时（上一轮 16:38:10 → 本轮 17:12:43 北京时间，34 分 33 秒）。@karpathy 窗口内无原创或引用帖。@marclou 窗口内无原创或引用帖。@steipete 窗口内无原创或引用帖。@egeberkina 窗口内无原创或引用帖。本轮 get_users_posts 使用 exclude=replies,retweets 与 start_time=2026-11-10T21:12:00Z，再按 12 小时窗口核对。窗口起点 2026-11-11 05:12:43 北京时间（2026-11-10T21:12:43Z）。所有检查帖均有 impression_count。浏览量与互动数据以本轮 get_users_posts 返回的 public_metrics 为准。@gregisenberg 2120301598630936813 的 get_users_posts 本轮返回了 note_tweet 全文，与上一轮已保存全文一致，译文沿用上一轮。被引用帖全文与中文译文均沿用上一轮归档（本轮 includes 中 @vxunderground 2120239415637295555 的正文被截断，未再单独请求 get_posts_by_ids，沿用上一轮已补全的 note_tweet 全文；@Jilles 2120207170587242739 的正文与上一轮一致）。本轮无新出现帖子。3 条均为 snapshots 已有记录，按（本次浏览量 − 上次浏览量）÷ 间隔小时数计算速率。@levelsio 2120288352981119373 浏览 38257（上次 36837），每小时 +2466，已在 pushed 中，不再推送。@levelsio 2120285227050222057 浏览 55038（上次 53591），每小时 +2513，已在 pushed 中，不再推送。@gregisenberg 2120301598630936813 浏览 21145（上次 20758），每小时 +672，已在 pushed 中，不再推送。移出 12 小时窗口：@egeberkina 2120257439639703877（发帖 2026-11-11 04:49 北京时间，上次浏览 2423）。本轮无新达标帖子。"
+}
