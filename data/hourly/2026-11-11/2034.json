@@ -1,0 +1,247 @@
+{
+  "run_at": "2026-11-11T20:34:34+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "2034",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2120492070540640624",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2120492070540640624",
+      "created_at": "2026-11-11T12:21:21.000Z",
+      "created_at_bj": "2026-11-11 20:21",
+      "views": 5425,
+      "rate_per_hour": 24628,
+      "basis": "first_seen",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 4,
+        "impression_count": 5425,
+        "like_count": 24,
+        "quote_count": 0,
+        "reply_count": 12,
+        "retweet_count": 0
+      },
+      "already_pushed": false,
+      "text": "\"Boring & fun\" is a great way to describe building with AI https://t.co/nejSRRXLmi",
+      "text_zh": "「无聊又有趣」是描述用 AI 做东西的绝佳方式 https://t.co/nejSRRXLmi\n\n引用内容：他引用了 @AviSchiffmann 的回复：是的，这真的非常非常无聊，但也很好玩。我也不知道该怎么说。我差不多整天就是坐着进行抽象思考，数字化工作再也不用那么辛苦了。挺好的，但这是一种我还不习惯的奇怪自由（因为我现在的生产力也提高了 10 倍？）",
+      "quoted": [
+        {
+          "id": "2120276735879237650",
+          "user": "AviSchiffmann",
+          "text": "@justalexoki Yes it is incredibly incredibly boring but also fun. Idrk. I’m kinda just sitting around all day thinking in abstracts never having to work hard digitally anymore. It’s fine but a weird freedom I’m not used to (because I’m now also 10x more productive?)",
+          "text_zh": "@justalexoki 是的，这真的非常非常无聊，但也很好玩。我也不知道该怎么说。我差不多整天就是坐着进行抽象思考，数字化工作再也不用那么辛苦了。挺好的，但这是一种我还不习惯的奇怪自由（因为我现在的生产力也提高了 10 倍？）"
+        }
+      ],
+      "hit": true
+    },
+    {
+      "id": "2120491851593691578",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2120491851593691578",
+      "created_at": "2026-11-11T12:20:28.000Z",
+      "created_at_bj": "2026-11-11 20:20",
+      "views": 365,
+      "rate_per_hour": 1553,
+      "basis": "first_seen",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 1,
+        "impression_count": 365,
+        "like_count": 7,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 1
+      },
+      "already_pushed": false,
+      "text": "Defying gravity\n\n--sref 2014403128 https://t.co/7Cz6a67qZl",
+      "text_zh": "挑战重力\n\n--sref 2014403128 https://t.co/7Cz6a67qZl",
+      "quoted": [],
+      "hit": false
+    },
+    {
+      "id": "2120488432367468888",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2120488432367468888",
+      "created_at": "2026-11-11T12:06:53.000Z",
+      "created_at_bj": "2026-11-11 20:06",
+      "views": 10630,
+      "rate_per_hour": 22082,
+      "basis": "delta",
+      "prev": {
+        "views": 2423,
+        "checked_at": "2026-11-11T20:12:16+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 19,
+        "impression_count": 10630,
+        "like_count": 98,
+        "quote_count": 0,
+        "reply_count": 9,
+        "retweet_count": 7
+      },
+      "already_pushed": true,
+      "text": "https://t.co/1dD64EJiuZ https://t.co/tgryV8oV1u",
+      "text_zh": "https://t.co/1dD64EJiuZ https://t.co/tgryV8oV1u\n\n引用内容：他引用了 @Jason 的帖子，写道：@AnthropicAI 正在把每一款 SaaS 产品都做进 @claudeai，并且终身免费。@Office365、@google、@canva、@figma……一个接一个。如果这些产品终身免费，这就不算反垄断了——对吧？！记一笔 @DavidSacks！",
+      "quoted": [
+        {
+          "id": "2120209242363969728",
+          "user": "Jason",
+          "text": ".@AnthropicAI is building every SaaS product into @claudeai -- and making them free for life. \n\n@Office365, @google, @canva, @figma.... right down the line. \n\nand this can't be antitrust if the products are FREE FOR LIFE -- right?! docket @DavidSacks! https://t.co/f8KmlVidRd",
+          "text_zh": ".@AnthropicAI 正在把每一款 SaaS 产品都做进 @claudeai，并且终身免费。\n\n@Office365、@google、@canva、@figma……一个接一个。\n\n如果这些产品终身免费，这就不算反垄断了——对吧？！记一笔 @DavidSacks！ https://t.co/f8KmlVidRd"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2120481942017855910",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2120481942017855910",
+      "created_at": "2026-11-11T11:41:06.000Z",
+      "created_at_bj": "2026-11-11 19:41",
+      "views": 16397,
+      "rate_per_hour": 15877,
+      "basis": "delta",
+      "prev": {
+        "views": 10496,
+        "checked_at": "2026-11-11T20:12:16+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 35,
+        "impression_count": 16397,
+        "like_count": 396,
+        "quote_count": 6,
+        "reply_count": 42,
+        "retweet_count": 12
+      },
+      "already_pushed": true,
+      "text": "Voice and text messages are async\n\nCalls are sync and destroy my day https://t.co/m7ews6Jn8j https://t.co/EbeUtO0t2N",
+      "text_zh": "语音消息和文字消息是异步的\n\n打电话是同步的，会毁了我的一天 https://t.co/m7ews6Jn8j https://t.co/EbeUtO0t2N\n\n引用内容：他引用了 @hrshsn_ 的提问：你为什么不愿意跟任何人打电话，却愿意发语音消息？这不是很奇怪吗 :/？",
+      "quoted": [
+        {
+          "id": "2120466194126016875",
+          "user": "hrshsn_",
+          "text": "@levelsio @levelsio what's reason you won't do calls with anyone, but willingly do voice messages?\nisn't it weird :/?",
+          "text_zh": "@levelsio @levelsio 你为什么不愿意跟任何人打电话，却愿意发语音消息？\n这不是很奇怪吗 :/？"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2120465650372039002",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2120465650372039002",
+      "created_at": "2026-11-11T10:36:22.000Z",
+      "created_at_bj": "2026-11-11 18:36",
+      "views": 25962,
+      "rate_per_hour": 15821,
+      "basis": "delta",
+      "prev": {
+        "views": 20082,
+        "checked_at": "2026-11-11T20:12:16+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 39,
+        "impression_count": 25962,
+        "like_count": 218,
+        "quote_count": 0,
+        "reply_count": 58,
+        "retweet_count": 1
+      },
+      "already_pushed": true,
+      "text": "💸 First @YouTube money!\n\nWell second after a decade because I was a YouTuber from 2008-2013 with Panda Mix Show\n\nBut this is from my vlogging\n\nAbout US$833 https://t.co/SNGmQA45mF https://t.co/FUcg4C4VVp",
+      "text_zh": "💸 第一笔 @YouTube 收入！\n\n其实算是十年后的第二笔，因为我在 2008-2013 年做过 YouTuber，频道是 Panda Mix Show\n\n但这次来自我的 vlogging\n\n大约 833 美元 https://t.co/SNGmQA45mF https://t.co/FUcg4C4VVp\n\n引用内容：他引用了自己较早的帖子，写道：当 AI 能把一切都做出来之后，还剩下什么可做？其实还有很多事情！",
+      "quoted": [
+        {
+          "id": "2116843791214629021",
+          "user": "levelsio",
+          "text": "What's left to do when AI can build everything?\n\nMany things actually! https://t.co/aLwbVNoemN https://t.co/HkzkurJHi9",
+          "text_zh": "当 AI 能把一切都做出来之后，还剩下什么可做？\n\n其实还有很多事情！https://t.co/aLwbVNoemN https://t.co/HkzkurJHi9"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2120464370396532857",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2120464370396532857",
+      "created_at": "2026-11-11T10:31:16.000Z",
+      "created_at_bj": "2026-11-11 18:31",
+      "views": 27558,
+      "rate_per_hour": 7875,
+      "basis": "delta",
+      "prev": {
+        "views": 24631,
+        "checked_at": "2026-11-11T20:12:16+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 25,
+        "impression_count": 27558,
+        "like_count": 249,
+        "quote_count": 4,
+        "reply_count": 62,
+        "retweet_count": 3
+      },
+      "already_pushed": true,
+      "text": "Managed to dodge a call yesterday because guy kept pushing for \"let's do a call\"\n\nI told him I will never ever do calls except with family\n\nAnd we could send voice messages and video bubbles instead, so we did\n\n10/10 win and everybody liked that https://t.co/55t1dEcaRM",
+      "text_zh": "昨天成功避开了一通通话，因为那家伙一直在推「咱们打个电话吧」\n\n我告诉他，除了和家人之外，我永远不会打电话\n\n我们可以改用语音消息和视频气泡，于是我们就这么做了\n\n10/10 的胜利，大家都觉得这样很好 https://t.co/55t1dEcaRM",
+      "quoted": [],
+      "hit": false
+    },
+    {
+      "id": "2120460096081715680",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2120460096081715680",
+      "created_at": "2026-11-11T10:14:17.000Z",
+      "created_at_bj": "2026-11-11 18:14",
+      "views": 48879,
+      "rate_per_hour": 21229,
+      "basis": "delta",
+      "prev": {
+        "views": 40989,
+        "checked_at": "2026-11-11T20:12:16+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 175,
+        "impression_count": 48879,
+        "like_count": 744,
+        "quote_count": 70,
+        "reply_count": 203,
+        "retweet_count": 15
+      },
+      "already_pushed": true,
+      "text": "I made a mistake.\n\nWhen Jack and I decided to organize this $100K Hackathon, my biggest concern was cheating.\n\nUnlike a regular hackathon, everyone participates from home. And because the winner is whoever makes the most PROFIT (not revenue), there are so many ways to manipulate the numbers.\n\nSo I added a $99 entry fee.\n\nOne thing I’ve learned from building businesses is that people tend to be more committed when they pay for something.\n\nI thought it would filter out spam, attract serious builders, and make the competition fairer for everyone.\n\nBut I completely missed the other side.\n\n3 years ago, I was a living with my apps. Today, I’m financially free. My life changed so much that somewhere along the way, I lost perspective on what $99 means to someone else.\n\nFor someone in India, someone struggling to pay their bills, or someone trying to make their first dollar online, $99 can be a lot of money.\n\nAnd those are exactly the people I want to help!\n\nI’ve spent years sharing what I’ve learned, reviewing random people’s landing pages, and organizing free meetups around the world. Not because there’s money to make, but because I genuinely love seeing people build things and succeed.\n\nAnd somehow, I was so focused on keeping cheaters out that I didn’t realize I was also keeping genuine builders out.\n\nThat’s my mistake.\n\nSo I’ve decided to make the $100K Hackathon completely FREE :)\n\nEveryone who already paid got a full refund.\n\nI’m still worried about cheating. That problem hasn’t disappeared, and Jack and I will have to figure out better ways to verify profits and keep the leaderboard fair.\n\nBut that’s our problem to solve.\n\nThank you to everyone who shared their thoughts. Sometimes you need people to remind you of things you’ve forgotten.\n\nI genuinely hope this hackathon changes someone’s life.\n\n❤️",
+      "text_zh": "我犯了一个错。\n\n当 Jack 和我决定举办这次 $100K Hackathon 时，我最大的担忧是作弊。\n\n和普通黑客松不同，每个人都在家里参赛。而且因为赢家是谁赚到的 PROFIT（利润）最多（不是营收），所以有太多办法可以操纵数字。\n\n所以我加了 99 美元的报名费。\n\n我从做生意中学到的一件事是：人们为某件事付了钱，往往会更认真投入。\n\n我以为这能过滤掉垃圾报名、吸引认真的 builder，并让比赛对所有人都更公平。\n\n但我完全忽略了另一面。\n\n3 年前，我还在靠自己的应用过活。如今我已经财务自由。我的生活变化太大，一路走来，我渐渐失去了对「99 美元对别人意味着什么」的体感。\n\n对一个在印度的人、一个正在为账单发愁的人，或一个想在网上赚到第一美元的人来说，99 美元可能是很大一笔钱。\n\n而他们恰恰是我想帮助的人！\n\n这些年来我一直在分享自己学到的东西、帮陌生人看落地页，还在世界各地组织免费线下聚会。不是因为能赚到钱，而是因为我真心喜欢看到人们把东西做出来并获得成功。\n\n不知怎的，我太专注于把作弊者挡在门外，以至于没意识到自己也把真正的 builder 挡在了门外。\n\n这就是我的错。\n\n所以我决定让这场 $100K Hackathon 完全免费 :)\n\n所有已经付过钱的人都收到了全额退款。\n\n我仍然担心作弊。这个问题并没有消失，Jack 和我必须想出更好的办法来核实利润、保证排行榜公平。\n\n但那是我们该解决的问题。\n\n感谢所有分享想法的人。有时候你需要别人提醒你那些已经忘掉的事。\n\n我真心希望这场黑客松能改变某个人的人生。\n\n❤️\n\n引用内容：他引用了自己早前宣布 The $100K Hackathon 的帖子：Higgsfield 出资 10 万美元，参赛者从 11 月 16 日起用 30 天做一个能盈利的数字产品，奖金包括 10 万美元现金、iPhone Duo 和 MacBook Neo；原先报名费是 99 美元（开赛后 149 美元），与 @jackfriks 共同举办。",
+      "quoted": [
+        {
+          "id": "2120155404957311464",
+          "user": "marclou",
+          "text": "Higgsfield gave me $100,000 to realize my dream:\n\nA hackathon where participants build a real business, not just an app.\n\nSo... Introducing The $100K Hackathon:\n🏴‍☠️ https://t.co/nHDJ5Qruhu 🏴‍☠️\n\nIt starts on November 16, and you'll have 30 days to build a startup and make it profitable. The prizes:\n\n🥇 $100,000\n🥈 iPhone Duo\n🥉 MacBook Neo\n\nThis is not a joke. The winner will get $100,000 in cash.\n\nTo win, you must:\n\n1. Start a completely new business on Nov 16\n2. Build a digital product (SaaS, directory, etc.)\n3. Make the most profit (not revenue)\n\nYou can already register at $99. When the hackathon starts on Nov 16, you can still join for $149.\n\nI'm running this with my dear friend @jackfriks, and we'll manually review each potential winner to make sure everything holds up.\n\nSee you on November 16, builders 🏴‍☠️🫡",
+          "text_zh": "Higgsfield 给了我 10 万美元来实现我的梦想：\n\n一场让参赛者打造真实生意、而不只是做一个应用的黑客松。\n\n所以……隆重介绍 The $100K Hackathon：\n🏴‍☠️ https://t.co/nHDJ5Qruhu 🏴‍☠️\n\n它将于 11 月 16 日开始，你有 30 天时间去做一家创业公司并让它盈利。奖项：\n\n🥇 100,000 美元\n🥈 iPhone Duo\n🥉 MacBook Neo\n\n这不是玩笑。冠军将获得 10 万美元现金。\n\n要获胜，你必须：\n\n1. 在 11 月 16 日启动一个全新的生意\n2. 做一个数字产品（SaaS、目录站等）\n3. 赚到最多的利润（不是营收）\n\n你现在可以用 99 美元报名。黑客松在 11 月 16 日开始后，仍可以 149 美元加入。\n\n我正和好友 @jackfriks 一起做这件事，我们会人工审核每一位潜在赢家，确保一切经得起检验。\n\n11 月 16 日见，builders 🏴‍☠️🫡"
+        }
+      ],
+      "hit": false
+    }
+  ],
+  "new_hits": [
+    "2120492070540640624"
+  ],
+  "dropped_from_window": [],
+  "notes": "20:34 判定轮（实际运行 20:34:34 北京时间）。baseline: false。间隔 0.3717 小时（上一轮 20:12:16 → 本轮 20:34:34 北京时间，22 分 18 秒）。@karpathy 窗口内无原创或引用帖。@steipete 窗口内无原创或引用帖。@gregisenberg 窗口内无原创或引用帖。本轮 get_users_posts 使用 exclude=replies,retweets 与 start_time=2026-11-11T00:34:00Z，再按 12 小时窗口核对。窗口起点 2026-11-11 08:34:34 北京时间（2026-11-11T00:34:34Z）。所有检查帖均有 impression_count。浏览量与互动数据以本轮 get_users_posts 返回的 public_metrics 为准；@marclou 2120460096081715680 的 note_tweet 全文由 get_posts_by_ids 补全（get_users_posts 返回了截断 text，互动数据与 get_users_posts 一致；中文译文与上一轮相同，因英文全文未变）。被引用帖 @marclou 2120155404957311464 的 note_tweet 全文同样由 get_posts_by_ids 补全（正文链接为 https://t.co/nHDJ5Qruhu）。本地排除回复 2 条：2120491124947312701（@levelsio 对自己 2120465650372039002 的回复，关于 YouTube 变现；exclude=replies 仍返回了该条，已按规则丢弃，不写入 snapshots）；2120460098522743136（@marclou 自己的线程续帖；exclude=replies 仍返回了该条，已按规则丢弃，不写入 snapshots）。被引用帖 @AviSchiffmann 2120276735879237650、@Jason 2120209242363969728、@hrshsn_ 2120466194126016875、@levelsio 2116843791214629021 的正文由 get_users_posts includes / 既有归档返回。移出 12 小时窗口：0 条。新出现 2 条，按浏览量 ÷ 发帖以来小时数计算速率：@levelsio 2120492070540640624 浏览 5425，发布于 20:21，每小时 +24628，本轮新达标。@egeberkina 2120491851593691578 浏览 365，发布于 20:20，每小时 +1553，未达阈值。其余 5 条均为 snapshots 已有记录，按（本次浏览量 − 上次浏览量）÷ 间隔小时数计算速率。@levelsio 2120488432367468888 浏览 10630（上次 2423），每小时 +22082，已在 pushed 中，不再推送。@levelsio 2120481942017855910 浏览 16397（上次 10496），每小时 +15877，已在 pushed 中，不再推送。@levelsio 2120465650372039002 浏览 25962（上次 20082），每小时 +15821，已在 pushed 中，不再推送。@levelsio 2120464370396532857 浏览 27558（上次 24631），每小时 +7875，已在 pushed 中，不再推送。@marclou 2120460096081715680 浏览 48879（上次 40989），每小时 +21229，已在 pushed 中，不再推送。本轮新达标 1 条，已加入 pushed。"
+}
