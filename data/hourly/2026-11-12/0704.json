@@ -1,0 +1,444 @@
+{
+  "run_at": "2026-11-12T07:07:26+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "0704",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2120651795785539732",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2120651795785539732",
+      "created_at": "2026-11-11T22:56:02.000Z",
+      "created_at_bj": "2026-11-12 06:56",
+      "views": 6630,
+      "rate_per_hour": 34895,
+      "basis": "first_seen",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 6,
+        "impression_count": 6630,
+        "like_count": 123,
+        "quote_count": 3,
+        "reply_count": 19,
+        "retweet_count": 2
+      },
+      "already_pushed": false,
+      "text": "Wouldn't it be something if this was the thing that would pop the AI bubble https://t.co/AMXwWlyjB0",
+      "text_zh": "要是戳破 AI 泡沫的，居然就是这件事，岂不是很有意思 https://t.co/AMXwWlyjB0\n\n引用内容：他引用了 @BullTheoryio 的突发帖：据《纽约时报》报道，美国 Nvidia CEO Jensen Huang 与医疗健康业务副总裁 Kimberly Powell 有第二次婚外情。",
+      "quoted": [
+        {
+          "id": "2120643194861822205",
+          "user": "BullTheoryio",
+          "text": "BREAKING: 🇺🇸 Nvidia CEO Jensen Huang had a second affair with VP of Health Care Kimberly Powell, per the New York Times. https://t.co/OyeMo2Xq1S",
+          "text_zh": "突发：🇺🇸 Nvidia CEO Jensen Huang 与医疗健康业务副总裁 Kimberly Powell 有第二次婚外情，据《纽约时报》报道。https://t.co/OyeMo2Xq1S"
+        }
+      ],
+      "hit": true
+    },
+    {
+      "id": "2120648647150874762",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2120648647150874762",
+      "created_at": "2026-11-11T22:43:31.000Z",
+      "created_at_bj": "2026-11-12 06:43",
+      "views": 7447,
+      "rate_per_hour": 18682,
+      "basis": "first_seen",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 22,
+        "impression_count": 7447,
+        "like_count": 39,
+        "quote_count": 1,
+        "reply_count": 14,
+        "retweet_count": 0
+      },
+      "already_pushed": false,
+      "text": "Okay it works, I can now upload a video or some photos or just a floor plan of my living room\n\nAnd then:\n- empty it fully\n- move around furniture\n- remove furniture\n- paint the walls, floor, ceiling and any object in any color\n\nNext:\n- top down floor plan view\n- change to any interior design style with one-click\n- integrate it into 🏡 Interior AI fully as a feature\n\nVery very very cool 😍🤟",
+      "text_zh": "好了，搞定了。我现在可以把客厅的一段视频、几张照片，或者只是一张平面图上传上去\n\n然后就可以：\n- 把房间完全清空\n- 来回移动家具\n- 移除家具\n- 把墙面、地板、天花板和任何物体涂成任意颜色\n\n接下来还要做：\n- 俯视平面图视角\n- 一键换成任意室内设计风格\n- 把它完整集成进 🏡 Interior AI，作为一项功能\n\n非常非常非常酷 😍🤟\n\n引用内容：他引用了自己稍早关于 Interior AI 的帖子：过去 12 个月室内设计能用的技术不多，但现在 AI 终于能从粗糙视频、照片甚至平面图生成可编辑的无头 Blender 3D 场景，他打算把这做成 Interior AI 的下一个大功能，并尽快上线。",
+      "quoted": [
+        {
+          "id": "2120641573671358926",
+          "user": "levelsio",
+          "text": "There wasn't much technology to work with in terms of interior design with my app 🏡 Interior AI the last 12 months\n\nFor 4 years it's been based on simple image models: photos of your interior as input -> redesigns out as output\n\nBut now there is a completely new dimension to it 😬\n\nAs you probably saw on your timeline, AI can finally generate headless Blender 3d scenes from just a rough video (which I did today of my living room), or even a few photos, and even a floorplan (which no image model was able to understand before, believe me I tried 100 times!)\n\nThat means that 3d scene I can then make fully editable in my app Interior AI\n\nMeaning you can paint any wall, floor or ceiling any color, next move around, delete or add new furniture etc from a giant 3d library of furniture\n\nEndless possibilities!!\n\nI think I found my next big feature 😍\n\nI'll try get something live in Interior AI within the next few hours!!!",
+          "text_zh": "过去 12 个月，我的应用 🏡 Interior AI 在室内设计方面能用的技术其实并不多\n\n4 年来，它一直基于简单的图像模型：输入你室内的照片 -> 输出重新设计的效果图\n\n但现在它有了一个全新的维度 😬\n\n你大概已经在时间线上看到了，AI 终于可以从一段粗糙的视频（我今天就拍了自己的客厅）、甚至几张照片，甚至一张平面图（以前没有图像模型能理解平面图，相信我，我试过 100 次！）生成无头 Blender 3D 场景\n\n这意味着我可以在 Interior AI 里把那个 3D 场景做成完全可编辑的\n\n也就是说，你可以把任何墙面、地板或天花板涂成任意颜色，接着四处移动、删除或从超大的 3D 家具库里添加新家具等等\n\n无限可能！！\n\n我想我找到了下一个大功能 😍\n\n我会尽量在接下来几个小时内，把这个功能在 Interior AI 里上线！！！"
+        }
+      ],
+      "hit": true
+    },
+    {
+      "id": "2120641573671358926",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2120641573671358926",
+      "created_at": "2026-11-11T22:15:25.000Z",
+      "created_at_bj": "2026-11-12 06:15",
+      "views": 16781,
+      "rate_per_hour": 19522,
+      "basis": "delta",
+      "prev": {
+        "views": 8506,
+        "checked_at": "2026-11-12T06:42:00+08:00"
+      },
+      "edit_of": "2120639603539374309",
+      "metrics": {
+        "bookmark_count": 75,
+        "impression_count": 16781,
+        "like_count": 89,
+        "quote_count": 3,
+        "reply_count": 30,
+        "retweet_count": 1
+      },
+      "already_pushed": true,
+      "text": "There wasn't much technology to work with in terms of interior design with my app 🏡 Interior AI the last 12 months\n\nFor 4 years it's been based on simple image models: photos of your interior as input -> redesigns out as output\n\nBut now there is a completely new dimension to it 😬\n\nAs you probably saw on your timeline, AI can finally generate headless Blender 3d scenes from just a rough video (which I did today of my living room), or even a few photos, and even a floorplan (which no image model was able to understand before, believe me I tried 100 times!)\n\nThat means that 3d scene I can then make fully editable in my app Interior AI\n\nMeaning you can paint any wall, floor or ceiling any color, next move around, delete or add new furniture etc from a giant 3d library of furniture\n\nEndless possibilities!!\n\nI think I found my next big feature 😍\n\nI'll try get something live in Interior AI within the next few hours!!!",
+      "text_zh": "过去 12 个月，我的应用 🏡 Interior AI 在室内设计方面能用的技术其实并不多\n\n4 年来，它一直基于简单的图像模型：输入你室内的照片 -> 输出重新设计的效果图\n\n但现在它有了一个全新的维度 😬\n\n你大概已经在时间线上看到了，AI 终于可以从一段粗糙的视频（我今天就拍了自己的客厅）、甚至几张照片，甚至一张平面图（以前没有图像模型能理解平面图，相信我，我试过 100 次！）生成无头 Blender 3D 场景\n\n这意味着我可以在 Interior AI 里把那个 3D 场景做成完全可编辑的\n\n也就是说，你可以把任何墙面、地板或天花板涂成任意颜色，接着四处移动、删除或从超大的 3D 家具库里添加新家具等等\n\n无限可能！！\n\n我想我找到了下一个大功能 😍\n\n我会尽量在接下来几个小时内，把这个功能在 Interior AI 里上线！！！\n\n引用内容：他引用了自己早前的帖子，写道：他的私人教练同时也是葡萄牙许多健身房的顾问，现在会用 🏡 Interior AI 改造健身房——先在 SketchUp 里做概念，再把线框上传到 Interior AI，几秒就能得到照片级渲染，然后点 [ Make 3d ]，几分钟后就能在 3D 里走动查看新设计（感谢 @theworldlabs API），非常适合给健身房客户展示效果。",
+      "quoted": [
+        {
+          "id": "2026768651584700460",
+          "user": "levelsio",
+          "text": "💪 My personal trainer is also a consultant for many gyms in Portugal\n\nAnd she now uses 🏡 Interior AI to redesign gyms\n\nShe first builds a concept in SketchUp, then uploads that basic wireframe to Interior AI which turns it into a photorealistic render in a few seconds\n\nThen she taps [ Make 3d ] and a few minutes later, she can walk around in her new design in 3d (thanks to @theworldlabs API)\n\nVery very very useful to show her gym clients how it'll look!",
+          "text_zh": "💪 我的私人教练同时也是葡萄牙许多健身房的顾问\n\n她现在会用 🏡 Interior AI 改造健身房\n\n她先在 SketchUp 里做一个概念，再把那个基础线框上传到 Interior AI，几秒钟就能变成照片级渲染\n\n然后她点 [ Make 3d ]，几分钟后就能在 3D 里走动查看新设计（感谢 @theworldlabs API）\n\n非常非常非常适合拿给她的健身房客户展示效果！"
+        }
+      ],
+      "hit": true
+    },
+    {
+      "id": "2120619019460059359",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2120619019460059359",
+      "created_at": "2026-11-11T20:45:48.000Z",
+      "created_at_bj": "2026-11-12 04:45",
+      "views": 1519,
+      "rate_per_hour": 281,
+      "basis": "delta",
+      "prev": {
+        "views": 1400,
+        "checked_at": "2026-11-12T06:42:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 6,
+        "impression_count": 1519,
+        "like_count": 23,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "already_pushed": false,
+      "text": "Too old to be broke https://t.co/GQws4wDJM7",
+      "text_zh": "已经不年轻了，可不能再没钱了 https://t.co/GQws4wDJM7",
+      "quoted": [],
+      "hit": false
+    },
+    {
+      "id": "2120611170121843128",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2120611170121843128",
+      "created_at": "2026-11-11T20:14:36.000Z",
+      "created_at_bj": "2026-11-12 04:14",
+      "views": 10473,
+      "rate_per_hour": 996,
+      "basis": "delta",
+      "prev": {
+        "views": 10051,
+        "checked_at": "2026-11-12T06:42:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 20,
+        "impression_count": 10473,
+        "like_count": 45,
+        "quote_count": 0,
+        "reply_count": 11,
+        "retweet_count": 3
+      },
+      "already_pushed": false,
+      "text": "Talking about one of the craziest weeks in AI in a LONG time\n\nPresenting sponsor of this livestream: @BrexHQ\n\nDM me if you want to sponsor future ones https://t.co/suZDtLRK33",
+      "text_zh": "正在聊很长一段时间以来最疯狂的 AI 一周之一\n\n这场直播的出品赞助商：@BrexHQ\n\n如果你想赞助以后的场次，私信我 https://t.co/suZDtLRK33",
+      "quoted": [],
+      "hit": false
+    },
+    {
+      "id": "2120594418231398677",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2120594418231398677",
+      "created_at": "2026-11-11T19:08:02.000Z",
+      "created_at_bj": "2026-11-12 03:08",
+      "views": 37713,
+      "rate_per_hour": 5174,
+      "basis": "delta",
+      "prev": {
+        "views": 35520,
+        "checked_at": "2026-11-12T06:42:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 804,
+        "impression_count": 37713,
+        "like_count": 398,
+        "quote_count": 5,
+        "reply_count": 81,
+        "retweet_count": 25
+      },
+      "already_pushed": true,
+      "text": "grok bot is the BEST AI agent orchestrator right now\n\nand THIS is the best setup i’ve EVER seen\n\nhttps://t.co/NjkQuOVZag\n\nit runs claude code for engineering and paper for design\n\nhere is the FULL setup and how to copy it: https://t.co/LXWN13lf3D https://t.co/UuunK3UQ1P",
+      "text_zh": "grok bot 是目前最好的 AI agent 编排器\n\n而 THIS（这一套）是我见过的最棒的配置\n\nhttps://t.co/NjkQuOVZag\n\n它用 claude code 做工程，用 paper 做设计\n\n这是完整配置以及如何照着做：https://t.co/LXWN13lf3D https://t.co/UuunK3UQ1P\n\n引用内容：他引用了 @bot 的发布帖：介绍 Grok Bot 1.0，AI 队友可以和整个团队一起工作，能分享 Bots、在 Slack 和 Teams 里协作、邀请它们参加会议，并看着它们学习、变得更有帮助。",
+      "quoted": [
+        {
+          "id": "2120582957782200586",
+          "user": "bot",
+          "text": "Introducing Grok Bot 1.0. AI teammates that work alongside your whole team.\n\nShare Bots, collaborate with them in Slack and Teams, invite them to meetings, and watch them learn and become more helpful. https://t.co/7569CZRc9G",
+          "text_zh": "介绍 Grok Bot 1.0。能和整个团队一起工作的 AI 队友。\n\n分享 Bots，在 Slack 和 Teams 里与它们协作，邀请它们参加会议，看着它们学习并变得更有帮助。https://t.co/7569CZRc9G"
+        }
+      ],
+      "hit": true
+    },
+    {
+      "id": "2120558186188918824",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2120558186188918824",
+      "created_at": "2026-11-11T16:44:04.000Z",
+      "created_at_bj": "2026-11-12 00:44",
+      "views": 2097,
+      "rate_per_hour": 179,
+      "basis": "delta",
+      "prev": {
+        "views": 2021,
+        "checked_at": "2026-11-12T06:42:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 10,
+        "impression_count": 2097,
+        "like_count": 24,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "already_pushed": false,
+      "text": "30 sec video. Generated in under 3 minutes.\n\nI've been laughing all day! https://t.co/Yy5eQyoPz4 https://t.co/YwdBSF0Y8Q",
+      "text_zh": "30 秒视频。不到 3 分钟就生成好了。\n\n我笑了一整天！https://t.co/Yy5eQyoPz4 https://t.co/YwdBSF0Y8Q\n\n引用内容：他引用了 @n0w00j 介绍 Ditto: The Swap Anything Tool 的帖子：多数厂商只是封装 Seedance，他们自建了视频处理管线，结合生成式媒体和传统变换软件，提供高性价比、稳健的「在任何视频里替换任何东西」体验；为庆祝 11/11 11:11，年底前 25% 折扣，提供 UI、API 和 MCP。",
+      "quoted": [
+        {
+          "id": "2120549853251993895",
+          "user": "n0w00j",
+          "text": "Introducing Ditto: The Swap Anything Tool\n\nEveryone wants to go viral. Everyone has the next money-making trend somewhere in their heads. \n\nNot everyone has the tools to do it.\n\nMost vendors just wrap Seedance and call it a day.\n\nWe've built our own video processing pipeline that uses both generative media and good old fashioned transformation software to bring you and your agent the most cost effective and robust swap-anything-in-any-video experience you'll ever see.\n\nTo celebrate 11/11 11:11, we're running 25% off for the rest of the year.\n\nGo make the next internet trend.\n\nAvailable in UI, API, and MCP. Mobile...?",
+          "text_zh": "介绍 Ditto: The Swap Anything Tool（万物替换工具）\n\n每个人都想爆火。每个人脑子里都有下一个能赚钱的趋势。\n\n但不是每个人都有把想法做出来的工具。\n\n大多数厂商只是封装一层 Seedance 就完事了。\n\n我们自建了视频处理管线，把生成式媒体和传统变换软件结合起来，给你和你的 agent 带来目前最具性价比、也最稳健的「在任何视频里替换任何东西」体验。\n\n为庆祝 11/11 11:11，我们会把 25% 折扣一直放到今年年底。\n\n去打造下一个互联网趋势吧。\n\n提供 UI、API 和 MCP。Mobile（移动端）……？"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2120548066843570602",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2120548066843570602",
+      "created_at": "2026-11-11T16:03:51.000Z",
+      "created_at_bj": "2026-11-12 00:03",
+      "views": 988,
+      "rate_per_hour": 45,
+      "basis": "delta",
+      "prev": {
+        "views": 969,
+        "checked_at": "2026-11-12T06:42:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 1,
+        "impression_count": 988,
+        "like_count": 8,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "already_pushed": false,
+      "text": "Thanksgiving planning is getting out of hand lol\n\nBeen using Nori Chat to keep track of who's bringing what, shopping lists and all the random things I keep forgetting. \n\nAnd apparently you can win your Thanksgiving turkey just by chatting with an AI now??\n\nWhat a time to be alive!",
+      "text_zh": "感恩节筹备已经有点失控了 lol\n\n我一直在用 Nori Chat 记录谁带什么、购物清单，还有那些我总是忘掉的杂事。\n\n而且现在居然只要跟 AI 聊天，就有机会赢到感恩节火鸡？？\n\n真是活在一个神奇的年代！\n\n引用内容：他引用了 @Nori_FamilyAI 的帖子：Nori 的感恩节火鸡掉落活动已上线。跟 Nori 聊晚餐、家庭日程或节日待办，符合条件的对话就有机会随机抽中一张 50 美元礼品卡。少一点筹划，多一点相处时间。",
+      "quoted": [
+        {
+          "id": "2120536982879453280",
+          "user": "Nori_FamilyAI",
+          "text": "Nori’s Thanksgiving Turkey Drop is live. 🦃\nChat with Nori about dinner, family schedules or holiday to-dos. Eligible chats give you a chance to score a randomly dropped $50 gift card.\nLess planning. More time together.\nSee how it works: https://t.co/OAZxJ1ex2F https://t.co/CZ0q0WBoFR",
+          "text_zh": "Nori 的感恩节火鸡掉落活动已上线。🦃\n跟 Nori 聊晚餐、家庭日程或节日待办。符合条件的对话，就有机会抽中随机掉落的 50 美元礼品卡。\n少一点筹划，多一点相处时间。\n看看怎么玩：https://t.co/OAZxJ1ex2F https://t.co/CZ0q0WBoFR"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2120538357315076188",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2120538357315076188",
+      "created_at": "2026-11-11T15:25:16.000Z",
+      "created_at_bj": "2026-11-11 23:25",
+      "views": 1598,
+      "rate_per_hour": 68,
+      "basis": "delta",
+      "prev": {
+        "views": 1569,
+        "checked_at": "2026-11-12T06:42:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 6,
+        "impression_count": 1598,
+        "like_count": 23,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "already_pushed": false,
+      "text": "Egyptian King https://t.co/0RbOy0A8vw",
+      "text_zh": "埃及国王 https://t.co/0RbOy0A8vw",
+      "quoted": [],
+      "hit": false
+    },
+    {
+      "id": "2120492070540640624",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2120492070540640624",
+      "created_at": "2026-11-11T12:21:21.000Z",
+      "created_at_bj": "2026-11-11 20:21",
+      "views": 25983,
+      "rate_per_hour": 469,
+      "basis": "delta",
+      "prev": {
+        "views": 25784,
+        "checked_at": "2026-11-12T06:42:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 28,
+        "impression_count": 25983,
+        "like_count": 177,
+        "quote_count": 4,
+        "reply_count": 142,
+        "retweet_count": 5
+      },
+      "already_pushed": true,
+      "text": "\"Boring & fun\" is a great way to describe building with AI https://t.co/nejSRRXLmi",
+      "text_zh": "「无聊又有趣」是描述用 AI 做东西的绝佳方式 https://t.co/nejSRRXLmi\n\n引用内容：他引用了 @AviSchiffmann 的回复：是的，这真的非常非常无聊，但也很好玩。我也不知道该怎么说。我差不多整天就是坐着进行抽象思考，数字化工作再也不用那么辛苦了。挺好的，但这是一种我还不习惯的奇怪自由（因为我现在的生产力也提高了 10 倍？）",
+      "quoted": [
+        {
+          "id": "2120276735879237650",
+          "user": "AviSchiffmann",
+          "text": "@justalexoki Yes it is incredibly incredibly boring but also fun. Idrk. I’m kinda just sitting around all day thinking in abstracts never having to work hard digitally anymore. It’s fine but a weird freedom I’m not used to (because I’m now also 10x more productive?)",
+          "text_zh": "@justalexoki 是的，这真的非常非常无聊，但也很好玩。我也不知道该怎么说。我差不多整天就是坐着进行抽象思考，数字化工作再也不用那么辛苦了。挺好的，但这是一种我还不习惯的奇怪自由（因为我现在的生产力也提高了 10 倍？）"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2120491851593691578",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2120491851593691578",
+      "created_at": "2026-11-11T12:20:28.000Z",
+      "created_at_bj": "2026-11-11 20:20",
+      "views": 2266,
+      "rate_per_hour": 50,
+      "basis": "delta",
+      "prev": {
+        "views": 2245,
+        "checked_at": "2026-11-12T06:42:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 15,
+        "impression_count": 2266,
+        "like_count": 58,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 1
+      },
+      "already_pushed": false,
+      "text": "Defying gravity\n\n--sref 2014403128 https://t.co/7Cz6a67qZl",
+      "text_zh": "挑战重力\n\n--sref 2014403128 https://t.co/7Cz6a67qZl",
+      "quoted": [],
+      "hit": false
+    },
+    {
+      "id": "2120488432367468888",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2120488432367468888",
+      "created_at": "2026-11-11T12:06:53.000Z",
+      "created_at_bj": "2026-11-11 20:06",
+      "views": 40510,
+      "rate_per_hour": 908,
+      "basis": "delta",
+      "prev": {
+        "views": 40125,
+        "checked_at": "2026-11-12T06:42:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 81,
+        "impression_count": 40510,
+        "like_count": 689,
+        "quote_count": 7,
+        "reply_count": 44,
+        "retweet_count": 23
+      },
+      "already_pushed": true,
+      "text": "https://t.co/1dD64EJiuZ https://t.co/tgryV8oV1u",
+      "text_zh": "https://t.co/1dD64EJiuZ https://t.co/tgryV8oV1u\n\n引用内容：他引用了 @Jason 的帖子，写道：@AnthropicAI 正在把每一款 SaaS 产品都做进 @claudeai，并且终身免费。@Office365、@google、@canva、@figma……一个接一个。如果这些产品终身免费，这就不算反垄断了——对吧？！记一笔 @DavidSacks！",
+      "quoted": [
+        {
+          "id": "2120209242363969728",
+          "user": "Jason",
+          "text": ".@AnthropicAI is building every SaaS product into @claudeai -- and making them free for life. \n\n@Office365, @google, @canva, @figma.... right down the line. \n\nand this can't be antitrust if the products are FREE FOR LIFE -- right?! docket @DavidSacks! https://t.co/f8KmlVidRd",
+          "text_zh": ".@AnthropicAI 正在把每一款 SaaS 产品都做进 @claudeai，并且终身免费。\n\n@Office365、@google、@canva、@figma……一个接一个。\n\n如果这些产品终身免费，这就不算反垄断了——对吧？！记一笔 @DavidSacks！ https://t.co/f8KmlVidRd"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2120481942017855910",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2120481942017855910",
+      "created_at": "2026-11-11T11:41:06.000Z",
+      "created_at_bj": "2026-11-11 19:41",
+      "views": 69064,
+      "rate_per_hour": 1673,
+      "basis": "delta",
+      "prev": {
+        "views": 68355,
+        "checked_at": "2026-11-12T06:42:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 161,
+        "impression_count": 69064,
+        "like_count": 1658,
+        "quote_count": 19,
+        "reply_count": 188,
+        "retweet_count": 46
+      },
+      "already_pushed": true,
+      "text": "Voice and text messages are async\n\nCalls are sync and destroy my day https://t.co/m7ews6Jn8j https://t.co/EbeUtO0t2N",
+      "text_zh": "语音消息和文字消息是异步的\n\n打电话是同步的，会毁了我的一天 https://t.co/m7ews6Jn8j https://t.co/EbeUtO0t2N\n\n引用内容：他引用了 @hrshsn_ 的提问：你为什么不愿意跟任何人打电话，却愿意发语音消息？这不是很奇怪吗 :/？",
+      "quoted": [
+        {
+          "id": "2120466194126016875",
+          "user": "hrshsn_",
+          "text": "@levelsio @levelsio what's reason you won't do calls with anyone, but willingly do voice messages?\nisn't it weird :/?",
+          "text_zh": "@levelsio @levelsio 你为什么不愿意跟任何人打电话，却愿意发语音消息？\n这不是很奇怪吗 :/？"
+        }
+      ],
+      "hit": false
+    }
+  ],
+  "new_hits": [
+    "2120651795785539732",
+    "2120648647150874762"
+  ],
+  "dropped_from_window": [],
+  "notes": "07:04 判定轮（实际运行 07:07:26 北京时间）。间隔 0.4239 小时（上一轮 06:42:00 → 本轮 07:07:26 北京时间，25 分 26 秒）。@marclou 窗口内无原创或引用帖；@steipete 窗口内无原创或引用帖；@karpathy 窗口内无原创或引用帖。本轮 get_users_posts 使用 exclude=replies,retweets 与 start_time=2026-11-11T11:00:00Z，再按 12 小时窗口本地过滤。窗口起点 2026-11-11 19:07 北京时间（2026-11-11T11:07:26Z）。所有检查帖均有 impression_count。浏览量与互动数据以本轮 get_users_posts 返回的 public_metrics 为准。本地排除回复 3 条：2120491124947312701（@levelsio 对自己 2120465650372039002 的回复，关于 YouTube 变现；exclude=replies 仍返回了该条，已按规则丢弃，不写入 snapshots）；2120575101309522263（@marclou 对自己 2120155404957311464 线程的回复，同时引用了 2120460096081715680；按规则作回复丢弃，不写入 snapshots）；2120594796184227848（@gregisenberg 对自己 2120594418231398677 的回复；exclude=replies 仍返回了该条，已按规则丢弃，不写入 snapshots）。@levelsio 2120648647150874762、@levelsio 2120641573671358926 与 @egeberkina 2120548066843570602 的长文由 get_users_posts 返回的 note_tweet 补全。已有帖中文译文沿用上一轮归档（英文全文与上一轮一致）。本轮无移出 12 小时窗口的帖子。本轮新进入窗口 2 条（均为首次见到，按发帖至今小时数计算）：2120651795785539732、2120648647150874762。@levelsio 2120651795785539732 浏览 6630，首次见到，每小时 +34895，超过阈值，本轮新达标，加入 pushed。@levelsio 2120648647150874762 浏览 7447，首次见到，每小时 +18682，超过阈值，本轮新达标，加入 pushed。@levelsio 2120641573671358926 浏览 16781（上次 8506），每小时 +19522，超过阈值，已在 pushed 中，不再推送。@egeberkina 2120619019460059359 浏览 1519（上次 1400），每小时 +281，未超过阈值。@gregisenberg 2120611170121843128 浏览 10473（上次 10051），每小时 +996，未超过阈值。@gregisenberg 2120594418231398677 浏览 37713（上次 35520），每小时 +5174，超过阈值，已在 pushed 中，不再推送。@egeberkina 2120558186188918824 浏览 2097（上次 2021），每小时 +179，未超过阈值。@egeberkina 2120548066843570602 浏览 988（上次 969），每小时 +45，未超过阈值。@egeberkina 2120538357315076188 浏览 1598（上次 1569），每小时 +68，未超过阈值。@levelsio 2120492070540640624 浏览 25983（上次 25784），每小时 +469，未超过阈值，已在 pushed 中，不再推送。@egeberkina 2120491851593691578 浏览 2266（上次 2245），每小时 +50，未超过阈值。@levelsio 2120488432367468888 浏览 40510（上次 40125），每小时 +908，未超过阈值，已在 pushed 中，不再推送。@levelsio 2120481942017855910 浏览 69064（上次 68355），每小时 +1673，未超过阈值，已在 pushed 中，不再推送。本轮新达标 2 条。"
+}
