@@ -1,0 +1,187 @@
+{
+  "run_at": "2026-11-12T21:15:40+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "2104",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "already_pushed": false,
+      "basis": "first_sight",
+      "created_at": "2026-11-12T13:11:00.000Z",
+      "created_at_bj": "2026-11-12 21:11",
+      "edit_of": null,
+      "hit": true,
+      "id": "2120866956710695080",
+      "metrics": {
+        "bookmark_count": 1,
+        "impression_count": 1670,
+        "like_count": 16,
+        "quote_count": 0,
+        "reply_count": 5,
+        "retweet_count": 0
+      },
+      "prev": null,
+      "quoted": [],
+      "rate_per_hour": 21471,
+      "text": "Sometimes I see people calling me a grifter, saying I’m just trying to squeeze as much money as possible from my audience.\n\nAnd honestly it hurts to read because it couldn’t be further from what motivates me.\n\nWe’re in the middle of an AI gold rush. Startups are raising millions, and if you have an audience in tech right now, there’s an insane amount of money to be made.\n\nPeople don’t realize how many offers I turn down from companies willing to pay $5K for a single tweet promoting their product.\n\nI could probably make a ridiculous amount of money doing this. But I’ve always refused because I don’t want my opinions to be for sale.\n\nAnd I’ve seen firsthand how much brands are willing to spend on visibility with my HYROX sponsorship experiment. If money was my goal, I’d just double down on that.\n\nThe last few years have completely changed my life. I’m financially free, I have everything I need, and I genuinely don’t care about making more money just for the sake of it.\n\nDon’t get me wrong, I LOVE making money from my apps.\n\nNot because I need more of it, but because someone paying for something I built is the ultimate validation. It means I’ve created something valuable enough that someone is willing to pull out their credit card.\n\nAnd if one person is willing to pay for it, maybe others will too. That’s what makes building businesses so exciting to me.\n\nBut what actually gets me out of bed is making weird stuff, experimenting with ideas, and seeing people use things I’ve built.\n\nFrom 2015 until 2022, I was building apps alone, with barely any entrepreneur friends. I felt lonely.\n\nNow I’ve finally found my people, made enough money to live comfortably, and get to do what I love every day.\n\nI don’t need more. I just want to have fun building stuff with people who love it as much as I do. ❤️",
+      "text_zh": "有时候我会看到有人说我是骗子（grifter），说我只想从观众身上尽可能多榨钱。\n\n说实话，看到这些话会受伤，因为这和真正驱动我的东西完全相反。\n\n我们正处在一场 AI 淘金热之中。创业公司正在融到数百万，如果你现在在科技圈有受众，能赚到的钱多到离谱。\n\n很多人不知道，我拒绝过多少报价——有公司愿意为一则推广他们产品的推文支付 $5K。\n\n靠这个我大概能赚到非常夸张的钱。但我一直拒绝，因为我不希望自己的观点被拿来出售。\n\n我也亲眼见过品牌愿意为曝光花多少钱，就凭我自己的 HYROX 赞助实验。如果赚钱是我的目标，我直接加码做这个就行了。\n\n过去几年彻底改变了我的生活。我已经财务自由，需要的东西都有了，我真心不再在乎只是为了钱而去赚更多钱。\n\n别误会，我超爱（LOVE）从自己的 apps 上赚钱。\n\n不是因为我还需要更多钱，而是因为有人愿意为你做出来的东西付钱，这是终极的认可。这说明我创造的东西足够有价值，值得别人掏出信用卡。\n\n而如果有一个人愿意为此付钱，也许其他人也会。这正是做生意让我觉得兴奋的地方。\n\n但真正让我起床的，是做一些奇怪的东西、尝试各种想法，以及看到人们使用我做出来的东西。\n\n从 2015 到 2022，我一直独自做 apps，几乎没有创业者朋友。我感到孤独。\n\n现在我终于找到了同类，也赚到了足够过得舒适的钱，每天都能做自己热爱的事。\n\n我不需要更多了。我只想和同样热爱这件事的人一起，开心地把东西做出来。❤️",
+      "url": "https://x.com/marclou/status/2120866956710695080",
+      "user": "marclou",
+      "views": 1670
+    },
+    {
+      "already_pushed": false,
+      "basis": "delta",
+      "created_at": "2026-11-12T11:35:28.000Z",
+      "created_at_bj": "2026-11-12 19:35",
+      "edit_of": null,
+      "hit": false,
+      "id": "2120842912963379607",
+      "metrics": {
+        "bookmark_count": 0,
+        "impression_count": 838,
+        "like_count": 15,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "prev": {
+        "checked_at": "2026-11-12T20:44:49+08:00",
+        "views": 710
+      },
+      "quoted": [
+        {
+          "id": "2120491851593691578",
+          "user": "egeberkina",
+          "text": "Defying gravity\n\n--sref 2014403128 https://t.co/7Cz6a67qZl",
+          "text_zh": "挑战重力\n\n--sref 2014403128 https://t.co/7Cz6a67qZl"
+        }
+      ],
+      "rate_per_hour": 249,
+      "text": "Something from the lab https://t.co/lXqJ8kvVH6 https://t.co/DQ7cOJJJ8B",
+      "text_zh": "实验室里的一点东西 https://t.co/lXqJ8kvVH6 https://t.co/DQ7cOJJJ8B\n\n引用内容：他引用了自己早前的帖子「挑战重力」，并带有风格参数 --sref 2014403128 和一组图片。",
+      "url": "https://x.com/egeberkina/status/2120842912963379607",
+      "user": "egeberkina",
+      "views": 838
+    },
+    {
+      "already_pushed": true,
+      "basis": "delta",
+      "created_at": "2026-11-12T10:51:50.000Z",
+      "created_at_bj": "2026-11-12 18:51",
+      "edit_of": null,
+      "hit": false,
+      "id": "2120831933311553996",
+      "metrics": {
+        "bookmark_count": 32,
+        "impression_count": 38755,
+        "like_count": 144,
+        "quote_count": 4,
+        "reply_count": 20,
+        "retweet_count": 1
+      },
+      "prev": {
+        "checked_at": "2026-11-12T20:44:49+08:00",
+        "views": 32257
+      },
+      "quoted": [
+        {
+          "id": "2120560261639569724",
+          "user": "tarasshyn",
+          "text": "I'm never deleting this app https://t.co/pezAmzbbYT",
+          "text_zh": "我永远不会删这个应用 https://t.co/pezAmzbbYT"
+        }
+      ],
+      "rate_per_hour": 12638,
+      "text": "Ok I stand corrected\n\nIt seems stray RF accidentally using the wire of your headphone as an antenna ending up in your head was the case some years ago but not anymore\n\nThey fixed it by spreading the antenna around the frame of the phone, TIL! https://t.co/9Rff0io36L https://t.co/5wizr8Jeqs",
+      "text_zh": "好吧，我收回之前的说法\n\n看起来，杂散射频（RF）偶尔把耳机线当成天线、最终进入你头部的情况，几年前确实有过，但现在已经不是这样了\n\n他们的修法是把天线分散布置在手机边框周围，今天才知道（TIL）！https://t.co/9Rff0io36L https://t.co/5wizr8Jeqs\n\n引用内容：他引用了 @tarasshyn 的帖子「我永远不会删这个应用」。",
+      "url": "https://x.com/levelsio/status/2120831933311553996",
+      "user": "levelsio",
+      "views": 38755
+    },
+    {
+      "already_pushed": true,
+      "basis": "delta",
+      "created_at": "2026-11-12T02:52:21.000Z",
+      "created_at_bj": "2026-11-12 10:52",
+      "edit_of": null,
+      "hit": false,
+      "id": "2120711266759258616",
+      "metrics": {
+        "bookmark_count": 50,
+        "impression_count": 52690,
+        "like_count": 547,
+        "quote_count": 0,
+        "reply_count": 27,
+        "retweet_count": 20
+      },
+      "prev": {
+        "checked_at": "2026-11-12T20:44:49+08:00",
+        "views": 51386
+      },
+      "quoted": [
+        {
+          "id": "2120564675662188999",
+          "user": "supahvee1234",
+          "text": "The anti-AI cult is harassing and pressuring open-source projects such as `curl` and `ImageMagick` to outright ban LLM usage.\n\nIf you care about the open-source ecosystem and humanity's technological progress, fight back with me:\n\nhttps://t.co/A9DwO0KMNx\n\nhttps://t.co/ZgmPwWDqdp https://t.co/8U06KvmyEx",
+          "text_zh": "反 AI 的极端群体正在骚扰并施压 `curl`、`ImageMagick` 等开源项目，要求彻底禁止使用 LLM。\n\n如果你在意开源生态和人类的技术进步，一起来跟我反击：\n\nhttps://t.co/A9DwO0KMNx\n\nhttps://t.co/ZgmPwWDqdp https://t.co/8U06KvmyEx"
+        }
+      ],
+      "rate_per_hour": 2536,
+      "text": "reading some of these comments makes my brain hurt. oss is already hard enough without politics. https://t.co/TgpI4KxLOS",
+      "text_zh": "看这些评论有的让我脑壳疼。oss 本来就已经够难了，别再掺和政治了。https://t.co/TgpI4KxLOS",
+      "url": "https://x.com/steipete/status/2120711266759258616",
+      "user": "steipete",
+      "views": 52690
+    },
+    {
+      "already_pushed": true,
+      "basis": "delta",
+      "created_at": "2026-11-12T01:34:45.000Z",
+      "created_at_bj": "2026-11-12 09:34",
+      "edit_of": null,
+      "hit": false,
+      "id": "2120691736657735765",
+      "metrics": {
+        "bookmark_count": 123,
+        "impression_count": 25392,
+        "like_count": 190,
+        "quote_count": 18,
+        "reply_count": 146,
+        "retweet_count": 8
+      },
+      "prev": {
+        "checked_at": "2026-11-12T20:44:49+08:00",
+        "views": 24891
+      },
+      "quoted": [
+        {
+          "id": "2120648647150874762",
+          "user": "levelsio",
+          "text": "Okay it works, I can now upload a video or some photos or just a floor plan of my living room\n\nAnd then:\n- empty it fully\n- move around furniture\n- remove furniture\n- paint the walls, floor, ceiling and any object in any color\n\nNext:\n- top down floor plan view\n- change to any interior design style with one-click\n- integrate it into 🏡 Interior AI fully as a feature\n\nVery very very cool 😍🤟",
+          "text_zh": "好了，搞定了。我现在可以把客厅的一段视频、几张照片，或者只是一张平面图上传上去\n\n然后就可以：\n- 把房间完全清空\n- 来回移动家具\n- 移除家具\n- 把墙面、地板、天花板和任何物体涂成任意颜色\n\n接下来还要做：\n- 俯视平面图视角\n- 一键换成任意室内设计风格\n- 把它完整集成进 🏡 Interior AI，作为一项功能\n\n非常非常非常酷 😍🤟"
+        }
+      ],
+      "rate_per_hour": 974,
+      "text": "⏰ 3 hours later I have it working as a feature!\n\nReal video-to-3d with my own built headless Blender on a VPS\n\nYou can upload a walkthrough video of your living room or entire floor\n\nInterior AI turns it into a walkable 3d space where you can paint your walls, move everything around and get a floor plan\n\nIt's a quick prototype but it works!\n\nLIVE now on 🏡 Interior AI for all users 😊 🙏 \n\nThanks @wesbos for a lot of the inspiration here too",
+      "text_zh": "⏰ 3 小时后，我已经把它做成功能跑起来了！\n\n真正的 video-to-3d，用的是我自己在 VPS 上搭建的无头 Blender\n\n你可以上传客厅或整层楼的走查视频\n\nInterior AI 会把它变成一个可走动的 3D 空间，你可以粉刷墙壁、移动所有东西，还能得到平面图\n\n这是个快速原型，但确实能用！\n\n现已在 🏡 Interior AI 上对所有用户 LIVE 上线 😊 🙏 \n\n也感谢 @wesbos 给了很多灵感\n\n引用内容：他引用了自己稍早那条「搞定了」的 Interior AI 帖子：现在可以上传客厅视频、照片或平面图，清空房间、移动/移除家具，并把墙面、地板、天花板和任何物体涂成任意颜色；接下来还要做俯视平面图、一键换风格，并完整集成进 🏡 Interior AI。",
+      "url": "https://x.com/levelsio/status/2120691736657735765",
+      "user": "levelsio",
+      "views": 25392
+    }
+  ],
+  "new_hits": [
+    "2120866956710695080"
+  ],
+  "dropped_from_window": [],
+  "notes": "21:04 判定轮（实际运行 21:15:40 北京时间，计划槽位 21:04）。间隔 0.5142 小时（上一轮 20:44:49 → 本轮 21:15:40 北京时间，30 分 51 秒）。@gregisenberg 窗口内无原创或引用帖；@karpathy 窗口内无原创或引用帖。本轮 get_users_posts 使用 exclude=replies,retweets 与 start_time=2026-11-12T01:13:00Z，再按 12 小时窗口本地过滤。窗口起点 2026-11-12 09:15 北京时间（2026-11-12T01:15:40Z）。所有检查帖均有 impression_count。浏览量与互动数据以本轮 get_users_posts 返回的 public_metrics 为准。本地排除回复 1 条：2120692665276878984（@levelsio 对自己 2120691736657735765 的回复；exclude=replies 仍返回了该条，已按规则丢弃，不写入 snapshots）。@levelsio 2120691736657735765 使用本轮 get_users_posts 返回的 note_tweet 全文（与上一轮归档英文全文一致）。已有帖中文译文沿用上一轮归档（英文全文与上一轮一致）。@marclou 2120866956710695080 为新帖（发于 2026-11-12 21:11 北京时间）。公开 X MCP 的 get_users_posts / get_posts_by_id 只返回约 280 字截断正文，且未给出 note_tweet；长文全文来自 https://api.fxtwitter.com/marclou/status/2120866956710695080（is_note_tweet: true）。该来源同时给出较晚浏览量 1907，本轮不采用，浏览与互动仍以 get_users_posts 的 public_metrics 为准（浏览 1670）。@marclou 2120866956710695080 首次见到，浏览 1670，发帖至今 0.0778 小时，每小时 +21471，超过阈值，本轮新达标。@egeberkina 2120842912963379607 浏览 838（上次 710），每小时 +249，未超过阈值。@levelsio 2120831933311553996 浏览 38755（上次 32257），每小时 +12638，超过阈值，已在 pushed 中，不再推送。@steipete 2120711266759258616 浏览 52690（上次 51386），每小时 +2536，未超过阈值，已在 pushed 中，不再推送。@levelsio 2120691736657735765 浏览 25392（上次 24891），每小时 +974，未超过阈值，已在 pushed 中，不再推送。本轮新达标 1 条。"
+}
