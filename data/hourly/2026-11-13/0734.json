@@ -1,0 +1,546 @@
+{
+  "run_at": "2026-11-13T07:44:36+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "0734",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "already_pushed": false,
+      "basis": "first_sight",
+      "created_at": "2026-11-12T23:40:36.000Z",
+      "created_at_bj": "2026-11-13 07:40",
+      "edit_of": null,
+      "hit": true,
+      "id": "2121025400042311701",
+      "metrics": {
+        "bookmark_count": 1,
+        "impression_count": 2144,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "prev": null,
+      "quoted": [
+        {
+          "id": "2120984608473075776",
+          "user": "vnjogani",
+          "text": "@levelsio Why not just get fable to program hyper photorealistic shaders though? I am seeing some renders and they are indistinguishable from pictures. That would be sick!",
+          "text_zh": "@levelsio 为什么不直接让 fable 去写超写实的 shaders 呢？我看到过一些渲染图，已经和照片没什么区别了。那会很赞！"
+        }
+      ],
+      "rate_per_hour": 32160,
+      "text": "Tried ThreeJS shaders, very cool but very slow but very cool! https://t.co/2Cqqb43gMy https://t.co/A3valU3W4y",
+      "text_zh": "试了 ThreeJS shaders，非常酷，但非常慢，但又非常酷！ https://t.co/2Cqqb43gMy https://t.co/A3valU3W4y\n\n引用内容：他引用了 @vnjogani 的回复：为什么不直接让 fable 去写超写实的 shaders 呢？我看到过一些渲染图，已经和照片没什么区别了。那会很赞！",
+      "url": "https://x.com/levelsio/status/2121025400042311701",
+      "user": "levelsio",
+      "views": 2144
+    },
+    {
+      "already_pushed": true,
+      "basis": "delta",
+      "created_at": "2026-11-12T22:36:55.000Z",
+      "created_at_bj": "2026-11-13 06:36",
+      "edit_of": null,
+      "hit": false,
+      "id": "2121009372470067544",
+      "metrics": {
+        "bookmark_count": 29,
+        "impression_count": 25953,
+        "like_count": 309,
+        "quote_count": 4,
+        "reply_count": 51,
+        "retweet_count": 12
+      },
+      "prev": {
+        "checked_at": "2026-11-13T07:08:24+08:00",
+        "views": 12420
+      },
+      "quoted": [],
+      "rate_per_hour": 22430,
+      "text": "There’s some new agent launching later this week and marketers offer a lot of money to say nice things about it on X. Keep a lookout on honest reviews 🫠",
+      "text_zh": "这周晚些时候会有某个新的 agent 发布，营销方出不少钱请人在 X 上说好话。请留意那些诚实的评测 🫠",
+      "url": "https://x.com/steipete/status/2121009372470067544",
+      "user": "steipete",
+      "views": 25953
+    },
+    {
+      "already_pushed": false,
+      "basis": "delta",
+      "created_at": "2026-11-12T22:21:22.000Z",
+      "created_at_bj": "2026-11-13 06:21",
+      "edit_of": null,
+      "hit": false,
+      "id": "2121005457263280511",
+      "metrics": {
+        "bookmark_count": 1,
+        "impression_count": 751,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "prev": {
+        "checked_at": "2026-11-13T07:08:24+08:00",
+        "views": 573
+      },
+      "quoted": [],
+      "rate_per_hour": 295,
+      "text": "X allows 20 images now? Don't mind if I do. https://t.co/49ALYjzesf",
+      "text_zh": "X 现在允许发 20 张图了？那我就不客气了。 https://t.co/49ALYjzesf",
+      "url": "https://x.com/egeberkina/status/2121005457263280511",
+      "user": "egeberkina",
+      "views": 751
+    },
+    {
+      "already_pushed": true,
+      "basis": "delta",
+      "created_at": "2026-11-12T21:40:20.000Z",
+      "created_at_bj": "2026-11-13 05:40",
+      "edit_of": null,
+      "hit": false,
+      "id": "2120995132359188491",
+      "metrics": {
+        "bookmark_count": 114,
+        "impression_count": 81866,
+        "like_count": 913,
+        "quote_count": 2,
+        "reply_count": 14,
+        "retweet_count": 16
+      },
+      "prev": {
+        "checked_at": "2026-11-13T07:08:24+08:00",
+        "views": 52261
+      },
+      "quoted": [
+        {
+          "id": "2120951865408172160",
+          "user": "bscholl",
+          "text": "Fate loves irony, so what if...\n- Nvidia fires Jensen\n- NVDA crashes\n- Elon hires Jensen, Jensen hires his best lieutenants\n- SPCX skyrockets, NVDA crashes more\n- SPCX can now afford to acquire NVDA\n- Jensen back in seat, NVDA board is out",
+          "text_zh": "命运喜欢讽刺，那么如果……\n- Nvidia 开除 Jensen\n- NVDA 暴跌\n- Elon 挖来 Jensen，Jensen 再带上自己的得力干将\n- SPCX 暴涨，NVDA 跌得更狠\n- SPCX 因此有能力收购 NVDA\n- Jensen 重新坐回位子，NVDA 董事会出局"
+        }
+      ],
+      "rate_per_hour": 49069,
+      "text": "This is so realistic I'm not even kidding https://t.co/7g8vU1xyem",
+      "text_zh": "这也太逼真了，我完全没在开玩笑 https://t.co/7g8vU1xyem\n\n引用内容：他引用了 @bscholl 的帖子：命运喜欢讽刺，那么如果……Nvidia 开除 Jensen，NVDA 暴跌，Elon 挖来 Jensen，Jensen 再带上自己的得力干将，SPCX 暴涨、NVDA 跌得更狠，SPCX 因此有能力收购 NVDA，Jensen 重新坐回位子，NVDA 董事会出局。",
+      "url": "https://x.com/levelsio/status/2120995132359188491",
+      "user": "levelsio",
+      "views": 81866
+    },
+    {
+      "already_pushed": false,
+      "basis": "delta",
+      "created_at": "2026-11-12T20:35:20.000Z",
+      "created_at_bj": "2026-11-13 04:35",
+      "edit_of": null,
+      "hit": false,
+      "id": "2120978774732759163",
+      "metrics": {
+        "bookmark_count": 37,
+        "impression_count": 17153,
+        "like_count": 60,
+        "quote_count": 1,
+        "reply_count": 14,
+        "retweet_count": 4
+      },
+      "prev": {
+        "checked_at": "2026-11-13T07:08:24+08:00",
+        "views": 16340
+      },
+      "quoted": [
+        {
+          "id": "2120926464677720233",
+          "user": "levelsio",
+          "text": "Added this hover [ 🎨 Style ] menu so you can preview styles very quickly in 3d\n\nWhen you like one you press [ Render ] and you get the photorealistic version!\n\nNext I wanna try if I can make it do a walkthrough in 3d and then pump that into a video model like Seedance to make it photoreal too\n\nThen we'd have the holy grail, a full photorealistic walkthrough of your interior redesign 🤯",
+          "text_zh": "加了这个悬停 [ 🎨 Style ] 菜单，这样就能在 3D 里非常快速地预览各种风格\n\n看中某个风格后按 [ Render ]，就能得到照片级效果！\n\n下一步我想试试能不能先在 3D 里做一段走查，再把它送进 Seedance 这类视频模型，也做成照片级的\n\n那就找到圣杯了：一段完整的、照片级的室内改造走查视频 🤯"
+        }
+      ],
+      "rate_per_hour": 1348,
+      "text": "All my feature dreams for Interior AI are coming true now :D\n\nOne idea I had was to let you upload your own wallpaper and set it, it was a pain to even get an image model to put that properly\n\nWith a 3d model it's much easier, so now you can walk around you room, upload a wallpaper texture and add it to any wall or object\n\nAnd you can set the material of any object too\n\nWhen you're done press [ ✨ Render ] and it becomes a photo!",
+      "text_zh": "我为 Interior AI 设想的那些功能，现在都在实现了 :D\n\n我曾有一个想法，是让你上传自己的壁纸并贴上去，但以前哪怕让图像模型把壁纸正确地贴上去都很痛苦\n\n有了 3D 模型就容易多了，现在你可以在房间里走动，上传一张壁纸纹理，把它贴到任意墙面或物体上\n\n你还可以设置任意物体的材质\n\n弄完之后按 [ ✨ Render ]，它就会变成一张照片！\n\n引用内容：他引用了自己稍早的帖子，介绍 Interior AI 新增的悬停 [ 🎨 Style ] 菜单，可在 3D 里快速预览风格，看中后按 [ Render ] 就能得到照片级效果；他还想把 3D 走查送进 Seedance 一类视频模型，做成完整的照片级室内改造走查视频。",
+      "url": "https://x.com/levelsio/status/2120978774732759163",
+      "user": "levelsio",
+      "views": 17153
+    },
+    {
+      "already_pushed": true,
+      "basis": "delta",
+      "created_at": "2026-11-12T20:19:59.000Z",
+      "created_at_bj": "2026-11-13 04:19",
+      "edit_of": null,
+      "hit": false,
+      "id": "2120974913679040680",
+      "metrics": {
+        "bookmark_count": 1033,
+        "impression_count": 168163,
+        "like_count": 1366,
+        "quote_count": 1,
+        "reply_count": 51,
+        "retweet_count": 35
+      },
+      "prev": {
+        "checked_at": "2026-11-13T07:08:24+08:00",
+        "views": 147436
+      },
+      "quoted": [
+        {
+          "id": "2120950032014963054",
+          "user": "vercel",
+          "text": "https://t.co/K14G5dLXX8",
+          "text_zh": "https://t.co/K14G5dLXX8"
+        }
+      ],
+      "rate_per_hour": 34354,
+      "text": "“Don't worry, you don't need to learn how to write this. Your agents will. And we made them really good at it.” https://t.co/H2slhfC1dA",
+      "text_zh": "「别担心，你不用学怎么写这个。你的 agents 会写。而且我们把它们练得非常擅长。」 https://t.co/H2slhfC1dA\n\n引用内容：他引用了 @vercel 的帖子，帖子里只放了链接 https://t.co/K14G5dLXX8（即 https://github.com/vercel-labs/ui，一组让 agents 构建下一代用户界面的行为库）。",
+      "url": "https://x.com/steipete/status/2120974913679040680",
+      "user": "steipete",
+      "views": 168163
+    },
+    {
+      "already_pushed": true,
+      "basis": "delta",
+      "created_at": "2026-11-12T19:03:05.000Z",
+      "created_at_bj": "2026-11-13 03:03",
+      "edit_of": null,
+      "hit": false,
+      "id": "2120955557465223337",
+      "metrics": {
+        "bookmark_count": 2557,
+        "impression_count": 142333,
+        "like_count": 2306,
+        "quote_count": 16,
+        "reply_count": 124,
+        "retweet_count": 138
+      },
+      "prev": {
+        "checked_at": "2026-11-13T07:08:24+08:00",
+        "views": 130926
+      },
+      "quoted": [],
+      "rate_per_hour": 18907,
+      "text": "Status symbols today:\n\n- Taking private lessons in chess, jazz piano, or French in your late 30s\n- Knowing your VO2 max, DEXA stats, and ApoB\n- Having zero clue what the internet is mad about today\n- Wired Apple earbuds on video calls\n- More than 2 kids \n- 100% natural fiber clothing (linen, merino, cashmere, zero polyester)\n- Empty calendars\n- Caring about microplastics\n- No TV in the main living room\n- Having lots of followers or being off social completely\n- Being sober\n- Eating \"clean\"\n- Type of water you drink\n- Private school for kids\n- Traveling to Japan\n- Premium skincare\n- 2nd house\n- Backyard pizza oven\n- 2+ fridges\n- Ordering off menu because you've gone to the same spot since 2014\n- Charcuterie boards\n- Single estate olive oil and tinned fish\n- Hosting Sunday dinners where phones go in a wooden bowl by the front door\n- Private chef\n- 2000s manual Porsche 911 over any brand new supercar\n- 90s Toyota Land Cruiser or old Volvo wagon as the daily driver\n- Talking about seed oils a lot\n- Dyson vacuums\n- Limewash walls and unlacquered brass hardware that patinas over time\n- $95 heavyweight blank white tees (Lady White Co., Merz b. Schwanen, Buck Mason etc)\n- Beautiful workstation\n- Raw A2 milk from a local farm drop\n- Le Labo products\n- Talking about cold plunges \n- Custom cedar sauna + outdoor shower in the backyard\n- Secondhand goods with stories\n- Cast iron and stainless steel pans only\n- Eating organic\n- Buying half a cow from a regenerative ranch (and owning a garage chest freezer just for it)\n- Japanese selvedge denim and unbranded cashmere\n- Taking afternoon calls on a walk (refusing to turn on Zoom camera)\n- Hi-Fi audio\n- Framed art from artists you met in person\n- Mortgage rate below 3%\n- La Marzocco coffee maker\n- Owning your last name .com (and it's your email too)\n- Charizards\n- Wearing a faded crewneck from a tiny bakery in Copenhagen or Kyoto\n- Reading books\n- Phone permanently on Do Not Disturb\n- Work/life balance\n- Analog hobbies (Leica film cameras, fountain pens, woodworking)\n- Kids with zero iPad time (wooden toys + outdoor school)\n- Bone broth\n- Digital detoxing\n- Taking the entire month of August off like an old-world European\n- iPhone Air or iPhone Duo\n\nOkay, I'll stop.\n\nSo, what did I miss?",
+      "text_zh": "今日的身份符号：\n\n- 快 40 岁了还在私下请老师学国际象棋、爵士钢琴或法语\n- 知道自己的 VO2 max、DEXA 数据和 ApoB\n- 完全不知道网上今天在为什么生气\n- 视频会议用有线 Apple 耳机\n- 孩子超过 2 个\n- 100% 天然纤维衣服（亚麻、美利奴、羊绒，零涤纶）\n- 空着的日历\n- 在意微塑料\n- 主客厅不放电视\n- 要么粉丝很多，要么彻底不上社交网络\n- 保持清醒（不喝酒）\n- 吃得 \"clean\"\n- 喝什么水都很讲究\n- 孩子上私立学校\n- 去日本旅行\n- 高端护肤\n- 第二套房\n- 后院披萨炉\n- 两台以上冰箱\n- 从 2014 年就混同一家店，所以可以不看菜单点餐\n- 拼盘冷切（charcuterie boards）\n- 单一庄园橄榄油和罐头鱼\n- 办周日晚餐，手机都放进门口的木碗里\n- 私人厨师\n- 2000 年代手动挡 Porsche 911，而不是任何全新超跑\n- 日常代步是 90 年代 Toyota Land Cruiser 或老款 Volvo 旅行车\n- 经常讨论种子油\n- Dyson 吸尘器\n- 石灰浆墙面，以及会随时间氧化出包浆的未上漆黄铜五金\n- 95 美元一件的厚实空白白 T（Lady White Co.、Merz b. Schwanen、Buck Mason 等）\n- 漂亮的工作台\n- 从本地农场配送的生 A2 牛奶\n- Le Labo 产品\n- 谈论冷浸（cold plunges）\n- 后院定制雪松桑拿房 + 户外淋浴\n- 带故事的二手物件\n- 只用铸铁和不锈钢锅\n- 吃有机食品\n- 从再生牧场买半头牛（还专门为此配一台车库冰柜）\n- 日本赤耳丹宁和没有品牌 logo 的羊绒\n- 下午打电话边走边谈（拒绝打开 Zoom 摄像头）\n- Hi-Fi 音响\n- 裱起来的画，还是你当面认识的艺术家的作品\n- 抵押贷款利率低于 3%\n- La Marzocco 咖啡机\n- 拥有自己姓氏的 .com（而且邮箱也用它）\n- Charizards\n- 穿着一件褪了色的圆领衫，来自哥本哈根或京都某家小面包店\n- 读书\n- 手机长期开着勿扰\n- 工作/生活平衡\n- 模拟爱好（Leica 胶片相机、钢笔、木工）\n- 孩子零 iPad 时间（木制玩具 + 户外学校）\n- 骨汤\n- 数字排毒\n- 像旧世界的欧洲人一样，整个八月都放假\n- iPhone Air 或 iPhone Duo\n\n好了，我停。\n\n那么，我还漏了什么？",
+      "url": "https://x.com/gregisenberg/status/2120955557465223337",
+      "user": "gregisenberg",
+      "views": 142333
+    },
+    {
+      "already_pushed": false,
+      "basis": "delta",
+      "created_at": "2026-11-12T17:39:56.000Z",
+      "created_at_bj": "2026-11-13 01:39",
+      "edit_of": null,
+      "hit": false,
+      "id": "2120934633953014048",
+      "metrics": {
+        "bookmark_count": 5,
+        "impression_count": 1508,
+        "like_count": 24,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "prev": {
+        "checked_at": "2026-11-13T07:08:24+08:00",
+        "views": 1436
+      },
+      "quoted": [
+        {
+          "id": "2120842912963379607",
+          "user": "egeberkina",
+          "text": "Something from the lab https://t.co/lXqJ8kvVH6 https://t.co/DQ7cOJJJ8B",
+          "text_zh": "实验室里的一点东西 https://t.co/lXqJ8kvVH6 https://t.co/DQ7cOJJJ8B"
+        }
+      ],
+      "rate_per_hour": 119,
+      "text": "The experiments continue https://t.co/RoPLngDekp https://t.co/nA4TWNUzWi",
+      "text_zh": "实验还在继续 https://t.co/RoPLngDekp https://t.co/nA4TWNUzWi\n\n引用内容：他引用了自己稍早的实验室作品帖「实验室里的一点东西」，并配上新的图片实验。",
+      "url": "https://x.com/egeberkina/status/2120934633953014048",
+      "user": "egeberkina",
+      "views": 1508
+    },
+    {
+      "already_pushed": false,
+      "basis": "delta",
+      "created_at": "2026-11-12T17:07:28.000Z",
+      "created_at_bj": "2026-11-13 01:07",
+      "edit_of": null,
+      "hit": false,
+      "id": "2120926464677720233",
+      "metrics": {
+        "bookmark_count": 28,
+        "impression_count": 27664,
+        "like_count": 63,
+        "quote_count": 2,
+        "reply_count": 25,
+        "retweet_count": 2
+      },
+      "prev": {
+        "checked_at": "2026-11-13T07:08:24+08:00",
+        "views": 26836
+      },
+      "quoted": [
+        {
+          "id": "2120883126876721262",
+          "user": "levelsio",
+          "text": "Claude also made this little landing page demo for the new feature https://t.co/m1txgLLvjF https://t.co/6cIdSfBEJY",
+          "text_zh": "Claude 还给这个新功能做了一个小小的落地页演示 https://t.co/m1txgLLvjF https://t.co/6cIdSfBEJY"
+        }
+      ],
+      "rate_per_hour": 1372,
+      "text": "Added this hover [ 🎨 Style ] menu so you can preview styles very quickly in 3d\n\nWhen you like one you press [ Render ] and you get the photorealistic version!\n\nNext I wanna try if I can make it do a walkthrough in 3d and then pump that into a video model like Seedance to make it photoreal too\n\nThen we'd have the holy grail, a full photorealistic walkthrough of your interior redesign 🤯",
+      "text_zh": "加了这个悬停 [ 🎨 Style ] 菜单，这样就能在 3D 里非常快速地预览各种风格\n\n看中某个风格后按 [ Render ]，就能得到照片级效果！\n\n下一步我想试试能不能先在 3D 里做一段走查，再把它送进 Seedance 这类视频模型，也做成照片级的\n\n那就找到圣杯了：一段完整的、照片级的室内改造走查视频 🤯\n\n引用内容：他引用了自己稍早的帖子，展示 Claude 为这个新功能做的小小落地页演示。",
+      "url": "https://x.com/levelsio/status/2120926464677720233",
+      "user": "levelsio",
+      "views": 27664
+    },
+    {
+      "already_pushed": true,
+      "basis": "delta",
+      "created_at": "2026-11-12T15:36:20.000Z",
+      "created_at_bj": "2026-11-12 23:36",
+      "edit_of": null,
+      "hit": false,
+      "id": "2120903527803564397",
+      "metrics": {
+        "bookmark_count": 390,
+        "impression_count": 255458,
+        "like_count": 10983,
+        "quote_count": 66,
+        "reply_count": 391,
+        "retweet_count": 597
+      },
+      "prev": {
+        "checked_at": "2026-11-13T07:08:24+08:00",
+        "views": 249987
+      },
+      "quoted": [],
+      "rate_per_hour": 9068,
+      "text": "If that Spy’s goal was to destabilize one of the most successful American companies, they achieved their goal. Ousting Jensen feels rushed and not right.",
+      "text_zh": "如果那个 Spy 的目标是动摇美国最成功的公司之一，那他们已经达成目的了。赶走 Jensen 感觉太仓促，也不对。",
+      "url": "https://x.com/steipete/status/2120903527803564397",
+      "user": "steipete",
+      "views": 255458
+    },
+    {
+      "already_pushed": true,
+      "basis": "delta",
+      "created_at": "2026-11-12T15:30:16.000Z",
+      "created_at_bj": "2026-11-12 23:30",
+      "edit_of": null,
+      "hit": false,
+      "id": "2120902003555512635",
+      "metrics": {
+        "bookmark_count": 116,
+        "impression_count": 19667,
+        "like_count": 122,
+        "quote_count": 3,
+        "reply_count": 71,
+        "retweet_count": 6
+      },
+      "prev": {
+        "checked_at": "2026-11-13T07:08:24+08:00",
+        "views": 19180
+      },
+      "quoted": [
+        {
+          "id": "2120594418231398677",
+          "user": "gregisenberg",
+          "text": "grok bot is the BEST AI agent orchestrator right now\n\nand THIS is the best setup i’ve EVER seen\n\nhttps://t.co/NjkQuOVZag\n\nit runs claude code for engineering and paper for design\n\nhere is the FULL setup and how to copy it: https://t.co/LXWN13lf3D https://t.co/UuunK3UQ1P",
+          "text_zh": "grok bot 是目前最好的 AI agent 编排器\n\n而 THIS（这一套）是我见过的最棒的配置\n\nhttps://t.co/NjkQuOVZag\n\n它用 claude code 做工程，用 paper 做设计\n\n这是完整配置以及如何照着做：https://t.co/LXWN13lf3D https://t.co/UuunK3UQ1P"
+        }
+      ],
+      "rate_per_hour": 807,
+      "text": "\"My Grok Bot advisor talked me out of a $1.35M mistake\" - @Rasmic \n\nHere’s how to set up your own advisor Grok Bot:\n\n1. Create a new bot in Grok Bot and name it Advisor\n2. Search “finance” in plugins and connect your accounts through Plaid\n3. Tell it your goals for the year: what you’re saving for and what you’re building\n4. Give it one job: “Stop me from making bad decisions. Be blunt.”\n5. Before any big move, send it the details and ask “wdyt of this.” A purchase, an investment, an acquisition, a new business idea.",
+      "text_zh": "「我的 Grok Bot 顾问劝住了我，让我避免了一个 $1.35M 的错误」——@Rasmic\n\n下面是如何搭建你自己的顾问 Grok Bot：\n\n1. 在 Grok Bot 里新建一个 bot，命名为 Advisor\n2. 在插件里搜索 “finance”，并通过 Plaid 连接你的账户\n3. 告诉它你今年的目标：你在为什么存钱，以及你在做什么\n4. 只交给它一项任务：“Stop me from making bad decisions. Be blunt.”\n5. 在任何大动作之前，把细节发给它，问一句 “wdyt of this.” 一次购买、一笔投资、一次收购，或一个新的商业想法。\n\n引用内容：他引用了自己稍早的帖子，称 grok bot 是目前最好的 AI agent 编排器，并分享了一套他见过最棒的配置（工程用 claude code，设计用 paper），还附上了完整搭建教程。",
+      "url": "https://x.com/gregisenberg/status/2120902003555512635",
+      "user": "gregisenberg",
+      "views": 19667
+    },
+    {
+      "already_pushed": true,
+      "basis": "delta",
+      "created_at": "2026-11-12T14:15:16.000Z",
+      "created_at_bj": "2026-11-12 22:15",
+      "edit_of": null,
+      "hit": false,
+      "id": "2120883126876721262",
+      "metrics": {
+        "bookmark_count": 26,
+        "impression_count": 29111,
+        "like_count": 77,
+        "quote_count": 5,
+        "reply_count": 9,
+        "retweet_count": 4
+      },
+      "prev": {
+        "checked_at": "2026-11-13T07:08:24+08:00",
+        "views": 28746
+      },
+      "quoted": [
+        {
+          "id": "2120879519779135835",
+          "user": "levelsio",
+          "text": "Added a [ Render ] button so your 3D perspective of your interior redesign is instantly (well okay it takes 20 seconds) transformed into a photorealistic render within Interior AI! https://t.co/78bX9q0xo9 https://t.co/DFbHjDO6gN",
+          "text_zh": "加了一个 [ Render ] 按钮，这样你室内改造成果的 3D 视角会立刻（好吧，其实要等 20 秒）在 Interior AI 里变成一张照片级渲染图！https://t.co/78bX9q0xo9 https://t.co/DFbHjDO6gN"
+        }
+      ],
+      "rate_per_hour": 605,
+      "text": "Claude also made this little landing page demo for the new feature https://t.co/m1txgLLvjF https://t.co/6cIdSfBEJY",
+      "text_zh": "Claude 还给这个新功能做了一个小小的落地页演示 https://t.co/m1txgLLvjF https://t.co/6cIdSfBEJY\n\n引用内容：他引用了自己刚发的帖子，介绍 Interior AI 新增的 [ Render ] 按钮，能把室内改造的 3D 视角在约 20 秒内变成照片级渲染图。",
+      "url": "https://x.com/levelsio/status/2120883126876721262",
+      "user": "levelsio",
+      "views": 29111
+    },
+    {
+      "already_pushed": true,
+      "basis": "delta",
+      "created_at": "2026-11-12T14:00:56.000Z",
+      "created_at_bj": "2026-11-12 22:00",
+      "edit_of": null,
+      "hit": false,
+      "id": "2120879519779135835",
+      "metrics": {
+        "bookmark_count": 61,
+        "impression_count": 32857,
+        "like_count": 108,
+        "quote_count": 4,
+        "reply_count": 49,
+        "retweet_count": 2
+      },
+      "prev": {
+        "checked_at": "2026-11-13T07:08:24+08:00",
+        "views": 32484
+      },
+      "quoted": [
+        {
+          "id": "2120877776081154422",
+          "user": "levelsio",
+          "text": "✨ Improved the video-to-3d viewer and editor interface now, so it's easier to move around or remove furniture now\n\nI also added lots of interior design styles, you can just tap and it changes all the colors in your room\n\nAlso added floor plan mode (maybe I need a real official floor plan export later?)\n\nIt just all works remarkably well\n\nAll from just a walkthrough video you upload 😊😊😊\n\nLive on Interior AI now!",
+          "text_zh": "✨ 现在改进了 video-to-3d 查看和编辑界面，在里面走动或移除家具更方便了\n\n我还加了很多室内设计风格，轻轻一点就能换掉房间里的所有颜色\n\n另外还加了平面图模式（也许后面需要一个正式的平面图导出？）\n\n这一切都出奇地好用\n\n全部只需要你上传一段走查视频 😊😊😊\n\n现已在 Interior AI 上线！"
+        }
+      ],
+      "rate_per_hour": 618,
+      "text": "Added a [ Render ] button so your 3D perspective of your interior redesign is instantly (well okay it takes 20 seconds) transformed into a photorealistic render within Interior AI! https://t.co/78bX9q0xo9 https://t.co/DFbHjDO6gN",
+      "text_zh": "加了一个 [ Render ] 按钮，这样你室内改造成果的 3D 视角会立刻（好吧，其实要等 20 秒）在 Interior AI 里变成一张照片级渲染图！https://t.co/78bX9q0xo9 https://t.co/DFbHjDO6gN\n\n引用内容：他引用了自己刚发的帖子，介绍改进后的 video-to-3d 查看和编辑界面、室内设计风格一键换色，以及平面图模式，现已在 Interior AI 上线。",
+      "url": "https://x.com/levelsio/status/2120879519779135835",
+      "user": "levelsio",
+      "views": 32857
+    },
+    {
+      "already_pushed": true,
+      "basis": "delta",
+      "created_at": "2026-11-12T13:54:00.000Z",
+      "created_at_bj": "2026-11-12 21:54",
+      "edit_of": null,
+      "hit": false,
+      "id": "2120877776081154422",
+      "metrics": {
+        "bookmark_count": 28,
+        "impression_count": 31137,
+        "like_count": 74,
+        "quote_count": 3,
+        "reply_count": 6,
+        "retweet_count": 6
+      },
+      "prev": {
+        "checked_at": "2026-11-13T07:08:24+08:00",
+        "views": 30814
+      },
+      "quoted": [
+        {
+          "id": "2120691736657735765",
+          "user": "levelsio",
+          "text": "⏰ 3 hours later I have it working as a feature!\n\nReal video-to-3d with my own built headless Blender on a VPS\n\nYou can upload a walkthrough video of your living room or entire floor\n\nInterior AI turns it into a walkable 3d space where you can paint your walls, move everything around and get a floor plan\n\nIt's a quick prototype but it works!\n\nLIVE now on 🏡 Interior AI for all users 😊 🙏 \n\nThanks @wesbos for a lot of the inspiration here too",
+          "text_zh": "⏰ 3 小时后，我已经把它做成功能跑起来了！\n\n真正的 video-to-3d，用的是我自己在 VPS 上搭建的无头 Blender\n\n你可以上传客厅或整层楼的走查视频\n\nInterior AI 会把它变成一个可走动的 3D 空间，你可以粉刷墙壁、移动所有东西，还能得到平面图\n\n这是个快速原型，但确实能用！\n\n现已在 🏡 Interior AI 上对所有用户 LIVE 上线 😊 🙏 \n\n也感谢 @wesbos 给了很多灵感"
+        }
+      ],
+      "rate_per_hour": 535,
+      "text": "✨ Improved the video-to-3d viewer and editor interface now, so it's easier to move around or remove furniture now\n\nI also added lots of interior design styles, you can just tap and it changes all the colors in your room\n\nAlso added floor plan mode (maybe I need a real official floor plan export later?)\n\nIt just all works remarkably well\n\nAll from just a walkthrough video you upload 😊😊😊\n\nLive on Interior AI now!",
+      "text_zh": "✨ 现在改进了 video-to-3d 查看和编辑界面，在里面走动或移除家具更方便了\n\n我还加了很多室内设计风格，轻轻一点就能换掉房间里的所有颜色\n\n另外还加了平面图模式（也许后面需要一个正式的平面图导出？）\n\n这一切都出奇地好用\n\n全部只需要你上传一段走查视频 😊😊😊\n\n现已在 Interior AI 上线！\n\n引用内容：他引用了自己稍早的帖子，说 3 小时后已经把「上传走查视频 → 可走动的 3D 空间」做成了 Interior AI 的功能，用的是自己在 VPS 上搭建的无头 Blender，并感谢 @wesbos。",
+      "url": "https://x.com/levelsio/status/2120877776081154422",
+      "user": "levelsio",
+      "views": 31137
+    },
+    {
+      "already_pushed": true,
+      "basis": "delta",
+      "created_at": "2026-11-12T13:20:17.000Z",
+      "created_at_bj": "2026-11-12 21:20",
+      "edit_of": null,
+      "hit": false,
+      "id": "2120869291771777499",
+      "metrics": {
+        "bookmark_count": 144,
+        "impression_count": 39789,
+        "like_count": 280,
+        "quote_count": 30,
+        "reply_count": 145,
+        "retweet_count": 28
+      },
+      "prev": {
+        "checked_at": "2026-11-13T07:08:24+08:00",
+        "views": 39309
+      },
+      "quoted": [
+        {
+          "id": "2120841731302154708",
+          "user": "AnthropicAI",
+          "text": "Our initial public offering: https://t.co/Ah4BkI2loD\n\nLegal disclaimer: Anthropic has filed a registration statement (including a prospectus) with the SEC for the offering to which this communication relates. Before you invest, you should read the prospectus in that registration statement (available at: https://t.co/Z44axxzf9b) and other documents Anthropic has filed with the SEC for more complete information about Anthropic and this offering. You may get these documents for free by visiting EDGAR on the SEC Web site at https://t.co/94ojsWZTKi. Alternatively, copies of the preliminary prospectus may be obtained from: Goldman Sachs & Co. LLC, Attention: Prospectus Department, 200 West Street, New York, NY 10282, by telephone at (866) 471-2526, or by email at prospectus-ny@ny.email.gs.com; or Morgan Stanley & Co. LLC, Attention: Prospectus Department, 180 Varick Street, 2nd Floor, New York, NY 10014.\n\nThe securities may not be sold, nor may offers to buy be accepted, prior to the time the registration statement becomes effective. This post is not an offer to sell, or a solicitation of an offer to buy, the securities in any jurisdiction where the offer or sale is not permitted.",
+          "text_zh": "我们的首次公开募股：https://t.co/Ah4BkI2loD\n\n法律免责声明：Anthropic 已就本次相关发行向 SEC 提交了注册声明（含招股说明书）。在投资之前，你应阅读该注册声明中的招股说明书（获取地址：https://t.co/Z44axxzf9b）以及 Anthropic 向 SEC 提交的其他文件，以获得关于 Anthropic 和本次发行的更完整信息。你可以访问 SEC 网站上的 EDGAR（https://t.co/94ojsWZTKi）免费获取这些文件。此外，也可向以下机构索取初步招股说明书副本：Goldman Sachs & Co. LLC，收件人：Prospectus Department，200 West Street, New York, NY 10282，电话 (866) 471-2526，或电邮 prospectus-ny@ny.email.gs.com；或 Morgan Stanley & Co. LLC，收件人：Prospectus Department，180 Varick Street, 2nd Floor, New York, NY 10014。\n\n在注册声明生效之前，不得出售这些证券，也不得接受买盘。本帖不构成在任何不允许要约或出售的司法管辖区内出售证券的要约，或购买证券的要约邀请。"
+        }
+      ],
+      "rate_per_hour": 796,
+      "text": "Some quick observations on Anthropic's IPO:\n\n1/ The number of customers paying $100K or more grew 12x in a year, to over 11,900. And the existing ones are spending about 9x what they did 1 year ago (wild).\n\n2/ The net loss is $23.3B, but $21.9B of that is a paper loss. They owe early investors shares, and those shares got more valuable, so accounting rules count it as a loss (has to do with convertible notes etc being exchanged)\n\n3/ Revenue per employee is over $6.6M!\n\n4/ They did $17B in revenue last quarter, and that's up more than 12x from a year ago.\n\n5/ The stat they feature most is compute efficiency, where they say they get 4x more revenue per dollar of compute than in early 2025. ( I think this is a metric they defined themselves but not 100% sure)\n\n6/ It's a public benefit corporation, so shareholders are buying into a company that's legally allowed to weigh other goals alongside their returns.\n\n7/ You can request shares at the IPO price through Robinhood, SoFi, Schwab, Fidelity and E*TRADE, which I think is somewhat unusual for an IPO this size, but maybe it's a sign of the times?\n\n8/ The whole roadshow is an 11 chapter video that anyone can watch, and it's cool that they shared it.\n\n9/ The ticker is $ANT. It's expected to price on November 18 and start trading the next day.\n\n10/ One of the case studies is about Sparky, Walmart’s shopping assistant, and they say orders through it are about 35% bigger. What’s interesting to me is that shoppers only ever see Walmart, and Anthropic is the plumbing underneath. Sidenote: I co-founded @MeetLCA an agency that builds experiences like this big companies/big startups so this trend is what I'm seeing too (demand for agent experience products)\n\n11/ The founders' letter tells investors to \"never let your company be worth a dollar more than it is actually worth.\" I haven't seen that in an IPO pitch before.\n\n12/ About 250 customers pay them $10M or more a year, and over 1,900 pay $1M or more.\n\n13/ They spent $9.9B on compute last quarter, which is more than half of revenue. $5B of that was bought on short-term deals that cost a lot more, which tells me demand is running ahead of what they planned for.\n\n14/ All 7 co-founders are still at the company, and they lose about 1% of the people they want to keep each year.\n\n15/ They recorded $1.1B in stock based compensation last quarter.\n\n16/ They have about $96B in cash and have raised about $141B in total.\n\nNote: this is not financial advice. Do your own research. I share things I find interesting about startups and building businesses in real-time.\n\nWhether you're into AI or not, this is a historic moment for tech, AI and the USA.",
+      "text_zh": "关于 Anthropic IPO 的一些快速观察：\n\n1/ 每年付费 $100K 或以上的客户数量在一年内增长了 12 倍，超过 11,900 家。而且原有客户的花费大约是一年前的 9 倍（离谱）。\n\n2/ 净亏损是 $23.3B，但其中 $21.9B 是账面亏损。他们欠早期投资者股份，而这些股份变得更值钱了，所以会计规则把它计为亏损（和可转换债券等被兑换有关）\n\n3/ 人均营收超过 $6.6M！\n\n4/ 上一季度营收 $17B，比一年前增长超过 12 倍。\n\n5/ 他们最突出展示的数据是算力效率（compute efficiency），称现在每一美元算力带来的收入是 2025 年初的 4 倍。（我觉得这是他们自己定义的指标，但不是 100% 确定）\n\n6/ 这是一家公共利益公司（public benefit corporation），所以股东买进的是一家法律上被允许在回报之外同时权衡其他目标的公司。\n\n7/ 你可以通过 Robinhood、SoFi、Schwab、Fidelity 和 E*TRADE 按 IPO 价格申购股份。对这种体量的 IPO 来说我觉得这有点少见，但也许这就是这个时代的信号？\n\n8/ 整场路演是一部 11 章的视频，任何人都可以看，他们愿意公开分享这一点很酷。\n\n9/ 股票代码是 $ANT。预计 11 月 18 日定价，次日开始交易。\n\n10/ 其中一个案例是关于 Sparky，也就是 Walmart 的购物助手，他们说通过它产生的订单大约大 35%。让我觉得有意思的是，购物者始终只看到 Walmart，而 Anthropic 是底层的管道。题外话：我联合创办了 @MeetLCA，一家为这样的大公司/大创业公司做体验的机构，所以这个趋势我也正在看到（对 agent experience 产品的需求）\n\n11/ 创始人信里告诉投资者：「never let your company be worth a dollar more than it is actually worth.（永远不要让你的公司价值比它实际价值多出一美元。）」我以前没在 IPO 推介里见过这种话。\n\n12/ 大约 250 家客户每年付给他们 $10M 或更多，超过 1,900 家客户每年付 $1M 或更多。\n\n13/ 上一季度他们在算力上花了 $9.9B，超过营收的一半。其中 $5B 是通过成本高得多的短期交易买来的，这告诉我需求跑在了他们规划的前面。\n\n14/ 全部 7 位联合创始人仍在公司，他们每年想留住的人里大约流失 1%。\n\n15/ 上一季度他们记了 $1.1B 的股票薪酬（stock based compensation）。\n\n16/ 他们大约有 $96B 现金，累计融资约 $141B。\n\n注：这不是投资建议。请自行研究。我会实时分享自己觉得有意思的创业公司和做生意的事。\n\n无论你是否关注 AI，这对科技、AI 和美国来说都是一个历史性时刻。\n\n引用内容：他引用了 @AnthropicAI 宣布首次公开募股（IPO）的帖子，并附有完整的法律免责声明，指向 https://ipo.anthropic.com 和 SEC 招股书。",
+      "url": "https://x.com/gregisenberg/status/2120869291771777499",
+      "user": "gregisenberg",
+      "views": 39789
+    },
+    {
+      "already_pushed": true,
+      "basis": "delta",
+      "created_at": "2026-11-12T13:11:00.000Z",
+      "created_at_bj": "2026-11-12 21:11",
+      "edit_of": null,
+      "hit": false,
+      "id": "2120866956710695080",
+      "metrics": {
+        "bookmark_count": 81,
+        "impression_count": 51397,
+        "like_count": 836,
+        "quote_count": 14,
+        "reply_count": 205,
+        "retweet_count": 12
+      },
+      "prev": {
+        "checked_at": "2026-11-13T07:08:24+08:00",
+        "views": 50540
+      },
+      "quoted": [],
+      "rate_per_hour": 1420,
+      "text": "Sometimes I see people calling me a grifter, saying I’m just trying to squeeze as much money as possible from my audience.\n\nAnd honestly it hurts to read because it couldn’t be further from what motivates me.\n\nWe’re in the middle of an AI gold rush. Startups are raising millions, and if you have an audience in tech right now, there’s an insane amount of money to be made.\n\nPeople don’t realize how many offers I turn down from companies willing to pay $5K for a single tweet promoting their product.\n\nI could probably make a ridiculous amount of money doing this. But I’ve always refused because I don’t want my opinions to be for sale.\n\nAnd I’ve seen firsthand how much brands are willing to spend on visibility with my HYROX sponsorship experiment. If money was my goal, I’d just double down on that.\n\nThe last few years have completely changed my life. I’m financially free, I have everything I need, and I genuinely don’t care about making more money just for the sake of it.\n\nDon’t get me wrong, I LOVE making money from my apps.\n\nNot because I need more of it, but because someone paying for something I built is the ultimate validation. It means I’ve created something valuable enough that someone is willing to pull out their credit card.\n\nAnd if one person is willing to pay for it, maybe others will too. That’s what makes building businesses so exciting to me.\n\nBut what actually gets me out of bed is making weird stuff, experimenting with ideas, and seeing people use things I’ve built.\n\nFrom 2015 until 2022, I was building apps alone, with barely any entrepreneur friends. I felt lonely.\n\nNow I’ve finally found my people, made enough money to live comfortably, and get to do what I love every day.\n\nI don’t need more. I just want to have fun building stuff with people who love it as much as I do. ❤️",
+      "text_zh": "有时候我会看到有人说我是骗子（grifter），说我只想从观众身上尽可能多榨钱。\n\n说实话，看到这些话会受伤，因为这和真正驱动我的东西完全相反。\n\n我们正处在一场 AI 淘金热之中。创业公司正在融到数百万，如果你现在在科技圈有受众，能赚到的钱多到离谱。\n\n很多人不知道，我拒绝过多少报价——有公司愿意为一则推广他们产品的推文支付 $5K。\n\n靠这个我大概能赚到非常夸张的钱。但我一直拒绝，因为我不希望自己的观点被拿来出售。\n\n我也亲眼见过品牌愿意为曝光花多少钱，就凭我自己的 HYROX 赞助实验。如果赚钱是我的目标，我直接加码做这个就行了。\n\n过去几年彻底改变了我的生活。我已经财务自由，需要的东西都有了，我真心不再在乎只是为了钱而去赚更多钱。\n\n别误会，我超爱（LOVE）从自己的 apps 上赚钱。\n\n不是因为我还需要更多钱，而是因为有人愿意为你做出来的东西付钱，这是终极的认可。这说明我创造的东西足够有价值，值得别人掏出信用卡。\n\n而如果有一个人愿意为此付钱，也许其他人也会。这正是做生意让我觉得兴奋的地方。\n\n但真正让我起床的，是做一些奇怪的东西、尝试各种想法，以及看到人们使用我做出来的东西。\n\n从 2015 到 2022，我一直独自做 apps，几乎没有创业者朋友。我感到孤独。\n\n现在我终于找到了同类，也赚到了足够过得舒适的钱，每天都能做自己热爱的事。\n\n我不需要更多了。我只想和同样热爱这件事的人一起，开心地把东西做出来。❤️",
+      "url": "https://x.com/marclou/status/2120866956710695080",
+      "user": "marclou",
+      "views": 51397
+    }
+  ],
+  "new_hits": [
+    "2121025400042311701"
+  ],
+  "dropped_from_window": [
+    "2120842912963379607"
+  ],
+  "notes": "07:34 判定轮（实际运行 07:44:36 北京时间，计划槽位 07:34）。间隔 0.6033 小时（上一轮 07:08:24 → 本轮 07:44:36 北京时间，36 分 12 秒）。@karpathy 窗口内无原创或引用帖。本轮 get_users_posts 使用 exclude=replies,retweets 与 start_time=2026-11-12T11:40:00Z，再按 12 小时窗口本地过滤。窗口起点 2026-11-12 19:44 北京时间（2026-11-12T11:44:36Z）。所有检查帖均有 impression_count。浏览量与互动数据以本轮 get_users_posts 返回的 public_metrics 为准。本地排除回复 1 条：2120985769003356338（@levelsio 对自己 2120978774732759163 的回复，提到 Interior AI 已 LIVE；exclude=replies 仍返回了该条，已按规则丢弃，不写入 snapshots）。已有帖中文译文沿用上一轮归档（英文全文与上一轮一致）。@levelsio 2121025400042311701 为本轮新帖（发于 2026-11-13 07:40 北京时间）。@levelsio 2121025400042311701 首次见到，浏览 2144，发帖至今 0.0667 小时，每小时 +32160，超过阈值，本轮新达标。@steipete 2121009372470067544 浏览 25953（上次 12420），每小时 +22430，超过阈值，已在 pushed 中，不再推送。@egeberkina 2121005457263280511 浏览 751（上次 573），每小时 +295，未超过阈值。@levelsio 2120995132359188491 浏览 81866（上次 52261），每小时 +49069，超过阈值，已在 pushed 中，不再推送。@levelsio 2120978774732759163 浏览 17153（上次 16340），每小时 +1348，未超过阈值。@steipete 2120974913679040680 浏览 168163（上次 147436），每小时 +34354，超过阈值，已在 pushed 中，不再推送。@gregisenberg 2120955557465223337 浏览 142333（上次 130926），每小时 +18907，超过阈值，已在 pushed 中，不再推送。@egeberkina 2120934633953014048 浏览 1508（上次 1436），每小时 +119，未超过阈值。@levelsio 2120926464677720233 浏览 27664（上次 26836），每小时 +1372，未超过阈值。@steipete 2120903527803564397 浏览 255458（上次 249987），每小时 +9068，超过阈值，已在 pushed 中，不再推送。@gregisenberg 2120902003555512635 浏览 19667（上次 19180），每小时 +807，未超过阈值，已在 pushed 中，不再推送。@levelsio 2120883126876721262 浏览 29111（上次 28746），每小时 +605，未超过阈值，已在 pushed 中，不再推送。@levelsio 2120879519779135835 浏览 32857（上次 32484），每小时 +618，未超过阈值，已在 pushed 中，不再推送。@levelsio 2120877776081154422 浏览 31137（上次 30814），每小时 +535，未超过阈值，已在 pushed 中，不再推送。@gregisenberg 2120869291771777499 浏览 39789（上次 39309），每小时 +796，未超过阈值，已在 pushed 中，不再推送。@marclou 2120866956710695080 浏览 51397（上次 50540），每小时 +1420，未超过阈值，已在 pushed 中，不再推送。本轮新达标 1 条。移出 12 小时窗口：2120842912963379607（@egeberkina，发于 2026-11-12 19:35 北京时间）。"
+}
