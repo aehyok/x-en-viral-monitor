@@ -1,0 +1,225 @@
+{
+  "run_at": "2026-11-12T18:36:44+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "1834",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "already_pushed": true,
+      "basis": "delta",
+      "created_at": "2026-11-12T02:52:21.000Z",
+      "created_at_bj": "2026-11-12 10:52",
+      "edit_of": null,
+      "hit": false,
+      "id": "2120711266759258616",
+      "metrics": {
+        "bookmark_count": 44,
+        "impression_count": 46337,
+        "like_count": 463,
+        "quote_count": 0,
+        "reply_count": 24,
+        "retweet_count": 18
+      },
+      "prev": {
+        "checked_at": "2026-11-12T18:14:13+08:00",
+        "views": 45587
+      },
+      "quoted": [
+        {
+          "id": "2120564675662188999",
+          "user": "supahvee1234",
+          "text": "The anti-AI cult is harassing and pressuring open-source projects such as `curl` and `ImageMagick` to outright ban LLM usage.\n\nIf you care about the open-source ecosystem and humanity's technological progress, fight back with me:\n\nhttps://t.co/A9DwO0KMNx\n\nhttps://t.co/ZgmPwWDqdp https://t.co/8U06KvmyEx",
+          "text_zh": "反 AI 的极端群体正在骚扰并施压 `curl`、`ImageMagick` 等开源项目，要求彻底禁止使用 LLM。\n\n如果你在意开源生态和人类的技术进步，一起来跟我反击：\n\nhttps://t.co/A9DwO0KMNx\n\nhttps://t.co/ZgmPwWDqdp https://t.co/8U06KvmyEx"
+        }
+      ],
+      "rate_per_hour": 1999,
+      "text": "reading some of these comments makes my brain hurt. oss is already hard enough without politics. https://t.co/TgpI4KxLOS",
+      "text_zh": "看这些评论有的让我脑壳疼。oss 本来就已经够难了，别再掺和政治了。https://t.co/TgpI4KxLOS",
+      "url": "https://x.com/steipete/status/2120711266759258616",
+      "user": "steipete",
+      "views": 46337
+    },
+    {
+      "already_pushed": true,
+      "basis": "delta",
+      "created_at": "2026-11-12T01:34:45.000Z",
+      "created_at_bj": "2026-11-12 09:34",
+      "edit_of": null,
+      "hit": false,
+      "id": "2120691736657735765",
+      "metrics": {
+        "bookmark_count": 107,
+        "impression_count": 22819,
+        "like_count": 170,
+        "quote_count": 13,
+        "reply_count": 128,
+        "retweet_count": 5
+      },
+      "prev": {
+        "checked_at": "2026-11-12T18:14:13+08:00",
+        "views": 22431
+      },
+      "quoted": [
+        {
+          "id": "2120648647150874762",
+          "user": "levelsio",
+          "text": "Okay it works, I can now upload a video or some photos or just a floor plan of my living room\n\nAnd then:\n- empty it fully\n- move around furniture\n- remove furniture\n- paint the walls, floor, ceiling and any object in any color\n\nNext:\n- top down floor plan view\n- change to any interior design style with one-click\n- integrate it into 🏡 Interior AI fully as a feature\n\nVery very very cool 😍🤟",
+          "text_zh": "好了，搞定了。我现在可以把客厅的一段视频、几张照片，或者只是一张平面图上传上去\n\n然后就可以：\n- 把房间完全清空\n- 来回移动家具\n- 移除家具\n- 把墙面、地板、天花板和任何物体涂成任意颜色\n\n接下来还要做：\n- 俯视平面图视角\n- 一键换成任意室内设计风格\n- 把它完整集成进 🏡 Interior AI，作为一项功能\n\n非常非常非常酷 😍🤟"
+        }
+      ],
+      "rate_per_hour": 1034,
+      "text": "⏰ 3 hours later I have it working as a feature!\n\nReal video-to-3d with my own built headless Blender on a VPS\n\nYou can upload a walkthrough video of your living room or entire floor\n\nInterior AI turns it into a walkable 3d space where you can paint your walls, move everything around and get a floor plan\n\nIt's a quick prototype but it works!\n\nLIVE now on 🏡 Interior AI for all users 😊 🙏 \n\nThanks @wesbos for a lot of the inspiration here too",
+      "text_zh": "⏰ 3 小时后，我已经把它做成功能跑起来了！\n\n真正的 video-to-3d，用的是我自己在 VPS 上搭建的无头 Blender\n\n你可以上传客厅或整层楼的走查视频\n\nInterior AI 会把它变成一个可走动的 3D 空间，你可以粉刷墙壁、移动所有东西，还能得到平面图\n\n这是个快速原型，但确实能用！\n\n现已在 🏡 Interior AI 上对所有用户 LIVE 上线 😊 🙏 \n\n也感谢 @wesbos 给了很多灵感\n\n引用内容：他引用了自己稍早那条「搞定了」的 Interior AI 帖子：现在可以上传客厅视频、照片或平面图，清空房间、移动/移除家具，并把墙面、地板、天花板和任何物体涂成任意颜色；接下来还要做俯视平面图、一键换风格，并完整集成进 🏡 Interior AI。",
+      "url": "https://x.com/levelsio/status/2120691736657735765",
+      "user": "levelsio",
+      "views": 22819
+    },
+    {
+      "already_pushed": true,
+      "basis": "delta",
+      "created_at": "2026-11-12T00:37:18.000Z",
+      "created_at_bj": "2026-11-12 08:37",
+      "edit_of": null,
+      "hit": false,
+      "id": "2120677280116887877",
+      "metrics": {
+        "bookmark_count": 117,
+        "impression_count": 18439,
+        "like_count": 149,
+        "quote_count": 5,
+        "reply_count": 98,
+        "retweet_count": 9
+      },
+      "prev": {
+        "checked_at": "2026-11-12T18:14:13+08:00",
+        "views": 18247
+      },
+      "quoted": [],
+      "rate_per_hour": 512,
+      "text": "The IKEA effect is one of the more useful ideas in startups.\n\nPeople value things up to 63% more when they helped build them (think Spotify playlists, Notion workspaces, Obsidian vaults). https://t.co/CpREoJfDx9",
+      "text_zh": "「宜家效应」（IKEA effect）是创业里比较有用的想法之一。\n\n当人们参与了某样东西的搭建，会把它的价值看得高出最多 63%（比如 Spotify 播放列表、Notion 工作区、Obsidian 仓库）。https://t.co/CpREoJfDx9",
+      "url": "https://x.com/gregisenberg/status/2120677280116887877",
+      "user": "gregisenberg",
+      "views": 18439
+    },
+    {
+      "already_pushed": true,
+      "basis": "delta",
+      "created_at": "2026-11-12T00:26:06.000Z",
+      "created_at_bj": "2026-11-12 08:26",
+      "edit_of": null,
+      "hit": false,
+      "id": "2120674461858824640",
+      "metrics": {
+        "bookmark_count": 8,
+        "impression_count": 20081,
+        "like_count": 167,
+        "quote_count": 2,
+        "reply_count": 15,
+        "retweet_count": 2
+      },
+      "prev": {
+        "checked_at": "2026-11-12T18:14:13+08:00",
+        "views": 19618
+      },
+      "quoted": [
+        {
+          "id": "2120488432367468888",
+          "user": "levelsio",
+          "text": "https://t.co/1dD64EJiuZ https://t.co/tgryV8oV1u",
+          "text_zh": "https://t.co/1dD64EJiuZ https://t.co/tgryV8oV1u\n\n引用内容：他引用了 @jason 的帖子，写道：@AnthropicAI 正在把每一款 SaaS 产品都做进 @claudeai，并且终身免费。@Office365、@google、@canva、@figma……一个接一个。如果这些产品终身免费，这就不算反垄断了——对吧？！记一笔 @DavidSacks！"
+        }
+      ],
+      "rate_per_hour": 1234,
+      "text": "https://t.co/gAoNdmDx5F https://t.co/XFR4A5zNDh",
+      "text_zh": "https://t.co/gAoNdmDx5F https://t.co/XFR4A5zNDh\n\n引用内容：他引用了自己早前的一条图片帖（https://x.com/levelsio/status/2120488432367468888），该帖又引用了 @jason 的帖子：@AnthropicAI 正在把每一款 SaaS 产品都做进 @claudeai，并且终身免费。@Office365、@google、@canva、@figma……一个接一个。如果这些产品终身免费，这就不算反垄断了——对吧？！记一笔 @DavidSacks！",
+      "url": "https://x.com/levelsio/status/2120674461858824640",
+      "user": "levelsio",
+      "views": 20081
+    },
+    {
+      "already_pushed": true,
+      "basis": "delta",
+      "created_at": "2026-11-11T22:56:02.000Z",
+      "created_at_bj": "2026-11-12 06:56",
+      "edit_of": null,
+      "hit": false,
+      "id": "2120651795785539732",
+      "metrics": {
+        "bookmark_count": 88,
+        "impression_count": 84735,
+        "like_count": 1287,
+        "quote_count": 8,
+        "reply_count": 118,
+        "retweet_count": 17
+      },
+      "prev": {
+        "checked_at": "2026-11-12T18:14:13+08:00",
+        "views": 83942
+      },
+      "quoted": [
+        {
+          "id": "2120643194861822205",
+          "user": "BullTheoryio",
+          "text": "BREAKING: 🇺🇸 Nvidia CEO Jensen Huang had a second affair with VP of Health Care Kimberly Powell, per the New York Times. https://t.co/OyeMo2Xq1S",
+          "text_zh": "突发：🇺🇸 Nvidia CEO Jensen Huang 与医疗健康业务副总裁 Kimberly Powell 有第二次婚外情，据《纽约时报》报道。https://t.co/OyeMo2Xq1S"
+        }
+      ],
+      "rate_per_hour": 2113,
+      "text": "Wouldn't it be something if this was the thing that would pop the AI bubble https://t.co/AMXwWlyjB0",
+      "text_zh": "要是戳破 AI 泡沫的，居然就是这件事，岂不是很有意思 https://t.co/AMXwWlyjB0\n\n引用内容：他引用了 @BullTheoryio 的突发帖：据《纽约时报》报道，美国 Nvidia CEO Jensen Huang 与医疗健康业务副总裁 Kimberly Powell 有第二次婚外情。",
+      "url": "https://x.com/levelsio/status/2120651795785539732",
+      "user": "levelsio",
+      "views": 84735
+    },
+    {
+      "already_pushed": true,
+      "basis": "delta",
+      "created_at": "2026-11-11T22:43:31.000Z",
+      "created_at_bj": "2026-11-12 06:43",
+      "edit_of": null,
+      "hit": false,
+      "id": "2120648647150874762",
+      "metrics": {
+        "bookmark_count": 243,
+        "impression_count": 49349,
+        "like_count": 268,
+        "quote_count": 5,
+        "reply_count": 96,
+        "retweet_count": 4
+      },
+      "prev": {
+        "checked_at": "2026-11-12T18:14:13+08:00",
+        "views": 48557
+      },
+      "quoted": [
+        {
+          "id": "2120641573671358926",
+          "user": "levelsio",
+          "text": "There wasn't much technology to work with in terms of interior design with my app 🏡 Interior AI the last 12 months\n\nFor 4 years it's been based on simple image models: photos of your interior as input -> redesigns out as output\n\nBut now there is a completely new dimension to it 😬\n\nAs you probably saw on your timeline, AI can finally generate headless Blender 3d scenes from just a rough video (which I did today of my living room), or even a few photos, and even a floorplan (which no image model was able to understand before, believe me I tried 100 times!)\n\nThat means that 3d scene I can then make fully editable in my app Interior AI\n\nMeaning you can paint any wall, floor or ceiling any color, next move around, delete or add new furniture etc from a giant 3d library of furniture\n\nEndless possibilities!!\n\nI think I found my next big feature 😍\n\nI'll try get something live in Interior AI within the next few hours!!!",
+          "text_zh": "过去 12 个月，我的应用 🏡 Interior AI 在室内设计方面能用的技术其实并不多\n\n4 年来，它一直基于简单的图像模型：输入你室内的照片 -> 输出重新设计的效果图\n\n但现在它有了一个全新的维度 😬\n\n你大概已经在时间线上看到了，AI 终于可以从一段粗糙的视频（我今天就拍了自己的客厅）、甚至几张照片，甚至一张平面图（以前没有图像模型能理解平面图，相信我，我试过 100 次！）生成无头 Blender 3D 场景\n\n这意味着我可以在 Interior AI 里把那个 3D 场景做成完全可编辑的\n\n也就是说，你可以把任何墙面、地板或天花板涂成任意颜色，接着四处移动、删除或从超大的 3D 家具库里添加新家具等等\n\n无限可能！！\n\n我想我找到了下一个大功能 😍\n\n我会尽量在接下来几个小时内，把这个功能在 Interior AI 里上线！！！"
+        }
+      ],
+      "rate_per_hour": 2110,
+      "text": "Okay it works, I can now upload a video or some photos or just a floor plan of my living room\n\nAnd then:\n- empty it fully\n- move around furniture\n- remove furniture\n- paint the walls, floor, ceiling and any object in any color\n\nNext:\n- top down floor plan view\n- change to any interior design style with one-click\n- integrate it into 🏡 Interior AI fully as a feature\n\nVery very very cool 😍🤟",
+      "text_zh": "好了，搞定了。我现在可以把客厅的一段视频、几张照片，或者只是一张平面图上传上去\n\n然后就可以：\n- 把房间完全清空\n- 来回移动家具\n- 移除家具\n- 把墙面、地板、天花板和任何物体涂成任意颜色\n\n接下来还要做：\n- 俯视平面图视角\n- 一键换成任意室内设计风格\n- 把它完整集成进 🏡 Interior AI，作为一项功能\n\n非常非常非常酷 😍🤟\n\n引用内容：他引用了自己稍早关于 Interior AI 的帖子：过去 12 个月室内设计能用的技术不多，但现在 AI 终于能从粗糙视频、照片甚至平面图生成可编辑的无头 Blender 3D 场景，他打算把这做成 Interior AI 的下一个大功能，并尽快上线。",
+      "url": "https://x.com/levelsio/status/2120648647150874762",
+      "user": "levelsio",
+      "views": 49349
+    }
+  ],
+  "new_hits": [],
+  "dropped_from_window": [
+    "2120641573671358926"
+  ],
+  "notes": "18:34 判定轮（实际运行 18:36:44 北京时间，计划槽位 18:34）。间隔 0.3753 小时（上一轮 18:14:13 → 本轮 18:36:44 北京时间，22 分 31 秒）。@marclou 窗口内无原创或引用帖；@egeberkina 窗口内无原创或引用帖；@karpathy 窗口内无原创或引用帖。本轮 get_users_posts 使用 exclude=replies,retweets 与 start_time=2026-11-11T22:30:00Z，再按 12 小时窗口本地过滤。窗口起点 2026-11-12 06:36 北京时间（2026-11-11T22:36:44Z）。所有检查帖均有 impression_count。浏览量与互动数据以本轮 get_users_posts 返回的 public_metrics 为准。本地排除回复 1 条：2120692665276878984（@levelsio 对自己 2120691736657735765 的回复；exclude=replies 仍返回了该条，已按规则丢弃，不写入 snapshots）。已有帖中文译文沿用上一轮归档（英文全文与上一轮一致；@levelsio 两条长文以先前 note_tweet 全文为准）。移出 12 小时窗口：2120641573671358926（@levelsio，发帖 2026-11-11T22:15:25.000Z，已早于窗口起点）。本轮无帖子新进入窗口。@steipete 2120711266759258616 浏览 46337（上次 45587），每小时 +1999，未超过阈值，已在 pushed 中，不再推送。@levelsio 2120691736657735765 浏览 22819（上次 22431），每小时 +1034，未超过阈值，已在 pushed 中，不再推送。@gregisenberg 2120677280116887877 浏览 18439（上次 18247），每小时 +512，未超过阈值，已在 pushed 中，不再推送。@levelsio 2120674461858824640 浏览 20081（上次 19618），每小时 +1234，未超过阈值，已在 pushed 中，不再推送。@levelsio 2120651795785539732 浏览 84735（上次 83942），每小时 +2113，未超过阈值，已在 pushed 中，不再推送。@levelsio 2120648647150874762 浏览 49349（上次 48557），每小时 +2110，未超过阈值，已在 pushed 中，不再推送。本轮新达标 0 条。"
+}
