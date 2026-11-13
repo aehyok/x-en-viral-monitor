@@ -1,0 +1,209 @@
+{
+  "run_at": "2026-11-13T17:37:15+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "1734",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "already_pushed": true,
+      "basis": "delta",
+      "created_at": "2026-11-13T01:53:12.000Z",
+      "created_at_bj": "2026-11-13 09:53",
+      "edit_of": null,
+      "hit": true,
+      "id": "2121058770767982997",
+      "metrics": {
+        "bookmark_count": 520,
+        "impression_count": 74528,
+        "like_count": 807,
+        "quote_count": 5,
+        "reply_count": 88,
+        "retweet_count": 41
+      },
+      "prev": {
+        "checked_at": "2026-11-13T17:07:49+08:00",
+        "views": 71886
+      },
+      "quoted": [
+        {
+          "id": "2120962631788114377",
+          "text": "deploying persistent agents like Openclaw or Dots pose a major challenge for enterprise IT\n\nagents are more like contractors than traditional saas software, able to take proactive actions in the background without human intervention\nthey are capable of fulfilling entire job functions but they can also take misaligned actions and write arbitrary code with unintended consequences\n\ntoday, we are sharing some of the best practices we use to manage fleets of claws at @OpenAI \n\nhttps://t.co/4K6r8kQtMS",
+          "text_zh": "部署 Openclaw 或 Dots 这类持久化 agent，对企业 IT 来说是重大挑战。\n\n这些 agent 更像承包商，而不是传统的 SaaS 软件，能够在没有人工干预的情况下在后台主动采取行动；它们有能力承担整份工作职能，但也可能采取偏离目标的行动，并写出带来意外后果的任意代码。\n\n今天，我们分享了在 @OpenAI 管理一批 claws 时使用的一些最佳实践。\n\nhttps://t.co/4K6r8kQtMS",
+          "user": "kevins8"
+        }
+      ],
+      "rate_per_hour": 5386,
+      "text": "My team wrote about how we run persistent agents inside OpenAI. https://t.co/vP5cH7Pohg",
+      "text_zh": "我的团队写了我们如何在 OpenAI 内部运行持久化 agents。https://t.co/vP5cH7Pohg\n\n引用内容：他引用了 @kevins8 的帖子：部署 Openclaw 或 Dots 这类持久化 agent，对企业 IT 来说是重大挑战。这些 agent 更像承包商而非传统 SaaS 软件，能在没有人工干预的情况下在后台主动采取行动；它们有能力承担整份工作职能，但也可能采取偏离目标的行动，并写出带来意外后果的任意代码。今天他们分享了在 @OpenAI 管理一批 claws 时使用的一些最佳实践。https://t.co/4K6r8kQtMS",
+      "url": "https://x.com/steipete/status/2121058770767982997",
+      "user": "steipete",
+      "views": 74528
+    },
+    {
+      "already_pushed": true,
+      "basis": "delta",
+      "created_at": "2026-11-13T00:47:25.000Z",
+      "created_at_bj": "2026-11-13 08:47",
+      "edit_of": null,
+      "hit": false,
+      "id": "2121042215619510584",
+      "metrics": {
+        "bookmark_count": 8,
+        "impression_count": 66372,
+        "like_count": 115,
+        "quote_count": 13,
+        "reply_count": 145,
+        "retweet_count": 1
+      },
+      "prev": {
+        "checked_at": "2026-11-13T17:07:49+08:00",
+        "views": 64941
+      },
+      "quoted": [],
+      "rate_per_hour": 2917,
+      "text": "Would you enable yolo mode for dots, even if your dot might do sth unwanted?",
+      "text_zh": "就算你的 dot 可能会做点不想要的事，你也会给 dots 开启 yolo mode 吗？\n\n投票（进行中，24 小时，截止 2026-11-14 08:47 北京时间）：\n- yolo beats approvals\n- no too risky",
+      "url": "https://x.com/steipete/status/2121042215619510584",
+      "user": "steipete",
+      "views": 66372
+    },
+    {
+      "already_pushed": true,
+      "basis": "delta",
+      "created_at": "2026-11-12T23:40:36.000Z",
+      "created_at_bj": "2026-11-13 07:40",
+      "edit_of": null,
+      "hit": false,
+      "id": "2121025400042311701",
+      "metrics": {
+        "bookmark_count": 31,
+        "impression_count": 21428,
+        "like_count": 77,
+        "quote_count": 1,
+        "reply_count": 15,
+        "retweet_count": 1
+      },
+      "prev": {
+        "checked_at": "2026-11-13T17:07:49+08:00",
+        "views": 21050
+      },
+      "quoted": [
+        {
+          "id": "2120984608473075776",
+          "text": "@levelsio Why not just get fable to program hyper photorealistic shaders though? I am seeing some renders and they are indistinguishable from pictures. That would be sick!",
+          "text_zh": "@levelsio 为什么不直接让 fable 去写超写实的 shaders 呢？我看到过一些渲染图，已经和照片没什么区别了。那会很赞！",
+          "user": "vnjogani"
+        }
+      ],
+      "rate_per_hour": 771,
+      "text": "Tried ThreeJS shaders, very cool but very slow but very cool! https://t.co/2Cqqb43gMy https://t.co/A3valU3W4y",
+      "text_zh": "试了 ThreeJS shaders，非常酷，但非常慢，但又非常酷！ https://t.co/2Cqqb43gMy https://t.co/A3valU3W4y\n\n引用内容：他引用了 @vnjogani 的回复：为什么不直接让 fable 去写超写实的 shaders 呢？我看到过一些渲染图，已经和照片没什么区别了。那会很赞！",
+      "url": "https://x.com/levelsio/status/2121025400042311701",
+      "user": "levelsio",
+      "views": 21428
+    },
+    {
+      "already_pushed": true,
+      "basis": "delta",
+      "created_at": "2026-11-12T22:36:55.000Z",
+      "created_at_bj": "2026-11-13 06:36",
+      "edit_of": null,
+      "hit": true,
+      "id": "2121009372470067544",
+      "metrics": {
+        "bookmark_count": 162,
+        "impression_count": 147826,
+        "like_count": 1450,
+        "quote_count": 22,
+        "reply_count": 145,
+        "retweet_count": 28
+      },
+      "prev": {
+        "checked_at": "2026-11-13T17:07:49+08:00",
+        "views": 144620
+      },
+      "quoted": [],
+      "rate_per_hour": 6535,
+      "text": "There’s some new agent launching later this week and marketers offer a lot of money to say nice things about it on X. Keep a lookout on honest reviews 🫠",
+      "text_zh": "这周晚些时候会有某个新的 agent 发布，营销方出不少钱请人在 X 上说好话。请留意那些诚实的评测 🫠",
+      "url": "https://x.com/steipete/status/2121009372470067544",
+      "user": "steipete",
+      "views": 147826
+    },
+    {
+      "already_pushed": false,
+      "basis": "delta",
+      "created_at": "2026-11-12T22:21:22.000Z",
+      "created_at_bj": "2026-11-13 06:21",
+      "edit_of": null,
+      "hit": false,
+      "id": "2121005457263280511",
+      "metrics": {
+        "bookmark_count": 8,
+        "impression_count": 2027,
+        "like_count": 43,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "prev": {
+        "checked_at": "2026-11-13T17:07:49+08:00",
+        "views": 1995
+      },
+      "quoted": [],
+      "rate_per_hour": 65,
+      "text": "X allows 20 images now? Don't mind if I do. https://t.co/49ALYjzesf",
+      "text_zh": "X 现在允许发 20 张图了？那我就不客气了。 https://t.co/49ALYjzesf",
+      "url": "https://x.com/egeberkina/status/2121005457263280511",
+      "user": "egeberkina",
+      "views": 2027
+    },
+    {
+      "already_pushed": true,
+      "basis": "delta",
+      "created_at": "2026-11-12T21:40:20.000Z",
+      "created_at_bj": "2026-11-13 05:40",
+      "edit_of": null,
+      "hit": true,
+      "id": "2120995132359188491",
+      "metrics": {
+        "bookmark_count": 350,
+        "impression_count": 251477,
+        "like_count": 2540,
+        "quote_count": 10,
+        "reply_count": 22,
+        "retweet_count": 47
+      },
+      "prev": {
+        "checked_at": "2026-11-13T17:07:49+08:00",
+        "views": 247774
+      },
+      "quoted": [
+        {
+          "id": "2120951865408172160",
+          "text": "Fate loves irony, so what if...\n- Nvidia fires Jensen\n- NVDA crashes\n- Elon hires Jensen, Jensen hires his best lieutenants\n- SPCX skyrockets, NVDA crashes more\n- SPCX can now afford to acquire NVDA\n- Jensen back in seat, NVDA board is out",
+          "text_zh": "命运喜欢讽刺，那么如果……\n- Nvidia 开除 Jensen\n- NVDA 暴跌\n- Elon 挖来 Jensen，Jensen 再带上自己的得力干将\n- SPCX 暴涨，NVDA 跌得更狠\n- SPCX 因此有能力收购 NVDA\n- Jensen 重新坐回位子，NVDA 董事会出局",
+          "user": "bscholl"
+        }
+      ],
+      "rate_per_hour": 7549,
+      "text": "This is so realistic I'm not even kidding https://t.co/7g8vU1xyem",
+      "text_zh": "这也太逼真了，我完全没在开玩笑 https://t.co/7g8vU1xyem\n\n引用内容：他引用了 @bscholl 的帖子：命运喜欢讽刺，那么如果……Nvidia 开除 Jensen，NVDA 暴跌，Elon 挖来 Jensen，Jensen 再带上自己的得力干将，SPCX 暴涨、NVDA 跌得更狠，SPCX 因此有能力收购 NVDA，Jensen 重新坐回位子，NVDA 董事会出局。",
+      "url": "https://x.com/levelsio/status/2120995132359188491",
+      "user": "levelsio",
+      "views": 251477
+    }
+  ],
+  "new_hits": [],
+  "dropped_from_window": [],
+  "notes": "17:34 判定轮（实际运行 17:37:15 北京时间，计划槽位 17:34）。间隔 0.4906 小时（上一轮 17:07:49 → 本轮 17:37:15 北京时间，29 分 26 秒）。@marclou、@gregisenberg、@karpathy 窗口内无原创或引用帖。本轮 get_users_posts 使用 exclude=replies,retweets 与 start_time=2026-11-12T21:36:00Z，再按 12 小时窗口本地过滤。窗口起点 2026-11-13 05:37 北京时间（2026-11-12T21:37:15Z）。所有检查帖均有 impression_count。浏览量与互动数据以本轮 get_users_posts 返回的 public_metrics 为准。本轮未再发现需本地排除的回复。本轮无新帖。已有帖中文译文沿用上一轮归档。@steipete 2121042215619510584 带有投票（选项：yolo beats approvals / no too risky；24 小时，截止 2026-11-14 08:47 北京时间）。本轮从 attachments.poll_ids 扩展拿到当前票数：yolo beats approvals 2610 / no too risky 869，投票仍在进行中；正文译文沿用上一轮，未把票数写入 text_zh。@steipete 2121058770767982997 浏览 74528（上次 71886），每小时 +5386，超过阈值，已在 pushed 中，不再推送。@steipete 2121042215619510584 浏览 66372（上次 64941），每小时 +2917，未超过阈值，已在 pushed 中，不再推送。@levelsio 2121025400042311701 浏览 21428（上次 21050），每小时 +771，未超过阈值，已在 pushed 中，不再推送。@steipete 2121009372470067544 浏览 147826（上次 144620），每小时 +6535，超过阈值，已在 pushed 中，不再推送。@egeberkina 2121005457263280511 浏览 2027（上次 1995），每小时 +65，未超过阈值。@levelsio 2120995132359188491 浏览 251477（上次 247774），每小时 +7549，超过阈值，已在 pushed 中，不再推送。本轮新达标 0 条。移出 12 小时窗口：无。"
+}
