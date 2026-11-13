@@ -1,0 +1,118 @@
+{
+  "run_at": "2026-11-13T19:37:55+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "1934",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "already_pushed": true,
+      "basis": "delta",
+      "created_at": "2026-11-13T01:53:12.000Z",
+      "created_at_bj": "2026-11-13 09:53",
+      "edit_of": null,
+      "hit": false,
+      "id": "2121058770767982997",
+      "metrics": {
+        "bookmark_count": 604,
+        "impression_count": 83791,
+        "like_count": 889,
+        "quote_count": 7,
+        "reply_count": 99,
+        "retweet_count": 45
+      },
+      "prev": {
+        "checked_at": "2026-11-13T19:07:42+08:00",
+        "views": 81565
+      },
+      "quoted": [
+        {
+          "id": "2120962631788114377",
+          "text": "deploying persistent agents like Openclaw or Dots pose a major challenge for enterprise IT\n\nagents are more like contractors than traditional saas software, able to take proactive actions in the background without human intervention\nthey are capable of fulfilling entire job functions but they can also take misaligned actions and write arbitrary code with unintended consequences\n\ntoday, we are sharing some of the best practices we use to manage fleets of claws at @OpenAI \n\nhttps://t.co/4K6r8kQtMS",
+          "text_zh": "部署 Openclaw 或 Dots 这类持久化 agent，对企业 IT 来说是重大挑战。\n\n这些 agent 更像承包商，而不是传统的 SaaS 软件，能够在没有人工干预的情况下在后台主动采取行动；它们有能力承担整份工作职能，但也可能采取偏离目标的行动，并写出带来意外后果的任意代码。\n\n今天，我们分享了在 @OpenAI 管理一批 claws 时使用的一些最佳实践。\n\nhttps://t.co/4K6r8kQtMS",
+          "user": "kevins8"
+        }
+      ],
+      "rate_per_hour": 4420,
+      "text": "My team wrote about how we run persistent agents inside OpenAI. https://t.co/vP5cH7Pohg",
+      "text_zh": "我的团队写了我们如何在 OpenAI 内部运行持久化 agents。https://t.co/vP5cH7Pohg\n\n引用内容：他引用了 @kevins8 的帖子：部署 Openclaw 或 Dots 这类持久化 agent，对企业 IT 来说是重大挑战。这些 agent 更像承包商而非传统 SaaS 软件，能在没有人工干预的情况下在后台主动采取行动；它们有能力承担整份工作职能，但也可能采取偏离目标的行动，并写出带来意外后果的任意代码。今天他们分享了在 @OpenAI 管理一批 claws 时使用的一些最佳实践。https://t.co/4K6r8kQtMS",
+      "url": "https://x.com/steipete/status/2121058770767982997",
+      "user": "steipete",
+      "views": 83791
+    },
+    {
+      "already_pushed": true,
+      "basis": "delta",
+      "created_at": "2026-11-13T00:47:25.000Z",
+      "created_at_bj": "2026-11-13 08:47",
+      "edit_of": null,
+      "hit": false,
+      "id": "2121042215619510584",
+      "metrics": {
+        "bookmark_count": 10,
+        "impression_count": 72174,
+        "like_count": 127,
+        "quote_count": 13,
+        "reply_count": 154,
+        "retweet_count": 1
+      },
+      "prev": {
+        "checked_at": "2026-11-13T19:07:42+08:00",
+        "views": 70824
+      },
+      "quoted": [],
+      "rate_per_hour": 2680,
+      "text": "Would you enable yolo mode for dots, even if your dot might do sth unwanted?",
+      "text_zh": "就算你的 dot 可能会做点不想要的事，你也会给 dots 开启 yolo mode 吗？\n\n投票（进行中，24 小时，截止 2026-11-14 08:47 北京时间）：\n- yolo beats approvals\n- no too risky",
+      "url": "https://x.com/steipete/status/2121042215619510584",
+      "user": "steipete",
+      "views": 72174
+    },
+    {
+      "already_pushed": true,
+      "basis": "delta",
+      "created_at": "2026-11-12T23:40:36.000Z",
+      "created_at_bj": "2026-11-13 07:40",
+      "edit_of": null,
+      "hit": false,
+      "id": "2121025400042311701",
+      "metrics": {
+        "bookmark_count": 35,
+        "impression_count": 23098,
+        "like_count": 84,
+        "quote_count": 2,
+        "reply_count": 15,
+        "retweet_count": 1
+      },
+      "prev": {
+        "checked_at": "2026-11-13T19:07:42+08:00",
+        "views": 22731
+      },
+      "quoted": [
+        {
+          "id": "2120984608473075776",
+          "text": "@levelsio Why not just get fable to program hyper photorealistic shaders though? I am seeing some renders and they are indistinguishable from pictures. That would be sick!",
+          "text_zh": "@levelsio 为什么不直接让 fable 去写超写实的 shaders 呢？我看到过一些渲染图，已经和照片没什么区别了。那会很赞！",
+          "user": "vnjogani"
+        }
+      ],
+      "rate_per_hour": 728,
+      "text": "Tried ThreeJS shaders, very cool but very slow but very cool! https://t.co/2Cqqb43gMy https://t.co/A3valU3W4y",
+      "text_zh": "试了 ThreeJS shaders，非常酷，但非常慢，但又非常酷！ https://t.co/2Cqqb43gMy https://t.co/A3valU3W4y\n\n引用内容：他引用了 @vnjogani 的回复：为什么不直接让 fable 去写超写实的 shaders 呢？我看到过一些渲染图，已经和照片没什么区别了。那会很赞！",
+      "url": "https://x.com/levelsio/status/2121025400042311701",
+      "user": "levelsio",
+      "views": 23098
+    }
+  ],
+  "new_hits": [],
+  "dropped_from_window": [],
+  "notes": "19:34 判定轮（实际运行 19:37:55 北京时间，计划槽位 19:34）。间隔 0.5036 小时（上一轮 19:07:42 → 本轮 19:37:55 北京时间，30 分 13 秒）。@marclou、@gregisenberg、@egeberkina、@karpathy 窗口内无原创或引用帖。本轮 get_users_posts 使用 exclude=replies,retweets 与 start_time=2026-11-12T23:37:00Z，再按 12 小时窗口本地过滤。窗口起点 2026-11-13 07:37 北京时间（2026-11-12T23:37:55Z）。所有检查帖均有 impression_count。浏览量与互动数据以本轮 get_users_posts 返回的 public_metrics 为准。本轮未再发现需本地排除的回复。本轮无新帖。已有帖中文译文沿用上一轮归档。@steipete 2121042215619510584 带有投票（选项：yolo beats approvals / no too risky；24 小时，截止 2026-11-14 08:47 北京时间）。本轮从 attachments.poll_ids 扩展拿到当前票数：yolo beats approvals 2862 / no too risky 974，投票仍在进行中；正文译文沿用上一轮，未把票数写入 text_zh。@steipete 2121058770767982997 浏览 83791（上次 81565），每小时 +4420，未超过阈值，已在 pushed 中，不再推送。@steipete 2121042215619510584 浏览 72174（上次 70824），每小时 +2680，未超过阈值，已在 pushed 中，不再推送。@levelsio 2121025400042311701 浏览 23098（上次 22731），每小时 +728，未超过阈值，已在 pushed 中，不再推送。本轮新达标 0 条。窗口内snapshots与上一轮相同，无帖子移出 12 小时窗口。"
+}
