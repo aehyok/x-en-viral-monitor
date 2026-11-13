@@ -1,0 +1,307 @@
+{
+  "run_at": "2026-11-13T14:41:25+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "1434",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "already_pushed": true,
+      "basis": "delta",
+      "created_at": "2026-11-13T01:53:12.000Z",
+      "created_at_bj": "2026-11-13 09:53",
+      "edit_of": null,
+      "hit": true,
+      "id": "2121058770767982997",
+      "metrics": {
+        "bookmark_count": 355,
+        "impression_count": 54336,
+        "like_count": 605,
+        "quote_count": 4,
+        "reply_count": 74,
+        "retweet_count": 32
+      },
+      "prev": {
+        "checked_at": "2026-11-13T14:13:47+08:00",
+        "views": 51384
+      },
+      "quoted": [
+        {
+          "id": "2120962631788114377",
+          "user": "kevins8",
+          "text": "deploying persistent agents like Openclaw or Dots pose a major challenge for enterprise IT\n\nagents are more like contractors than traditional saas software, able to take proactive actions in the background without human intervention\nthey are capable of fulfilling entire job functions but they can also take misaligned actions and write arbitrary code with unintended consequences\n\ntoday, we are sharing some of the best practices we use to manage fleets of claws at @OpenAI \n\nhttps://t.co/4K6r8kQtMS",
+          "text_zh": "部署 Openclaw 或 Dots 这类持久化 agent，对企业 IT 来说是重大挑战。\n\n这些 agent 更像承包商，而不是传统的 SaaS 软件，能够在没有人工干预的情况下在后台主动采取行动；它们有能力承担整份工作职能，但也可能采取偏离目标的行动，并写出带来意外后果的任意代码。\n\n今天，我们分享了在 @OpenAI 管理一批 claws 时使用的一些最佳实践。\n\nhttps://t.co/4K6r8kQtMS"
+        }
+      ],
+      "rate_per_hour": 6410,
+      "text": "My team wrote about how we run persistent agents inside OpenAI. https://t.co/vP5cH7Pohg",
+      "text_zh": "我的团队写了我们如何在 OpenAI 内部运行持久化 agents。https://t.co/vP5cH7Pohg\n\n引用内容：他引用了 @kevins8 的帖子：部署 Openclaw 或 Dots 这类持久化 agent，对企业 IT 来说是重大挑战。这些 agent 更像承包商而非传统 SaaS 软件，能在没有人工干预的情况下在后台主动采取行动；它们有能力承担整份工作职能，但也可能采取偏离目标的行动，并写出带来意外后果的任意代码。今天他们分享了在 @OpenAI 管理一批 claws 时使用的一些最佳实践。https://t.co/4K6r8kQtMS",
+      "url": "https://x.com/steipete/status/2121058770767982997",
+      "user": "steipete",
+      "views": 54336
+    },
+    {
+      "already_pushed": true,
+      "basis": "delta",
+      "created_at": "2026-11-13T00:47:25.000Z",
+      "created_at_bj": "2026-11-13 08:47",
+      "edit_of": null,
+      "hit": false,
+      "id": "2121042215619510584",
+      "metrics": {
+        "bookmark_count": 8,
+        "impression_count": 55597,
+        "like_count": 107,
+        "quote_count": 13,
+        "reply_count": 128,
+        "retweet_count": 1
+      },
+      "prev": {
+        "checked_at": "2026-11-13T14:13:47+08:00",
+        "views": 53794
+      },
+      "quoted": [],
+      "rate_per_hour": 3915,
+      "text": "Would you enable yolo mode for dots, even if your dot might do sth unwanted?",
+      "text_zh": "就算你的 dot 可能会做点不想要的事，你也会给 dots 开启 yolo mode 吗？\n\n投票（进行中，24 小时，截止 2026-11-14 08:47 北京时间）：\n- yolo beats approvals\n- no too risky",
+      "url": "https://x.com/steipete/status/2121042215619510584",
+      "user": "steipete",
+      "views": 55597
+    },
+    {
+      "already_pushed": true,
+      "basis": "delta",
+      "created_at": "2026-11-12T23:40:36.000Z",
+      "created_at_bj": "2026-11-13 07:40",
+      "edit_of": null,
+      "hit": false,
+      "id": "2121025400042311701",
+      "metrics": {
+        "bookmark_count": 27,
+        "impression_count": 18560,
+        "like_count": 66,
+        "quote_count": 1,
+        "reply_count": 12,
+        "retweet_count": 1
+      },
+      "prev": {
+        "checked_at": "2026-11-13T14:13:47+08:00",
+        "views": 18074
+      },
+      "quoted": [
+        {
+          "id": "2120984608473075776",
+          "user": "vnjogani",
+          "text": "@levelsio Why not just get fable to program hyper photorealistic shaders though? I am seeing some renders and they are indistinguishable from pictures. That would be sick!",
+          "text_zh": "@levelsio 为什么不直接让 fable 去写超写实的 shaders 呢？我看到过一些渲染图，已经和照片没什么区别了。那会很赞！"
+        }
+      ],
+      "rate_per_hour": 1055,
+      "text": "Tried ThreeJS shaders, very cool but very slow but very cool! https://t.co/2Cqqb43gMy https://t.co/A3valU3W4y",
+      "text_zh": "试了 ThreeJS shaders，非常酷，但非常慢，但又非常酷！ https://t.co/2Cqqb43gMy https://t.co/A3valU3W4y\n\n引用内容：他引用了 @vnjogani 的回复：为什么不直接让 fable 去写超写实的 shaders 呢？我看到过一些渲染图，已经和照片没什么区别了。那会很赞！",
+      "url": "https://x.com/levelsio/status/2121025400042311701",
+      "user": "levelsio",
+      "views": 18560
+    },
+    {
+      "already_pushed": true,
+      "basis": "delta",
+      "created_at": "2026-11-12T22:36:55.000Z",
+      "created_at_bj": "2026-11-13 06:36",
+      "edit_of": null,
+      "hit": true,
+      "id": "2121009372470067544",
+      "metrics": {
+        "bookmark_count": 122,
+        "impression_count": 121810,
+        "like_count": 1174,
+        "quote_count": 14,
+        "reply_count": 124,
+        "retweet_count": 24
+      },
+      "prev": {
+        "checked_at": "2026-11-13T14:13:47+08:00",
+        "views": 117759
+      },
+      "quoted": [],
+      "rate_per_hour": 8796,
+      "text": "There’s some new agent launching later this week and marketers offer a lot of money to say nice things about it on X. Keep a lookout on honest reviews 🫠",
+      "text_zh": "这周晚些时候会有某个新的 agent 发布，营销方出不少钱请人在 X 上说好话。请留意那些诚实的评测 🫠",
+      "url": "https://x.com/steipete/status/2121009372470067544",
+      "user": "steipete",
+      "views": 121810
+    },
+    {
+      "already_pushed": false,
+      "basis": "delta",
+      "created_at": "2026-11-12T22:21:22.000Z",
+      "created_at_bj": "2026-11-13 06:21",
+      "edit_of": null,
+      "hit": false,
+      "id": "2121005457263280511",
+      "metrics": {
+        "bookmark_count": 5,
+        "impression_count": 1685,
+        "like_count": 31,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "prev": {
+        "checked_at": "2026-11-13T14:13:47+08:00",
+        "views": 1628
+      },
+      "quoted": [],
+      "rate_per_hour": 124,
+      "text": "X allows 20 images now? Don't mind if I do. https://t.co/49ALYjzesf",
+      "text_zh": "X 现在允许发 20 张图了？那我就不客气了。 https://t.co/49ALYjzesf",
+      "url": "https://x.com/egeberkina/status/2121005457263280511",
+      "user": "egeberkina",
+      "views": 1685
+    },
+    {
+      "already_pushed": true,
+      "basis": "delta",
+      "created_at": "2026-11-12T21:40:20.000Z",
+      "created_at_bj": "2026-11-13 05:40",
+      "edit_of": null,
+      "hit": true,
+      "id": "2120995132359188491",
+      "metrics": {
+        "bookmark_count": 304,
+        "impression_count": 217008,
+        "like_count": 2167,
+        "quote_count": 8,
+        "reply_count": 20,
+        "retweet_count": 42
+      },
+      "prev": {
+        "checked_at": "2026-11-13T14:13:47+08:00",
+        "views": 210327
+      },
+      "quoted": [
+        {
+          "id": "2120951865408172160",
+          "user": "bscholl",
+          "text": "Fate loves irony, so what if...\n- Nvidia fires Jensen\n- NVDA crashes\n- Elon hires Jensen, Jensen hires his best lieutenants\n- SPCX skyrockets, NVDA crashes more\n- SPCX can now afford to acquire NVDA\n- Jensen back in seat, NVDA board is out",
+          "text_zh": "命运喜欢讽刺，那么如果……\n- Nvidia 开除 Jensen\n- NVDA 暴跌\n- Elon 挖来 Jensen，Jensen 再带上自己的得力干将\n- SPCX 暴涨，NVDA 跌得更狠\n- SPCX 因此有能力收购 NVDA\n- Jensen 重新坐回位子，NVDA 董事会出局"
+        }
+      ],
+      "rate_per_hour": 14506,
+      "text": "This is so realistic I'm not even kidding https://t.co/7g8vU1xyem",
+      "text_zh": "这也太逼真了，我完全没在开玩笑 https://t.co/7g8vU1xyem\n\n引用内容：他引用了 @bscholl 的帖子：命运喜欢讽刺，那么如果……Nvidia 开除 Jensen，NVDA 暴跌，Elon 挖来 Jensen，Jensen 再带上自己的得力干将，SPCX 暴涨、NVDA 跌得更狠，SPCX 因此有能力收购 NVDA，Jensen 重新坐回位子，NVDA 董事会出局。",
+      "url": "https://x.com/levelsio/status/2120995132359188491",
+      "user": "levelsio",
+      "views": 217008
+    },
+    {
+      "already_pushed": false,
+      "basis": "delta",
+      "created_at": "2026-11-12T20:35:20.000Z",
+      "created_at_bj": "2026-11-13 04:35",
+      "edit_of": null,
+      "hit": false,
+      "id": "2120978774732759163",
+      "metrics": {
+        "bookmark_count": 47,
+        "impression_count": 21678,
+        "like_count": 75,
+        "quote_count": 4,
+        "reply_count": 17,
+        "retweet_count": 4
+      },
+      "prev": {
+        "checked_at": "2026-11-13T14:13:47+08:00",
+        "views": 21448
+      },
+      "quoted": [
+        {
+          "id": "2120926464677720233",
+          "user": "levelsio",
+          "text": "Added this hover [ 🎨 Style ] menu so you can preview styles very quickly in 3d\n\nWhen you like one you press [ Render ] and you get the photorealistic version!\n\nNext I wanna try if I can make it do a walkthrough in 3d and then pump that into a video model like Seedance to make it photoreal too\n\nThen we'd have the holy grail, a full photorealistic walkthrough of your interior redesign 🤯",
+          "text_zh": "加了这个悬停 [ 🎨 Style ] 菜单，这样就能在 3D 里非常快速地预览各种风格\n\n看中某个风格后按 [ Render ]，就能得到照片级效果！\n\n下一步我想试试能不能先在 3D 里做一段走查，再把它送进 Seedance 这类视频模型，也做成照片级的\n\n那就找到圣杯了：一段完整的、照片级的室内改造走查视频 🤯"
+        }
+      ],
+      "rate_per_hour": 499,
+      "text": "All my feature dreams for Interior AI are coming true now :D\n\nOne idea I had was to let you upload your own wallpaper and set it, it was a pain to even get an image model to put that properly\n\nWith a 3d model it's much easier, so now you can walk around you room, upload a wallpaper texture and add it to any wall or object\n\nAnd you can set the material of any object too\n\nWhen you're done press [ ✨ Render ] and it becomes a photo!",
+      "text_zh": "我为 Interior AI 设想的那些功能，现在都在实现了 :D\n\n我曾有一个想法，是让你上传自己的壁纸并贴上去，但以前哪怕让图像模型把壁纸正确地贴上去都很痛苦\n\n有了 3D 模型就容易多了，现在你可以在房间里走动，上传一张壁纸纹理，把它贴到任意墙面或物体上\n\n你还可以设置任意物体的材质\n\n弄完之后按 [ ✨ Render ]，它就会变成一张照片！\n\n引用内容：他引用了自己稍早的帖子，介绍 Interior AI 新增的悬停 [ 🎨 Style ] 菜单，可在 3D 里快速预览风格，看中后按 [ Render ] 就能得到照片级效果；他还想把 3D 走查送进 Seedance 一类视频模型，做成完整的照片级室内改造走查视频。",
+      "url": "https://x.com/levelsio/status/2120978774732759163",
+      "user": "levelsio",
+      "views": 21678
+    },
+    {
+      "already_pushed": true,
+      "basis": "delta",
+      "created_at": "2026-11-12T20:19:59.000Z",
+      "created_at_bj": "2026-11-13 04:19",
+      "edit_of": null,
+      "hit": true,
+      "id": "2120974913679040680",
+      "metrics": {
+        "bookmark_count": 1795,
+        "impression_count": 284248,
+        "like_count": 2378,
+        "quote_count": 2,
+        "reply_count": 74,
+        "retweet_count": 56
+      },
+      "prev": {
+        "checked_at": "2026-11-13T14:13:47+08:00",
+        "views": 278616
+      },
+      "quoted": [
+        {
+          "id": "2120950032014963054",
+          "user": "vercel",
+          "text": "https://t.co/K14G5dLXX8",
+          "text_zh": "https://t.co/K14G5dLXX8"
+        }
+      ],
+      "rate_per_hour": 12229,
+      "text": "“Don't worry, you don't need to learn how to write this. Your agents will. And we made them really good at it.” https://t.co/H2slhfC1dA",
+      "text_zh": "「别担心，你不用学怎么写这个。你的 agents 会写。而且我们把它们练得非常擅长。」 https://t.co/H2slhfC1dA\n\n引用内容：他引用了 @vercel 的帖子，帖子里只放了链接 https://t.co/K14G5dLXX8（即 https://github.com/vercel-labs/ui，一组让 agents 构建下一代用户界面的行为库）。",
+      "url": "https://x.com/steipete/status/2120974913679040680",
+      "user": "steipete",
+      "views": 284248
+    },
+    {
+      "already_pushed": true,
+      "basis": "delta",
+      "created_at": "2026-11-12T19:03:05.000Z",
+      "created_at_bj": "2026-11-13 03:03",
+      "edit_of": null,
+      "hit": true,
+      "id": "2120955557465223337",
+      "metrics": {
+        "bookmark_count": 4826,
+        "impression_count": 345343,
+        "like_count": 4365,
+        "quote_count": 44,
+        "reply_count": 205,
+        "retweet_count": 297
+      },
+      "prev": {
+        "checked_at": "2026-11-13T14:13:47+08:00",
+        "views": 336591
+      },
+      "quoted": [],
+      "rate_per_hour": 19003,
+      "text": "Status symbols today:\n\n- Taking private lessons in chess, jazz piano, or French in your late 30s\n- Knowing your VO2 max, DEXA stats, and ApoB\n- Having zero clue what the internet is mad about today\n- Wired Apple earbuds on video calls\n- More than 2 kids \n- 100% natural fiber clothing (linen, merino, cashmere, zero polyester)\n- Empty calendars\n- Caring about microplastics\n- No TV in the main living room\n- Having lots of followers or being off social completely\n- Being sober\n- Eating \"clean\"\n- Type of water you drink\n- Private school for kids\n- Traveling to Japan\n- Premium skincare\n- 2nd house\n- Backyard pizza oven\n- 2+ fridges\n- Ordering off menu because you've gone to the same spot since 2014\n- Charcuterie boards\n- Single estate olive oil and tinned fish\n- Hosting Sunday dinners where phones go in a wooden bowl by the front door\n- Private chef\n- 2000s manual Porsche 911 over any brand new supercar\n- 90s Toyota Land Cruiser or old Volvo wagon as the daily driver\n- Talking about seed oils a lot\n- Dyson vacuums\n- Limewash walls and unlacquered brass hardware that patinas over time\n- $95 heavyweight blank white tees (Lady White Co., Merz b. Schwanen, Buck Mason etc)\n- Beautiful workstation\n- Raw A2 milk from a local farm drop\n- Le Labo products\n- Talking about cold plunges \n- Custom cedar sauna + outdoor shower in the backyard\n- Secondhand goods with stories\n- Cast iron and stainless steel pans only\n- Eating organic\n- Buying half a cow from a regenerative ranch (and owning a garage chest freezer just for it)\n- Japanese selvedge denim and unbranded cashmere\n- Taking afternoon calls on a walk (refusing to turn on Zoom camera)\n- Hi-Fi audio\n- Framed art from artists you met in person\n- Mortgage rate below 3%\n- La Marzocco coffee maker\n- Owning your last name .com (and it's your email too)\n- Charizards\n- Wearing a faded crewneck from a tiny bakery in Copenhagen or Kyoto\n- Reading books\n- Phone permanently on Do Not Disturb\n- Work/life balance\n- Analog hobbies (Leica film cameras, fountain pens, woodworking)\n- Kids with zero iPad time (wooden toys + outdoor school)\n- Bone broth\n- Digital detoxing\n- Taking the entire month of August off like an old-world European\n- iPhone Air or iPhone Duo\n\nOkay, I'll stop.\n\nSo, what did I miss?",
+      "text_zh": "今日的身份符号：\n\n- 快 40 岁了还在私下请老师学国际象棋、爵士钢琴或法语\n- 知道自己的 VO2 max、DEXA 数据和 ApoB\n- 完全不知道网上今天在为什么生气\n- 视频会议用有线 Apple 耳机\n- 孩子超过 2 个\n- 100% 天然纤维衣服（亚麻、美利奴、羊绒，零涤纶）\n- 空着的日历\n- 在意微塑料\n- 主客厅不放电视\n- 要么粉丝很多，要么彻底不上社交网络\n- 保持清醒（不喝酒）\n- 吃得 \"clean\"\n- 喝什么水都很讲究\n- 孩子上私立学校\n- 去日本旅行\n- 高端护肤\n- 第二套房\n- 后院披萨炉\n- 两台以上冰箱\n- 从 2014 年就混同一家店，所以可以不看菜单点餐\n- 拼盘冷切（charcuterie boards）\n- 单一庄园橄榄油和罐头鱼\n- 办周日晚餐，手机都放进门口的木碗里\n- 私人厨师\n- 2000 年代手动挡 Porsche 911，而不是任何全新超跑\n- 日常代步是 90 年代 Toyota Land Cruiser 或老款 Volvo 旅行车\n- 经常讨论种子油\n- Dyson 吸尘器\n- 石灰浆墙面，以及会随时间氧化出包浆的未上漆黄铜五金\n- 95 美元一件的厚实空白白 T（Lady White Co.、Merz b. Schwanen、Buck Mason 等）\n- 漂亮的工作台\n- 从本地农场配送的生 A2 牛奶\n- Le Labo 产品\n- 谈论冷浸（cold plunges）\n- 后院定制雪松桑拿房 + 户外淋浴\n- 带故事的二手物件\n- 只用铸铁和不锈钢锅\n- 吃有机食品\n- 从再生牧场买半头牛（还专门为此配一台车库冰柜）\n- 日本赤耳丹宁和没有品牌 logo 的羊绒\n- 下午打电话边走边谈（拒绝打开 Zoom 摄像头）\n- Hi-Fi 音响\n- 裱起来的画，还是你当面认识的艺术家的作品\n- 抵押贷款利率低于 3%\n- La Marzocco 咖啡机\n- 拥有自己姓氏的 .com（而且邮箱也用它）\n- Charizards\n- 穿着一件褪了色的圆领衫，来自哥本哈根或京都某家小面包店\n- 读书\n- 手机长期开着勿扰\n- 工作/生活平衡\n- 模拟爱好（Leica 胶片相机、钢笔、木工）\n- 孩子零 iPad 时间（木制玩具 + 户外学校）\n- 骨汤\n- 数字排毒\n- 像旧世界的欧洲人一样，整个八月都放假\n- iPhone Air 或 iPhone Duo\n\n好了，我停。\n\n那么，我还漏了什么？",
+      "url": "https://x.com/gregisenberg/status/2120955557465223337",
+      "user": "gregisenberg",
+      "views": 345343
+    }
+  ],
+  "new_hits": [],
+  "dropped_from_window": [],
+  "notes": "14:34 判定轮（实际运行 14:41:25 北京时间，计划槽位 14:34）。间隔 0.4606 小时（上一轮 14:13:47 → 本轮 14:41:25 北京时间，27 分 38 秒）。@marclou、@karpathy 窗口内无原创或引用帖。本轮 get_users_posts 使用 exclude=replies,retweets 与 start_time=2026-11-12T18:30:00Z，再按 12 小时窗口本地过滤。窗口起点 2026-11-13 02:41 北京时间（2026-11-12T18:41:25Z）。所有检查帖均有 impression_count。浏览量与互动数据以本轮 get_users_posts 返回的 public_metrics 为准。本地排除回复 1 条：2120985769003356338（@levelsio 对自己 2120978774732759163 的回复，提到 Interior AI 已 LIVE；exclude=replies 仍返回了该条，已按规则丢弃，不写入 snapshots）。本轮无新帖。已有帖中文译文沿用上一轮归档。本轮 get_users_posts 对长文 2120978774732759163 返回了 note_tweet 全文，与上一轮归档正文一致。长文 2120955557465223337 的 get_users_posts 结果被截断且未带 note_tweet，已用 get_posts_by_ids 补全全文，与上一轮归档正文一致。引用帖 2120962631788114377（@kevins8）本轮 get_users_posts includes 被截断且未带 note_tweet，已用 get_posts_by_ids 补全全文，与上一轮归档正文一致。@steipete 2121042215619510584 带有投票（选项：yolo beats approvals / no too risky；24 小时，截止 2026-11-14 08:47 北京时间）。投票说明沿用上一轮归档，本轮未再次查询投票票数。@steipete 2121058770767982997 浏览 54336（上次 51384），每小时 +6410，超过阈值，已在 pushed 中，不再推送。@steipete 2121042215619510584 浏览 55597（上次 53794），每小时 +3915，未超过阈值，已在 pushed 中，不再推送。@levelsio 2121025400042311701 浏览 18560（上次 18074），每小时 +1055，未超过阈值，已在 pushed 中，不再推送。@steipete 2121009372470067544 浏览 121810（上次 117759），每小时 +8796，超过阈值，已在 pushed 中，不再推送。@egeberkina 2121005457263280511 浏览 1685（上次 1628），每小时 +124，未超过阈值。@levelsio 2120995132359188491 浏览 217008（上次 210327），每小时 +14506，超过阈值，已在 pushed 中，不再推送。@levelsio 2120978774732759163 浏览 21678（上次 21448），每小时 +499，未超过阈值。@steipete 2120974913679040680 浏览 284248（上次 278616），每小时 +12229，超过阈值，已在 pushed 中，不再推送。@gregisenberg 2120955557465223337 浏览 345343（上次 336591），每小时 +19003，超过阈值，已在 pushed 中，不再推送。本轮新达标 0 条。未有帖子移出 12 小时窗口。"
+}
