@@ -1,0 +1,229 @@
+{
+  "run_at": "2026-11-13T23:14:30+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "2304",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "already_pushed": false,
+      "basis": "first_sight",
+      "created_at": "2026-11-13T15:07:21.000Z",
+      "created_at_bj": "2026-11-13 23:07",
+      "edit_of": null,
+      "hit": true,
+      "id": "2121258621816230032",
+      "metrics": {
+        "bookmark_count": 51,
+        "impression_count": 4152,
+        "like_count": 39,
+        "quote_count": 2,
+        "reply_count": 11,
+        "retweet_count": 2
+      },
+      "prev": null,
+      "quoted": [],
+      "rate_per_hour": 34842,
+      "text": "One of the best businesses to build right now: a Grok Bot for one industry.\n\nPick a niche like dentists and build the AI agents for them so they don’t have to figure any of it out.\n\nThe stack:\n\n- T3 Code + Opus 5.5/Fable 5.2 to build it\n- Paper to design every screen first\n- Orgo to give each agent its own computer\n- AgentMail for an inbox\n- AgentPhone for a phone number\n- Composio for every connector\n- CleanShot to screenshot bugs and say “fix this”\n\nDentists fix teeth and you set up the agents.\n\nReally good way to learn how to become AI native while getting paid for it too.",
+      "text_zh": "现在最值得做的生意之一：为某一个行业做一款 Grok Bot。\n\n选一个细分领域，比如牙医，帮他们把 AI agent 都搭好，让他们不用自己去琢磨。\n\n技术栈：\n\n- 用 T3 Code + Opus 5.5/Fable 5.2 来开发\n- 先用 Paper 把每个界面设计好\n- 用 Orgo 给每个 agent 配一台自己的电脑\n- 用 AgentMail 做收件箱\n- 用 AgentPhone 配一个电话号码\n- 用 Composio 接上所有连接器\n- 用 CleanShot 截下 bug 截图，然后说 “fix this”\n\n牙医负责治牙，你负责把 agent 配好。\n\n这是一边赚钱、一边学会成为 AI native 的好办法。",
+      "url": "https://x.com/gregisenberg/status/2121258621816230032",
+      "user": "gregisenberg",
+      "views": 4152
+    },
+    {
+      "already_pushed": false,
+      "basis": "delta",
+      "created_at": "2026-11-13T14:05:04.000Z",
+      "created_at_bj": "2026-11-13 22:05",
+      "edit_of": null,
+      "hit": false,
+      "id": "2121242949313028595",
+      "metrics": {
+        "bookmark_count": 8,
+        "impression_count": 1001,
+        "like_count": 22,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 1
+      },
+      "prev": {
+        "checked_at": "2026-11-13T22:38:34+08:00",
+        "views": 677
+      },
+      "quoted": [],
+      "rate_per_hour": 541,
+      "text": "Postcards from Cuba\n\n--sref 518315848 https://t.co/kMGAZmzzFq",
+      "text_zh": "来自古巴的明信片\n\n--sref 518315848 https://t.co/kMGAZmzzFq",
+      "url": "https://x.com/egeberkina/status/2121242949313028595",
+      "user": "egeberkina",
+      "views": 1001
+    },
+    {
+      "already_pushed": true,
+      "basis": "delta",
+      "created_at": "2026-11-13T13:39:21.000Z",
+      "created_at_bj": "2026-11-13 21:39",
+      "edit_of": null,
+      "hit": false,
+      "id": "2121236477455569390",
+      "metrics": {
+        "bookmark_count": 3,
+        "impression_count": 13991,
+        "like_count": 180,
+        "quote_count": 0,
+        "reply_count": 6,
+        "retweet_count": 1
+      },
+      "prev": {
+        "checked_at": "2026-11-13T22:38:34+08:00",
+        "views": 11524
+      },
+      "quoted": [
+        {
+          "id": "2121235720966639821",
+          "text": "31% chance Jensen is reinstated by the end of next year.\n\nhttps://t.co/2vzAjb0vtb",
+          "text_zh": "到明年年底，Jensen 官复原职的概率为 31%。\n\nhttps://t.co/2vzAjb0vtb",
+          "user": "Polymarket"
+        }
+      ],
+      "rate_per_hour": 4119,
+      "text": "\"And everyone liked that\" https://t.co/84xgDHwyx1",
+      "text_zh": "「然后所有人都喜欢这样」 https://t.co/84xgDHwyx1\n\n引用内容：他引用了 @Polymarket 的帖子：到明年年底，Jensen（黄仁勋）官复原职的概率为 31%。https://t.co/2vzAjb0vtb 该预测关联英伟达员工在内部讨论中呼吁黄仁勋回归 CEO 的消息。",
+      "url": "https://x.com/levelsio/status/2121236477455569390",
+      "user": "levelsio",
+      "views": 13991
+    },
+    {
+      "already_pushed": true,
+      "basis": "delta",
+      "created_at": "2026-11-13T13:21:12.000Z",
+      "created_at_bj": "2026-11-13 21:21",
+      "edit_of": null,
+      "hit": false,
+      "id": "2121231910273941988",
+      "metrics": {
+        "bookmark_count": 66,
+        "impression_count": 14229,
+        "like_count": 73,
+        "quote_count": 0,
+        "reply_count": 6,
+        "retweet_count": 3
+      },
+      "prev": {
+        "checked_at": "2026-11-13T22:38:34+08:00",
+        "views": 12573
+      },
+      "quoted": [
+        {
+          "id": "2121040502275576303",
+          "text": "That's looks like a path tracing (like Blender).\nTry asking for WebGPURenderer r187 and SSGI and SSR.",
+          "text_zh": "那看起来像路径追踪（path tracing，类似 Blender）。试试要 WebGPURenderer r187，再加上 SSGI 和 SSR。",
+          "user": "threejs"
+        }
+      ],
+      "rate_per_hour": 2765,
+      "text": "Tried this and it looks a lot better!\n\nWebGPURenderer r187 + SSGI + SSR https://t.co/98R7vz9r8X https://t.co/PGACBywRKK",
+      "text_zh": "试了一下，看起来好多了！\n\nWebGPURenderer r187 + SSGI + SSR https://t.co/98R7vz9r8X https://t.co/PGACBywRKK\n\n引用内容：他引用了 @threejs 的帖子：那看起来像路径追踪（path tracing，类似 Blender）。试试要 WebGPURenderer r187，再加上 SSGI 和 SSR。",
+      "url": "https://x.com/levelsio/status/2121231910273941988",
+      "user": "levelsio",
+      "views": 14229
+    },
+    {
+      "already_pushed": true,
+      "basis": "delta",
+      "created_at": "2026-11-13T13:15:02.000Z",
+      "created_at_bj": "2026-11-13 21:15",
+      "edit_of": null,
+      "hit": true,
+      "id": "2121230359014879673",
+      "metrics": {
+        "bookmark_count": 99,
+        "impression_count": 48908,
+        "like_count": 473,
+        "quote_count": 8,
+        "reply_count": 188,
+        "retweet_count": 2
+      },
+      "prev": {
+        "checked_at": "2026-11-13T22:38:34+08:00",
+        "views": 35673
+      },
+      "quoted": [],
+      "rate_per_hour": 22099,
+      "text": "It cost me ~$4,000 to build MailCheap with Opus 5.5 on @cursor_ai so ironically, it's my first unprofitable product. https://t.co/cQn0TETUYA",
+      "text_zh": "用 Opus 5.5 在 @cursor_ai 上做 MailCheap 花了我大约 $4,000，所以讽刺的是，这是我第一个不赚钱的产品。https://t.co/cQn0TETUYA",
+      "url": "https://x.com/marclou/status/2121230359014879673",
+      "user": "marclou",
+      "views": 48908
+    },
+    {
+      "already_pushed": false,
+      "basis": "delta",
+      "created_at": "2026-11-13T11:47:00.000Z",
+      "created_at_bj": "2026-11-13 19:47",
+      "edit_of": null,
+      "hit": false,
+      "id": "2121208204529107228",
+      "metrics": {
+        "bookmark_count": 1,
+        "impression_count": 1354,
+        "like_count": 19,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 1
+      },
+      "prev": {
+        "checked_at": "2026-11-13T22:38:34+08:00",
+        "views": 1278
+      },
+      "quoted": [],
+      "rate_per_hour": 127,
+      "text": "Offline https://t.co/ya8m2jNKXb",
+      "text_zh": "离线 https://t.co/ya8m2jNKXb",
+      "url": "https://x.com/egeberkina/status/2121208204529107228",
+      "user": "egeberkina",
+      "views": 1354
+    },
+    {
+      "already_pushed": true,
+      "basis": "delta",
+      "created_at": "2026-11-13T11:46:02.000Z",
+      "created_at_bj": "2026-11-13 19:46",
+      "edit_of": null,
+      "hit": false,
+      "id": "2121207960278094324",
+      "metrics": {
+        "bookmark_count": 20,
+        "impression_count": 15091,
+        "like_count": 129,
+        "quote_count": 3,
+        "reply_count": 68,
+        "retweet_count": 2
+      },
+      "prev": {
+        "checked_at": "2026-11-13T22:38:34+08:00",
+        "views": 14066
+      },
+      "quoted": [],
+      "rate_per_hour": 1712,
+      "text": "I just shipped this to https://t.co/gFu88pnFdV:\n\n🖋️ Pick each issue's author, replies go to them\n☑️ Select contacts to tag, segment or delete in bulk\n🧪 Send tests to up to 5 people, as any subscriber\n📡 Live stats while your issue sends\n💌 Left-aligned emails, like a personal email\n🎉 Confetti when you hit send",
+      "text_zh": "我刚把这些功能发到了 https://t.co/gFu88pnFdV：\n\n🖋️ 可以为每期选择作者，回复会发给他们\n☑️ 批量选择联系人进行标记、分群或删除\n🧪 最多向 5 个人发送测试邮件，并可伪装成任意订阅者\n📡 发送过程中可查看实时统计\n💌 邮件左对齐，像一封私人邮件\n🎉 点击发送时会有彩带效果",
+      "url": "https://x.com/marclou/status/2121207960278094324",
+      "user": "marclou",
+      "views": 15091
+    }
+  ],
+  "new_hits": [
+    "2121258621816230032"
+  ],
+  "dropped_from_window": [],
+  "notes": "2304 判定轮（实际运行 23:14:30 北京时间，计划槽位 23:04）。间隔 0.5989 小时（上一轮 22:38:34 → 本轮 23:14:30 北京时间，35 分 56 秒）。@steipete、@karpathy 窗口内无原创或引用帖。本轮 get_users_posts 使用 exclude=replies,retweets 与 start_time=2026-11-13T03:13:00Z，再按 12 小时窗口本地过滤。窗口起点 2026-11-13 11:14 北京时间（2026-11-13T03:14:30Z）。所有检查帖均有 impression_count。本轮先用 get_users_posts 拉时间线，再用 get_posts_by_ids 补齐长文 note_tweet、投票和引用全文；浏览量与互动数据以较晚的 get_posts_by_ids 返回的 public_metrics 为准。本轮未发现需本地排除的回复。@gregisenberg 2121258621816230032 为本轮新帖（发于 2026-11-13 23:07 北京时间）。完整英文正文取自 get_posts_by_ids 的 note_tweet。帖子附 91 秒视频（https://t.co/G9nUubCLr8）。已有帖中文译文沿用上一轮归档。@marclou 2121207960278094324 完整英文正文取自 get_posts_by_ids 的 note_tweet；短链 https://t.co/gFu88pnFdV 展开为 https://MailCheap.AI。帖子附 2 张图片。时间线短文本里对应短链为 https://t.co/doMhF11flP。@levelsio 2121231910273941988 正文附 26 秒视频（https://t.co/98R7vz9r8X）。@egeberkina 2121242949313028595 正文为 Postcards from Cuba，并带 Midjourney 参数 --sref 518315848。帖子附 4 张图片（https://t.co/kMGAZmzzFq）。@egeberkina 2121208204529107228 正文为 Offline，并附 20 张图片（https://t.co/ya8m2jNKXb）。@gregisenberg 2121258621816230032 首次见到，浏览 4152，发帖至今 0.1192 小时，每小时 +34842，超过阈值，本轮新达标。@egeberkina 2121242949313028595 浏览 1001（上次 677），每小时 +541，未超过阈值。@levelsio 2121236477455569390 浏览 13991（上次 11524），每小时 +4119，未超过阈值，已在 pushed 中，不再推送。@levelsio 2121231910273941988 浏览 14229（上次 12573），每小时 +2765，未超过阈值，已在 pushed 中，不再推送。@marclou 2121230359014879673 浏览 48908（上次 35673），每小时 +22099，超过阈值，已在 pushed 中，不再推送。@egeberkina 2121208204529107228 浏览 1354（上次 1278），每小时 +127，未超过阈值。@marclou 2121207960278094324 浏览 15091（上次 14066），每小时 +1712，未超过阈值，已在 pushed 中，不再推送。本轮新达标 1 条。无帖子移出 12 小时窗口。"
+}
