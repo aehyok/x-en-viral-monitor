@@ -1,0 +1,181 @@
+{
+  "run_at": "2026-11-14T22:08:30+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "2204",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2121592241248776615",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2121592241248776615",
+      "created_at": "2026-11-14T13:13:02.000Z",
+      "created_at_bj": "2026-11-14 21:13",
+      "views": 6393,
+      "rate_per_hour": 4368,
+      "basis": "delta",
+      "prev": {
+        "checked_at": "2026-11-14T21:42:39+08:00",
+        "views": 4511
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 25,
+        "impression_count": 6393,
+        "like_count": 69,
+        "quote_count": 2,
+        "reply_count": 27,
+        "retweet_count": 0
+      },
+      "already_pushed": true,
+      "text": "2,296 participants already 🤯\n\nThe hackathon starts in 24 hours.\n\nJoin us → https://t.co/Z598aDXYLN https://t.co/y32mU8Dg6Q",
+      "text_zh": "已经有 2,296 名参赛者了 🤯\n\n黑客松将在 24 小时后开始。\n\n加入我们 → https://t.co/Z598aDXYLN https://t.co/y32mU8Dg6Q",
+      "quoted": [],
+      "hit": false
+    },
+    {
+      "id": "2121582835932762113",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2121582835932762113",
+      "created_at": "2026-11-14T12:35:39.000Z",
+      "created_at_bj": "2026-11-14 20:35",
+      "views": 14006,
+      "rate_per_hour": 5478,
+      "basis": "delta",
+      "prev": {
+        "checked_at": "2026-11-14T21:42:39+08:00",
+        "views": 11646
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 12,
+        "impression_count": 14006,
+        "like_count": 146,
+        "quote_count": 3,
+        "reply_count": 46,
+        "retweet_count": 1
+      },
+      "already_pushed": true,
+      "text": "I don't even know what language my app is built with https://t.co/0ZCaMyIHRN",
+      "text_zh": "我甚至不知道自己的应用是用什么语言写的 https://t.co/0ZCaMyIHRN\n\n引用内容：他引用了自己此前那条关于不再使用 localhost 的帖子：已经一个月没碰过 localhost，让 AI 把功能只对自己在生产环境可见，评估后再发布给用户；他还写道，现在 AI 已经足够好，一切都是从 prompt 直接上 prod。",
+      "quoted": [
+        {
+          "id": "2121571094411067537",
+          "user": "marclou",
+          "text": "I haven't touched localhost in month.\n\nI ask AI to make the feature only visible to me in production, so I can assess and iterate. If it's good, I release it to users, and ask the agent to set hourly/daily reminders to check logs and database to fix any issues. My AGENTS·md also has rules to force the agent to test everything.\n\nNow AI is so good, everything goes straight from prompt to prod.",
+          "text_zh": "我已经一个月没碰过 localhost 了。\n\n我会让 AI 把功能只对我在生产环境可见，方便我评估和迭代。如果效果不错，就把它发布给用户，并让 agent 设置每小时/每天的提醒，去检查日志和数据库、修复问题。我的 AGENTS·md 里也有规则，强制 agent 测试所有东西。\n\n现在 AI 已经足够好，一切都是从 prompt 直接上 prod。"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2121571094411067537",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2121571094411067537",
+      "created_at": "2026-11-14T11:49:00.000Z",
+      "created_at_bj": "2026-11-14 19:49",
+      "views": 42172,
+      "rate_per_hour": 14451,
+      "basis": "delta",
+      "prev": {
+        "checked_at": "2026-11-14T21:42:39+08:00",
+        "views": 35946
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 251,
+        "impression_count": 42172,
+        "like_count": 510,
+        "quote_count": 16,
+        "reply_count": 171,
+        "retweet_count": 9
+      },
+      "already_pushed": true,
+      "text": "I haven't touched localhost in month.\n\nI ask AI to make the feature only visible to me in production, so I can assess and iterate. If it's good, I release it to users, and ask the agent to set hourly/daily reminders to check logs and database to fix any issues. My AGENTS·md also has rules to force the agent to test everything.\n\nNow AI is so good, everything goes straight from prompt to prod.",
+      "text_zh": "我已经一个月没碰过 localhost 了。\n\n我会让 AI 把功能只对我在生产环境可见，方便我评估和迭代。如果效果不错，就把它发布给用户，并让 agent 设置每小时/每天的提醒，去检查日志和数据库、修复问题。我的 AGENTS·md 里也有规则，强制 agent 测试所有东西。\n\n现在 AI 已经足够好，一切都是从 prompt 直接上 prod。",
+      "quoted": [],
+      "hit": false
+    },
+    {
+      "id": "2121558712485867578",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2121558712485867578",
+      "created_at": "2026-11-14T10:59:48.000Z",
+      "created_at_bj": "2026-11-14 18:59",
+      "views": 7662,
+      "rate_per_hour": 2131,
+      "basis": "delta",
+      "prev": {
+        "checked_at": "2026-11-14T21:42:39+08:00",
+        "views": 6744
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 60,
+        "impression_count": 7662,
+        "like_count": 245,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 16
+      },
+      "already_pushed": false,
+      "text": "Greetings from Brazil https://t.co/ZItkzpPekx https://t.co/Wclxl5ZJGz",
+      "text_zh": "来自巴西的问候 https://t.co/ZItkzpPekx https://t.co/Wclxl5ZJGz\n\n引用内容：他引用了自己此前的帖子：来自古巴的明信片。\n\n--sref 518315848 https://t.co/kMGAZmzzFq",
+      "quoted": [
+        {
+          "id": "2121242949313028595",
+          "user": "egeberkina",
+          "text": "Postcards from Cuba\n\n--sref 518315848 https://t.co/kMGAZmzzFq",
+          "text_zh": "来自古巴的明信片。\n\n--sref 518315848 https://t.co/kMGAZmzzFq"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2121544714574819477",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2121544714574819477",
+      "created_at": "2026-11-14T10:04:11.000Z",
+      "created_at_bj": "2026-11-14 18:04",
+      "views": 16318,
+      "rate_per_hour": 2038,
+      "basis": "delta",
+      "prev": {
+        "checked_at": "2026-11-14T21:42:39+08:00",
+        "views": 15440
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 15,
+        "impression_count": 16318,
+        "like_count": 81,
+        "quote_count": 1,
+        "reply_count": 30,
+        "retweet_count": 1
+      },
+      "already_pushed": true,
+      "text": "The subtle art of naming https://t.co/1JT6Wjalct",
+      "text_zh": "命名的微妙艺术 https://t.co/1JT6Wjalct\n\n引用内容：他引用了 @trust_mrr 的帖子：Nose Job - Plastic Surgery AI 现已挂牌出售。\n\n🔁 MRR: $3.1k/mo\n💰 近30日收入: $3.6k\n💵 总收入: $42k\n🏷 要价: $36k\n📊 倍数: 0.8x ARR\n📈 近30日增长: -20%\n💸 利润率: 40%\n💳 活跃订阅: 186\n\nhttps://t.co/jN8bahoLWw",
+      "quoted": [
+        {
+          "id": "2121430557909537230",
+          "user": "trust_mrr",
+          "text": "Nose Job - Plastic Surgery AI is now listed for sale\n\n🔁 MRR: $3.1k/mo\n💰 Revenue (30d): $3.6k\n💵 Total revenue: $42k\n🏷 Asking price: $36k\n📊 Multiple: 0.8x ARR\n📈 Growth (30d): -20%\n💸 Profit margin: 40%\n💳 Active subs: 186\n\nhttps://t.co/jN8bahoLWw",
+          "text_zh": "Nose Job - Plastic Surgery AI 现已挂牌出售。\n\n🔁 MRR: $3.1k/mo\n💰 近30日收入: $3.6k\n💵 总收入: $42k\n🏷 要价: $36k\n📊 倍数: 0.8x ARR\n📈 近30日增长: -20%\n💸 利润率: 40%\n💳 活跃订阅: 186\n\nhttps://t.co/jN8bahoLWw"
+        }
+      ],
+      "hit": false
+    }
+  ],
+  "new_hits": [],
+  "dropped_from_window": [],
+  "notes": "2208 判定轮（实际运行 22:08:30 北京时间，计划槽位 22:04）。间隔 0.4308 小时（上一轮 21:42:39 → 本轮 22:08:30 北京时间，25 分 51 秒）。@levelsio、@gregisenberg、@steipete、@karpathy 窗口内无原创或引用帖。本轮 get_users_posts 使用 exclude=replies,retweets 与 start_time=2026-11-14T02:00:00Z，再按 12 小时窗口本地过滤。窗口起点 2026-11-14 10:08:30 北京时间（2026-11-14T02:08:30Z）。本轮 run_at 取 get_posts_by_ids 补全完成后的归档时刻 22:08:30（例行触发 22:07:43）。所有检查帖均有 impression_count。本轮先用 get_users_posts 拉时间线，再用 get_posts_by_ids 补齐长文 note_tweet、投票和引用全文；浏览量与互动数据以较晚的 get_posts_by_ids 返回的 public_metrics 为准（该接口字段为 repost_count，归档仍写为 retweet_count）。时间线还返回了 @marclou 2121583175608467795（对 2121582835932762113 的回复，referenced_tweets type=replied_to），已按规则本地排除，不计入检查帖。本轮有 1 条检查帖含 note_tweet（@marclou 2121571094411067537，已取全文）；其余 4 条正文未超过 280 字，无 note_tweet。已有帖中文译文沿用上一轮归档（英文全文与上一轮一致，已与本轮正文核对）。无新帖进入 12 小时窗口。无帖子移出 12 小时窗口。窗口内帖子 5 条（上一轮 5 条）。@marclou 2121592241248776615 浏览 6393（上次 4511），每小时 +4368，未超过阈值，已在 pushed 中，不再推送。@marclou 2121582835932762113 浏览 14006（上次 11646），每小时 +5478，超过阈值，但已在 pushed 中，不再推送。@marclou 2121571094411067537 浏览 42172（上次 35946），每小时 +14451，超过阈值，但已在 pushed 中，不再推送。@egeberkina 2121558712485867578 浏览 7662（上次 6744），每小时 +2131，未超过阈值。@marclou 2121544714574819477 浏览 16318（上次 15440），每小时 +2038，未超过阈值，已在 pushed 中，不再推送。本轮新达标 0 条，pushed 115 → 115。"
+}
