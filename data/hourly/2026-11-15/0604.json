@@ -1,0 +1,340 @@
+{
+  "run_at": "2026-11-15T06:11:29+08:00",
+  "baseline": true,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "0604",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2121712181125525706",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2121712181125525706",
+      "created_at": "2026-11-14T21:09:38.000Z",
+      "created_at_bj": "2026-11-15 05:09",
+      "views": 13642,
+      "rate_per_hour": 13234,
+      "basis": "first_sight",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 47,
+        "impression_count": 13642,
+        "like_count": 75,
+        "quote_count": 2,
+        "reply_count": 3,
+        "retweet_count": 1
+      },
+      "already_pushed": false,
+      "text": "What's easier than trying to build a giant furniture library?\n\nLetting users just upload their own furniture they want as a photo and then turn it into a 3d object in less than 30 seconds with an image-to-3d model ofcourse! https://t.co/n878FlRw7Z https://t.co/XDStwhZBuZ",
+      "text_zh": "还有什么比试图建一个巨大的家具库更简单呢？\n\n让用户把自己想要的家具拍成照片上传，然后用 image-to-3d 模型在不到 30 秒内把它变成 3D 物体，当然啦！ https://t.co/n878FlRw7Z https://t.co/XDStwhZBuZ\n\n引用内容：他引用了自己稍早的进度更新：把整个 @IKEA 的 3D 目录导入了 Interior AI，现在可以导入户型图或漫游视频来重建房子并重新装修。",
+      "quoted": [
+        {
+          "id": "2121661063007773081",
+          "user": "levelsio",
+          "text": "✨ Progress update:\n\nI imported the entire catalogue of @IKEA in 3d into Interior AI after seeing someone do the same yesterday, I'll try to import more furniture brands soon to get more variety too\n\nAnyway so now you can import your home's blueprint or do a walk through video, it then rebuilds your home, and then you can redecorate it\n\nThis is now day 4 of rebuilding Interior AI now that's the models are smart enough to do 3d stuff properly, it still looks a bit clunky and all but it's going somewhere! 😊",
+          "text_zh": "✨ 进度更新：\n\n看到有人昨天也这么做之后，我把整个 @IKEA 的 3D 目录导入了 Interior AI，之后还会再导入更多家具品牌，好增加多样性\n\n总之，现在你可以导入家里的户型图，或者拍一段漫游视频，它就会重建你的家，然后你就可以重新装修了\n\n现在是重建 Interior AI 的第 4 天，因为模型已经足够聪明，能把 3D 的事情做像样了，看起来还是有点笨拙，但已经在往前走了！😊"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2121706904917520875",
+      "user": "steipete",
+      "url": "https://x.com/steipete/status/2121706904917520875",
+      "created_at": "2026-11-14T20:48:40.000Z",
+      "created_at_bj": "2026-11-15 04:48",
+      "views": 19417,
+      "rate_per_hour": 14067,
+      "basis": "first_sight",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 24,
+        "impression_count": 19417,
+        "like_count": 122,
+        "quote_count": 0,
+        "reply_count": 14,
+        "retweet_count": 4
+      },
+      "already_pushed": false,
+      "text": "🍿 https://t.co/nKrqXP5ZWD",
+      "text_zh": "🍿 https://t.co/nKrqXP5ZWD\n\n引用内容：他引用了 @JoannaStern 的帖子：Apple 今年在 Siri AI 上取得了不小进展，但 Siri 在基础功能上仍然吃力，在新的 HomeView 上尤为明显。这段评测切片概括了问题所在。",
+      "quoted": [
+        {
+          "id": "2121646621725495373",
+          "user": "JoannaStern",
+          "text": "Apple made big strides with Siri AI this year, but Siri still struggles with the basics. And nowhere is that more obvious than on the new HomeView. This clip from my review sums up the problem. https://t.co/E16R4MZlJm",
+          "text_zh": "Apple 今年在 Siri AI 上取得了不小进展，但 Siri 在基础功能上仍然吃力，在新的 HomeView 上尤为明显。这段评测切片概括了问题所在。 https://t.co/E16R4MZlJm"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2121686411900551270",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2121686411900551270",
+      "created_at": "2026-11-14T19:27:14.000Z",
+      "created_at_bj": "2026-11-15 03:27",
+      "views": 27440,
+      "rate_per_hour": 10024,
+      "basis": "first_sight",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 53,
+        "impression_count": 27440,
+        "like_count": 95,
+        "quote_count": 3,
+        "reply_count": 11,
+        "retweet_count": 1
+      },
+      "already_pushed": false,
+      "text": "Noo I asked Claude what to use 100% free and it said OBS with a circle mask on the webcam\n\nIt even made the circle mask for me 😃 https://t.co/8oP3w7ttK8 https://t.co/Fqnuo4m81r",
+      "text_zh": "没有啦，我问了 Claude 有什么 100% 免费的方案，它说用 OBS，再给网络摄像头加一个圆形蒙版\n\n它甚至还帮我把圆形蒙版做出来了 😃 https://t.co/8oP3w7ttK8 https://t.co/Fqnuo4m81r\n\n引用内容：他引用了 @Thosch_io 的回复：问是不是用 Loom 录的，想给自己在做的东西也做出这样的演示；并希望旋转家具时点一次就能一直转，选项保持可见直到点掉为止。",
+      "quoted": [
+        {
+          "id": "2121685828157972942",
+          "user": "Thosch_io",
+          "text": "Is it loom you used to record? I want to make stone demos like this for some stuff I’m working on.\n\nAnd please make it so you don’t have to click on furniture then rotate then click on furniture then rotate. Should be just click furniture then rotate as much as you want (have the options stay viddi le until clicked off)",
+          "text_zh": "是用 Loom 录的吗？我想给自己在做的一些东西也做出这样的演示。\n\n另外，希望旋转家具时不要点一下转一下、再点一下再转一下。应该是点一下家具后就能一直转（选项保持可见，直到点掉为止）。"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2121664429649719415",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2121664429649719415",
+      "created_at": "2026-11-14T17:59:53.000Z",
+      "created_at_bj": "2026-11-15 01:59",
+      "views": 2526,
+      "rate_per_hour": 602,
+      "basis": "first_sight",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 17,
+        "impression_count": 2526,
+        "like_count": 73,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 7
+      },
+      "already_pushed": false,
+      "text": "Next stop: Japan https://t.co/Yp0U31Jd1s https://t.co/AZAIcDznAw",
+      "text_zh": "下一站：日本 https://t.co/Yp0U31Jd1s https://t.co/AZAIcDznAw\n\n引用内容：他引用了自己此前的帖子：来自巴西的问候。",
+      "quoted": [
+        {
+          "id": "2121558712485867578",
+          "user": "egeberkina",
+          "text": "Greetings from Brazil https://t.co/ZItkzpPekx https://t.co/Wclxl5ZJGz",
+          "text_zh": "来自巴西的问候 https://t.co/ZItkzpPekx https://t.co/Wclxl5ZJGz"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2121661063007773081",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2121661063007773081",
+      "created_at": "2026-11-14T17:46:30.000Z",
+      "created_at_bj": "2026-11-15 01:46",
+      "views": 46624,
+      "rate_per_hour": 10557,
+      "basis": "first_sight",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 156,
+        "impression_count": 46624,
+        "like_count": 211,
+        "quote_count": 7,
+        "reply_count": 17,
+        "retweet_count": 7
+      },
+      "already_pushed": false,
+      "text": "✨ Progress update:\n\nI imported the entire catalogue of @IKEA in 3d into Interior AI after seeing someone do the same yesterday, I'll try to import more furniture brands soon to get more variety too\n\nAnyway so now you can import your home's blueprint or do a walk through video, it then rebuilds your home, and then you can redecorate it\n\nThis is now day 4 of rebuilding Interior AI now that's the models are smart enough to do 3d stuff properly, it still looks a bit clunky and all but it's going somewhere! 😊",
+      "text_zh": "✨ 进度更新：\n\n看到有人昨天也这么做之后，我把整个 @IKEA 的 3D 目录导入了 Interior AI，之后还会再导入更多家具品牌，好增加多样性\n\n总之，现在你可以导入家里的户型图，或者拍一段漫游视频，它就会重建你的家，然后你就可以重新装修了\n\n现在是重建 Interior AI 的第 4 天，因为模型已经足够聪明，能把 3D 的事情做像样了，看起来还是有点笨拙，但已经在往前走了！😊\n\n引用内容：他引用了自己稍早的帖子：Interior AI 3D 现在只靠一张平面图就能工作了，虽然还不够细致，但已经很有前景。",
+      "quoted": [
+        {
+          "id": "2121291126803980696",
+          "user": "levelsio",
+          "text": "More progress!\n\nInterior AI 3D works with \"just\" a floor plan now\n\nNot much information to work with and it has to imagine furniture etc. but it works\n\nSome weird things like the big I guess sliding windows to outdoor garden are missing, and bath tub is just a box, and I don't see a toilet seat etc. so we need it to become a bit more granular/specific/advanced\n\nBut it's very promising\n\nIt was really impossible until recently do to floor plan to 3d automatically and properly!",
+          "text_zh": "又有进展了！\n\n现在 Interior AI 3D 只靠一张平面图就能工作了\n\n可用的信息并不多，还得自己想象家具之类的东西，但已经能跑起来了\n\n有些地方比较怪，比如通往户外花园的那些大概是落地推拉窗的部分缺失了，浴缸只是一个方盒子，也看不到马桶盖等等，所以还需要做得更细致、更具体、更高级一些\n\n不过非常有前景\n\n直到最近，从平面图自动、准确地生成 3D，其实都是不可能的！"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2121658404850872676",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2121658404850872676",
+      "created_at": "2026-11-14T17:35:56.000Z",
+      "created_at_bj": "2026-11-15 01:35",
+      "views": 47986,
+      "rate_per_hour": 10449,
+      "basis": "first_sight",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 237,
+        "impression_count": 47986,
+        "like_count": 470,
+        "quote_count": 8,
+        "reply_count": 26,
+        "retweet_count": 14
+      },
+      "already_pushed": false,
+      "text": "All the people on here always tell me for years \"nooooo you can't just ship solo and have high uptime like big companies\"\n\nAnd it's just not true, because big companies like Revolut even make stupid mistakes like not having monitoring working on their main production databases! And big companies go down all the time as you saw with Microsoft this week too\n\nThe point being is that anyone can go down, and it's pretty equal for a well managed solo founder as it is for a big company",
+      "text_zh": "这么多年来，这里总有人跟我说「不行啊，你不能只靠一个人上线，还指望有大公司那样的高可用性」\n\n这根本不是真的，因为像 Revolut 这样的大公司也会犯低级错误，比如主力生产数据库根本没有监控！而且大公司也经常宕机，这周 Microsoft 的情况你们也看到了\n\n关键在于，谁都可能挂掉；一个管理得当的独立开发者，和一个大公司，其实差不多\n\n引用内容：他引用了 @GergelyOrosz 的帖子：Revolut 公布了一次长达 5 小时的全球卡片服务故障复盘，指出数据库节点宕机没有监控，且跨 3 个区域只跑了 5 个节点，单节点故障就没有可用区韧性。",
+      "quoted": [
+        {
+          "id": "2121637812613333292",
+          "user": "GergelyOrosz",
+          "text": "Revolut shared the postmortem of their global cards outage of 5 hours. Some interesting (alarming?) notes:\n\n1. They had no monitoring on database nodes going down (!!)\n\n2. Across 3 regions, they ran 5 nodes, with #1. So a single node going down meant no zonal resillience (cont'd) https://t.co/XG8ocvmPKC https://t.co/qe2ZQmZUw7",
+          "text_zh": "Revolut 公布了他们长达 5 小时的全球卡片服务故障复盘。一些有意思（也令人担忧？）的要点：\n\n1. 他们在数据库节点宕机时没有任何监控（！！）\n\n2. 跨 3 个区域只跑了 5 个节点，再加上第 1 点。所以单个节点宕机就意味着没有可用区韧性（未完） https://t.co/XG8ocvmPKC https://t.co/qe2ZQmZUw7"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2121592241248776615",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2121592241248776615",
+      "created_at": "2026-11-14T13:13:02.000Z",
+      "created_at_bj": "2026-11-14 21:13",
+      "views": 28021,
+      "rate_per_hour": 2275,
+      "basis": "delta",
+      "prev": {
+        "checked_at": "2026-11-14T23:45:04+08:00",
+        "views": 13367
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 93,
+        "impression_count": 28021,
+        "like_count": 253,
+        "quote_count": 14,
+        "reply_count": 62,
+        "retweet_count": 5
+      },
+      "already_pushed": true,
+      "text": "2,296 participants already 🤯\n\nThe hackathon starts in 24 hours.\n\nJoin us → https://t.co/Z598aDXYLN https://t.co/y32mU8Dg6Q",
+      "text_zh": "已经有 2,296 名参赛者了 🤯\n\n黑客松将在 24 小时后开始。\n\n加入我们 → https://t.co/Z598aDXYLN https://t.co/y32mU8Dg6Q",
+      "quoted": [],
+      "hit": false
+    },
+    {
+      "id": "2121582835932762113",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2121582835932762113",
+      "created_at": "2026-11-14T12:35:39.000Z",
+      "created_at_bj": "2026-11-14 20:35",
+      "views": 45713,
+      "rate_per_hour": 3821,
+      "basis": "delta",
+      "prev": {
+        "checked_at": "2026-11-14T23:45:04+08:00",
+        "views": 21105
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 53,
+        "impression_count": 45713,
+        "like_count": 374,
+        "quote_count": 14,
+        "reply_count": 86,
+        "retweet_count": 7
+      },
+      "already_pushed": true,
+      "text": "I don't even know what language my app is built with https://t.co/0ZCaMyIHRN",
+      "text_zh": "我甚至不知道自己的应用是用什么语言写的 https://t.co/0ZCaMyIHRN\n\n引用内容：他引用了自己此前那条关于不再使用 localhost 的帖子：已经一个月没碰过 localhost，让 AI 把功能只对自己在生产环境可见，评估后再发布给用户；他还写道，现在 AI 已经足够好，一切都是从 prompt 直接上 prod。",
+      "quoted": [
+        {
+          "id": "2121571094411067537",
+          "user": "marclou",
+          "text": "I haven't touched localhost in month.\n\nI ask AI to make the feature only visible to me in production, so I can assess and iterate. If it's good, I release it to users, and ask the agent to set hourly/daily reminders to check logs and database to fix any issues. My AGENTS·md also has rules to force the agent to test everything.\n\nNow AI is so good, everything goes straight from prompt to prod.",
+          "text_zh": "我已经一个月没碰过 localhost 了。\n\n我会让 AI 把功能只对我在生产环境可见，方便我评估和迭代。如果效果不错，就把它发布给用户，并让 agent 设置每小时/每天的提醒，去检查日志和数据库、修复问题。我的 AGENTS·md 里也有规则，强制 agent 测试所有东西。\n\n现在 AI 已经足够好，一切都是从 prompt 直接上 prod。"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2121571094411067537",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2121571094411067537",
+      "created_at": "2026-11-14T11:49:00.000Z",
+      "created_at_bj": "2026-11-14 19:49",
+      "views": 230952,
+      "rate_per_hour": 25169,
+      "basis": "delta",
+      "prev": {
+        "checked_at": "2026-11-14T23:45:04+08:00",
+        "views": 68859
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 716,
+        "impression_count": 230952,
+        "like_count": 1209,
+        "quote_count": 67,
+        "reply_count": 315,
+        "retweet_count": 29
+      },
+      "already_pushed": true,
+      "text": "I haven't touched localhost in month.\n\nI ask AI to make the feature only visible to me in production, so I can assess and iterate. If it's good, I release it to users, and ask the agent to set hourly/daily reminders to check logs and database to fix any issues. My AGENTS·md also has rules to force the agent to test everything.\n\nNow AI is so good, everything goes straight from prompt to prod.",
+      "text_zh": "我已经一个月没碰过 localhost 了。\n\n我会让 AI 把功能只对我在生产环境可见，方便我评估和迭代。如果效果不错，就把它发布给用户，并让 agent 设置每小时/每天的提醒，去检查日志和数据库、修复问题。我的 AGENTS·md 里也有规则，强制 agent 测试所有东西。\n\n现在 AI 已经足够好，一切都是从 prompt 直接上 prod。",
+      "quoted": [],
+      "hit": false
+    },
+    {
+      "id": "2121558712485867578",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2121558712485867578",
+      "created_at": "2026-11-14T10:59:48.000Z",
+      "created_at_bj": "2026-11-14 18:59",
+      "views": 41254,
+      "rate_per_hour": 4468,
+      "basis": "delta",
+      "prev": {
+        "checked_at": "2026-11-14T23:45:04+08:00",
+        "views": 12481
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 324,
+        "impression_count": 41254,
+        "like_count": 1597,
+        "quote_count": 3,
+        "reply_count": 9,
+        "retweet_count": 105
+      },
+      "already_pushed": false,
+      "text": "Greetings from Brazil https://t.co/ZItkzpPekx https://t.co/Wclxl5ZJGz",
+      "text_zh": "来自巴西的问候 https://t.co/ZItkzpPekx https://t.co/Wclxl5ZJGz\n\n引用内容：他引用了自己此前的帖子：来自古巴的明信片。\n\n--sref 518315848 https://t.co/kMGAZmzzFq",
+      "quoted": [
+        {
+          "id": "2121242949313028595",
+          "user": "egeberkina",
+          "text": "Postcards from Cuba\n\n--sref 518315848 https://t.co/kMGAZmzzFq",
+          "text_zh": "来自古巴的明信片。\n\n--sref 518315848 https://t.co/kMGAZmzzFq"
+        }
+      ],
+      "hit": false
+    }
+  ],
+  "new_hits": [],
+  "dropped_from_window": [
+    "2121544714574819477"
+  ],
+  "notes": "6:04 基准轮（实际运行 06:11:29 北京时间）：只更新 snapshots，不判定达标、不写入 pushed、不通知。间隔 6.4403 小时（上一轮 23:45:04 → 本轮 06:11:29 北京时间，6 小时 26 分 25 秒）。@gregisenberg、@karpathy 窗口内无原创或引用帖。本轮 get_users_posts 使用 exclude=replies,retweets 与 start_time=2026-11-14T10:00:00Z，再按 12 小时窗口本地过滤。窗口起点 2026-11-14 18:11 北京时间（2026-11-14T10:11:29Z）。本轮 run_at 取 get_posts_by_ids 补全完成后的归档时刻 06:11:29（例行触发 06:08:35）。所有检查帖均有 impression_count。本轮先用 get_users_posts 拉时间线，再用 get_posts_by_ids 补齐长文 note_tweet、投票和引用全文；浏览量与互动数据以较晚的 get_posts_by_ids 返回的 public_metrics 为准（该接口字段为 repost_count，归档仍写为 retweet_count）。时间线还返回了 @marclou 2121679028314866159（对 2121592241248776615 的回复，referenced_tweets type=replied_to）和 @marclou 2121583175608467795（对 2121582835932762113 的回复，referenced_tweets type=replied_to），已按规则本地排除，不计入检查帖。本轮有 3 条检查帖含 note_tweet（@levelsio 2121661063007773081、@levelsio 2121658404850872676、@marclou 2121571094411067537，已取全文）；其余 7 条正文未超过长文阈值，无 note_tweet。get_posts_by_ids 还补全了被引用帖 @levelsio 2121291126803980696、@Thosch_io 2121685828157972942 的 note_tweet 全文。已有帖中文译文沿用上一轮归档（英文全文与上一轮一致，已与本轮 note_tweet/正文核对）。@levelsio 2121712181125525706 附 2 张图片（https://t.co/n878FlRw7Z），引用自己稍早的 2121661063007773081。@levelsio 2121686411900551270 附图片（https://t.co/8oP3w7ttK8），引用 @Thosch_io 2121685828157972942。@levelsio 2121661063007773081 附视频（https://t.co/t2Ln0LL3Xf），引用自己稍早的 2121291126803980696。@levelsio 2121658404850872676 附图片（https://t.co/jGpBhnEpob），引用 @GergelyOrosz 2121637812613333292。@steipete 2121706904917520875 正文为 🍿 和指向被引用帖的短链 https://t.co/nKrqXP5ZWD，引用 @JoannaStern 2121646621725495373（评测视频 https://t.co/E16R4MZlJm）。@egeberkina 2121664429649719415 附 4 张图片（https://t.co/Yp0U31Jd1s），引用自己稍早的 2121558712485867578。移出 12 小时窗口：1 条（@marclou 2121544714574819477，发帖 2026-11-14T10:04:11.000Z，早于窗口起点 2026-11-14T10:11:29Z）。新进入窗口 6 条，已有快照 4 条。@levelsio 2121712181125525706 浏览 13642，首次见到，发帖至今 1.0308 小时，每小时 +13234（参考），baseline 不判定。@steipete 2121706904917520875 浏览 19417，首次见到，发帖至今 1.3803 小时，每小时 +14067（参考），baseline 不判定。@levelsio 2121686411900551270 浏览 27440，首次见到，发帖至今 2.7375 小时，每小时 +10024（参考），baseline 不判定。@egeberkina 2121664429649719415 浏览 2526，首次见到，发帖至今 4.1933 小时，每小时 +602（参考），baseline 不判定。@levelsio 2121661063007773081 浏览 46624，首次见到，发帖至今 4.4164 小时，每小时 +10557（参考），baseline 不判定。@levelsio 2121658404850872676 浏览 47986，首次见到，发帖至今 4.5925 小时，每小时 +10449（参考），baseline 不判定。@marclou 2121592241248776615 浏览 28021（上次 13367），每小时 +2275（参考，间隔 6.4403 小时），baseline 不判定，已在 pushed 中。@marclou 2121582835932762113 浏览 45713（上次 21105），每小时 +3821（参考，间隔 6.4403 小时），baseline 不判定，已在 pushed 中。@marclou 2121571094411067537 浏览 230952（上次 68859），每小时 +25169（参考，间隔 6.4403 小时），baseline 不判定，已在 pushed 中。@egeberkina 2121558712485867578 浏览 41254（上次 12481），每小时 +4468（参考，间隔 6.4403 小时），baseline 不判定。本轮为基准轮，新达标列表为空，pushed 保持 115 条不变。"
+}
