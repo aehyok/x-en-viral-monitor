@@ -1,0 +1,150 @@
+{
+  "run_at": "2026-11-14T19:12:21+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "1904",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2121558712485867578",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2121558712485867578",
+      "created_at": "2026-11-14T10:59:48.000Z",
+      "created_at_bj": "2026-11-14 18:59",
+      "views": 385,
+      "rate_per_hour": 1841,
+      "basis": "first_sight",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 1,
+        "impression_count": 385,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "already_pushed": false,
+      "text": "Greetings from Brazil https://t.co/ZItkzpPekx https://t.co/Wclxl5ZJGz",
+      "text_zh": "来自巴西的问候 https://t.co/ZItkzpPekx https://t.co/Wclxl5ZJGz\n\n引用内容：他引用了自己此前的帖子：来自古巴的明信片。\n\n--sref 518315848 https://t.co/kMGAZmzzFq",
+      "quoted": [
+        {
+          "id": "2121242949313028595",
+          "user": "egeberkina",
+          "text": "Postcards from Cuba\n\n--sref 518315848 https://t.co/kMGAZmzzFq",
+          "text_zh": "来自古巴的明信片。\n\n--sref 518315848 https://t.co/kMGAZmzzFq"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2121544714574819477",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2121544714574819477",
+      "created_at": "2026-11-14T10:04:11.000Z",
+      "created_at_bj": "2026-11-14 18:04",
+      "views": 7444,
+      "rate_per_hour": 4306,
+      "basis": "delta",
+      "prev": {
+        "checked_at": "2026-11-14T18:35:24+08:00",
+        "views": 4792
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 5,
+        "impression_count": 7444,
+        "like_count": 44,
+        "quote_count": 1,
+        "reply_count": 23,
+        "retweet_count": 0
+      },
+      "already_pushed": true,
+      "text": "The subtle art of naming https://t.co/1JT6Wjalct",
+      "text_zh": "命名的微妙艺术 https://t.co/1JT6Wjalct\n\n引用内容：他引用了 @trust_mrr 的帖子：Nose Job - Plastic Surgery AI 现已挂牌出售。\n\n🔁 MRR: $3.1k/mo\n💰 近30日收入: $3.6k\n💵 总收入: $42k\n🏷 要价: $36k\n📊 倍数: 0.8x ARR\n📈 近30日增长: -20%\n💸 利润率: 40%\n💳 活跃订阅: 186\n\nhttps://t.co/jN8bahoLWw",
+      "quoted": [
+        {
+          "id": "2121430557909537230",
+          "user": "trust_mrr",
+          "text": "Nose Job - Plastic Surgery AI is now listed for sale\n\n🔁 MRR: $3.1k/mo\n💰 Revenue (30d): $3.6k\n💵 Total revenue: $42k\n🏷 Asking price: $36k\n📊 Multiple: 0.8x ARR\n📈 Growth (30d): -20%\n💸 Profit margin: 40%\n💳 Active subs: 186\n\nhttps://t.co/jN8bahoLWw",
+          "text_zh": "Nose Job - Plastic Surgery AI 现已挂牌出售。\n\n🔁 MRR: $3.1k/mo\n💰 近30日收入: $3.6k\n💵 总收入: $42k\n🏷 要价: $36k\n📊 倍数: 0.8x ARR\n📈 近30日增长: -20%\n💸 利润率: 40%\n💳 活跃订阅: 186\n\nhttps://t.co/jN8bahoLWw"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2121405262074450097",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2121405262074450097",
+      "created_at": "2026-11-14T00:50:02.000Z",
+      "created_at_bj": "2026-11-14 08:50",
+      "views": 49318,
+      "rate_per_hour": 1351,
+      "basis": "delta",
+      "prev": {
+        "checked_at": "2026-11-14T18:35:24+08:00",
+        "views": 48486
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 72,
+        "impression_count": 49318,
+        "like_count": 763,
+        "quote_count": 18,
+        "reply_count": 18,
+        "retweet_count": 76
+      },
+      "already_pushed": true,
+      "text": "Read the Stand with Jensen letter and consider adding your name. #standwithjensen #bringjensenback \n\nhttps://t.co/coE8PBUJQm https://t.co/7xbPEjJdZX https://t.co/KWCJqHrJmU",
+      "text_zh": "请阅读 Stand with Jensen 联署信，并考虑署上你的名字。#standwithjensen #bringjensenback\n\nhttps://t.co/coE8PBUJQm https://t.co/7xbPEjJdZX https://t.co/KWCJqHrJmU\n\n引用内容：他引用了 @amasad 的帖子：请阅读 Stand with Jensen 联署信，并考虑署上你的名字。#standwithjensen https://t.co/eZvYNAc43r",
+      "quoted": [
+        {
+          "id": "2121377395244749097",
+          "user": "amasad",
+          "text": "Read the Stand with Jensen letter and consider adding your name. #standwithjensen https://t.co/eZvYNAc43r",
+          "text_zh": "请阅读 Stand with Jensen 联署信，并考虑署上你的名字。#standwithjensen https://t.co/eZvYNAc43r"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2121393043701920064",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2121393043701920064",
+      "created_at": "2026-11-14T00:01:29.000Z",
+      "created_at_bj": "2026-11-14 08:01",
+      "views": 37239,
+      "rate_per_hour": 1039,
+      "basis": "delta",
+      "prev": {
+        "checked_at": "2026-11-14T18:35:24+08:00",
+        "views": 36599
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 42,
+        "impression_count": 37239,
+        "like_count": 349,
+        "quote_count": 4,
+        "reply_count": 66,
+        "retweet_count": 17
+      },
+      "already_pushed": true,
+      "text": "The FAA nationwide ground stop reminds me that the best business to be in right now is cybersecurity",
+      "text_zh": "FAA 的全国地面停飞，让我想起眼下最值得做的生意就是网络安全。",
+      "quoted": [],
+      "hit": false
+    }
+  ],
+  "new_hits": [],
+  "dropped_from_window": [],
+  "notes": "1911 判定轮（实际运行 19:12:21 北京时间，计划槽位 19:04）。间隔 0.6158 小时（上一轮 18:35:24 → 本轮 19:12:21 北京时间，36 分 57 秒）。@steipete、@karpathy 窗口内无原创或引用帖。本轮 get_users_posts 使用 exclude=replies,retweets 与 start_time=2026-11-13T23:00:00Z，再按 12 小时窗口本地过滤。窗口起点 2026-11-14 07:12:21 北京时间（2026-11-13T23:12:21Z）。本轮 run_at 取 get_posts_by_ids 补全完成时刻 19:12:21（例行触发 19:11:22，扫描开始约 19:11:30）。所有检查帖均有 impression_count。本轮先用 get_users_posts 拉时间线，再用 get_posts_by_ids 补齐长文 note_tweet、投票和引用全文；浏览量与互动数据以较晚的 get_posts_by_ids 返回的 public_metrics 为准（该接口字段为 repost_count，归档仍写为 retweet_count）。时间线还返回了 @levelsio 2121405603650387995，但这是对 2121405262074450097 的回复（referenced_tweets type=replied_to），已按规则本地排除，不计入检查帖。这 4 条检查帖均无 note_tweet（正文未超过 280 字）。已有帖中文译文沿用上一轮归档（英文全文与上一轮一致，已与本轮正文核对）。新帖进入 12 小时窗口：@egeberkina 2121558712485867578（2026-11-14 18:59 北京时间发布，引用自己此前的 Postcards from Cuba）。无帖子移出 12 小时窗口。窗口内帖子 4 条（上一轮 3 条）。@egeberkina 2121558712485867578 首次见到，浏览 385，发帖至今 0.2092 小时，每小时 +1841，未超过阈值。@marclou 2121544714574819477 浏览 7444（上次 4792），每小时 +4306，未超过阈值，已在 pushed 中，不再推送。@levelsio 2121405262074450097 浏览 49318（上次 48486），每小时 +1351，未超过阈值，已在 pushed 中，不再推送。@gregisenberg 2121393043701920064 浏览 37239（上次 36599），每小时 +1039，未超过阈值，已在 pushed 中，不再推送。本轮新达标 0 条，pushed 112 → 112。"
+}
