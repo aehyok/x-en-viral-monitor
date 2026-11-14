@@ -1,0 +1,113 @@
+{
+  "run_at": "2026-11-14T16:36:37+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "1636",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2121405262074450097",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2121405262074450097",
+      "created_at": "2026-11-14T00:50:02.000Z",
+      "created_at_bj": "2026-11-14 08:50",
+      "views": 44600,
+      "rate_per_hour": 2138,
+      "basis": "delta",
+      "prev": {
+        "checked_at": "2026-11-14T16:12:00+08:00",
+        "views": 43723
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 65,
+        "impression_count": 44600,
+        "like_count": 705,
+        "quote_count": 17,
+        "reply_count": 18,
+        "retweet_count": 70
+      },
+      "already_pushed": true,
+      "text": "Read the Stand with Jensen letter and consider adding your name. #standwithjensen #bringjensenback \n\nhttps://t.co/coE8PBUJQm https://t.co/7xbPEjJdZX https://t.co/KWCJqHrJmU",
+      "text_zh": "请阅读 Stand with Jensen 联署信，并考虑署上你的名字。#standwithjensen #bringjensenback\n\nhttps://t.co/coE8PBUJQm https://t.co/7xbPEjJdZX https://t.co/KWCJqHrJmU\n\n引用内容：他引用了 @amasad 的帖子：请阅读 Stand with Jensen 联署信，并考虑署上你的名字。#standwithjensen https://t.co/eZvYNAc43r",
+      "quoted": [
+        {
+          "id": "2121377395244749097",
+          "user": "amasad",
+          "text": "Read the Stand with Jensen letter and consider adding your name. #standwithjensen https://t.co/eZvYNAc43r",
+          "text_zh": "请阅读 Stand with Jensen 联署信，并考虑署上你的名字。#standwithjensen https://t.co/eZvYNAc43r"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2121393043701920064",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2121393043701920064",
+      "created_at": "2026-11-14T00:01:29.000Z",
+      "created_at_bj": "2026-11-14 08:01",
+      "views": 34634,
+      "rate_per_hour": 1012,
+      "basis": "delta",
+      "prev": {
+        "checked_at": "2026-11-14T16:12:00+08:00",
+        "views": 34219
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 35,
+        "impression_count": 34634,
+        "like_count": 333,
+        "quote_count": 5,
+        "reply_count": 60,
+        "retweet_count": 17
+      },
+      "already_pushed": true,
+      "text": "The FAA nationwide ground stop reminds me that the best business to be in right now is cybersecurity",
+      "text_zh": "FAA 的全国地面停飞，让我想起眼下最值得做的生意就是网络安全。",
+      "quoted": [],
+      "hit": false
+    },
+    {
+      "id": "2121341997730656386",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2121341997730656386",
+      "created_at": "2026-11-13T20:38:39.000Z",
+      "created_at_bj": "2026-11-14 04:38",
+      "views": 2389,
+      "rate_per_hour": 151,
+      "basis": "delta",
+      "prev": {
+        "checked_at": "2026-11-14T16:12:00+08:00",
+        "views": 2327
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 10,
+        "impression_count": 2389,
+        "like_count": 51,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "already_pushed": false,
+      "text": "The Viking https://t.co/8LL75sPPqc",
+      "text_zh": "维京人 https://t.co/8LL75sPPqc",
+      "quoted": [],
+      "hit": false
+    }
+  ],
+  "new_hits": [],
+  "dropped_from_window": [
+    "2121335377902588352"
+  ],
+  "notes": "1636 判定轮（实际运行 16:36:37 北京时间，计划槽位 16:34）。间隔 0.4103 小时（上一轮 16:12:00 → 本轮 16:36:37 北京时间，24 分 37 秒）。@marclou、@steipete、@karpathy 窗口内无原创或引用帖。本轮 get_users_posts 使用 exclude=replies,retweets 与 start_time=2026-11-13T20:35:00Z，再按 12 小时窗口本地过滤。窗口起点 2026-11-14 04:36:37 北京时间（2026-11-13T20:36:37Z）。本轮 run_at 取 get_posts_by_ids 补全完成时刻 16:36:37（例行触发 16:35:37，扫描开始约 16:35:44）。所有检查帖均有 impression_count。本轮先用 get_users_posts 拉时间线，再用 get_posts_by_ids 补齐长文 note_tweet、投票和引用全文；浏览量与互动数据以较晚的 get_posts_by_ids 返回的 public_metrics 为准（该接口字段为 repost_count，归档仍写为 retweet_count）。时间线还返回了 @levelsio 2121405603650387995，但这是对 2121405262074450097 的回复（referenced_tweets type=replied_to），已按规则本地排除，不计入检查帖。这 3 条检查帖均无 note_tweet（正文未超过 280 字）。已有帖中文译文沿用上一轮归档（英文全文与上一轮一致，已与本轮正文核对）。无新帖进入 12 小时窗口。@levelsio 2121335377902588352 创建于 2026-11-13T20:12:21Z（2026-11-14 04:12 北京时间），已超出 12 小时窗口，移出 snapshots。窗口内帖子 3 条（上一轮 4 条）。@levelsio 2121405262074450097 浏览 44600（上次 43723），每小时 +2138，未超过阈值，已在 pushed 中，不再推送。@gregisenberg 2121393043701920064 浏览 34634（上次 34219），每小时 +1012，未超过阈值，已在 pushed 中，不再推送。@egeberkina 2121341997730656386 浏览 2389（上次 2327），每小时 +151，未超过阈值。本轮新达标 0 条，pushed 111 → 111。"
+}
