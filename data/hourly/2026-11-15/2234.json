@@ -1,0 +1,81 @@
+{
+  "run_at": "2026-11-15T22:45:54+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "2234",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2121974507544183216",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2121974507544183216",
+      "created_at": "2026-11-15T14:32:01.000Z",
+      "created_at_bj": "2026-11-15 22:32",
+      "views": 4295,
+      "rate_per_hour": 18562,
+      "basis": "first_sight",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 12,
+        "impression_count": 4295,
+        "like_count": 65,
+        "quote_count": 0,
+        "reply_count": 40,
+        "retweet_count": 0
+      },
+      "already_pushed": false,
+      "text": "I checked 10,646 startups on TrustMRR.\n\nRevenue in the last 30 days:\n\n• $0: 5,845 startups\n• <$1k: 3,744\n• $1k–$10k: 816\n• $10k–$100k: 217\n• $100k+: 24 https://t.co/MF1BKLICgz",
+      "text_zh": "我在 TrustMRR 上查了 10,646 家创业公司。\n\n过去 30 天的收入：\n\n• $0：5,845 家创业公司\n• <$1k：3,744\n• $1k–$10k：816\n• $10k–$100k：217\n• $100k+：24 https://t.co/MF1BKLICgz",
+      "hit": true
+    },
+    {
+      "id": "2121904328873312292",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2121904328873312292",
+      "created_at": "2026-11-15T09:53:09.000Z",
+      "created_at_bj": "2026-11-15 17:53",
+      "views": 7158,
+      "rate_per_hour": 826,
+      "basis": "delta",
+      "prev": {
+        "checked_at": "2026-11-15T22:10:54+08:00",
+        "views": 6676
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 58,
+        "impression_count": 7158,
+        "like_count": 230,
+        "quote_count": 0,
+        "reply_count": 4,
+        "retweet_count": 17
+      },
+      "already_pushed": false,
+      "text": "La dolce vita https://t.co/Yn1wVATw0m https://t.co/AZAIcDznAw",
+      "text_zh": "La dolce vita（甜蜜的生活） https://t.co/Yn1wVATw0m https://t.co/AZAIcDznAw\n\n引用内容：他引用了自己稍早的帖子：Greetings from Brazil（来自巴西的问候）。",
+      "quoted": [
+        {
+          "id": "2121558712485867578",
+          "user": "egeberkina",
+          "text": "Greetings from Brazil https://t.co/ZItkzpPekx https://t.co/Wclxl5ZJGz",
+          "text_zh": "来自巴西的问候。Greetings from Brazil https://t.co/ZItkzpPekx https://t.co/Wclxl5ZJGz"
+        }
+      ],
+      "hit": false
+    }
+  ],
+  "new_hits": [
+    "2121974507544183216"
+  ],
+  "dropped_from_window": [],
+  "notes": "2234 判定轮（实际运行 22:45:54 北京时间，计划槽位 2234）。间隔 0.5833 小时（上一轮 22:10:54 → 本轮 22:45:54 北京时间，35 分 0 秒）。@levelsio、@gregisenberg、@steipete、@karpathy窗口内无原创或引用帖。本轮 get_users_posts 使用 exclude=replies,retweets 与 start_time=2026-11-15T02:40:00Z，再按 12 小时窗口本地过滤。窗口起点 2026-11-15 10:45:54 北京时间（2026-11-15T02:45:54Z）。本轮 run_at 取时间线拉取完成后的归档时刻 22:45:54（例行触发 22:44:27）。所有检查帖均有 impression_count。本轮用 get_users_posts（expansions=author_id,referenced_posts，post.fields 含 public_metrics、note_post）拉时间线；引用帖全文已由 expansions 带回，无需再调 get_posts_by_ids。检查帖无长文补充（未返回需补充的 note_post 全文）。已有帖 @egeberkina 2121904328873312292 中文译文沿用上一轮归档（英文全文与上一轮一致，已与本轮正文核对）。窗口内帖子 2 条（上一轮 1 条），新进入窗口 1 条：@marclou 2121974507544183216（发于 2026-11-15 22:32 北京时间）。移出窗口 0 条。@marclou 2121974507544183216 浏览 4295（首次见到，发帖至今 0.2314 小时），每小时 +18562，超过阈值，本轮新达标。@egeberkina 2121904328873312292 浏览 7158（上次 6676），每小时 +826，未超过阈值。本轮新达标 1 条，pushed 118 → 119。"
+}
