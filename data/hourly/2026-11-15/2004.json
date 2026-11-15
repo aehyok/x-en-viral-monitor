@@ -1,0 +1,90 @@
+{
+  "run_at": "2026-11-15T20:12:19+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "2004",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2121904328873312292",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2121904328873312292",
+      "created_at": "2026-11-15T09:53:09.000Z",
+      "created_at_bj": "2026-11-15 17:53",
+      "views": 3523,
+      "rate_per_hour": 2176,
+      "basis": "delta",
+      "prev": {
+        "checked_at": "2026-11-15T19:43:47+08:00",
+        "views": 2488
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 24,
+        "impression_count": 3523,
+        "like_count": 118,
+        "quote_count": 0,
+        "reply_count": 4,
+        "retweet_count": 5
+      },
+      "already_pushed": false,
+      "text": "La dolce vita https://t.co/Yn1wVATw0m https://t.co/AZAIcDznAw",
+      "text_zh": "La dolce vita（甜蜜的生活） https://t.co/Yn1wVATw0m https://t.co/AZAIcDznAw\n\n引用内容：他引用了自己稍早的帖子：Greetings from Brazil（来自巴西的问候）。",
+      "quoted": [
+        {
+          "id": "2121558712485867578",
+          "user": "egeberkina",
+          "text": "Greetings from Brazil https://t.co/ZItkzpPekx https://t.co/Wclxl5ZJGz",
+          "text_zh": "来自巴西的问候。Greetings from Brazil https://t.co/ZItkzpPekx https://t.co/Wclxl5ZJGz"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2121785581218697529",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2121785581218697529",
+      "created_at": "2026-11-15T02:01:18.000Z",
+      "created_at_bj": "2026-11-15 10:01",
+      "views": 29767,
+      "rate_per_hour": 1358,
+      "basis": "delta",
+      "prev": {
+        "checked_at": "2026-11-15T19:43:47+08:00",
+        "views": 29121
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 524,
+        "impression_count": 29767,
+        "like_count": 342,
+        "quote_count": 6,
+        "reply_count": 125,
+        "retweet_count": 25
+      },
+      "already_pushed": true,
+      "text": "The truth is all marketing now is just code and tokens.\n\nSo learning to market these days means learning to set up an agent with your data, creative tools and ad accounts.\n\nSet it up right and you get a top 0.1% marketer testing an absurd number of ideas every day: https://t.co/64vZyolTFP https://t.co/pyXGW79Qrh",
+      "text_zh": "真相是，现在所有营销都只是代码和 tokens。\n\n所以现如今学习营销，意味着学会用你的数据、创意工具和广告账户来搭建一个 agent。\n\n搭对了，你就相当于拥有一个顶尖 0.1% 的营销人，每天都能测试海量想法： https://t.co/64vZyolTFP https://t.co/pyXGW79Qrh\n\n引用内容：他引用了自己稍早的帖子：learn to market is the new learn to code（学习营销就是新的学习编程）。",
+      "quoted": [
+        {
+          "id": "2119134064091484422",
+          "user": "gregisenberg",
+          "text": "learn to market is the new learn to code https://t.co/2d8LTzHtzg",
+          "text_zh": "学习营销，就是新的学习编程。learn to market is the new learn to code https://t.co/2d8LTzHtzg"
+        }
+      ],
+      "hit": false
+    }
+  ],
+  "new_hits": [],
+  "dropped_from_window": [],
+  "notes": "2004 判定轮（实际运行 20:12:19 北京时间，计划槽位 20:04）。间隔 0.4756 小时（上一轮 19:43:47 → 本轮 20:12:19 北京时间，28 分 32 秒）。@levelsio、@marclou、@steipete、@karpathy窗口内无原创或引用帖。本轮 get_users_posts 使用 exclude=replies,retweets 与 start_time=2026-11-15T00:10:00Z，再按 12 小时窗口本地过滤。窗口起点 2026-11-15 08:12:19 北京时间（2026-11-15T00:12:19Z）。本轮 run_at 取时间线拉取完成后的归档时刻 20:12:19（例行触发 20:10:59）。所有检查帖均有 impression_count。本轮用 get_users_posts（expansions=author_id,referenced_posts，post.fields 含 public_metrics、note_post）拉时间线；引用帖全文已由 expansions 带回，无需再调 get_posts_by_ids。两条检查帖均无长文补充（未返回需补充的 note_post 全文）。已有帖 @egeberkina 2121904328873312292、@gregisenberg 2121785581218697529 中文译文沿用上一轮归档（英文全文与上一轮一致，已与本轮正文核对）。窗口内帖子 2 条（上一轮 2 条），新进入窗口 0 条。移出 12 小时窗口：0 条。@egeberkina 2121904328873312292 浏览 3523（上次 2488），每小时 +2176，未超过阈值。@gregisenberg 2121785581218697529 浏览 29767（上次 29121），每小时 +1358，已在 pushed 中，不再推送。本轮新达标 0 条，pushed 118 → 118。"
+}
