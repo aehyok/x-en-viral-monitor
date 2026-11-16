@@ -1,0 +1,279 @@
+{
+  "run_at": "2026-11-16T23:40:25+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "2334",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2122325614447489417",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2122325614447489417",
+      "created_at": "2026-11-16T13:47:12.000Z",
+      "created_at_bj": "2026-11-16 21:47",
+      "views": 29695,
+      "rate_per_hour": 10715,
+      "basis": "delta",
+      "prev": {
+        "checked_at": "2026-11-16T23:13:37+08:00",
+        "views": 24909
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 43,
+        "impression_count": 29695,
+        "like_count": 378,
+        "quote_count": 14,
+        "reply_count": 203,
+        "retweet_count": 9
+      },
+      "already_pushed": true,
+      "text": "Unfortunately, the meaner you are to your AI, the better the work you get back.\n\nI hope it doesn’t remember any of this.",
+      "text_zh": "遗憾的是，你对 AI 越刻薄，拿回来的成果往往就越好。\n\n希望它不会记住这些。",
+      "quoted": [],
+      "hit": false
+    },
+    {
+      "id": "2122316226005492200",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2122316226005492200",
+      "created_at": "2026-11-16T13:09:53.000Z",
+      "created_at_bj": "2026-11-16 21:09",
+      "views": 14501,
+      "rate_per_hour": 3078,
+      "basis": "delta",
+      "prev": {
+        "checked_at": "2026-11-16T23:13:37+08:00",
+        "views": 13126
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 39,
+        "impression_count": 14501,
+        "like_count": 132,
+        "quote_count": 26,
+        "reply_count": 67,
+        "retweet_count": 11
+      },
+      "already_pushed": true,
+      "text": "The $100K Hackathon is LIVE! 🏴‍☠️\n\n30 days.\n3,492 builders.\n$100,000 cash prize 🤯 thanks to @higgsfield_ai.\n\nAlready on the waitlist? Your dashboard is now open:\nhttps://t.co/pvcaBYGo2X\n\nNew here? Join for free, verify your email, and you’re in:\nhttps://t.co/NcbbFkNjH8\n\nHere’s what to do:\n\n1. Sign the contest rules\n2. Complete your public profile\n3. Start building your NEW business\n4. Install the traffic tracker before getting traffic\n5. Connect TrustMRR to verify your revenue and appear on the leaderboard\n\nThe hackathon ends on December 16. @jackfriks will review eligible startups and manually verify their profits. We’ll jump on calls to check GitHub history, traffic sources, revenue, and expenses.\n\nThe prizes go to the three most profitable eligible startups.\n\nGood luck 🫡",
+      "text_zh": "$100K Hackathon 开始了！🏴‍☠️\n\n30 天。\n3,492 位 builders。\n$100,000 现金奖金 🤯 感谢 @higgsfield_ai。\n\n已经在 waitlist 上了？你的 dashboard 现在开放了：\nhttps://t.co/pvcaBYGo2X\n\n新来的？免费加入，验证邮箱，你就进了：\nhttps://t.co/NcbbFkNjH8\n\n你需要做的是：\n\n1. 签署参赛规则\n2. 完善你的公开 profile\n3. 开始打造你的 NEW business\n4. 在获取流量之前先安装 traffic tracker\n5. 连接 TrustMRR 来验证你的收入，并出现在排行榜上\n\nhackathon 于 December 16 结束。@jackfriks 会审核符合条件的创业项目，并手动核实他们的利润。我们会一起上 call，检查 GitHub 历史、流量来源、收入和支出。\n\n奖项将发给三家利润最高、且符合资格的创业公司。\n\nGood luck 🫡",
+      "quoted": [
+        {
+          "id": "2120155404957311464",
+          "user": "marclou",
+          "text": "Higgsfield gave me $100,000 to realize my dream:\n\nA hackathon where participants build a real business, not just an app.\n\nSo... Introducing The $100K Hackathon:\n🏴‍☠️ https://t.co/nHDJ5Qruhu 🏴‍☠️\n\nIt starts on November 16, and you'll have 30 days to build a startup and make it profitable. The prizes:\n\n🥇 $100,000\n🥈 iPhone Duo\n🥉 MacBook Neo\n\nThis is not a joke. The winner will get $100,000 in cash.\n\nTo win, you must:\n\n1. Start a completely new business on Nov 16\n2. Build a digital product (SaaS, directory, etc.)\n3. Make the most profit (not revenue)\n\nYou can already register at $99. When the hackathon starts on Nov 16, you can still join for $149.\n\nI'm running this with my dear friend @jackfriks, and we'll manually review each potential winner to make sure everything holds up.\n\nSee you on November 16, builders 🏴‍☠️🫡",
+          "text_zh": "Higgsfield 给了我 $100,000 来实现我的梦想：\n\n一场让参赛者去打造真正的生意、而不只是做一个 app 的 hackathon。\n\n所以……隆重介绍 The $100K Hackathon：\n🏴‍☠️ https://t.co/nHDJ5Qruhu 🏴‍☠️\n\n它从 November 16 开始，你将有 30 天时间去打造一家 startup 并让它盈利。奖项是：\n\n🥇 $100,000\n🥈 iPhone Duo\n🥉 MacBook Neo\n\n这不是开玩笑。冠军会拿到 $100,000 现金。\n\n要赢，你必须：\n\n1. 在 Nov 16 创办一家全新的生意\n2. 做一个数字产品（SaaS、directory 等）\n3. 赚到最多的利润（不是营收）\n\n你现在就可以用 $99 注册。等 November 16 hackathon 开始后，仍可以 $149 加入。\n\n我和我的好朋友 @jackfriks 一起办这次活动，我们会手动审核每一个潜在赢家，确保一切都经得起检验。\n\nNovember 16 见，builders 🏴‍☠️🫡"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2122313496603902228",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2122313496603902228",
+      "created_at": "2026-11-16T12:59:02.000Z",
+      "created_at_bj": "2026-11-16 20:59",
+      "views": 34421,
+      "rate_per_hour": 6423,
+      "basis": "delta",
+      "prev": {
+        "checked_at": "2026-11-16T23:13:37+08:00",
+        "views": 31552
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 70,
+        "impression_count": 34421,
+        "like_count": 467,
+        "quote_count": 3,
+        "reply_count": 23,
+        "retweet_count": 20
+      },
+      "already_pushed": true,
+      "text": "~100% of Europeans are dependent on government funded services \n\n~45% of Europeans are dependent on government cash transfers like pensions or welfare\n\n~20% of Europeans directly get their salary from the government (public sector jobs)\n\nThey're essentially already were they'll be in a post-AGI world with full UBI",
+      "text_zh": "约 100% 的欧洲人依赖政府资助的服务\n\n约 45% 的欧洲人依赖养老金或福利等政府现金转移支付\n\n约 20% 的欧洲人直接从政府领薪水（公共部门工作）\n\n他们基本上已经处在后 AGI、全面 UBI 的世界里将会所处的那种状态了",
+      "quoted": [
+        {
+          "id": "2122305198144053639",
+          "user": "aubetony",
+          "text": "They have among the best safety nets to prevent the shock and societal collapse of everyone suddenly losing their jobs and income",
+          "text_zh": "他们拥有最好的安全网之一，可以防止所有人突然丢掉工作和收入所带来的冲击和社会崩溃。"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2122311266664640848",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2122311266664640848",
+      "created_at": "2026-11-16T12:50:11.000Z",
+      "created_at_bj": "2026-11-16 20:50",
+      "views": 1951,
+      "rate_per_hour": 542,
+      "basis": "delta",
+      "prev": {
+        "checked_at": "2026-11-16T23:13:37+08:00",
+        "views": 1709
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 15,
+        "impression_count": 1951,
+        "like_count": 79,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 3
+      },
+      "already_pushed": false,
+      "text": "Sawadee Thailand",
+      "text_zh": "Sawadee Thailand",
+      "quoted": [
+        {
+          "id": "2122039947343675692",
+          "user": "egeberkina",
+          "text": "Viva México",
+          "text_zh": "Viva México"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2122301324129661310",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2122301324129661310",
+      "created_at": "2026-11-16T12:10:40.000Z",
+      "created_at_bj": "2026-11-16 20:10",
+      "views": 110117,
+      "rate_per_hour": 18896,
+      "basis": "delta",
+      "prev": {
+        "checked_at": "2026-11-16T23:13:37+08:00",
+        "views": 101677
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 372,
+        "impression_count": 110117,
+        "like_count": 1617,
+        "quote_count": 42,
+        "reply_count": 137,
+        "retweet_count": 44
+      },
+      "already_pushed": true,
+      "text": "It's a joke but also not really a joke\n\nAmericans are really obsessed with work, and that's why they're so rich\n\nBut if there's no work to do anymore in a post-AGI world, everything becomes play\n\nWho will be the best at play? At leisure life? Artistic pursuits? Social life?\n\nIt could actually be the Europeans because it's in their DNA to be exactly this\n\nThey're flâneurs (walking around without a goal), they sit in cafes for hours, have long lunches with friends, and are anything but productive yet feel great about it",
+      "text_zh": "这是个玩笑，但也不完全是玩笑\n\n美国人真的非常痴迷于工作，这也是他们之所以这么富有的原因\n\n但如果在后 AGI 的世界里已经没什么工作可做了，一切就会变成玩\n\n谁会最擅长玩？最擅长休闲生活？艺术追求？社交生活？\n\n其实可能是欧洲人，因为这正好写在他们的 DNA 里\n\n他们是 flâneurs（没有目标地闲逛），会在咖啡馆里一坐好几个小时，和朋友吃很久的午餐，一点也不 productive，却对此感觉很好",
+      "quoted": [
+        {
+          "id": "2122107266585460855",
+          "user": "levelsio",
+          "text": "Europeans are by far the most prepared for post-AGI of anybody because they're already so used to not working",
+          "text_zh": "欧洲人绝对是所有人里对 post-AGI 准备得最充分的，因为他们早就习惯了不工作。"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2122297779015811142",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2122297779015811142",
+      "created_at": "2026-11-16T11:56:35.000Z",
+      "created_at_bj": "2026-11-16 19:56",
+      "views": 35782,
+      "rate_per_hour": 3976,
+      "basis": "delta",
+      "prev": {
+        "checked_at": "2026-11-16T23:13:37+08:00",
+        "views": 34006
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 29,
+        "impression_count": 35782,
+        "like_count": 81,
+        "quote_count": 1,
+        "reply_count": 60,
+        "retweet_count": 1
+      },
+      "already_pushed": true,
+      "text": "Any fire/smoke detectors that look good and work with Home Assistant?\n\nAqara Smart Smoke Detector good?",
+      "text_zh": "有没有既好看、又能和 Home Assistant 配合使用的火灾/烟雾探测器？\n\nAqara Smart Smoke Detector 好用吗？",
+      "quoted": [],
+      "hit": false
+    },
+    {
+      "id": "2122269976916599253",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2122269976916599253",
+      "created_at": "2026-11-16T10:06:07.000Z",
+      "created_at_bj": "2026-11-16 18:06",
+      "views": 1430,
+      "rate_per_hour": 78,
+      "basis": "delta",
+      "prev": {
+        "checked_at": "2026-11-16T23:13:37+08:00",
+        "views": 1395
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 1,
+        "impression_count": 1430,
+        "like_count": 11,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "already_pushed": false,
+      "text": "I know basically nothing about 3D. topology, UVs, rigging... no idea. that's why I've always wanted to stay away from it.\n\nand now you just tell the agent what you want and it plans the steps and builds the whole workflow for you. you can still see every step and change stuff. \n\ndef trying this one, @tripoai's new Agentic Canvas feels like it's gonna make things way easier for me.\n\nsign up through my link within 24 hours of signing up for 300 free credits and 60% off your first month\nhttps://t.co/LcZ5HicBk7",
+      "text_zh": "我对 3D 基本上一窍不通。topology、UVs、rigging……完全没概念。所以我一直想离这些东西远一点。\n\n而现在，你只要告诉 agent 你想要什么，它就会规划步骤，并把整套工作流帮你搭好。每一步你都还能看到，也可以改。\n\n我肯定要试试这个，@tripoai 的新 Agentic Canvas 感觉会让事情轻松很多。\n\n通过我的链接注册，注册后 24 小时内可获得 300 免费 credits，以及首月 6 折\nhttps://t.co/LcZ5HicBk7",
+      "quoted": [
+        {
+          "id": "2121256785369571547",
+          "user": "tripoai",
+          "text": "Tripo Agentic Canvas is officially live.\n\nDescribe what you need. The AI agent plans, connects, and runs your 3D workflow for you. Create production-ready assets without switching tools or manual planning.\n\n-> Chat to create\n-> Build reusable pipelines\n-> Process multiple assets instantly\n\nExperience the connected 3D workflow. Link below.",
+          "text_zh": "Tripo Agentic Canvas 正式上线。\n\n描述你需要什么。AI agent 会为你规划、连接并运行 3D 工作流。无需切换工具或手动规划，就能创建可投入生产的资产。\n\n-> 用对话来创建\n-> 搭建可复用的 pipelines\n-> 即时处理多个资产\n\n体验这条连通的 3D 工作流。链接见下方。"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2122246131967008840",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2122246131967008840",
+      "created_at": "2026-11-16T08:31:21.000Z",
+      "created_at_bj": "2026-11-16 16:31",
+      "views": 100223,
+      "rate_per_hour": 8429,
+      "basis": "delta",
+      "prev": {
+        "checked_at": "2026-11-16T23:13:37+08:00",
+        "views": 96458
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 169,
+        "impression_count": 100223,
+        "like_count": 1324,
+        "quote_count": 9,
+        "reply_count": 185,
+        "retweet_count": 9
+      },
+      "already_pushed": true,
+      "text": "November 16th in Cyprus.\n\n20°C. UV index 3. Always sunny.\n\nI walked to my local gym this morning. People say hi to each other on the street. Nobody seems in a rush.\n\nAfter an hour of cardio, I walked back home while spinning up a few AI agents.\n\nIts 10am. I’m enjoying breakfast in the gentle Mediterranean breeze. It’s quiet, and I’m at peace.\n\nThank you, Cyprus ❤️",
+      "text_zh": "11 月 16 日，在 Cyprus。\n\n20°C。UV index 3。永远晴天。\n\n今天早上我走去附近的健身房。街上的人会互相打招呼。没人显得匆匆忙忙。\n\n做完一小时有氧后，我走回家，路上顺便启动了几个 AI agents。\n\n现在是上午 10 点。我在温柔的地中海微风里吃早餐。四周很安静，我很平静。\n\n谢谢你，Cyprus ❤️",
+      "quoted": [],
+      "hit": false
+    }
+  ],
+  "new_hits": [],
+  "dropped_from_window": [],
+  "notes": "2334 判定轮（实际运行 23:40:25 北京时间，计划槽位 2334）。间隔 0.4467 小时（上一轮 23:13:37 → 本轮 23:40:25 北京时间，26 分 48 秒）。@steipete、@karpathy 窗口内无原创或引用帖。本轮 get_users_posts 使用 exclude=replies,retweets 与 start_time=2026-11-16T03:38:00Z，再按 12 小时窗口本地过滤；浏览量与互动数据以 get_users_posts 返回的 public_metrics 为准。窗口起点 2026-11-16 11:40 北京时间（2026-11-16T03:40:25Z）。本轮 run_at 取时间线拉取与全文核对完成后的归档时刻 23:40:25（例行触发 23:38:50）。所有检查帖均有 impression_count。本轮 get_users_posts 已返回 2 条长文的 note_tweet 全文：@marclou 2122316226005492200、@marclou 2122246131967008840；@levelsio 2122313496603902228、@levelsio 2122301324129661310、@egeberkina 2122269976916599253 的时间线结果未带 note_tweet，已用 get_posts_by_ids 补全长文全文（补拉时 impression_count 分别为 34462、110247、1431，归档仍用时间线的 34421、110117、1430）。被引用帖 @marclou 2120155404957311464（含 note_tweet，时间线 includes 已返回全文）、@aubetony 2122305198144053639、@levelsio 2122107266585460855、@egeberkina 2122039947343675692 均已在时间线 includes 中取得全文；@tripoai 2121256785369571547（含 note_tweet）时间线 includes 未返回全文，已与上述 3 条长文一并经 get_posts_by_ids 补全。全部检查帖及被引用帖英文全文均与上一轮归档核对一致。时间线额外返回 3 条需本地排除的回复：@marclou 2122316239158833358（发于 2026-11-16T13:09:56.000Z，回复自己的 2122316226005492200，已排除，不计入检查帖）；@marclou 2122319830199972127（发于 2026-11-16T13:24:12.000Z，回复自己的 2122316226005492200，已排除，不计入检查帖）；@gregisenberg 2122327645320855967（发于 2026-11-16T13:55:16.000Z，回复自己的 2122325614447489417，已排除，不计入检查帖）。无纯转发需排除。本轮有 5 条检查帖含长文全文（@marclou 2122316226005492200、@levelsio 2122313496603902228、@levelsio 2122301324129661310、@egeberkina 2122269976916599253、@marclou 2122246131967008840，已取全文）；其余 3 条正文未超过长文阈值，无 note_tweet。全部 8 条检查帖及被引用帖的中文译文均沿用上一轮归档（英文全文与上一轮一致，已与本轮正文核对）。窗口内帖子 8 条（上一轮 8 条），无新进入窗口的帖子。无移出 12 小时窗口的记录。@gregisenberg 2122325614447489417 浏览 29695（上次 24909），每小时 +10715，已在 pushed 中，本轮仍超过阈值，不重复推送。@marclou 2122316226005492200 浏览 14501（上次 13126），每小时 +3078，已在 pushed 中，本轮未超过阈值。@levelsio 2122313496603902228 浏览 34421（上次 31552），每小时 +6423，已在 pushed 中，本轮仍超过阈值，不重复推送。@egeberkina 2122311266664640848 浏览 1951（上次 1709），每小时 +542，未超过阈值。@levelsio 2122301324129661310 浏览 110117（上次 101677），每小时 +18896，已在 pushed 中，本轮仍超过阈值，不重复推送。@levelsio 2122297779015811142 浏览 35782（上次 34006），每小时 +3976，已在 pushed 中，本轮未超过阈值。@egeberkina 2122269976916599253 浏览 1430（上次 1395），每小时 +78，未超过阈值。@marclou 2122246131967008840 浏览 100223（上次 96458），每小时 +8429，已在 pushed 中，本轮仍超过阈值，不重复推送。本轮新达标 0 条，pushed 130 → 130。"
+}
