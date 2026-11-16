@@ -1,0 +1,181 @@
+{
+  "run_at": "2026-11-16T20:42:55+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "2034",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2122301324129661310",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2122301324129661310",
+      "created_at": "2026-11-16T12:10:40.000Z",
+      "created_at_bj": "2026-11-16 20:10",
+      "views": 16258,
+      "rate_per_hour": 28783,
+      "basis": "delta",
+      "prev": {
+        "checked_at": "2026-11-16T20:15:25+08:00",
+        "views": 3066
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 48,
+        "impression_count": 16258,
+        "like_count": 216,
+        "quote_count": 8,
+        "reply_count": 34,
+        "retweet_count": 7
+      },
+      "already_pushed": true,
+      "text": "It's a joke but also not really a joke\n\nAmericans are really obsessed with work, and that's why they're so rich\n\nBut if there's no work to do anymore in a post-AGI world, everything becomes play\n\nWho will be the best at play? At leisure life? Artistic pursuits? Social life?\n\nIt could actually be the Europeans because it's in their DNA to be exactly this\n\nThey're flâneurs (walking around without a goal), they sit in cafes for hours, have long lunches with friends, and are anything but productive yet feel great about it",
+      "text_zh": "这是个玩笑，但也不完全是玩笑\n\n美国人真的非常痴迷于工作，这也是他们之所以这么富有的原因\n\n但如果在后 AGI 的世界里已经没什么工作可做了，一切就会变成玩\n\n谁会最擅长玩？最擅长休闲生活？艺术追求？社交生活？\n\n其实可能是欧洲人，因为这正好写在他们的 DNA 里\n\n他们是 flâneurs（没有目标地闲逛），会在咖啡馆里一坐好几个小时，和朋友吃很久的午餐，一点也不 productive，却对此感觉很好",
+      "quoted": [
+        {
+          "id": "2122107266585460855",
+          "user": "levelsio",
+          "text": "Europeans are by far the most prepared for post-AGI of anybody because they're already so used to not working",
+          "text_zh": "欧洲人绝对是所有人里对 post-AGI 准备得最充分的，因为他们早就习惯了不工作。"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2122297779015811142",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2122297779015811142",
+      "created_at": "2026-11-16T11:56:35.000Z",
+      "created_at_bj": "2026-11-16 19:56",
+      "views": 11362,
+      "rate_per_hour": 12279,
+      "basis": "delta",
+      "prev": {
+        "checked_at": "2026-11-16T20:15:25+08:00",
+        "views": 5734
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 2,
+        "impression_count": 11362,
+        "like_count": 21,
+        "quote_count": 1,
+        "reply_count": 23,
+        "retweet_count": 1
+      },
+      "already_pushed": true,
+      "text": "Any fire/smoke detectors that look good and work with Home Assistant?\n\nAqara Smart Smoke Detector good?",
+      "text_zh": "有没有既好看、又能和 Home Assistant 配合使用的火灾/烟雾探测器？\n\nAqara Smart Smoke Detector 好用吗？",
+      "quoted": [],
+      "hit": false
+    },
+    {
+      "id": "2122269976916599253",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2122269976916599253",
+      "created_at": "2026-11-16T10:06:07.000Z",
+      "created_at_bj": "2026-11-16 18:06",
+      "views": 1044,
+      "rate_per_hour": 209,
+      "basis": "delta",
+      "prev": {
+        "checked_at": "2026-11-16T20:15:25+08:00",
+        "views": 948
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 1,
+        "impression_count": 1044,
+        "like_count": 9,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "already_pushed": false,
+      "text": "I know basically nothing about 3D. topology, UVs, rigging... no idea. that's why I've always wanted to stay away from it.\n\nand now you just tell the agent what you want and it plans the steps and builds the whole workflow for you. you can still see every step and change stuff. \n\ndef trying this one, @tripoai's new Agentic Canvas feels like it's gonna make things way easier for me.\n\nsign up through my link within 24 hours of signing up for 300 free credits and 60% off your first month\nhttps://t.co/LcZ5HicBk7",
+      "text_zh": "我对 3D 基本上一窍不通。topology、UVs、rigging……完全没概念。所以我一直想离这些东西远一点。\n\n而现在，你只要告诉 agent 你想要什么，它就会规划步骤，并把整套工作流帮你搭好。每一步你都还能看到，也可以改。\n\n我肯定要试试这个，@tripoai 的新 Agentic Canvas 感觉会让事情轻松很多。\n\n通过我的链接注册，注册后 24 小时内可获得 300 免费 credits，以及首月 6 折\nhttps://t.co/LcZ5HicBk7",
+      "quoted": [
+        {
+          "id": "2121256785369571547",
+          "user": "tripoai",
+          "text": "Tripo Agentic Canvas is officially live.\n\nDescribe what you need. The AI agent plans, connects, and runs your 3D workflow for you. Create production-ready assets without switching tools or manual planning.\n\n-> Chat to create\n-> Build reusable pipelines\n-> Process multiple assets instantly\n\nExperience the connected 3D workflow. Link below.",
+          "text_zh": "Tripo Agentic Canvas 正式上线。\n\n描述你需要什么。AI agent 会为你规划、连接并运行 3D 工作流。无需切换工具或手动规划，就能创建可投入生产的资产。\n\n-> 用对话来创建\n-> 搭建可复用的 pipelines\n-> 即时处理多个资产\n\n体验这条连通的 3D 工作流。链接见下方。"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2122246131967008840",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2122246131967008840",
+      "created_at": "2026-11-16T08:31:21.000Z",
+      "created_at_bj": "2026-11-16 16:31",
+      "views": 68068,
+      "rate_per_hour": 12044,
+      "basis": "delta",
+      "prev": {
+        "checked_at": "2026-11-16T20:15:25+08:00",
+        "views": 62548
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 124,
+        "impression_count": 68068,
+        "like_count": 979,
+        "quote_count": 8,
+        "reply_count": 154,
+        "retweet_count": 6
+      },
+      "already_pushed": true,
+      "text": "November 16th in Cyprus.\n\n20°C. UV index 3. Always sunny.\n\nI walked to my local gym this morning. People say hi to each other on the street. Nobody seems in a rush.\n\nAfter an hour of cardio, I walked back home while spinning up a few AI agents.\n\nIts 10am. I’m enjoying breakfast in the gentle Mediterranean breeze. It’s quiet, and I’m at peace.\n\nThank you, Cyprus ❤️",
+      "text_zh": "11 月 16 日，在 Cyprus。\n\n20°C。UV index 3。永远晴天。\n\n今天早上我走去附近的健身房。街上的人会互相打招呼。没人显得匆匆忙忙。\n\n做完一小时有氧后，我走回家，路上顺便启动了几个 AI agents。\n\n现在是上午 10 点。我在温柔的地中海微风里吃早餐。四周很安静，我很平静。\n\n谢谢你，Cyprus ❤️",
+      "quoted": [],
+      "hit": false
+    },
+    {
+      "id": "2122130491339944443",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2122130491339944443",
+      "created_at": "2026-11-16T00:51:51.000Z",
+      "created_at_bj": "2026-11-16 08:51",
+      "views": 69098,
+      "rate_per_hour": 2601,
+      "basis": "delta",
+      "prev": {
+        "checked_at": "2026-11-16T20:15:25+08:00",
+        "views": 67906
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 127,
+        "impression_count": 69098,
+        "like_count": 531,
+        "quote_count": 0,
+        "reply_count": 9,
+        "retweet_count": 12
+      },
+      "already_pushed": true,
+      "text": "Excellent post https://t.co/cSfD7Mba4e",
+      "text_zh": "写得非常好 https://t.co/cSfD7Mba4e",
+      "quoted": [
+        {
+          "id": "2122115418659967289",
+          "user": "balajis",
+          "text": "Anthony, the \"spy\" story appears to be as fake as Russiagate. Here are the facts as I understand them.\n\n(1) First, Alice Huang was at a company called Megaspeed[1], which everyone agrees bought Nvidia chips to sell to Southeast Asian companies called neoclouds. This is in itself completely legal under US law.\n\n(2) However, some both inside and outside the admin didn't like this. They want to block Chinese nationals from accessing cloud services with Nvidia GPUs even if those servers are located outside China. Fine, but the so-called Remote Access Security Act (RASA) to block this has passed the House but not the Senate, and is not law[2].\n\n(3) Singapore's government also looked into this when Alice Huang was on their soil[3] and didn't find any evidence that Megaspeed was actually selling chips to China illegally — let alone that she was a \"Chinese spy.\" They did give her an entry ban, but that's like a visa denial.\n\n(4) The related point is that it's not actually illegal to sell Nvidia chips to China! Since the Biden admin, there has been a complex and constantly-shifting set of export restrictions on chips. As of right now, Nvidia is allowed to sell H200s[4] to China, and indeed has designed these to comply with applicable law.\n\n(5) But you know what...China actually also doesn't want Nvidia chips in China [5,6], because they want to build up their homegrown chip industry. The Nvidia chips are so good that China doesn't want to remain dependent on American chips, or vulnerable to possible US backdoors.\n\n(6) The broader point is that this is an argument between nationalists and capitalists. Nationalists argue that US companies shouldn't even get close to selling to China, and shouldn't even be selling to neoclouds, even if it's \"technically\" legal. Capitalists argue that it's impossible for American companies to dominate world markets without, you know, being allowed to dominate world markets by actually competing in them. And that it's one thing to restrict physical sales to China, and quite another to require proof-of-citizenship for every single cloud access.\n\n(7) Here's the thing: it doesn't make sense for one of the (few!) industries where America has a trade surplus with China to be summarily cut off, if you're worried about trade surpluses. It doesn't make sense to remove your number one AI CEO, if you want to be number one in AI. And it truly doesn't make sense to do to Jensen Huang what the communists did to Jack Ma[7], if your goal is fighting communism.\n\n(8) So, to summarize: there's no proof of spying, as Blanche at DOJ has admitted[8], which rebuts your FBI/DOJ points. The Wachtell investigation you raise is just an in-house thing[9] ordered by the Nvidia board. And so all that's left is some affairs, which society has agreed is not disqualifying, given the realities of both Clinton and Trump.\n\nIn short: do you want a communist society like China, where Jack Ma's company can be stolen from him overnight on false pretenses? Or do you want some semblance of rule of law? If so, you should support the restoration of Jensen Huang to the company he built.\n\nCitations follow in the next tweet.",
+          "text_zh": "Anthony，这个所谓的“间谍”故事看起来和 Russiagate 一样是假的。以下是我目前所理解的事实。\n\n(1) 首先，Alice Huang 曾在一家叫 Megaspeed[1] 的公司工作，大家都同意这家公司买了 Nvidia 芯片，再卖给东南亚那些被称为 neoclouds 的公司。这本身在美国法律下完全合法。\n\n(2) 不过，政府内部和外部都有一些人不喜欢这件事。他们希望阻止中国公民使用配备 Nvidia GPU 的云服务，哪怕这些服务器位于中国境外。可以，但用来堵住这件事的所谓 Remote Access Security Act（RASA）已经在众议院通过，但还没过参议院，目前并不是法律[2]。\n\n(3) 新加坡政府也在 Alice Huang 身处当地时调查过这件事[3]，并没有发现 Megaspeed 真的在向中国非法出售芯片的证据——更不用说她是“中国间谍”。他们确实给了她入境禁令，但那类似于拒签。\n\n(4) 相关的一点是：向中国出售 Nvidia 芯片其实并不违法！自 Biden 政府以来，对芯片出口有一套复杂且不断变化的限制。就目前而言，Nvidia 被允许向中国出售 H200s[4]，而且这些产品本身就是为了符合适用法律而设计的。\n\n(5) 但你知道吗……中国其实也不希望 Nvidia 芯片进入中国[5,6]，因为他们想做大本土芯片产业。Nvidia 芯片太好了，中国不想继续依赖美国芯片，也不想暴露在可能的美国后门之下。\n\n(6) 更宏观的一点是：这是民族主义者与资本家之间的争论。民族主义者主张，美国公司甚至不该接近向中国销售，甚至不该卖给 neoclouds，哪怕这在“技术上”合法。资本家则主张，如果美国公司不被允许通过真正参与竞争来主导全球市场，他们就不可能主导全球市场。而且，限制对中国的实体销售是一回事，要求每一次云访问都提供公民身份证明则完全是另一回事。\n\n(7) 问题在于：如果你担心贸易顺差，把为数不多的美国对中国保持贸易顺差的产业之一直接切断，并不合理。如果你想在 AI 上拿第一，把你的头号 AI CEO 拿掉，并不合理。而如果你的目标是对抗共产主义，却用共产党对待 Jack Ma[7] 的那一套对待 Jensen Huang，就更说不通了。\n\n(8) 所以总结一下：没有间谍活动的证据，DOJ 的 Blanche 也承认了这一点[8]，这反驳了你关于 FBI/DOJ 的那些说法。你提到的 Wachtell 调查只是 Nvidia 董事会下令做的内部调查[9]。剩下的就只是一些婚外情，而考虑到 Clinton 和 Trump 的现实，社会已经同意这并不足以让人失去资格。\n\n简而言之：你是想要一个像中国那样的共产主义社会，Jack Ma 的公司可以在虚假借口下被一夜剥夺？还是想要某种法治的样子？如果是后者，你就应该支持让 Jensen Huang 回到他亲手打造的公司。\n\n出处见下一条推文。"
+        }
+      ],
+      "hit": false
+    }
+  ],
+  "new_hits": [],
+  "dropped_from_window": [],
+  "notes": "2034 判定轮（实际运行 20:42:55 北京时间，计划槽位 2034）。间隔 0.4583 小时（上一轮 20:15:25 → 本轮 20:42:55 北京时间，27 分 30 秒）。@gregisenberg、@steipete、@karpathy 窗口内无原创或引用帖。本轮 get_users_posts 使用 exclude=replies,retweets 与 start_time=2026-11-16T00:40:00Z，再按 12 小时窗口本地过滤；浏览量与互动数据以 get_users_posts 返回的 public_metrics 为准。窗口起点 2026-11-16 08:42 北京时间（2026-11-16T00:42:55Z）。本轮 run_at 取时间线拉取与全文核对完成后的归档时刻 20:42:55（例行触发 20:40:59）。所有检查帖均有 impression_count。本轮 get_users_posts 已返回 @levelsio 2122301324129661310、@egeberkina 2122269976916599253、@marclou 2122246131967008840 的 note_tweet 全文；无需 get_posts_by_ids 补全。被引用帖 @levelsio 2122107266585460855、@balajis 2122115418659967289、@tripoai 2121256785369571547 均在 get_users_posts includes 中返回全文（后两条含 note_tweet），并与上一轮归档全文核对一致。时间线未额外返回需本地排除的回复或纯转发。本轮有 3 条检查帖含长文全文（@levelsio 2122301324129661310、@egeberkina 2122269976916599253、@marclou 2122246131967008840，已取全文）；其余 2 条正文未超过长文阈值，无 note_tweet。5 条检查帖中文译文均沿用上一轮归档（英文全文与上一轮一致，已与本轮正文核对）。被引用帖 @levelsio、@balajis、@tripoai 中文译文同样沿用既有归档（英文全文与当时一致，已核对）。窗口内无新进入的帖子。移出 12 小时窗口：0 条。窗口内帖子 5 条（上一轮 5 条），新进入窗口 0 条。@levelsio 2122301324129661310 浏览 16258（上次 3066），每小时 +28783，已在 pushed 中，本轮仍超过阈值，不重复推送。@levelsio 2122297779015811142 浏览 11362（上次 5734），每小时 +12279，已在 pushed 中，本轮仍超过阈值，不重复推送。@egeberkina 2122269976916599253 浏览 1044（上次 948），每小时 +209，未超过阈值。@marclou 2122246131967008840 浏览 68068（上次 62548），每小时 +12044，已在 pushed 中，本轮仍超过阈值，不重复推送。@levelsio 2122130491339944443 浏览 69098（上次 67906），每小时 +2601，已在 pushed 中，未超过阈值。本轮新达标 0 条，pushed 127 → 127。"
+}
