@@ -1,0 +1,278 @@
+{
+  "run_at": "2026-11-16T09:17:19+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "0904",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2122130491339944443",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2122130491339944443",
+      "created_at": "2026-11-16T00:51:51.000Z",
+      "created_at_bj": "2026-11-16 08:51",
+      "views": 6759,
+      "rate_per_hour": 15924,
+      "basis": "first_sight",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 9,
+        "impression_count": 6759,
+        "like_count": 41,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "already_pushed": false,
+      "text": "Excellent post https://t.co/cSfD7Mba4e",
+      "text_zh": "写得非常好 https://t.co/cSfD7Mba4e",
+      "quoted": [
+        {
+          "id": "2122115418659967289",
+          "user": "balajis",
+          "text": "Anthony, the \"spy\" story appears to be as fake as Russiagate. Here are the facts as I understand them.\n\n(1) First, Alice Huang was at a company called Megaspeed[1], which everyone agrees bought Nvidia chips to sell to Southeast Asian companies called neoclouds. This is in itself completely legal under US law.\n\n(2) However, some both inside and outside the admin didn't like this. They want to block Chinese nationals from accessing cloud services with Nvidia GPUs even if those servers are located outside China. Fine, but the so-called Remote Access Security Act (RASA) to block this has passed the House but not the Senate, and is not law[2].\n\n(3) Singapore's government also looked into this when Alice Huang was on their soil[3] and didn't find any evidence that Megaspeed was actually selling chips to China illegally — let alone that she was a \"Chinese spy.\" They did give her an entry ban, but that's like a visa denial.\n\n(4) The related point is that it's not actually illegal to sell Nvidia chips to China! Since the Biden admin, there has been a complex and constantly-shifting set of export restrictions on chips. As of right now, Nvidia is allowed to sell H200s[4] to China, and indeed has designed these to comply with applicable law.\n\n(5) But you know what...China actually also doesn't want Nvidia chips in China [5,6], because they want to build up their homegrown chip industry. The Nvidia chips are so good that China doesn't want to remain dependent on American chips, or vulnerable to possible US backdoors.\n\n(6) The broader point is that this is an argument between nationalists and capitalists. Nationalists argue that US companies shouldn't even get close to selling to China, and shouldn't even be selling to neoclouds, even if it's \"technically\" legal. Capitalists argue that it's impossible for American companies to dominate world markets without, you know, being allowed to dominate world markets by actually competing in them. And that it's one thing to restrict physical sales to China, and quite another to require proof-of-citizenship for every single cloud access.\n\n(7) Here's the thing: it doesn't make sense for one of the (few!) industries where America has a trade surplus with China to be summarily cut off, if you're worried about trade surpluses. It doesn't make sense to remove your number one AI CEO, if you want to be number one in AI. And it truly doesn't make sense to do to Jensen Huang what the communists did to Jack Ma[7], if your goal is fighting communism.\n\n(8) So, to summarize: there's no proof of spying, as Blanche at DOJ has admitted[8], which rebuts your FBI/DOJ points. The Wachtell investigation you raise is just an in-house thing[9] ordered by the Nvidia board. And so all that's left is some affairs, which society has agreed is not disqualifying, given the realities of both Clinton and Trump.\n\nIn short: do you want a communist society like China, where Jack Ma's company can be stolen from him overnight on false pretenses? Or do you want some semblance of rule of law? If so, you should support the restoration of Jensen Huang to the company he built.\n\nCitations follow in the next tweet.",
+          "text_zh": "Anthony，这个所谓的“间谍”故事看起来和 Russiagate 一样是假的。以下是我目前所理解的事实。\n\n(1) 首先，Alice Huang 曾在一家叫 Megaspeed[1] 的公司工作，大家都同意这家公司买了 Nvidia 芯片，再卖给东南亚那些被称为 neoclouds 的公司。这本身在美国法律下完全合法。\n\n(2) 不过，政府内部和外部都有一些人不喜欢这件事。他们希望阻止中国公民使用配备 Nvidia GPU 的云服务，哪怕这些服务器位于中国境外。可以，但用来堵住这件事的所谓 Remote Access Security Act（RASA）已经在众议院通过，但还没过参议院，目前并不是法律[2]。\n\n(3) 新加坡政府也在 Alice Huang 身处当地时调查过这件事[3]，并没有发现 Megaspeed 真的在向中国非法出售芯片的证据——更不用说她是“中国间谍”。他们确实给了她入境禁令，但那类似于拒签。\n\n(4) 相关的一点是：向中国出售 Nvidia 芯片其实并不违法！自 Biden 政府以来，对芯片出口有一套复杂且不断变化的限制。就目前而言，Nvidia 被允许向中国出售 H200s[4]，而且这些产品本身就是为了符合适用法律而设计的。\n\n(5) 但你知道吗……中国其实也不希望 Nvidia 芯片进入中国[5,6]，因为他们想做大本土芯片产业。Nvidia 芯片太好了，中国不想继续依赖美国芯片，也不想暴露在可能的美国后门之下。\n\n(6) 更宏观的一点是：这是民族主义者与资本家之间的争论。民族主义者主张，美国公司甚至不该接近向中国销售，甚至不该卖给 neoclouds，哪怕这在“技术上”合法。资本家则主张，如果美国公司不被允许通过真正参与竞争来主导全球市场，他们就不可能主导全球市场。而且，限制对中国的实体销售是一回事，要求每一次云访问都提供公民身份证明则完全是另一回事。\n\n(7) 问题在于：如果你担心贸易顺差，把为数不多的美国对中国保持贸易顺差的产业之一直接切断，并不合理。如果你想在 AI 上拿第一，把你的头号 AI CEO 拿掉，并不合理。而如果你的目标是对抗共产主义，却用共产党对待 Jack Ma[7] 的那一套对待 Jensen Huang，就更说不通了。\n\n(8) 所以总结一下：没有间谍活动的证据，DOJ 的 Blanche 也承认了这一点[8]，这反驳了你关于 FBI/DOJ 的那些说法。你提到的 Wachtell 调查只是 Nvidia 董事会下令做的内部调查[9]。剩下的就只是一些婚外情，而考虑到 Clinton 和 Trump 的现实，社会已经同意这并不足以让人失去资格。\n\n简而言之：你是想要一个像中国那样的共产主义社会，Jack Ma 的公司可以在虚假借口下被一夜剥夺？还是想要某种法治的样子？如果是后者，你就应该支持让 Jensen Huang 回到他亲手打造的公司。\n\n出处见下一条推文。"
+        }
+      ],
+      "hit": true
+    },
+    {
+      "id": "2122112289255870714",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2122112289255870714",
+      "created_at": "2026-11-15T23:39:31.000Z",
+      "created_at_bj": "2026-11-16 07:39",
+      "views": 10998,
+      "rate_per_hour": 3182,
+      "basis": "delta",
+      "prev": {
+        "checked_at": "2026-11-16T08:39:16+08:00",
+        "views": 8980
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 156,
+        "impression_count": 10998,
+        "like_count": 91,
+        "quote_count": 1,
+        "reply_count": 38,
+        "retweet_count": 8
+      },
+      "already_pushed": true,
+      "text": "This AI ad produced $1.4M in ARR for a Series A startup.\n\nHere’s the stack:\n\n1. fal for the voice clone\n2. Seedance for the video\n3. FFmpeg to upscale it from 480p\n4. A word for word transcript check to fix mispronounced words\n5. Claude Code or Grok Bot to run the whole thing\n\nHere’s the nitty gritty explanation by this cracked marketer in 90s or less:",
+      "text_zh": "这支 AI 广告为一家 Series A 创业公司带来了 $1.4M ARR。\n\n技术栈如下：\n\n1. fal 用来做声音克隆\n2. Seedance 用来做视频\n3. FFmpeg 把它从 480p 升到更高分辨率\n4. 逐字核对转录，修正读错的词\n5. 用 Claude Code 或 Grok Bot 来跑整套流程\n\n下面是这位 cracked marketer 在 90 秒内讲完的具体细节：\n\n引用内容：他引用了自己此前的帖子：我认为我们已经到了 cracked marketer 比 cracked engineer 更抢手的地步。",
+      "quoted": [
+        {
+          "id": "2118867930113057131",
+          "user": "gregisenberg",
+          "text": "i think we've reached the point where the cracked marketer is more in demand than the cracked engineer",
+          "text_zh": "我认为我们已经到了 cracked marketer 比 cracked engineer 更抢手的地步。"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2122107266585460855",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2122107266585460855",
+      "created_at": "2026-11-15T23:19:33.000Z",
+      "created_at_bj": "2026-11-16 07:19",
+      "views": 42832,
+      "rate_per_hour": 17961,
+      "basis": "delta",
+      "prev": {
+        "checked_at": "2026-11-16T08:39:16+08:00",
+        "views": 31442
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 81,
+        "impression_count": 42832,
+        "like_count": 1753,
+        "quote_count": 19,
+        "reply_count": 43,
+        "retweet_count": 59
+      },
+      "already_pushed": true,
+      "text": "Europeans are by far the most prepared for post-AGI of anybody because they're already so used to not working",
+      "text_zh": "欧洲人绝对是所有人里对 post-AGI 准备得最充分的，因为他们早就习惯了不工作。",
+      "quoted": [],
+      "hit": false
+    },
+    {
+      "id": "2122043488728649787",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2122043488728649787",
+      "created_at": "2026-11-15T19:06:08.000Z",
+      "created_at_bj": "2026-11-16 03:06",
+      "views": 23191,
+      "rate_per_hour": 1466,
+      "basis": "delta",
+      "prev": {
+        "checked_at": "2026-11-16T08:39:16+08:00",
+        "views": 22261
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 363,
+        "impression_count": 23191,
+        "like_count": 212,
+        "quote_count": 1,
+        "reply_count": 90,
+        "retweet_count": 10
+      },
+      "already_pushed": false,
+      "text": "Want to be the most AI pilled company in your space?\n\nI’m picking 10 companies for my team to make you the most AI pilled company in your space in 2027.\n\nHere’s what we’ll do:\n\n1. Set up a second brain for every employee (and train employees)\n\n2. Set up a company brain\n\n3. Turn your best workflows into skills\n\n4. Connect your tools so agents can take action\n\n5. Put agents on those workflows every day\n\n6. Build the loop so the whole system gets smarter each week\n\n7. Redesign your existing products so agents can use them\n\n8. Build new AI native products with you (agents, MCPs, apps)\n\n9. Set up agents that bring you more customers (outbound, ads, content)\n\n10. Much more\n\nBasically, A lot of people read my tweet below and asked if someone could just set it up for them and I don't blame them.\n\nSo, reply “interested” to this tweet, then head to https://t.co/YQJFV1XTa1 (bottom of page is our email) and email us with your company/company size/what you're looking for.\n\nWe’ll reach out to the 10 companies we think we can drive an absurd amount of value for.",
+      "text_zh": "想成为你所在领域里最 AI pilled 的公司吗？\n\n我正在挑选 10 家公司，让我的团队在 2027 年把你打造成所在领域里最 AI pilled 的公司。\n\n我们会做这些：\n\n1. 为每位员工建立第二大脑（并培训员工）\n\n2. 建立公司大脑\n\n3. 把你最好的工作流变成 skills\n\n4. 把你的工具接上，让 agents 能采取行动\n\n5. 每天把 agents 放到这些工作流上\n\n6. 把循环建起来，让整个系统每周都变得更聪明\n\n7. 重新设计你现有的产品，让 agents 也能使用它们\n\n8. 和你一起打造新的 AI native 产品（agents、MCP、apps）\n\n9. 建立能为你带来更多客户的 agents（outbound、广告、内容）\n\n10. 还有更多\n\n基本上，很多人看了我下面这条帖子，问有没有人能直接帮他们把这些搭起来，我完全能理解。\n\n所以，请回复这条帖子 “interested”，然后前往 https://t.co/YQJFV1XTa1（页面底部是我们的邮箱），发邮件告诉我们你的公司/公司规模/你在找什么。\n\n我们会联系那 10 家我们认为能为其创造巨大价值的公司。\n\n引用内容：他引用了自己此前那条长文：打造一家最 AI pilled 的公司就是整场游戏的全部，并列了从第二大脑、skills、agents 到增长循环的 49 条做法。",
+      "quoted": [
+        {
+          "id": "2121331227009364340",
+          "user": "gregisenberg",
+          "text": "Making the most AI pilled company is the whole game:\n\n1. make a second brain. one folder of markdown files on how you think, write and decide (obsidian)\n\n2. talk to it. voice notes all day (wispr), and an agent files every fact, story and decision\n\n3. make a company brain. customers, calls, numbers, pricing, playbooks, past decisions and why you made them\n\n4. record every call and meeting (granola). the transcripts go straight into the brain\n\n5. keep a facts file. true things about you and the company that agents are allowed to say. this kills made-up claims\n\n6. keep a voice file. your 50 best posts, 20 you hate, and the words you never use\n\n7. put all of it in git (github) so every change has a history\n\n8. write one instruction file at the top (CLAUDE.md or AGENTS.md). read these files before any task, never overwrite, always date\n\n9. give agents memory across sessions so they stop starting from zero (claude-mem, mem0)\n\n10. pipe every data source into one warehouse your agents can query (airbyte → clickhouse). ads, analytics, CRM, payments\n\n11. feed it data nobody else has. it's the only part a competitor can't download\n\nthe skills\n\n12. don't start from zero. install the good ones first (anthropics/skills, obra/superpowers, mattpocock/skills, addyosmani/agent-skills)\n\n13. grab the marketing ones too (coreyhaines31/marketingskills, cody schneider's graphed skills for static ads and UGC, boringmarketing dot com skills)\n\n14. map every workflow in the company and rank them by money made or saved\n\n15. do each one once while talking out loud, and record it\n\n16. have an agent turn the recording into a skill. when to use it, the steps, the checks, the mistakes to avoid\n\n17. one skill per job. small and boring beats one giant prompt\n\n18. connect your tools with MCPs so agents can act and not only advise (gmail, slack, stripe, linear, notion, posthog, supabase)\n\n19. give agents a browser (browser-use, vercel agent-browser, claude in chrome)\n\n20. give agents a computer of their own for the tools with no API (vercel agent-desktop, orgo)\n\n21. give your best skills away in public. it's the new lead magnet\n\nthe agents\n\n22. run an orchestrator that never turns off (grok bot, openclaw, hermes). it manages one agent per project, and each of those runs its own sub-agents\n\n23. use coding agents for the building (claude code, codex, cursor, t3, antigravity)\n\n24. wrap them in a harness so they plan, test and remember (ECC, superpowers)\n\n25. manage the whole fleet in one place (paperclip). every agent gets a job, a budget and a log\n\n26. put the skills on triggers (n8n, scheduled tasks). daily, weekly, on every new lead, on every cancellation\n\n27. route your models (openrouter). the expensive one plans and checks (fable 5.2, gemini 4 carbon), the cheap ones do the volume\n\n28. cut the token bill. shorter outputs, smaller tool results (caveman)\n\n29. run a local model for the data that can't leave your machine (gemma 4)\n\n30. track cost per job. if a job costs more than it earns, fix it or kill it\n\nthe factory\n\n31. build the line. spec agent → builder agents in parallel (git worktrees) → test agent → reviewer agent → deploy (vercel, railway)\n\n32. design goes through the same line (paper MCP), and a skill strips out anything that looks AI made (unslop)\n\n33. every annoying task in the company becomes an internal tool by the end of the day\n\n34. every customer request becomes a pull request before a human reads it (tstack for the PR workflow)\n\n35. reviewer agents with a named bar. \"would the best team in the world ship this?\" reject until the answer is yes\n\n36. keep 50 real cases with the right answer. rerun them every time a new model drops and switch to the winner\n\n37. humans approve, own the outcome and talk to customers. that's the 10% you keep\n\nthe loop\n\n38. every finished job writes back to the brain. what worked, what failed, what to stop doing\n\n39. support tickets, analytics and social comments flow in every night\n\n40. every friday an agent rewrites the playbooks from the week's results, and you approve the diff\n\n41. every month, rank everything by profit per human hour. kill one thing and double one thing\n\nthe growth\n\n42. research with agents before you spend a dollar (perplexity API, last30days skill)\n\n43. outbound runs itself. find the leads, enrich, verify, send (apollo, million verifier, instantly, phantombuster)\n\n44. send prospects finished work in place of a pitch\n\n45. ads run on a loop. an agent writes the creative, publishes through the facebook ads API, kills the losers and scales the winners\n\n46. agents make the creative too. images (nano banana), video (heygen, fal), voice (elevenlabs), music (lyria 3.5, suno)\n\n47. turn every finished job into content. the story, the number, the prompt\n\n48. every customer makes the brain smarter for the next one. that's your network effect\n\n49. once it works, point it at a new niche. same agents, new context\n\nThe models are the same for everyone but your context is the only part that's yours.\n\nAcquire as much of it as you can, as fast as you can.\n\nBuild loops like this.\n\nThis is the whole game, happy playing.",
+          "text_zh": "打造一家最 AI pilled 的公司，就是整场游戏的全部：\n\n1. 做一个第二大脑。用一个文件夹里的 markdown 文件，记下你如何思考、写作和做决策（obsidian）\n\n2. 跟它说话。整天用语音笔记（wispr），再让一个 agent 把每条事实、故事和决策归档\n\n3. 做一个公司大脑。客户、通话、数字、定价、playbook、过往决策以及为什么那样决定\n\n4. 录下每一通通话和每一次会议（granola）。转录直接进入大脑\n\n5. 维护一份 facts 文件。记录关于你和公司的、允许 agents 说出去的真实事项。这能杜绝瞎编的说法\n\n6. 维护一份 voice 文件。你最好的 50 条帖子、你讨厌的 20 条，以及你从不使用的词\n\n7. 把这一切放进 git（github），这样每次改动都有历史\n\n8. 在最顶层写一份指令文件（CLAUDE.md 或 AGENTS.md）。任何任务开始前先读这些文件，永远不要覆盖，始终注明日期\n\n9. 给 agents 跨会话的记忆，让它们别每次都从零开始（claude-mem, mem0）\n\n10. 把所有数据源导入一个仓库，让你的 agents 可以查询（airbyte → clickhouse）。广告、分析、CRM、支付\n\n11. 喂给它别人没有的数据。这是竞争对手唯一下载不走的部分\n\nthe skills\n\n12. 不要从零开始。先装好那些优秀的 skills（anthropics/skills, obra/superpowers, mattpocock/skills, addyosmani/agent-skills）\n\n13. 营销相关的也要拿上（coreyhaines31/marketingskills、cody schneider 做静态广告和 UGC 的 graphed skills、boringmarketing dot com 的 skills）\n\n14. 把公司里的每条工作流都画出来，并按能赚到或省下的钱排序\n\n15. 每条工作流亲自做一遍，一边大声讲出来，一边录下来\n\n16. 让一个 agent 把录音变成 skill：什么时候用、步骤、检查项、要避开的错误\n\n17. 一个岗位一个 skill。又小又无聊的，胜过一个巨型 prompt\n\n18. 用 MCP 把工具接上，让 agents 不只是给建议，还能动手（gmail, slack, stripe, linear, notion, posthog, supabase）\n\n19. 给 agents 一个浏览器（browser-use, vercel agent-browser, claude in chrome）\n\n20. 给 agents 一台它们自己的电脑，用来对付没有 API 的工具（vercel agent-desktop, orgo）\n\n21. 把你最好的 skills 公开发出去。这就是新的获客磁铁（lead magnet）\n\nthe agents\n\n22. 跑一个永不关闭的编排器（grok bot, openclaw, hermes）。它为每个项目管一个 agent，而这些 agent 再跑自己的 sub-agents\n\n23. 用 coding agents 来做开发（claude code, codex, cursor, t3, antigravity）\n\n24. 给它们套上 harness，让它们会规划、测试和记忆（ECC, superpowers）\n\n25. 在一个地方管理整支舰队（paperclip）。每个 agent 都有任务、预算和日志\n\n26. 把 skills 挂到触发器上（n8n, scheduled tasks）。每天、每周、每有新线索、每次取消时触发\n\n27. 路由你的模型（openrouter）。贵的模型负责规划和检查（fable 5.2, gemini 4 carbon），便宜的模型扛量\n\n28. 砍 token 账单。输出更短，工具返回结果更小（caveman）\n\n29. 对不能离开你机器的数据，跑本地模型（gemma 4）\n\n30. 跟踪每个任务的成本。如果一个任务成本高于它带来的收益，就修好它，或者干掉它\n\nthe factory\n\n31. 把流水线搭起来。spec agent → 并行的 builder agents（git worktrees）→ test agent → reviewer agent → 部署（vercel, railway）\n\n32. 设计也走同一条流水线（paper MCP），再用一个 skill 去掉任何看起来像 AI 做的东西（unslop）\n\n33. 公司里每一件烦人的任务，当天结束前都变成一个内部工具\n\n34. 每个客户请求在人类读到之前，先变成一个 pull request（用 tstack 做 PR 工作流）\n\n35. reviewer agents 要有明确的标准：「世界上最强的团队会发这个吗？」答案是 yes 之前就一直拒\n\n36. 保留 50 个有正确答案的真实案例。每次有新模型发布就重跑一遍，然后切到赢家\n\n37. 人类负责批准、对结果负责，以及和客户交谈。这就是你留下的那 10%\n\nthe loop\n\n38. 每个完成的任务都写回大脑。什么有效、什么失败、什么该停掉\n\n39. 支持工单、分析和社交评论每天晚上流入\n\n40. 每周五，一个 agent 根据本周结果重写 playbook，你来批准 diff\n\n41. 每个月按「每人力小时利润」给所有事情排序。砍掉一件，加倍一件\n\nthe growth\n\n42. 花每一块钱之前，先用 agents 做研究（perplexity API, last30days skill）\n\n43. 外呼自己跑。找线索、enrich、验证、发送（apollo, million verifier, instantly, phantombuster）\n\n44. 给潜在客户的不是推销词，而是已经做完的作品\n\n45. 广告按循环跑。一个 agent 写创意，通过 facebook ads API 发布，干掉失败者，放量赢家\n\n46. 创意也由 agents 来做。图片（nano banana），视频（heygen, fal），语音（elevenlabs），音乐（lyria 3.5, suno）\n\n47. 把每一个完成的任务变成内容。故事、数字、prompt\n\n48. 每个客户都会让大脑对下一个客户更聪明。这就是你的网络效应\n\n49. 一旦跑通，就指向一个新的细分领域。同样的 agents，新的上下文\n\n模型对所有人都一样，但你的上下文是唯一属于你的部分。\n\n尽量多、尽量快地获取它。\n\n像这样去构建循环。\n\n这就是整场游戏，玩得开心。"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2122039947343675692",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2122039947343675692",
+      "created_at": "2026-11-15T18:52:03.000Z",
+      "created_at_bj": "2026-11-16 02:52",
+      "views": 23387,
+      "rate_per_hour": 6487,
+      "basis": "delta",
+      "prev": {
+        "checked_at": "2026-11-16T08:39:16+08:00",
+        "views": 19273
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 210,
+        "impression_count": 23387,
+        "like_count": 1316,
+        "quote_count": 0,
+        "reply_count": 5,
+        "retweet_count": 123
+      },
+      "already_pushed": true,
+      "text": "Viva México https://t.co/6dat8qk9Gc https://t.co/B3tAppXKds",
+      "text_zh": "Viva México（墨西哥万岁） https://t.co/6dat8qk9Gc https://t.co/B3tAppXKds\n\n引用内容：他引用了自己稍早的帖子：La dolce vita（甜蜜的生活）。",
+      "quoted": [
+        {
+          "id": "2121904328873312292",
+          "user": "egeberkina",
+          "text": "La dolce vita https://t.co/Yn1wVATw0m https://t.co/AZAIcDznAw",
+          "text_zh": "La dolce vita（甜蜜的生活） https://t.co/Yn1wVATw0m https://t.co/AZAIcDznAw"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2122028264663191999",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2122028264663191999",
+      "created_at": "2026-11-15T18:05:38.000Z",
+      "created_at_bj": "2026-11-16 02:05",
+      "views": 27138,
+      "rate_per_hour": 1295,
+      "basis": "delta",
+      "prev": {
+        "checked_at": "2026-11-16T08:39:16+08:00",
+        "views": 26317
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 37,
+        "impression_count": 27138,
+        "like_count": 331,
+        "quote_count": 10,
+        "reply_count": 131,
+        "retweet_count": 18
+      },
+      "already_pushed": false,
+      "text": "Unfortunately, the AI song you swear you’d never listen to is probably going to end up on your playlist.\n\nThe AI film you swear you’d never watch is probably going to end up in your top 5 fav of the year.\n\nYou’ll like them, you’ll share them, and you’ll never know AI made them.",
+      "text_zh": "很不幸，那首你发誓绝不会听的 AI 歌曲，很可能最终会出现在你的播放列表里。\n\n那部你发誓绝不会看的 AI 电影，很可能最终会进你今年最喜欢的前 5 名。\n\n你会喜欢它们，会分享它们，而且永远不会知道它们是 AI 做的。",
+      "quoted": [],
+      "hit": false
+    },
+    {
+      "id": "2122003192708018240",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2122003192708018240",
+      "created_at": "2026-11-15T16:26:00.000Z",
+      "created_at_bj": "2026-11-16 00:26",
+      "views": 26787,
+      "rate_per_hour": 1202,
+      "basis": "delta",
+      "prev": {
+        "checked_at": "2026-11-16T08:39:16+08:00",
+        "views": 26025
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 46,
+        "impression_count": 26787,
+        "like_count": 211,
+        "quote_count": 4,
+        "reply_count": 90,
+        "retweet_count": 8
+      },
+      "already_pushed": false,
+      "text": "🌎 My Weekly Founder's Coworking Day is going global!\n\nI'll be in 🇸🇬 Singapore and 🇹🇭 Bangkok soon, and I'd love to host my weekly coworking day for founders there!\n\nIf you're interested to join let me know, and if you know a good venue also \n\n🤝 😊 https://t.co/LLamm1ViKV https://t.co/6mLxYIbFGH",
+      "text_zh": "🌎 我的每周创始人共同办公日要走向全球了！\n\n我很快会去 🇸🇬 新加坡和 🇹🇭 曼谷，很想在那里也举办每周的创始人共同办公日！\n\n感兴趣来参加的请告诉我，如果你知道合适的场地也欢迎推荐\n\n🤝 😊 https://t.co/LLamm1ViKV https://t.co/6mLxYIbFGH\n\n引用内容：他引用了自己此前的长文：多年来主动对抗随年龄增长几乎必然出现的孤独，已经组织了 70 场每周共同办公日，还有电影夜、艺术夜和烧烤等活动，并呼吁大家主动发起线下聚会。",
+      "quoted": [
+        {
+          "id": "2105276466019672559",
+          "user": "levelsio",
+          "text": "I've been actively fighting almost guaranteed age-related loneliness for years, studies show after age 30 you start seeing friends less and when you get older especially men don't have any social life left!\n\nIt's preventable, but it takes effort and initiative\n\nWe've now organized 70 weekly coworking days where we meet with friends and work together, do show and tell, and try help each other make things (also hardware stuff more recently)\n\nWe've also started organizing movie nights, art nights, barbecues, we watched the World Cup final on a projector screen in the garden with friends\n\nWe did a collage night the other day where we bought cheap gossip magazines, colored paper, and Pritt glue, and gave everyone scissors to make their own art, I think nobody spent time on their phone for at least 4 hours, making things puts you in a flow state and it's fun to do it in a group because you talk about different stuff while making things than you would for ex having a dinner\n\nMovie nights are nice too but less popular I think cause everyone prefers to watch movies alone and also you can't really talk during a movie\n\nCoworkings range from having sometimes 20 people to sometimes just 2 people, people have their own lives, but me and @rameerez still try to organize them weekly\n\nOne thing I realized is that we are usually the ones organizing stuff, but that's not a bad thing, there's even studies about this, there's usually a few people in a group who organize most of the events\n\nIf nobody in your group organizes stuff, it doesn't mean nobody wants to do stuff, but you have to take the initiative to bring people together which isn't easy in a time where phones and apps and the internet are simply easier and cheaper dopamine than driving to a friends house for a party\n\nYou can start with a coworking day, everyone brings their laptop, and you provide WiFi and coffee, then later you can try more types of events\n\nHaving an active social life is just as important or in some studies even more important for health than physical fitness\n\nAfter a nice party I feel tired but satisfied, I had fun and didn't spend time on my phone or computer but instead talked and laughed with friends etc.\n\nWe don't drink alcohol with very few exceptions and nor do our friends, so it's mostly just having really nice food and sparkling water or kombucha etc, and we don't really need alcohol, after a few hours it gets fun enough anyway!\n\nSo I recommend everyone, take initiative, and organize something and get people together, it'll be fun! 😊",
+          "text_zh": "这些年来，我一直在主动对抗几乎必然会随年龄而来的孤独。研究表明，过了 30 岁，你见朋友的次数就会变少，年纪再大一些，尤其是男性，几乎就没有社交生活了！\n\n这是可以预防的，但需要付出努力，也需要主动出击\n\n到现在，我们已经组织了 70 场每周共同办公日：和朋友见面、一起工作、做 show and tell，并试着互相帮忙把东西做出来（最近也开始做硬件了）\n\n我们也开始组织电影夜、艺术夜和烧烤，还和朋友在花园里用投影看了世界杯决赛\n\n前几天我们办了一场拼贴夜，买了便宜的八卦杂志、彩纸和 Pritt 胶水，给每个人发剪刀，让大家自己做艺术。我想至少有 4 个小时没人玩手机。动手做东西会让你进入心流，而且一群人一起做很有意思，因为做东西时聊的话题，和吃饭时聊的会不一样\n\n电影夜也不错，但我觉得没那么受欢迎，因为大家更喜欢自己看电影，而且看电影时也不能怎么聊天\n\n共同办公日有时能来 20 人，有时只有 2 人，大家都有自己的生活，但我和 @rameerez 还是尽量每周都组织\n\n我意识到的一件事是，通常都是我们在张罗这些活动，但这并不是坏事。甚至有研究说，一个群体里往往就是少数人组织了大多数活动\n\n如果你那个圈子里没人张罗，并不意味着没人想做点什么，但你必须主动把大家聚到一起。这在当下并不容易，因为手机、应用和互联网带来的多巴胺，比开车去朋友家参加聚会更简单、也更便宜\n\n你可以先从共同办公日开始，每人带上笔记本电脑，你提供 WiFi 和咖啡，之后再尝试更多类型的活动\n\n拥有积极的社交生活，对健康来说和身体健康同样重要，在一些研究里甚至更重要\n\n一场开心的聚会之后，我会觉得累，但很满足：我玩得很开心，没有把时间耗在手机或电脑上，而是在和朋友聊天、大笑等等。\n\n除了极少数例外，我们不喝酒，朋友们也是，所以大多就是吃很好的食物，配上气泡水或 kombucha 之类的。我们其实并不需要酒精，几个小时之后，本来就足够好玩了！\n\n所以我建议所有人：主动一点，组织点什么，把大家聚到一起，会很有趣的！😊"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2121974507544183216",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2121974507544183216",
+      "created_at": "2026-11-15T14:32:01.000Z",
+      "created_at_bj": "2026-11-15 22:32",
+      "views": 43326,
+      "rate_per_hour": 1575,
+      "basis": "delta",
+      "prev": {
+        "checked_at": "2026-11-16T08:39:16+08:00",
+        "views": 42327
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 94,
+        "impression_count": 43326,
+        "like_count": 452,
+        "quote_count": 32,
+        "reply_count": 180,
+        "retweet_count": 13
+      },
+      "already_pushed": true,
+      "text": "I checked 10,646 startups on TrustMRR.\n\nRevenue in the last 30 days:\n\n• $0: 5,845 startups\n• <$1k: 3,744\n• $1k–$10k: 816\n• $10k–$100k: 217\n• $100k+: 24 https://t.co/MF1BKLICgz",
+      "text_zh": "我在 TrustMRR 上查了 10,646 家创业公司。\n\n过去 30 天的收入：\n\n• $0：5,845 家创业公司\n• <$1k：3,744\n• $1k–$10k：816\n• $10k–$100k：217\n• $100k+：24 https://t.co/MF1BKLICgz",
+      "quoted": [],
+      "hit": false
+    }
+  ],
+  "new_hits": [
+    "2122130491339944443"
+  ],
+  "dropped_from_window": [],
+  "notes": "0904 判定轮（实际运行 09:17:19 北京时间，计划槽位 0904）。间隔 0.6342 小时（上一轮 08:39:16 → 本轮 09:17:19 北京时间，38 分 3 秒）。@steipete、@karpathy 窗口内无原创或引用帖。本轮 get_users_posts 使用 exclude=replies,retweets 与 start_time=2026-11-15T13:00:00Z，再按 12 小时窗口本地过滤。窗口起点 2026-11-15 21:17 北京时间（2026-11-15T13:17:19Z）。本轮 run_at 取 get_posts_by_ids 补全完成后的归档时刻 09:17:19（例行触发 09:12:55）。所有检查帖均有 impression_count。本轮 get_users_posts 未返回长文 note_tweet，故对 @gregisenberg 2122112289255870714、2122043488728649787，以及被引用的 @balajis 2122115418659967289、@levelsio 2105276466019672559、@gregisenberg 2121331227009364340 另调用 get_posts_by_ids（post.fields 含 note_post，接口回传 note_tweet）补全全文；浏览量与互动数据仍以 get_users_posts 返回的 public_metrics 为准。get_posts_by_ids 稍后见到 @levelsio 2122130491339944443、@gregisenberg 2122112289255870714、2122043488728649787 的 impression_count 为 6858、11028、23216（与时间线 6759、10998、23191 接近，未用于判定）。时间线未额外返回需本地排除的回复或纯转发。本轮有 2 条检查帖含 note_tweet（@gregisenberg 2122112289255870714、2122043488728649787，已取全文）；其余 6 条正文未超过长文阈值，无 note_tweet。被引用帖 @balajis 2122115418659967289、@gregisenberg 2118867930113057131、2121331227009364340、@levelsio 2105276466019672559、@egeberkina 2121904328873312292 的全文来自本轮 get_users_posts 的 includes（referenced_posts 展开）及 get_posts_by_ids 补全，其中 @levelsio 2105276466019672559 与 @gregisenberg 2121331227009364340 的时间线 truncated 正文与上一轮归档全文前缀一致，长文沿用既有归档（并与本轮 get_posts_by_ids 展开的 note_tweet 核对一致）。已有 7 条检查帖中文译文沿用上一轮归档（英文全文与上一轮一致，已与本轮正文核对；@marclou 接口返回的 &lt;$1k 已还原为 <$1k）。被引用帖中除新引用的 @balajis 2122115418659967289 外，中文译文同样沿用既有归档（英文全文与当时一致，已核对）。@levelsio 2122130491339944443 为新进入窗口的帖子（发于 2026-11-16 08:51 北京时间），正文为 “Excellent post”，引用 @balajis 2122115418659967289。移出 12 小时窗口：0 条。窗口内帖子 8 条（上一轮 7 条），新进入窗口 1 条：@levelsio 2122130491339944443。@levelsio 2122130491339944443 浏览 6759，首次见到，发帖至今 0.4244 小时，每小时 +15924，超过阈值，本轮新达标。@gregisenberg 2122112289255870714 浏览 10998（上次 8980），每小时 +3182，已在 pushed 中，未超过阈值。@levelsio 2122107266585460855 浏览 42832（上次 31442），每小时 +17961，已在 pushed 中，本轮仍超过阈值，不重复推送。@gregisenberg 2122043488728649787 浏览 23191（上次 22261），每小时 +1466，未超过阈值。@egeberkina 2122039947343675692 浏览 23387（上次 19273），每小时 +6487，已在 pushed 中，本轮仍超过阈值，不重复推送。@gregisenberg 2122028264663191999 浏览 27138（上次 26317），每小时 +1295，未超过阈值。@levelsio 2122003192708018240 浏览 26787（上次 26025），每小时 +1202，未超过阈值。@marclou 2121974507544183216 浏览 43326（上次 42327），每小时 +1575，已在 pushed 中，未超过阈值。本轮新达标 1 条，pushed 123 → 124。"
+}
