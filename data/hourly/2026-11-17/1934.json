@@ -1,0 +1,159 @@
+{
+  "run_at": "2026-11-17T19:43:30+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "1934",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2122656701614608648",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2122656701614608648",
+      "created_at": "2026-11-17T11:42:49.000Z",
+      "created_at_bj": "2026-11-17 19:42",
+      "views": 1598,
+      "rate_per_hour": 95880,
+      "basis": "first_sight",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1598,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "already_pushed": false,
+      "text": "So many times I have had this interaction with normies where they don't understand what the jackfriks I'm working on as I'm just making random things for fun and messing around with things\n\nAnd to them whatever I'm doing looks like a complete and utter waste of time, it has no function, no direct rewards, it's not making money, it's not successful\n\nBut so many times those projects evolve or lead to things where there is a massive payout or success after\n\nBut most people don't have the ability to see that far ahead, and they're risk averse so even if you tell them \"I don't know maybe this becomes something\" that's simply uncertain enough for them to accept. Which is of course why they love employment so much, it's stable and certain.\n\nThe problem with normies is that they will quickly shut this creative play down in themselves and even worse in others. And that way whatever that thing is, it won't ever grow into anything because they killed it before it ever got a chance, proving their point\n\nAlmost all my projects started by just messing around with no real goal, just playing for fun\n\nBut it requires some kind of peacefulness because the moment you start putting a requirement of success on to something new, the thing instantly dies\n\nCreativity is really magical, and it messes with you if you try control it or expect things from it",
+      "text_zh": "我曾经无数次跟普通人（normies）有过这样的互动：他们搞不懂我到底在捣鼓些什么 jackfriks，因为我不过是在随便做点好玩的东西、到处折腾。\n\n在他们看来，我做的这一切完全是在浪费时间：没有用处，没有直接回报，不赚钱，也不算成功。\n\n但很多次，这些项目后来都会演变，或通向某种巨大的回报或成功。\n\n可大多数人没有能力看得那么远，而且他们厌恶风险，所以哪怕你告诉他们「我也不知道，也许这会变成点什么」，这种不确定性也足以让他们无法接受。这当然也是他们如此热爱上班打工的原因——稳定、确定。\n\n普通人（normies）的问题在于，他们会很快掐灭自己身上这种创造性的玩耍，更糟的是还会掐灭别人的。这样一来，那件事情永远长不成任何东西，因为他们在它还没机会之前就把它杀死了，从而「证明」了自己是对的。\n\n我几乎所有的项目，一开始都只是在瞎玩，没有真正的目标，纯粹为了好玩。\n\n但这需要某种平静，因为一旦你开始给新事物加上「必须成功」的要求，它立刻就死了。\n\n创造力真的很神奇，你一旦试图控制它、或对它抱有期待，它就会跟你作对。",
+      "quoted": [
+        {
+          "id": "2122267469268328711",
+          "user": "noahpinion",
+          "text": "A lot of the most successful people I know spent years of their life just bumming around, before they suddenly exploded into action and did something great.\n\nI don't think that's a coincidence.\n\nhttps://t.co/KT4vsg5txg",
+          "text_zh": "我认识的很多最成功的人，都曾在生活里混迹多年，然后才突然爆发行动，做出了了不起的事。\n\n我不认为这是巧合。\n\nhttps://t.co/KT4vsg5txg"
+        }
+      ],
+      "hit": true
+    },
+    {
+      "id": "2122626306487562594",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2122626306487562594",
+      "created_at": "2026-11-17T09:42:02.000Z",
+      "created_at_bj": "2026-11-17 17:42",
+      "views": 2316,
+      "rate_per_hour": 925,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-17T19:06:00+08:00",
+        "views": 1738
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 9,
+        "impression_count": 2316,
+        "like_count": 45,
+        "quote_count": 2,
+        "reply_count": 3,
+        "retweet_count": 2
+      },
+      "already_pushed": false,
+      "text": "007: Shattered reflections https://t.co/lEt1TcVw15 https://t.co/3q7LbX8gHx",
+      "text_zh": "007：破碎的倒影 https://t.co/lEt1TcVw15 https://t.co/3q7LbX8gHx",
+      "quoted": [
+        {
+          "id": "2122383555493781661",
+          "user": "egeberkina",
+          "text": "Bond. James Bond.\n\nRobert Pattinson as 007 https://t.co/ekehTYbnsG",
+          "text_zh": "Bond. James Bond.\n\nRobert Pattinson 饰演 007 https://t.co/ekehTYbnsG"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2122544737693655046",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2122544737693655046",
+      "created_at": "2026-11-17T04:17:55.000Z",
+      "created_at_bj": "2026-11-17 12:17",
+      "views": 32613,
+      "rate_per_hour": 2270,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-17T19:06:00+08:00",
+        "views": 31194
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 118,
+        "impression_count": 32613,
+        "like_count": 380,
+        "quote_count": 4,
+        "reply_count": 74,
+        "retweet_count": 19
+      },
+      "already_pushed": true,
+      "text": "I still believe one of the best businesses to be in right now is cybersecurity \n\nRecurring, mission critical, and getting more urgent every month! https://t.co/CAsKZamnpX",
+      "text_zh": "我仍然认为，现在最好做的生意之一就是网络安全（cybersecurity）\n\n它是经常性收入、使命攸关，而且每个月都变得更紧迫！https://t.co/CAsKZamnpX",
+      "quoted": [
+        {
+          "id": "2122516006203441301",
+          "user": "disclosetv",
+          "text": "JUST IN - A suspected supply chain attack on Optimizely loaded malware on Zoom, CNN, Fox News, BBC, Salesforce, GitLab, KLM, Air France, Bitly, IG Group, American Eagle and others, exposing visitors to scripts built to steal payment data and exploit iOS devices.",
+          "text_zh": "最新消息——一起针对 Optimizely 的疑似供应链攻击，在 Zoom、CNN、Fox News、BBC、Salesforce、GitLab、KLM、Air France、Bitly、IG Group、American Eagle 等网站上加载了恶意软件，使访问者暴露于用于窃取支付数据和利用 iOS 设备的脚本。"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2122505285885423625",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2122505285885423625",
+      "created_at": "2026-11-17T01:41:09.000Z",
+      "created_at_bj": "2026-11-17 09:41",
+      "views": 54619,
+      "rate_per_hour": 2184,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-17T19:06:00+08:00",
+        "views": 53254
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 709,
+        "impression_count": 54619,
+        "like_count": 902,
+        "quote_count": 9,
+        "reply_count": 102,
+        "retweet_count": 40
+      },
+      "already_pushed": true,
+      "text": "Reminder to \n\n1. Find popular saas people kinda hate paying for \n2. Make them free and open source \n3. Build an insane amount of goodwill\n4. Upsell the power users to a hosted version, team features and support https://t.co/n9WEzJC1IA",
+      "text_zh": "提醒一下\n\n1. 找那些大家多少有点讨厌付费的热门 saas\n2. 把它们做成免费开源\n3. 积累大量善意\n4. 再向重度用户追加销售托管版本、团队功能和支持 https://t.co/n9WEzJC1IA",
+      "quoted": [
+        {
+          "id": "2122394902168473975",
+          "user": "kevinrose",
+          "text": "DocuSign wants $8,100/yr from a 15-person team just to sign PDFs. So I built SignuDoc: open source, one-click deploy to your own @vercel account, $0 per seat.\n\nWhite-label branding, full audit trails, tamper-evident seals and your documents never leave your cloud.",
+          "text_zh": "DocuSign 想向一个 15 人团队每年收 $8,100，就为了签个 PDF。所以我做了 SignuDoc：开源，一键部署到你自己的 @vercel 账号，每个席位 $0。\n\n支持白标 branding、完整审计追踪、防篡改印章，而且你的文件不会离开你自己的云。"
+        }
+      ],
+      "hit": false
+    }
+  ],
+  "new_hits": [
+    "2122656701614608648"
+  ],
+  "dropped_from_window": [],
+  "notes": "1934 判定轮（实际运行 19:43:30 北京时间）：按规则判定达标并推送新达标帖。间隔 0.6250 小时（上一轮 19:06:00 → 本轮 19:43:30 北京时间，37 分 30 秒）。@marclou、@steipete、@karpathy 窗口内无原创或引用帖。本轮 get_users_posts 使用 exclude=replies,retweets 与 start_time=2026-11-16T23:42:00Z，覆盖 12 小时窗口（窗口起点 2026-11-17 07:43:30 北京时间 / 2026-11-16T23:43:30Z）。@marclou、@steipete、@karpathy 均为 result_count=0。本轮 run_at 取时间线拉取时刻 19:43:30（例行触发 19:42:14），以避免归档收尾把增速间隔拉长；浏览量以此时 get_users_posts 的 public_metrics 为准。所有检查帖均有 impression_count。本轮用公开 x.get_users_posts 拉时间线。新进入窗口 1 条检查帖：@levelsio 2122656701614608648（发于 2026-11-17T11:42:49.000Z / 2026-11-17 19:42 北京时间，引用 @noahpinion 2122267469268328711）；该帖为长文，时间线已返回完整 note_tweet，故未再 get_posts_by_ids 补拉；正文与被引用帖的中文译文为本轮新译。按首次见到规则，浏览量 ÷ max(发帖至今小时数, 1/60) = 1598 ÷ max(41/3600, 1/60) = 1598 ÷ 0.0167 = 95880，超过阈值 5000，且不在 pushed 中，本轮新达标。其余 3 条检查帖正文与被引用帖全文均与 1904 归档完全一致，中文译文全部沿用 1904 归档。这 3 条正文未超过长文阈值，无 note_tweet。时间线在 exclude=replies,retweets 后仍额外返回 1 条需本地排除的回复：@egeberkina 2122628678702223718（发于 2026-11-17T09:51:28.000Z，回复自己的 2122383555493781661，同时引用 2122626306487562594，已排除，不计入检查帖）。无纯转发需排除。移出 12 小时窗口：0 条。窗口内帖子 3 → 4 条（移出 0、新进 1）。@egeberkina 2122626306487562594 浏览 2316（上次 1738），每小时 +925，未超过阈值。@gregisenberg 2122544737693655046 浏览 32613（上次 31194），每小时 +2270，已在 pushed 中，本轮未超过阈值。@gregisenberg 2122505285885423625 浏览 54619（上次 53254），每小时 +2184，已在 pushed 中，本轮未超过阈值。本轮新达标 1 条，pushed 138 → 139。"
+}
