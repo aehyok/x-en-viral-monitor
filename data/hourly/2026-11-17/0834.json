@@ -1,0 +1,428 @@
+{
+  "run_at": "2026-11-17T08:46:03+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "0834",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2122463466304971068",
+      "user": "steipete",
+      "url": "https://x.com/steipete/status/2122463466304971068",
+      "created_at": "2026-11-16T22:54:58.000Z",
+      "created_at_bj": "2026-11-17 06:54",
+      "views": 38623,
+      "rate_per_hour": 16464,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-17T08:10:02+08:00",
+        "views": 28740
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 67,
+        "impression_count": 38623,
+        "like_count": 563,
+        "quote_count": 11,
+        "reply_count": 92,
+        "retweet_count": 20
+      },
+      "already_pushed": true,
+      "text": "People: Please reduce the number of permission alerts so agents can work on macOS without constant babysitting\n\nApple: I hear you, here’s some new scary alerts https://t.co/Saw8ftcNNW",
+      "text_zh": "人们：请减少权限弹窗的数量，好让 agents 能在 macOS 上工作，不必一直被人看管\n\n苹果：我听到了，给你们一些新的吓人警告 https://t.co/Saw8ftcNNW",
+      "quoted": [
+        {
+          "id": "2122436634172129687",
+          "user": "MacRumors",
+          "text": "macOS 27.3 Warns Against Giving AI Apps Full Mac Control https://t.co/Ko2jRzlEOl https://t.co/N9DsvPRis6",
+          "text_zh": "macOS 27.3 警告不要把 Mac 的完全控制权交给 AI 应用 https://t.co/Ko2jRzlEOl https://t.co/N9DsvPRis6"
+        }
+      ],
+      "hit": true
+    },
+    {
+      "id": "2122453067194847320",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2122453067194847320",
+      "created_at": "2026-11-16T22:13:39.000Z",
+      "created_at_bj": "2026-11-17 06:13",
+      "views": 31598,
+      "rate_per_hour": 4540,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-17T08:10:02+08:00",
+        "views": 28873
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 19,
+        "impression_count": 31598,
+        "like_count": 361,
+        "quote_count": 1,
+        "reply_count": 34,
+        "retweet_count": 8
+      },
+      "already_pushed": true,
+      "text": "This only further proves how terrible human drivers are and how we need to speedrun legalization of self driving cars worldwide https://t.co/0YkAhkMFcE",
+      "text_zh": "这只是进一步证明了人类司机有多糟糕，我们需要在全世界尽快让自动驾驶汽车合法化 https://t.co/0YkAhkMFcE",
+      "quoted": [
+        {
+          "id": "2122427270744973778",
+          "user": "Elenee_Dao",
+          "text": "Surveillance video shows the crash that involved two Waymos and two cars at 20th St and Van Buren. \n\n@PhoenixPolice said 3 people were taken to the hospital: 2 had non-life threatening injuries and one was transported with life-threatening injuries. @abc15 https://t.co/NMSoCCsSXj https://t.co/zg996awMgW",
+          "text_zh": "监控视频显示，在 20th St 和 Van Buren 路口发生了一起涉及两辆 Waymo 和两辆汽车的车祸。\n\n@PhoenixPolice 称有 3 人被送往医院：其中 2 人伤势不危及生命，另有一人因危及生命的伤势被送医。@abc15 https://t.co/NMSoCCsSXj https://t.co/zg996awMgW"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2122435589702328751",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2122435589702328751",
+      "created_at": "2026-11-16T21:04:12.000Z",
+      "created_at_bj": "2026-11-17 05:04",
+      "views": 48775,
+      "rate_per_hour": 4886,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-17T08:10:02+08:00",
+        "views": 45842
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 51,
+        "impression_count": 48775,
+        "like_count": 496,
+        "quote_count": 0,
+        "reply_count": 19,
+        "retweet_count": 12
+      },
+      "already_pushed": true,
+      "text": "This picture is really poetic https://t.co/O5VOBmyyN0 https://t.co/aSXSn3W70U",
+      "text_zh": "这张照片真的很有诗意 https://t.co/O5VOBmyyN0 https://t.co/aSXSn3W70U",
+      "quoted": [
+        {
+          "id": "2122424060755742756",
+          "user": "michalmalewicz",
+          "text": "EU is cooked. \n\nEurotrip through France and Germany summary and comparisons to Poland.\n\n🇩🇪 Germany: Dead, decaying society.  \n\nWe started in Berlin.\n\nOn K-damm (main fashion street) we saw a guy standing up in a sleeping bag and masturb4ting in front of the Gucci store. \n\nNobody paid any mind. People are completely desensitized, and that's actually bad. Their proverbial frog got boiled.\n\nGraffiti, trash everywhere, smell of urine. Feces. \n\nCouldn't find a bottle of water in glass in any store in the center, so had to buy €7 per bottle from a restaurant. \n\nDepressing.\n\nThen we got on the road. Gas stations are mostly decrepit, tiles falling off. Toilets resembling those from trainspotting. Compared to any Orlen in Poland (even in a small town) the difference is extreme. \n\nThen we stayed in Hamm. Took a small stroll after parking through the center. Not as dirty as berlin, but dead. Almost nobody on the streets. \n\nLooked like sadness. \n\n🇫🇷 Then we got to France\nStarting with Nancy. \n\nCrystal Plus was an amazing hotel. Super high quality everything, organic food, good gym, pool and sauna. But ... \n\nThen you walk outside and see half the streets boarded up. Including Lidl. \n\nThe city parking we went to looked like from a zombie movie.\n\nUrine soaked pavements, sticky door handles. \n\nWent for breakfast in the morning, some nice place, but on the way it looked like a war zone. Plywood everywhere. Tags.\n\nThen we drove to Grenoble. My sister lives there and she wants to leave. No wonder! \n\nOn the road I passed two TE gas stations on which the ev charging didn't work. They sold sandwiches as \"hot\" but couldn't heat them up. \n\nFrench gas stations used to be quality, only a little below Poland's. Now two years since I've been on French roads it got worse. Often the toilets don't work.\n\nWhen in Grenoble it was Nancy, but worse. Half the city boarded up. Many stores looted. Broken windows. Burned walls. \n\nAnd I noticed one other thing. Women going on a run constantly look behind their shoulder even at daytime. Definitely not giving off a feeling of safety. \n\nHere however the hotel we found was pretty amazing. Filtered RO water without microplastics, great organic food, teas and so on. \n\nThe problem was just ... going outside. \n\nWe've been doing this drive from Poland to Marbella every year for five or six years now. And somehow germany and france feel worse and worse each year.\n\nAnd sure there are upsides, Berlin has great food, France too in many places. \n\nBut at this moment in time the main word that comes to mind is decrepit. \n\nOr post-apocalyptic. \n\nAll photos taken in central locations.",
+          "text_zh": "欧盟完了。\n\n这次法国和德国的欧洲之行总结，并与波兰对比。\n\n🇩🇪 德国：一个死气沉沉、正在衰败的社会。\n\n我们从柏林开始。\n\n在 K-damm（主要时尚街道）上，我们看到一个男人站在睡袋里，在 Gucci 店门口自慰。\n\n没人理会。人们已经完全麻木了，而这其实很糟糕。那只谚语里的青蛙已经被慢慢煮熟了。\n\n到处是涂鸦和垃圾，一股尿味。还有粪便。\n\n在市中心任何一家店都找不到玻璃瓶装水，只能从餐厅花 €7 买一瓶。\n\n令人沮丧。\n\n然后我们上路了。加油站大多破败不堪，瓷砖都在掉。厕所像《Trainspotting》里的那种。和波兰任何一家 Orlen 比（哪怕是小镇上的），差距都极其明显。\n\n接着我们住在 Hamm。停车后在市中心走了一小圈。没有柏林那么脏，但一片死寂。街上几乎没人。\n\n看着像悲伤本身。\n\n🇫🇷 然后我们到了法国\n从 Nancy 开始。\n\nCrystal Plus 是一家很棒的酒店。一切都超高品质，有有机食品、不错的健身房、泳池和桑拿。但是……\n\n你一走到外面，就会看到一半街道都用木板封上了。连 Lidl 也是。\n\n我们去的那个城市停车场，看起来像僵尸电影里的场景。\n\n人行道被尿浸透，门把手黏糊糊的。\n\n早上去吃早餐，店本身还不错，但一路上简直像战区。到处是胶合板。还有涂鸦标签。\n\n然后我们开车去 Grenoble。我妹妹住在那里，她想离开。难怪！\n\n路上我经过两家 TE 加油站，ev charging 都不能用。他们卖的三明治号称是 “hot” 的，却没法加热。\n\n法国的加油站曾经品质不错，只比波兰的稍差一点。距离我上次走法国公路才两年，现在更糟了。厕所经常是坏的。\n\n到了 Grenoble，情况跟 Nancy 一样，但更差。半个城市都被木板封上。很多店被洗劫过。窗户碎了。墙被烧过。\n\n我还注意到另一件事。女人出门跑步时，即使在白天也不断回头看。完全给不出安全感。\n\n不过我们找到的这家酒店相当出色。有过滤的 RO water、没有微塑料，很棒的有机食品、茶等等。\n\n问题只是……走到外面去。\n\n我们现在每年都会从波兰开车到 Marbella，已经走了五六年。而不知怎的，德国和法国每年都感觉更糟。\n\n当然也有好的一面，柏林有很棒的食物，法国很多地方也是。\n\n但此刻脑海中浮现的关键词是破败。\n\n或者说，末日之后。\n\n所有照片都拍自市中心位置。"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2122431389052317954",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2122431389052317954",
+      "created_at": "2026-11-16T20:47:30.000Z",
+      "created_at_bj": "2026-11-17 04:47",
+      "views": 18091,
+      "rate_per_hour": 1508,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-17T08:10:02+08:00",
+        "views": 17186
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 16,
+        "impression_count": 18091,
+        "like_count": 96,
+        "quote_count": 1,
+        "reply_count": 7,
+        "retweet_count": 4
+      },
+      "already_pushed": false,
+      "text": "Very cool remake for all the 🇵🇹 Portuguese that are now 25 to 30 years old who in ~2008 all got this laptop from the Portuguese government\n\nIt was a branded version of Intel's Classmate PC with lots of open source software running on it like OpenOffice\n\nKinda like an early Chromebook!",
+      "text_zh": "这个复刻版对现在 25 到 30 岁、大约在 2008 年都从葡萄牙政府手里拿到过这台笔记本的 🇵🇹 葡萄牙人来说，真的很酷。\n\n它是 Intel Classmate PC 的品牌定制版，预装了大量开源软件，比如 OpenOffice。\n\n有点像早期的 Chromebook！",
+      "quoted": [
+        {
+          "id": "2122429953513849308",
+          "user": "goncalo_canhoto",
+          "text": "I just built an iconic Portuguese laptop simulator that runs in your browser!\n\nLet me explain:\n\"Magalhães\" was this \"Portuguese classic\" -  a low-spec Linux-based laptop that the Portuguese government  basically \"gave\" to a ton of students around 2008-2010 (its price ranged from 20€ to 180€ depending on your household income)\n\nFor many young Portuguese in their ~25-ish, playing SuperTux (an open-source game btw) is deeply nostalgic\n\nPeople would literally install games on this 'educational laptop' like Metin 2, CS 1.6, and more. It sure powered a generation of gamers 🤣\n\nAnyway, you can now play SuperTux, paint, create documents, pptx slides, play music, and I might just add browsing later on (imagine claude/chatgpt ahah)\n\nTry it now!\n\nhttps://t.co/ZzvEH9yeJd\n\n(needless to say, heavily inspired by @levelsio's https://t.co/aW3anesXo3 )\n\nhttps://t.co/APag0U0VtD",
+          "text_zh": "我刚做了一个可以在浏览器里运行的经典葡萄牙笔记本电脑模拟器！\n\n我来解释一下：\n\"Magalhães\" 是一款“葡萄牙经典”——一台低配的、基于 Linux 的笔记本电脑，葡萄牙政府大约在 2008-2010 年基本上“发给”了大量学生（价格从 20€ 到 180€ 不等，取决于家庭收入）\n\n对许多现在大约 25 岁左右的年轻葡萄牙人来说，玩 SuperTux（顺便说，这是一款开源游戏）有着深深的怀旧感\n\n人们真的会在这台“教育笔记本电脑”上安装游戏，比如 Metin 2、CS 1.6 等等。它确实撑起了一代 gamers 🤣\n\n总之，你现在可以玩 SuperTux、画画、创建文档、pptx 幻灯片、播放音乐，我可能稍后还会加上浏览功能（想象一下 claude/chatgpt ahah）\n\n现在就去试试！\n\nhttps://t.co/ZzvEH9yeJd\n\n（不用说，很大程度受 @levelsio 的 https://t.co/aW3anesXo3 启发）\n\nhttps://t.co/APag0U0VtD"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2122420795716653204",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2122420795716653204",
+      "created_at": "2026-11-16T20:05:25.000Z",
+      "created_at_bj": "2026-11-17 04:05",
+      "views": 31265,
+      "rate_per_hour": 4593,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-17T08:10:02+08:00",
+        "views": 28508
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 761,
+        "impression_count": 31265,
+        "like_count": 414,
+        "quote_count": 5,
+        "reply_count": 116,
+        "retweet_count": 20
+      },
+      "already_pushed": true,
+      "text": "I’ve noticed open sourcing your saas is the new saas playbook \n\n1. pick the job your customers hire you for\n\n2. turn your best workflows for that job into skills\n\n3. open source them on github\n\n4. make them work in claude code, codex, cursor and openclaw on day one\n\n5. ship an MCP so agents can use your product directly\n\n6. post the repo with a list of every skill inside (like this one)\n\n7. every install puts your brand inside someone's agent, and it gets used every day\n\n8. the free skills do the work once. the paid product does it every week, with your data, hosting and support\n\n9. upsell to done for you, team plans and the hosted version\n\n10. keep shipping new skills. every one is a new launch\n\nYour free skills are the new free trial.\n\nsaas has gone open source for real",
+      "text_zh": "我发现，把你的 saas 开源，正在成为新的 saas 打法\n\n1. 先选准客户雇你来完成的那项工作\n\n2. 把你为这项工作准备的最佳 workflows 做成 skills\n\n3. 把它们开源到 github 上\n\n4. 第一天就让它们能在 claude code、codex、cursor 和 openclaw 上跑起来\n\n5. 做一个 MCP，让 agents 能直接使用你的产品\n\n6. 发这个 repo，并列出里面的每一项 skill（就像这一份一样）\n\n7. 每一次安装，都会把你的品牌放进某个人的 agent 里，而且它每天都会被用到\n\n8. 免费 skills 能把事情做一次。付费产品则每周都做，还带上你的数据、托管和支持\n\n9. 再向上销售 done for you、团队方案和托管版本\n\n10. 持续发布新的 skills。每一个都是一次新的发布\n\n你的免费 skills 就是新的免费试用。\n\nsaas 已经真正走向开源了",
+      "quoted": [
+        {
+          "id": "2122395509293989985",
+          "user": "boringmarketer",
+          "text": "I'm open sourcing 32 of my best skills that cover every marketing use case for AI agents I can think of\n\nit helps your AI execute marketing at a world class quality focused on RESULTS and ROI\n\nNot sure how long I'll keep these open, but you can grab them here: https://t.co/IfPLLBMbmW\n\nthis is what's inside (seo, ads, aeo, social, copy, research, and more more more)\n\nstart here\n1) start-here, reads any business from its site and reviews in 3 min, writes the brand files, routes you\n2) brand-voice, a voice profile built from real quotes\n3) positioning-angles, the angle and the offer, then the first screen and objection answers\n4) audience-research, your customers' own words from reviews, reddit and comments\n5) competitive-intel, rivals' messaging, pricing, paid ads and the gaps\n\nget found\n6) google-business-profile, your profile vs the top 3 in the map pack, plus a month of posts\n7) local-seo-plan, a 90 day plan with every page, title and week\n8) service-area-pages, town pages that aren't the same page with the city swapped\n9) ai-search, whether chatgpt, perplexity and google's AI name you, and what to fix\n10) keyword-research, a topic map instead of a 5,000 row spreadsheet\n11) seo-content, articles that rank and get cited in AI answers\n12) programmatic-seo, hundreds of pages from one template and real data\n13) site-audit, crawls your site the way google and the AI crawlers do, then ranks the fixes\n\nget chosen\n14) reviews, owner replies and the review ask after every job\n15) first-screen-check, your site on a phone the way a customer sees it\n16) landing-page, one offer per page, built and ready to ship\n17) direct-response-copy, copy in your customer's words, every claim checked\n18) lead-magnet, a quiz, calculator or guide, actually built\n\nget the call\n19) paid-ads, meta, google, linkedin and tiktok campaigns with a test plan\n20) google-ads-tracking, makes google ads count real calls and forms\n21) ads-incrementality-check, a pause test to see if ads add calls or just take credit\n22) meta-ads, launches and verifies campaigns through the API\n23) speed-to-lead, missed call text-back and follow-up\n24) creative, ads in 21 formats built from 336 live ads from top DTC brands, made with GPT Image, Seedance and Higgsfield\n\nbring them back\n25) email-sequences, welcome, follow-up, win-back and cold outbound\n26) newsletter, editions in your voice using your own click data\n27) performance-review, reads your numbers and feeds what worked back in\n\nwin clients\n28) find-local-clients, ranks the local businesses losing the most customers\n29) pitch-the-fix, a short email about one broken thing with a fix to sell\n\nmarket yourself\n30) social-content, posts built from your own best posts\n31) long-form-article, a long guide with named sources\n32) content-atomizer, one piece into native posts for every platform\n\nevery skill reads the same brand files. your edits become checks the next run follows. your results feed back in. free tools first, paid ones optional.\n\nnpx skills add boringmarketer/boring-marketing-skills",
+          "text_zh": "我正在开源 32 个我最好的 skills，覆盖我能想到的、面向 AI agents 的每一种营销场景\n\n它能帮你的 AI 以世界级的品质执行营销，专注于 RESULTS 和 ROI\n\n不确定我会开源多久，但你现在可以在这里拿到它们：https://t.co/IfPLLBMbmW\n\n这里面有这些（seo、ads、aeo、social、copy、research，以及更多更多）\n\n从这里开始\n1) start-here，3 分钟内从网站和评价读懂任何一家企业，写出 brand files，再给你指路\n2) brand-voice，根据真实引用建立的语气档案\n3) positioning-angles，角度和 offer，然后是首屏和异议回答\n4) audience-research，来自评价、reddit 和评论里顾客自己的原话\n5) competitive-intel，对手的话术、定价、付费广告，以及其中的缺口\n\n被人找到\n6) google-business-profile，你的资料对比 map pack 里前 3 名，外加一个月的帖子\n7) local-seo-plan，一份 90 天计划，包括每一页、标题和每一周\n8) service-area-pages，不会只是同一页换个城市名的城镇页面\n9) ai-search，chatgpt、perplexity 和 google 的 AI 会不会提到你，以及该改什么\n10) keyword-research，一张主题地图，而不是一份 5,000 行的表格\n11) seo-content，既能排名、又能被 AI 回答引用的文章\n12) programmatic-seo，用一个模板和真实数据做出上百个页面\n13) site-audit，按 google 和 AI crawlers 的方式抓取你的网站，再给修复项排序\n\n被人选中\n14) reviews，店主回复，以及每次服务后的评价邀请\n15) first-screen-check，用顾客的视角看你网站在手机上的样子\n16) landing-page，一页一个 offer，做好就能上线\n17) direct-response-copy，用顾客自己的话写文案，每条主张都经过核对\n18) lead-magnet，一个测验、计算器或指南，而且是真正做出来的\n\n接到电话\n19) paid-ads，meta、google、linkedin 和 tiktok 广告活动，带测试计划\n20) google-ads-tracking，让 google ads 统计到真实来电和表单\n21) ads-incrementality-check，用暂停测试看广告是真的带来了来电，还是只是在抢功\n22) meta-ads，通过 API 投放并验证广告活动\n23) speed-to-lead，未接来电短信回访和跟进\n24) creative，21 种格式的广告，素材来自头部 DTC 品牌的 336 条在投广告，用 GPT Image、Seedance 和 Higgsfield 制作\n\n把他们带回来\n25) email-sequences，欢迎、跟进、赢回和冷邮件 outbound\n26) newsletter，用你自己的点击数据和你的语气做期刊\n27) performance-review，读取你的数据，把有效的做法回馈进去\n\n赢下客户\n28) find-local-clients，给正在流失最多顾客的本地商家排序\n29) pitch-the-fix，一封短邮件，只谈一件坏掉的事和你可以卖的修复方案\n\n营销你自己\n30) social-content，用你自己表现最好的帖子来做新帖\n31) long-form-article，一篇带具名来源的长指南\n32) content-atomizer，把一条内容拆成适合每个平台的原生帖\n\n每一项 skill 都读取同一套 brand files。你的修改会变成下一轮运行要遵守的检查项。你的结果会反馈回来。免费工具优先，付费工具可选。\n\nnpx skills add boringmarketer/boring-marketing-skills"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2122410176447693305",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2122410176447693305",
+      "created_at": "2026-11-16T19:23:13.000Z",
+      "created_at_bj": "2026-11-17 03:23",
+      "views": 107656,
+      "rate_per_hour": 9574,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-17T08:10:02+08:00",
+        "views": 101909
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 255,
+        "impression_count": 107656,
+        "like_count": 863,
+        "quote_count": 8,
+        "reply_count": 119,
+        "retweet_count": 14
+      },
+      "already_pushed": true,
+      "text": "I think it's more like this:\n\nPeople go to SF to get rich, usually single and sacrificing life quality (live small)\n\nThen if/when they get rich they leave SF and even the Bay Area and maybe even California\n\nMany immigrants move back home with their new wealth\n\nNo reason to hang in the suburbs of SF if you're already rich?\n\nSF is quite a mediocre city in life quality and food and entertainment etc. as is the entire Bay Area\n\nBut it's a great place to get rich",
+      "text_zh": "我觉得更像是这样：\n\n人们去 SF 是为了致富，通常是单身，并且牺牲生活质量（住得很小）\n\n然后如果/当他们富了，就会离开 SF，甚至离开 Bay Area，也许连 California 也不要了\n\n很多移民会带着新获得的财富搬回家\n\n如果你已经富了，还有什么理由继续待在 SF 郊区呢？\n\n就生活品质、食物和娱乐等而言，SF 是一座相当平庸的城市，整个 Bay Area 也是如此\n\n但它是一个致富的好地方",
+      "quoted": [
+        {
+          "id": "2122407334769225972",
+          "user": "sporadica",
+          "text": "My theory on this is the people getting rich from this AI boom are mostly younger, unmarried, and childless\n\nMeaning, they generally do not desire large houses in the suburbs with big lawns and multiple bedrooms\n\nThey desire urban, 1-2 bed apartments/townhouses, proximity to their network of friends and colleagues.\n\nTherefore, urban SF prices skyrocket, suburban prices fall.",
+          "text_zh": "我的理论是，这次 AI boom 中致富的人大多更年轻、未婚、没有孩子\n\n也就是说，他们通常并不向往郊区那些带大草坪、多间卧室的大房子\n\n他们想要的是城市里的 1-2 居公寓/townhouses，靠近朋友和同事组成的 network。\n\n因此，城市里的 SF 房价飙升，郊区房价下跌。"
+        }
+      ],
+      "hit": true
+    },
+    {
+      "id": "2122388920499400915",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2122388920499400915",
+      "created_at": "2026-11-16T17:58:45.000Z",
+      "created_at_bj": "2026-11-17 01:58",
+      "views": 48962,
+      "rate_per_hour": 2850,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-17T08:10:02+08:00",
+        "views": 47251
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 306,
+        "impression_count": 48962,
+        "like_count": 293,
+        "quote_count": 7,
+        "reply_count": 17,
+        "retweet_count": 9
+      },
+      "already_pushed": false,
+      "text": "I'm indeed a bit alarmist but interesting even @thesamparr and @ShaanVP wouldn't wanna be in software right now! https://t.co/9lWlSPK571",
+      "text_zh": "我的确有点危言耸听，但有意思的是，连 @thesamparr 和 @ShaanVP 现在都不想做 software 了！ https://t.co/9lWlSPK571",
+      "quoted": [
+        {
+          "id": "2122387261933469775",
+          "user": "myfirstmilpod",
+          "text": ".@levelsio no longer believes in SaaS. Here are the six moats he says actually matter in the AI era. https://t.co/VwlWNbR6em",
+          "text_zh": ".@levelsio 不再相信 SaaS 了。以下是他说在 AI 时代真正重要的六种护城河。 https://t.co/VwlWNbR6em"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2122383555493781661",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2122383555493781661",
+      "created_at": "2026-11-16T17:37:26.000Z",
+      "created_at_bj": "2026-11-17 01:37",
+      "views": 1395278,
+      "rate_per_hour": 133160,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-17T08:10:02+08:00",
+        "views": 1315345
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 3977,
+        "impression_count": 1395278,
+        "like_count": 34169,
+        "quote_count": 338,
+        "reply_count": 150,
+        "retweet_count": 2199
+      },
+      "already_pushed": true,
+      "text": "Bond. James Bond.\n\nRobert Pattinson as 007 https://t.co/ekehTYbnsG",
+      "text_zh": "Bond. James Bond.\n\nRobert Pattinson 饰演 007 https://t.co/ekehTYbnsG",
+      "quoted": [],
+      "hit": true
+    },
+    {
+      "id": "2122325614447489417",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2122325614447489417",
+      "created_at": "2026-11-16T13:47:12.000Z",
+      "created_at_bj": "2026-11-16 21:47",
+      "views": 70292,
+      "rate_per_hour": 1751,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-17T08:10:02+08:00",
+        "views": 69241
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 101,
+        "impression_count": 70292,
+        "like_count": 851,
+        "quote_count": 28,
+        "reply_count": 371,
+        "retweet_count": 26
+      },
+      "already_pushed": true,
+      "text": "Unfortunately, the meaner you are to your AI, the better the work you get back.\n\nI hope it doesn’t remember any of this.",
+      "text_zh": "遗憾的是，你对 AI 越刻薄，拿回来的成果往往就越好。\n\n希望它不会记住这些。",
+      "quoted": [],
+      "hit": false
+    },
+    {
+      "id": "2122316226005492200",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2122316226005492200",
+      "created_at": "2026-11-16T13:09:53.000Z",
+      "created_at_bj": "2026-11-16 21:09",
+      "views": 26605,
+      "rate_per_hour": 726,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-17T08:10:02+08:00",
+        "views": 26169
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 52,
+        "impression_count": 26605,
+        "like_count": 199,
+        "quote_count": 45,
+        "reply_count": 89,
+        "retweet_count": 19
+      },
+      "already_pushed": true,
+      "text": "The $100K Hackathon is LIVE! 🏴‍☠️\n\n30 days.\n3,492 builders.\n$100,000 cash prize 🤯 thanks to @higgsfield_ai.\n\nAlready on the waitlist? Your dashboard is now open:\nhttps://t.co/pvcaBYGo2X\n\nNew here? Join for free, verify your email, and you’re in:\nhttps://t.co/NcbbFkNjH8\n\nHere’s what to do:\n\n1. Sign the contest rules\n2. Complete your public profile\n3. Start building your NEW business\n4. Install the traffic tracker before getting traffic\n5. Connect TrustMRR to verify your revenue and appear on the leaderboard\n\nThe hackathon ends on December 16. @jackfriks will review eligible startups and manually verify their profits. We’ll jump on calls to check GitHub history, traffic sources, revenue, and expenses.\n\nThe prizes go to the three most profitable eligible startups.\n\nGood luck 🫡",
+      "text_zh": "$100K Hackathon 开始了！🏴‍☠️\n\n30 天。\n3,492 位 builders。\n$100,000 现金奖金 🤯 感谢 @higgsfield_ai。\n\n已经在 waitlist 上了？你的 dashboard 现在开放了：\nhttps://t.co/pvcaBYGo2X\n\n新来的？免费加入，验证邮箱，你就进了：\nhttps://t.co/NcbbFkNjH8\n\n你需要做的是：\n\n1. 签署参赛规则\n2. 完善你的公开 profile\n3. 开始打造你的 NEW business\n4. 在获取流量之前先安装 traffic tracker\n5. 连接 TrustMRR 来验证你的收入，并出现在排行榜上\n\nhackathon 于 December 16 结束。@jackfriks 会审核符合条件的创业项目，并手动核实他们的利润。我们会一起上 call，检查 GitHub 历史、流量来源、收入和支出。\n\n奖项将发给三家利润最高、且符合资格的创业公司。\n\nGood luck 🫡",
+      "quoted": [
+        {
+          "id": "2120155404957311464",
+          "user": "marclou",
+          "text": "Higgsfield gave me $100,000 to realize my dream:\n\nA hackathon where participants build a real business, not just an app.\n\nSo... Introducing The $100K Hackathon:\n🏴‍☠️ https://t.co/nHDJ5Qruhu 🏴‍☠️\n\nIt starts on November 16, and you'll have 30 days to build a startup and make it profitable. The prizes:\n\n🥇 $100,000\n🥈 iPhone Duo\n🥉 MacBook Neo\n\nThis is not a joke. The winner will get $100,000 in cash.\n\nTo win, you must:\n\n1. Start a completely new business on Nov 16\n2. Build a digital product (SaaS, directory, etc.)\n3. Make the most profit (not revenue)\n\nYou can already register at $99. When the hackathon starts on Nov 16, you can still join for $149.\n\nI'm running this with my dear friend @jackfriks, and we'll manually review each potential winner to make sure everything holds up.\n\nSee you on November 16, builders 🏴‍☠️🫡",
+          "text_zh": "Higgsfield 给了我 $100,000 来实现我的梦想：\n\n一场让参赛者去打造真实生意、而不只是做一个应用的黑客松。\n\n所以……隆重介绍 The $100K Hackathon：\n🏴‍☠️ https://t.co/nHDJ5Qruhu 🏴‍☠️\n\n它将于 11 月 16 日开始，你有 30 天时间去做出一家创业公司并让它盈利。奖项：\n\n🥇 $100,000\n🥈 iPhone Duo\n🥉 MacBook Neo\n\n这不是开玩笑。冠军将获得 $100,000 现金。\n\n要赢，你必须：\n\n1. 在 11 月 16 日从零开始一家全新的生意\n2. 做出一款数字产品（SaaS、directory 等）\n3. 赚到最多利润（不是营收）\n\n你现在可以用 $99 报名。黑客松在 11 月 16 日开始后，仍可以 $149 加入。\n\n我和我的好朋友 @jackfriks 一起办这件事，我们会人工审核每一位潜在赢家，确保一切都经得起核验。\n\n11 月 16 日见，builders 🏴‍☠️🫡"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2122313496603902228",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2122313496603902228",
+      "created_at": "2026-11-16T12:59:02.000Z",
+      "created_at_bj": "2026-11-16 20:59",
+      "views": 55486,
+      "rate_per_hour": 630,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-17T08:10:02+08:00",
+        "views": 55108
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 113,
+        "impression_count": 55486,
+        "like_count": 736,
+        "quote_count": 7,
+        "reply_count": 36,
+        "retweet_count": 29
+      },
+      "already_pushed": true,
+      "text": "~100% of Europeans are dependent on government funded services \n\n~45% of Europeans are dependent on government cash transfers like pensions or welfare\n\n~20% of Europeans directly get their salary from the government (public sector jobs)\n\nThey're essentially already were they'll be in a post-AGI world with full UBI",
+      "text_zh": "约 100% 的欧洲人依赖政府资助的服务\n\n约 45% 的欧洲人依赖养老金或福利等政府现金转移支付\n\n约 20% 的欧洲人直接从政府领薪水（公共部门工作）\n\n他们基本上已经处在后 AGI、全面 UBI 的世界里将会所处的那种状态了",
+      "quoted": [
+        {
+          "id": "2122305198144053639",
+          "user": "aubetony",
+          "text": "@levelsio They have among the best safety nets to prevent the shock and societal collapse of everyone suddenly losing their jobs and income",
+          "text_zh": "@levelsio 他们拥有最好的安全网之一，可以防止所有人突然丢掉工作和收入所带来的冲击和社会崩溃。"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2122311266664640848",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2122311266664640848",
+      "created_at": "2026-11-16T12:50:11.000Z",
+      "created_at_bj": "2026-11-16 20:50",
+      "views": 4535,
+      "rate_per_hour": 170,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-17T08:10:02+08:00",
+        "views": 4433
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 29,
+        "impression_count": 4535,
+        "like_count": 143,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 9
+      },
+      "already_pushed": false,
+      "text": "Sawadee Thailand https://t.co/2b9xQS1ZOz https://t.co/ScGIu1hS4T",
+      "text_zh": "Sawadee Thailand https://t.co/2b9xQS1ZOz https://t.co/ScGIu1hS4T",
+      "quoted": [
+        {
+          "id": "2122039947343675692",
+          "user": "egeberkina",
+          "text": "Viva México https://t.co/6dat8qk9Gc https://t.co/B3tAppXKds",
+          "text_zh": "Viva México（墨西哥万岁） https://t.co/6dat8qk9Gc https://t.co/B3tAppXKds"
+        }
+      ],
+      "hit": false
+    }
+  ],
+  "new_hits": [],
+  "dropped_from_window": [
+    "2122301324129661310"
+  ],
+  "notes": "0834 判定轮（实际运行 08:46:03 北京时间）：按规则判定达标并推送新达标帖。间隔 0.6003 小时（上一轮 08:10:02 → 本轮 08:46:03 北京时间，36 分 1 秒）。@karpathy 窗口内无原创或引用帖。本轮 get_users_posts 使用 exclude=replies,retweets 与 start_time=2026-11-16T12:00:00Z，再按 12 小时窗口本地过滤。窗口起点 2026-11-16 20:46 北京时间（2026-11-16T12:46:03Z）。本轮 run_at 取 get_posts_by_ids 补全完成后的归档时刻 08:46:03（例行触发 08:43:29）。所有检查帖均有 impression_count。本轮先用 get_users_posts 拉时间线，再用 get_posts_by_ids 补齐长文 note_tweet；对补拉过的检查帖，浏览量与互动数据以较晚的 get_posts_by_ids 返回的 public_metrics 为准（该接口字段为 repost_count，归档仍写为 retweet_count）；本轮对全部 12 条检查帖都做了 get_posts_by_ids 补拉，故全部以补拉后的 public_metrics 为准。时间线在 exclude=replies,retweets 后仍额外返回 3 条需本地排除的回复：@marclou 2122319830199972127（发于 2026-11-16T13:24:12.000Z，回复自己的 2122316226005492200，已排除，不计入检查帖）；@marclou 2122316239158833358（发于 2026-11-16T13:09:56.000Z，回复自己的 2122316226005492200，已排除，不计入检查帖）；@gregisenberg 2122327645320855967（发于 2026-11-16T13:55:16.000Z，回复自己的 2122325614447489417，已排除，不计入检查帖）。无纯转发需排除。本轮无新进入窗口的检查帖。移出 12 小时窗口：@levelsio 2122301324129661310（发于 2026-11-16T12:10:40.000Z / 2026-11-16 20:10 北京时间，上一轮浏览 186452）。窗口内帖子 13 → 12 条。本轮有 5 条检查帖含长文全文（@levelsio 2122431389052317954、@gregisenberg 2122420795716653204、@levelsio 2122410176447693305、@marclou 2122316226005492200、@levelsio 2122313496603902228，已取全文）；其余 7 条正文未超过长文阈值，无 note_tweet。已有检查帖及其被引用帖的英文全文均与 0804 轮归档核对一致，中文译文全部沿用 0804 归档。本轮无需新译。补拉时与时间线浏览量对照（归档用补拉值）：@steipete 2122463466304971068 时间线 38496 / 补拉 38623；@levelsio 2122453067194847320 时间线 31515 / 补拉 31598；@levelsio 2122435589702328751 时间线 48695 / 补拉 48775；@levelsio 2122431389052317954 时间线 18074 / 补拉 18091；@gregisenberg 2122420795716653204 时间线 31200 / 补拉 31265；@levelsio 2122410176447693305 时间线 107496 / 补拉 107656；@levelsio 2122388920499400915 时间线 48910 / 补拉 48962；@egeberkina 2122383555493781661 时间线 1394635 / 补拉 1395278；@gregisenberg 2122325614447489417 时间线 70248 / 补拉 70292；@marclou 2122316226005492200 时间线 26594 / 补拉 26605；@levelsio 2122313496603902228 时间线 55484 / 补拉 55486；@egeberkina 2122311266664640848 时间线 4535 / 补拉 4535。@steipete 2122463466304971068 浏览 38623（上次 28740），每小时 +16464，已在 pushed 中，本轮仍超过阈值，不重复推送。时间线 38496 / 补拉 38623。@levelsio 2122453067194847320 浏览 31598（上次 28873），每小时 +4540，已在 pushed 中，本轮未超过阈值。时间线 31515 / 补拉 31598。@levelsio 2122435589702328751 浏览 48775（上次 45842），每小时 +4886，已在 pushed 中，本轮未超过阈值。时间线 48695 / 补拉 48775。@levelsio 2122431389052317954 浏览 18091（上次 17186），每小时 +1508，未超过阈值。时间线 18074 / 补拉 18091。@gregisenberg 2122420795716653204 浏览 31265（上次 28508），每小时 +4593，已在 pushed 中，本轮未超过阈值。时间线 31200 / 补拉 31265。@levelsio 2122410176447693305 浏览 107656（上次 101909），每小时 +9574，已在 pushed 中，本轮仍超过阈值，不重复推送。时间线 107496 / 补拉 107656。@levelsio 2122388920499400915 浏览 48962（上次 47251），每小时 +2850，未超过阈值。时间线 48910 / 补拉 48962。@egeberkina 2122383555493781661 浏览 1395278（上次 1315345），每小时 +133160，已在 pushed 中，本轮仍超过阈值，不重复推送。时间线 1394635 / 补拉 1395278。@gregisenberg 2122325614447489417 浏览 70292（上次 69241），每小时 +1751，已在 pushed 中，本轮未超过阈值。时间线 70248 / 补拉 70292。@marclou 2122316226005492200 浏览 26605（上次 26169），每小时 +726，已在 pushed 中，本轮未超过阈值。时间线 26594 / 补拉 26605。@levelsio 2122313496603902228 浏览 55486（上次 55108），每小时 +630，已在 pushed 中，本轮未超过阈值。时间线 55484 / 补拉 55486。@egeberkina 2122311266664640848 浏览 4535（上次 4433），每小时 +170，未超过阈值。时间线 4535 / 补拉 4535。本轮新达标 0 条，pushed 136 → 136。"
+}
