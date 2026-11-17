@@ -1,0 +1,378 @@
+{
+  "run_at": "2026-11-17T23:45:50+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "2334",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2122715886910144623",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2122715886910144623",
+      "created_at": "2026-11-17T15:38:00.000Z",
+      "created_at_bj": "2026-11-17 23:38",
+      "views": 2321,
+      "rate_per_hour": 17778,
+      "basis": "first_sight",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2321,
+        "like_count": 20,
+        "quote_count": 0,
+        "reply_count": 17,
+        "retweet_count": 0
+      },
+      "already_pushed": false,
+      "text": "People from 101 countries have joined!\n\n🇮🇳 India (21%)\n🇺🇸 United States (11%)\n🇫🇷 France (7%)\n🇬🇧 United Kingdom (4%)\n🇨🇦 Canada (4%)\n🇪🇸 Spain (3%)\n🇩🇪 Germany (3%)\n🇮🇹 Italy (3%)\n🇵🇰 Pakistan (2%)\n🇵🇱 Poland (2%)\n🌍 Other countries (40%)\n\nWe’ve got builders joining from Madagascar, Mongolia, and even 10 from Nepal 🤗",
+      "text_zh": "已经有来自 101 个国家的人加入了！\n\n🇮🇳 印度（21%）\n🇺🇸 美国（11%）\n🇫🇷 法国（7%）\n🇬🇧 英国（4%）\n🇨🇦 加拿大（4%）\n🇪🇸 西班牙（3%）\n🇩🇪 德国（3%）\n🇮🇹 意大利（3%）\n🇵🇰 巴基斯坦（2%）\n🇵🇱 波兰（2%）\n🌍 其他国家（40%）\n\n我们还有来自马达加斯加、蒙古的 builders，甚至有 10 人来自尼泊尔 🤗",
+      "quoted": [
+        {
+          "id": "2120155404957311464",
+          "user": "marclou",
+          "text": "Higgsfield gave me $100,000 to realize my dream:\n\nA hackathon where participants build a real business, not just an app.\n\nSo... Introducing The $100K Hackathon:\n🏴‍☠️ https://t.co/nHDJ5Qruhu 🏴‍☠️\n\nIt starts on November 16, and you'll have 30 days to build a startup and make it profitable. The prizes:\n\n🥇 $100,000\n🥈 iPhone Duo\n🥉 MacBook Neo\n\nThis is not a joke. The winner will get $100,000 in cash.\n\nTo win, you must:\n\n1. Start a completely new business on Nov 16\n2. Build a digital product (SaaS, directory, etc.)\n3. Make the most profit (not revenue)\n\nYou can already register at $99. When the hackathon starts on Nov 16, you can still join for $149.\n\nI'm running this with my dear friend @jackfriks, and we'll manually review each potential winner to make sure everything holds up.\n\nSee you on November 16, builders 🏴‍☠️🫡",
+          "text_zh": "Higgsfield 给了我 $100,000 来实现我的梦想：\n\n一场让参赛者去打造真实生意、而不只是做一个应用的黑客松。\n\n所以……隆重介绍 The $100K Hackathon：\n🏴‍☠️ https://t.co/nHDJ5Qruhu 🏴‍☠️\n\n它将于 11 月 16 日开始，你有 30 天时间去做出一家创业公司并让它盈利。奖项：\n\n🥇 $100,000\n🥈 iPhone Duo\n🥉 MacBook Neo\n\n这不是开玩笑。冠军将获得 $100,000 现金。\n\n要赢，你必须：\n\n1. 在 11 月 16 日从零开始一家全新的生意\n2. 做出一款数字产品（SaaS、directory 等）\n3. 赚到最多利润（不是营收）\n\n你现在可以用 $99 报名。黑客松在 11 月 16 日开始后，仍可以 $149 加入。\n\n我和我的好朋友 @jackfriks 一起办这件事，我们会人工审核每一位潜在赢家，确保一切都经得起核验。\n\n11 月 16 日见，builders 🏴‍☠️🫡"
+        }
+      ],
+      "hit": true
+    },
+    {
+      "id": "2122711257526759547",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2122711257526759547",
+      "created_at": "2026-11-17T15:19:36.000Z",
+      "created_at_bj": "2026-11-17 23:19",
+      "views": 681,
+      "rate_per_hour": 1558,
+      "basis": "first_sight",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 3,
+        "impression_count": 681,
+        "like_count": 15,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "already_pushed": false,
+      "text": "No. For me. https://t.co/Bqro5j1ltT https://t.co/FTTqjdAokz",
+      "text_zh": "不。这是给我的。https://t.co/Bqro5j1ltT https://t.co/FTTqjdAokz",
+      "quoted": [
+        {
+          "id": "2122626306487562594",
+          "user": "egeberkina",
+          "text": "007: Shattered reflections https://t.co/lEt1TcVw15 https://t.co/3q7LbX8gHx",
+          "text_zh": "007：破碎的倒影 https://t.co/lEt1TcVw15 https://t.co/3q7LbX8gHx"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2122711140383838692",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2122711140383838692",
+      "created_at": "2026-11-17T15:19:08.000Z",
+      "created_at_bj": "2026-11-17 23:19",
+      "views": 13711,
+      "rate_per_hour": 30811,
+      "basis": "first_sight",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 17,
+        "impression_count": 13711,
+        "like_count": 266,
+        "quote_count": 0,
+        "reply_count": 25,
+        "retweet_count": 1
+      },
+      "already_pushed": false,
+      "text": "She's learning it https://t.co/7C1pxTuIny",
+      "text_zh": "她正在学这个。https://t.co/7C1pxTuIny",
+      "quoted": [],
+      "hit": true
+    },
+    {
+      "id": "2122684997643468874",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2122684997643468874",
+      "created_at": "2026-11-17T13:35:15.000Z",
+      "created_at_bj": "2026-11-17 21:35",
+      "views": 13278,
+      "rate_per_hour": 3176,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-17T23:07:20+08:00",
+        "views": 11240
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 42,
+        "impression_count": 13278,
+        "like_count": 152,
+        "quote_count": 4,
+        "reply_count": 79,
+        "retweet_count": 3
+      },
+      "already_pushed": true,
+      "text": "24h into the $100K Hackathon. People are building:\n\n🎬 Video, photo & design tools (17%)\n📣 Marketing & SEO tools (16%)\n🛍️ Business & ecommerce tools (14%)\n🤖 AI agents & dev tools (9%)\n⚡ Productivity apps (9%)\n🎮 Games & entertainment (8%)\n🧠 Health & learning apps (6%)\n🎁 Personalized gifts & Christmas products (6%)\n🗂️ Directories & marketplaces (5%)\n💡 Other (10%)\n\nn = 10% of the 4,334 participants who've already shipped something.",
+      "text_zh": "$100K Hackathon 已经进行 24 小时。大家在做的项目分布：\n\n🎬 视频、照片和设计工具（17%）\n📣 营销和 SEO 工具（16%）\n🛍️ 商业和电商工具（14%）\n🤖 AI agents 和开发工具（9%）\n⚡ 效率应用（9%）\n🎮 游戏和娱乐（8%）\n🧠 健康和学习应用（6%）\n🎁 个性化礼物和圣诞产品（6%）\n🗂️ Directories 和 marketplaces（5%）\n💡 其他（10%）\n\nn = 已提交作品的 4,334 名参与者中的 10%。",
+      "quoted": [
+        {
+          "id": "2120155404957311464",
+          "user": "marclou",
+          "text": "Higgsfield gave me $100,000 to realize my dream:\n\nA hackathon where participants build a real business, not just an app.\n\nSo... Introducing The $100K Hackathon:\n🏴‍☠️ https://t.co/nHDJ5Qruhu 🏴‍☠️\n\nIt starts on November 16, and you'll have 30 days to build a startup and make it profitable. The prizes:\n\n🥇 $100,000\n🥈 iPhone Duo\n🥉 MacBook Neo\n\nThis is not a joke. The winner will get $100,000 in cash.\n\nTo win, you must:\n\n1. Start a completely new business on Nov 16\n2. Build a digital product (SaaS, directory, etc.)\n3. Make the most profit (not revenue)\n\nYou can already register at $99. When the hackathon starts on Nov 16, you can still join for $149.\n\nI'm running this with my dear friend @jackfriks, and we'll manually review each potential winner to make sure everything holds up.\n\nSee you on November 16, builders 🏴‍☠️🫡",
+          "text_zh": "Higgsfield 给了我 $100,000 来实现我的梦想：\n\n一场让参赛者去打造真实生意、而不只是做一个应用的黑客松。\n\n所以……隆重介绍 The $100K Hackathon：\n🏴‍☠️ https://t.co/nHDJ5Qruhu 🏴‍☠️\n\n它将于 11 月 16 日开始，你有 30 天时间去做出一家创业公司并让它盈利。奖项：\n\n🥇 $100,000\n🥈 iPhone Duo\n🥉 MacBook Neo\n\n这不是开玩笑。冠军将获得 $100,000 现金。\n\n要赢，你必须：\n\n1. 在 11 月 16 日从零开始一家全新的生意\n2. 做出一款数字产品（SaaS、directory 等）\n3. 赚到最多利润（不是营收）\n\n你现在可以用 $99 报名。黑客松在 11 月 16 日开始后，仍可以 $149 加入。\n\n我和我的好朋友 @jackfriks 一起办这件事，我们会人工审核每一位潜在赢家，确保一切都经得起核验。\n\n11 月 16 日见，builders 🏴‍☠️🫡"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2122680208729739305",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2122680208729739305",
+      "created_at": "2026-11-17T13:16:13.000Z",
+      "created_at_bj": "2026-11-17 21:16",
+      "views": 16484,
+      "rate_per_hour": 2676,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-17T23:07:20+08:00",
+        "views": 14767
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 10,
+        "impression_count": 16484,
+        "like_count": 72,
+        "quote_count": 1,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "already_pushed": true,
+      "text": "Yes, great parallel!\n\nAll the rules shutdown any creativity before it can become a real groundbreaking business or project",
+      "text_zh": "是的，这个类比太准了！\n\n所有这些规则会在创造力还没来得及变成真正突破性的生意或项目之前，就把它扼杀掉。",
+      "quoted": [
+        {
+          "id": "2122678660092076473",
+          "user": "Husckarl",
+          "text": "This is the problem with Holland and the EU. The way you have to comply with all sort of crazy regulations, and on top of that all kinds of rules where not following them will lead to being accountable personally will deter many people from actually trying out. Look at SpaceX: most of the earlier stuff was a failure, that’s how you learn. You need to do crazy stuff, to fail, in order to learn. Sadly, that’s not happening anymore.",
+          "text_zh": "这就是荷兰和欧盟的问题。你得遵守各种疯狂的监管，再加上各种各样的规则——不遵守就会被追究个人责任——这会让很多人根本不敢去尝试。看看 SpaceX：它早期的很多东西都失败了，而这正是学习的方式。你需要去做疯狂的事情、去失败，才能学会。可惜，这种情况已经不再发生了。"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2122673839389675882",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2122673839389675882",
+      "created_at": "2026-11-17T12:50:55.000Z",
+      "created_at_bj": "2026-11-17 20:50",
+      "views": 19161,
+      "rate_per_hour": 2263,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-17T23:07:20+08:00",
+        "views": 17709
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 57,
+        "impression_count": 19161,
+        "like_count": 227,
+        "quote_count": 5,
+        "reply_count": 12,
+        "retweet_count": 5
+      },
+      "already_pushed": true,
+      "text": "This is also why it's preferable to be nice to people and be open to whatever crazy ideas they have (with some limits)\n\nMany of the people I met years ago were broke, not successful, unknown and had crazy ideas, were lost in some way, and people wouldn't give them the time of day\n\nNow they're very successful, very rich, and some very well known",
+      "text_zh": "这也是为什么最好对人好一点，并且对别人那些再疯狂的想法也保持开放（当然要有一定限度）\n\n多年前我认识的很多人当时都还穷、不成功、没名气，脑子里全是疯狂的想法，某种程度上也很迷茫，别人根本不愿搭理他们\n\n现在他们都非常成功、非常有钱，有些还非常有名",
+      "quoted": [
+        {
+          "id": "2122671963999269326",
+          "user": "rolandobarbella",
+          "text": "The fear of putting time and effort into something that you dont how it will turn out is massive, it is very true \n\nI dont down play down people, if I dont like some one, its beacuse of his/her personality",
+          "text_zh": "把时间和精力投入到一件你不知道结果会怎样的事情上，这种恐惧是巨大的，这说得很对\n\n我不会贬低别人；如果我不喜欢某个人，那是因为他/她的性格"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2122672795909796307",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2122672795909796307",
+      "created_at": "2026-11-17T12:46:46.000Z",
+      "created_at_bj": "2026-11-17 20:46",
+      "views": 51462,
+      "rate_per_hour": 11015,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-17T23:07:20+08:00",
+        "views": 44394
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 150,
+        "impression_count": 51462,
+        "like_count": 172,
+        "quote_count": 4,
+        "reply_count": 64,
+        "retweet_count": 2
+      },
+      "already_pushed": true,
+      "text": "I love my v60 coffee set up with Fellow Stagg EKG water boiler, Fellow Ode Grinder Gen 2 on a Hario V60 steel dripper\n\nBut it takes me 7 minutes to make a cup of coffee, which is fine, and I have 3 drippers so I can do 3 at a time\n\nBut when lots of people come over, it's not really practical\n\nIs there an automated coffee machine with beans you put in on top, it grinds them and makes coffee from it, and inside is mostly non-plastic? And not ugly if possible? \n\nLike those ones you see in mini marts?\n\nThank you :D",
+      "text_zh": "我很喜欢自己的 v60 咖啡套装：Fellow Stagg EKG 热水壶、Fellow Ode Grinder Gen 2 磨豆机，配 Hario V60 钢制滤杯\n\n但做一杯咖啡要花我 7 分钟，这本身没问题，而且我有 3 个滤杯，可以一次做 3 杯\n\n可是来很多人的时候，这就不太现实了\n\n有没有那种全自动咖啡机：豆子从上面放进去，它负责研磨再冲煮，而且内部尽量不要用塑料？如果样子不要太丑就更好了？\n\n就像便利店里看到的那种？\n\n谢谢 :D",
+      "quoted": [],
+      "hit": false
+    },
+    {
+      "id": "2122657722403262508",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2122657722403262508",
+      "created_at": "2026-11-17T11:46:52.000Z",
+      "created_at_bj": "2026-11-17 19:46",
+      "views": 104347,
+      "rate_per_hour": 16395,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-17T23:07:20+08:00",
+        "views": 93827
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 874,
+        "impression_count": 104347,
+        "like_count": 1711,
+        "quote_count": 31,
+        "reply_count": 290,
+        "retweet_count": 68
+      },
+      "already_pushed": true,
+      "text": "How do I tell the @Hetzner_Online and @digitalocean CEOs to make new VPS servers:\n- have a default firewall that closes all their ports\n- by default have Tailscale installed as the only way to access it via SSH\n- by default have some web tunnel like Cloudflare Tunnel to serve web traffic safely\n\nThat way VPS servers could get a better reputation instantly by being safe by default\n\nIt's crazy in 2026 they let you create a VPS that by default is open to the entire internet!",
+      "text_zh": "我该怎么跟 @Hetzner_Online 和 @digitalocean 的 CEO 说，让他们把新的 VPS 服务器做成：\n- 默认开启防火墙，关掉所有端口\n- 默认安装 Tailscale，并且只允许通过它用 SSH 访问\n- 默认配置某种 web tunnel，比如 Cloudflare Tunnel，用来安全地对外提供 web 服务\n\n这样 VPS 服务器就能立刻因为默认安全而获得更好的口碑\n\n到了 2026 年，他们居然还让你创建一个默认就对整个互联网开放的 VPS，真是疯了！",
+      "quoted": [],
+      "hit": false
+    },
+    {
+      "id": "2122656701614608648",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2122656701614608648",
+      "created_at": "2026-11-17T11:43:29.000Z",
+      "created_at_bj": "2026-11-17 19:43",
+      "views": 71385,
+      "rate_per_hour": 14140,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-17T23:07:20+08:00",
+        "views": 62312
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 754,
+        "impression_count": 71385,
+        "like_count": 1548,
+        "quote_count": 30,
+        "reply_count": 153,
+        "retweet_count": 86
+      },
+      "already_pushed": true,
+      "text": "So many times I have had this interaction with normies where they don't understand what the jackfriks I'm working on as I'm just making random things for fun and messing around with things\n\nAnd to them whatever I'm doing looks like a complete and utter waste of time, it has no function, no direct rewards, it's not making money, it's not successful\n\nBut so many times those projects evolve or lead to things where there is a massive payout or success after\n\nBut most people don't have the ability to see that far ahead, and they're risk averse so even if you tell them \"I don't know maybe this becomes something, or maybe not, it doesn't really matter\" that's simply too uncertain enough for them to accept. Which is of course why they love employment so much, it's stable and certain.\n\nThe problem with normies is that they will quickly shut this creative play down in themselves and even worse in others. And that way whatever that thing is, it won't ever grow into anything because they killed it before it ever got a chance, proving their point\n\nAlmost all my projects started by just messing around with no real goal, just playing for fun\n\nBut it requires some kind of peacefulness because the moment you start putting a requirement of success on to something new, the thing instantly dies\n\nCreativity is really magical, and it messes with you if you try control it or expect things from it",
+      "text_zh": "我曾经无数次跟普通人（normies）有过这样的互动：他们搞不懂我到底在捣鼓些什么 jackfriks，因为我不过是在随便做点好玩的东西、到处折腾。\n\n在他们看来，我做的这一切完全是在浪费时间：没有用处，没有直接回报，不赚钱，也不算成功。\n\n但很多次，这些项目后来都会演变，或通向某种巨大的回报或成功。\n\n可大多数人没有能力看得那么远，而且他们厌恶风险，所以哪怕你告诉他们「我也不知道，也许这会变成点什么，也许不会，其实也没什么关系」，这对他们来说也实在太不确定了，让他们无法接受。这当然也是他们如此热爱上班打工的原因——稳定、确定。\n\n普通人（normies）的问题在于，他们会很快掐灭自己身上这种创造性的玩耍，更糟的是还会掐灭别人的。这样一来，那件事情永远长不成任何东西，因为他们在它还没机会之前就把它杀死了，从而「证明」了自己是对的。\n\n我几乎所有的项目，一开始都只是在瞎玩，没有真正的目标，纯粹为了好玩。\n\n但这需要某种平静，因为一旦你开始给新事物加上「必须成功」的要求，它立刻就死了。\n\n创造力真的很神奇，你一旦试图控制它、或对它抱有期待，它就会跟你作对。",
+      "quoted": [
+        {
+          "id": "2122267469268328711",
+          "user": "noahpinion",
+          "text": "A lot of the most successful people I know spent years of their life just bumming around, before they suddenly exploded into action and did something great.\n\nI don't think that's a coincidence.\n\nhttps://t.co/KT4vsg5txg",
+          "text_zh": "我认识的很多最成功的人，都曾在生活里混迹多年，然后才突然爆发行动，做出了了不起的事。\n\n我不认为这是巧合。\n\nhttps://t.co/KT4vsg5txg"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2122626306487562594",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2122626306487562594",
+      "created_at": "2026-11-17T09:42:02.000Z",
+      "created_at_bj": "2026-11-17 17:42",
+      "views": 5552,
+      "rate_per_hour": 1133,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-17T23:07:20+08:00",
+        "views": 4825
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 24,
+        "impression_count": 5552,
+        "like_count": 88,
+        "quote_count": 4,
+        "reply_count": 4,
+        "retweet_count": 9
+      },
+      "already_pushed": false,
+      "text": "007: Shattered reflections https://t.co/lEt1TcVw15 https://t.co/3q7LbX8gHx",
+      "text_zh": "007：破碎的倒影 https://t.co/lEt1TcVw15 https://t.co/3q7LbX8gHx",
+      "quoted": [
+        {
+          "id": "2122383555493781661",
+          "user": "egeberkina",
+          "text": "Bond. James Bond.\n\nRobert Pattinson as 007 https://t.co/ekehTYbnsG",
+          "text_zh": "Bond. James Bond.\n\nRobert Pattinson 饰演 007 https://t.co/ekehTYbnsG"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2122544737693655046",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2122544737693655046",
+      "created_at": "2026-11-17T04:17:55.000Z",
+      "created_at_bj": "2026-11-17 12:17",
+      "views": 41098,
+      "rate_per_hour": 1223,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-17T23:07:20+08:00",
+        "views": 40313
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 134,
+        "impression_count": 41098,
+        "like_count": 488,
+        "quote_count": 6,
+        "reply_count": 96,
+        "retweet_count": 24
+      },
+      "already_pushed": true,
+      "text": "I still believe one of the best businesses to be in right now is cybersecurity \n\nRecurring, mission critical, and getting more urgent every month! https://t.co/CAsKZamnpX",
+      "text_zh": "我仍然认为，现在最好做的生意之一就是网络安全（cybersecurity）\n\n它是经常性收入、使命攸关，而且每个月都变得更紧迫！https://t.co/CAsKZamnpX",
+      "quoted": [
+        {
+          "id": "2122516006203441301",
+          "user": "disclosetv",
+          "text": "JUST IN - A suspected supply chain attack on Optimizely loaded malware on Zoom, CNN, Fox News, BBC, Salesforce, GitLab, KLM, Air France, Bitly, IG Group, American Eagle and others, exposing visitors to scripts built to steal payment data and exploit iOS devices.",
+          "text_zh": "最新消息——一起针对 Optimizely 的疑似供应链攻击，在 Zoom、CNN、Fox News、BBC、Salesforce、GitLab、KLM、Air France、Bitly、IG Group、American Eagle 等网站上加载了恶意软件，使访问者暴露于用于窃取支付数据和利用 iOS 设备的脚本。"
+        }
+      ],
+      "hit": false
+    }
+  ],
+  "new_hits": [
+    "2122715886910144623",
+    "2122711140383838692"
+  ],
+  "dropped_from_window": [],
+  "notes": "2334 判定轮（实际运行 23:45:50 北京时间）：按规则判定达标并推送新达标帖。间隔 0.6417 小时（上一轮 23:07:20 → 本轮 23:45:50 北京时间，38 分 30 秒）。@steipete、@karpathy 窗口内无原创或引用帖。本轮 get_users_posts 使用 exclude=replies,retweets 与 start_time=2026-11-17T03:30:00Z，覆盖 12 小时窗口（窗口起点 2026-11-17 11:45:50 北京时间 / 2026-11-17T03:45:50Z）。@steipete、@karpathy 均为 result_count=0。本轮 run_at 取时间线拉取时刻 23:45:50（例行触发 23:44:59），以避免归档收尾把增速间隔拉长；浏览量以此时 get_users_posts 的 public_metrics 为准。所有检查帖均有 impression_count。本轮用公开 x.get_users_posts 拉时间线。新进入窗口 3 条检查帖：@marclou 2122715886910144623（发于 2026-11-17T15:38:00.000Z / 2026-11-17 23:38 北京时间，原创长文，引用自己的 2120155404957311464）；@egeberkina 2122711257526759547（发于 2026-11-17T15:19:36.000Z / 2026-11-17 23:19 北京时间，引用帖，引用自己的 2122626306487562594，附 5 秒视频）；@levelsio 2122711140383838692（发于 2026-11-17T15:19:08.000Z / 2026-11-17 23:19 北京时间，原创配图帖，无 note_tweet，正文完整）。@marclou 该帖时间线已返回完整 note_tweet；@egeberkina、@levelsio 这两条无 note_tweet，正文完整。均按首次见到规则判定。2122715886910144623 浏览 2321 ÷ max(发帖至今小时数, 1/60) = 2321 ÷ (470/3600) = 2321 ÷ 0.1306 = 17778，超过阈值 5000，且不在 pushed 中，本轮新达标。2122711140383838692 浏览 13711 ÷ max(发帖至今小时数, 1/60) = 13711 ÷ (1602/3600) = 13711 ÷ 0.4450 = 30811，超过阈值 5000，且不在 pushed 中，本轮新达标。2122711257526759547 浏览 681 ÷ max(发帖至今小时数, 1/60) = 681 ÷ (1574/3600) = 681 ÷ 0.4372 = 1558，未超过阈值 5000，且不在 pushed 中，本轮不推送。这 2 条新达标正文中文译文为本轮新译；被引用的 $100K Hackathon 长文译文沿用 2304/0604 归档，被引用的 007 帖译文沿用 2304 归档。@levelsio 2122656701614608648 在本轮时间线中仍以编辑后 id 2122656870993129851 返回（edit_history 含原 id），归档仍用原 id 以保持 snapshots/pushed 连续；浏览 71385（上次 62312），每小时 +14140，虽超过阈值，但已在 pushed 中，本轮不重复推送。@levelsio 2122657722403262508 浏览 104347（上次 93827），每小时 +16395，虽超过阈值，但已在 pushed 中，本轮不重复推送。@levelsio 2122672795909796307 浏览 51462（上次 44394），每小时 +11015，虽超过阈值，但已在 pushed 中，本轮不重复推送。@levelsio 2122680208729739305 浏览 16484（上次 14767），每小时 +2676，未超过阈值，已在 pushed 中。@marclou 2122684997643468874 浏览 13278（上次 11240），每小时 +3176，未超过阈值，已在 pushed 中。@levelsio 2122673839389675882 浏览 19161（上次 17709），每小时 +2263，未超过阈值，已在 pushed 中。这 8 条已有检查帖正文与被引用帖全文均与 2304 归档完全一致（其中咖啡、normies 两条本轮 get_posts_by_ids 已确认完整 note_tweet 一致；Hetzner 帖时间线仍为截断短文本，正文沿用 2304 已保存的完整文本），中文译文全部沿用 2304 归档。@levelsio 2122673839389675882 未超过长文阈值，无 note_tweet，时间线短文本因引用链接被截断，正文沿用 2304 已保存的完整文本。时间线在 exclude=replies,retweets 后仍额外返回 2 条需本地排除的回复：@levelsio 2122667481412116624（发于 2026-11-17T12:25:39.000Z / 2026-11-17 20:25 北京时间，回复 2122656870993129851，同时引用 1977438740751544440，已排除，不计入检查帖）；@egeberkina 2122628678702223718（发于 2026-11-17T09:51:28.000Z，回复自己的 2122383555493781661，同时引用 2122626306487562594，已排除，不计入检查帖）。无纯转发需排除。移出 12 小时窗口：无。窗口内帖子 8 → 11 条。@egeberkina 2122626306487562594 浏览 5552（上次 4825），每小时 +1133，未超过阈值，且不在 pushed 中，本轮不推送。@gregisenberg 2122544737693655046 浏览 41098（上次 40313），每小时 +1223，未超过阈值，已在 pushed 中。本轮新达标 2 条，pushed 144 → 146。"
+}
