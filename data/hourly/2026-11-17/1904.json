@@ -1,0 +1,127 @@
+{
+  "run_at": "2026-11-17T19:06:00+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "1904",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2122626306487562594",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2122626306487562594",
+      "created_at": "2026-11-17T09:42:02.000Z",
+      "created_at_bj": "2026-11-17 17:42",
+      "views": 1738,
+      "rate_per_hour": 819,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-17T18:43:30+08:00",
+        "views": 1431
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 9,
+        "impression_count": 1738,
+        "like_count": 31,
+        "quote_count": 1,
+        "reply_count": 2,
+        "retweet_count": 1
+      },
+      "already_pushed": false,
+      "text": "007: Shattered reflections https://t.co/lEt1TcVw15 https://t.co/3q7LbX8gHx",
+      "text_zh": "007：破碎的倒影 https://t.co/lEt1TcVw15 https://t.co/3q7LbX8gHx",
+      "quoted": [
+        {
+          "id": "2122383555493781661",
+          "user": "egeberkina",
+          "text": "Bond. James Bond.\n\nRobert Pattinson as 007 https://t.co/ekehTYbnsG",
+          "text_zh": "Bond. James Bond.\n\nRobert Pattinson 饰演 007 https://t.co/ekehTYbnsG"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2122544737693655046",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2122544737693655046",
+      "created_at": "2026-11-17T04:17:55.000Z",
+      "created_at_bj": "2026-11-17 12:17",
+      "views": 31194,
+      "rate_per_hour": 2237,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-17T18:43:30+08:00",
+        "views": 30355
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 110,
+        "impression_count": 31194,
+        "like_count": 371,
+        "quote_count": 4,
+        "reply_count": 73,
+        "retweet_count": 18
+      },
+      "already_pushed": true,
+      "text": "I still believe one of the best businesses to be in right now is cybersecurity \n\nRecurring, mission critical, and getting more urgent every month! https://t.co/CAsKZamnpX",
+      "text_zh": "我仍然认为，现在最好做的生意之一就是网络安全（cybersecurity）\n\n它是经常性收入、使命攸关，而且每个月都变得更紧迫！https://t.co/CAsKZamnpX",
+      "quoted": [
+        {
+          "id": "2122516006203441301",
+          "user": "disclosetv",
+          "text": "JUST IN - A suspected supply chain attack on Optimizely loaded malware on Zoom, CNN, Fox News, BBC, Salesforce, GitLab, KLM, Air France, Bitly, IG Group, American Eagle and others, exposing visitors to scripts built to steal payment data and exploit iOS devices.",
+          "text_zh": "最新消息——一起针对 Optimizely 的疑似供应链攻击，在 Zoom、CNN、Fox News、BBC、Salesforce、GitLab、KLM、Air France、Bitly、IG Group、American Eagle 等网站上加载了恶意软件，使访问者暴露于用于窃取支付数据和利用 iOS 设备的脚本。"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2122505285885423625",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2122505285885423625",
+      "created_at": "2026-11-17T01:41:09.000Z",
+      "created_at_bj": "2026-11-17 09:41",
+      "views": 53254,
+      "rate_per_hour": 2008,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-17T18:43:30+08:00",
+        "views": 52501
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 692,
+        "impression_count": 53254,
+        "like_count": 880,
+        "quote_count": 9,
+        "reply_count": 102,
+        "retweet_count": 39
+      },
+      "already_pushed": true,
+      "text": "Reminder to \n\n1. Find popular saas people kinda hate paying for \n2. Make them free and open source \n3. Build an insane amount of goodwill\n4. Upsell the power users to a hosted version, team features and support https://t.co/n9WEzJC1IA",
+      "text_zh": "提醒一下\n\n1. 找那些大家多少有点讨厌付费的热门 saas\n2. 把它们做成免费开源\n3. 积累大量善意\n4. 再向重度用户追加销售托管版本、团队功能和支持 https://t.co/n9WEzJC1IA",
+      "quoted": [
+        {
+          "id": "2122394902168473975",
+          "user": "kevinrose",
+          "text": "DocuSign wants $8,100/yr from a 15-person team just to sign PDFs. So I built SignuDoc: open source, one-click deploy to your own @vercel account, $0 per seat.\n\nWhite-label branding, full audit trails, tamper-evident seals and your documents never leave your cloud.",
+          "text_zh": "DocuSign 想向一个 15 人团队每年收 $8,100，就为了签个 PDF。所以我做了 SignuDoc：开源，一键部署到你自己的 @vercel 账号，每个席位 $0。\n\n支持白标 branding、完整审计追踪、防篡改印章，而且你的文件不会离开你自己的云。"
+        }
+      ],
+      "hit": false
+    }
+  ],
+  "new_hits": [],
+  "dropped_from_window": [
+    "2122463466304971068"
+  ],
+  "notes": "1904 判定轮（实际运行 19:06:00 北京时间）：按规则判定达标并推送新达标帖。间隔 0.3750 小时（上一轮 18:43:30 → 本轮 19:06:00 北京时间，22 分 30 秒）。@levelsio、@marclou、@steipete、@karpathy 窗口内无原创或引用帖。本轮 get_users_posts 使用 exclude=replies,retweets 与 start_time=2026-11-16T23:00:00Z，覆盖 12 小时窗口（窗口起点 2026-11-17 07:06:00 北京时间 / 2026-11-16T23:06:00Z）。@levelsio、@marclou、@steipete、@karpathy 均为 result_count=0。上一轮仍在窗口内的 @steipete 2122463466304971068（发于 2026-11-16T22:54:58.000Z / 北京时间 06:54）已早于本轮窗口起点，移出 12 小时窗口；因发帖时间早于 start_time，无需更早 start_time 复核。本轮 run_at 取时间线拉取时刻 19:06:00（例行触发 19:05:10），以避免归档收尾把增速间隔拉长；浏览量以此时 get_users_posts 的 public_metrics 为准。所有检查帖均有 impression_count。本轮用公开 x.get_users_posts 拉时间线。3 条检查帖正文与被引用帖全文均与 1834 归档完全一致，中文译文全部沿用 1834 归档。正文未超过长文阈值，无 note_tweet。时间线在 exclude=replies,retweets 后仍额外返回 1 条需本地排除的回复：@egeberkina 2122628678702223718（发于 2026-11-17T09:51:28.000Z，回复自己的 2122383555493781661，同时引用 2122626306487562594，已排除，不计入检查帖）。无纯转发需排除。移出 12 小时窗口：1 条（@steipete 2122463466304971068）。窗口内帖子 4 → 3 条。@egeberkina 2122626306487562594 浏览 1738（上次 1431），每小时 +819，未超过阈值。@gregisenberg 2122544737693655046 浏览 31194（上次 30355），每小时 +2237，已在 pushed 中，本轮未超过阈值。@gregisenberg 2122505285885423625 浏览 53254（上次 52501），每小时 +2008，已在 pushed 中，本轮未超过阈值。本轮新达标 0 条，pushed 138 → 138。"
+}
