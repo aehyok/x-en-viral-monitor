@@ -1,0 +1,267 @@
+{
+  "run_at": "2026-11-17T15:44:50+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "1534",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2122544737693655046",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2122544737693655046",
+      "created_at": "2026-11-17T04:17:55.000Z",
+      "created_at_bj": "2026-11-17 12:17",
+      "views": 23650,
+      "rate_per_hour": 2858,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-17T15:06:20+08:00",
+        "views": 21816
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 90,
+        "impression_count": 23650,
+        "like_count": 275,
+        "quote_count": 3,
+        "reply_count": 54,
+        "retweet_count": 11
+      },
+      "already_pushed": true,
+      "text": "I still believe one of the best businesses to be in right now is cybersecurity \n\nRecurring, mission critical, and getting more urgent every month! https://t.co/CAsKZamnpX",
+      "text_zh": "我仍然认为，现在最好做的生意之一就是网络安全（cybersecurity）\n\n它是经常性收入、使命攸关，而且每个月都变得更紧迫！https://t.co/CAsKZamnpX",
+      "quoted": [
+        {
+          "id": "2122516006203441301",
+          "user": "disclosetv",
+          "text": "JUST IN - A suspected supply chain attack on Optimizely loaded malware on Zoom, CNN, Fox News, BBC, Salesforce, GitLab, KLM, Air France, Bitly, IG Group, American Eagle and others, exposing visitors to scripts built to steal payment data and exploit iOS devices.",
+          "text_zh": "最新消息——一起针对 Optimizely 的疑似供应链攻击，在 Zoom、CNN、Fox News、BBC、Salesforce、GitLab、KLM、Air France、Bitly、IG Group、American Eagle 等网站上加载了恶意软件，使访问者暴露于用于窃取支付数据和利用 iOS 设备的脚本。"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2122505285885423625",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2122505285885423625",
+      "created_at": "2026-11-17T01:41:09.000Z",
+      "created_at_bj": "2026-11-17 09:41",
+      "views": 45628,
+      "rate_per_hour": 3307,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-17T15:06:20+08:00",
+        "views": 43506
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 576,
+        "impression_count": 45628,
+        "like_count": 744,
+        "quote_count": 6,
+        "reply_count": 82,
+        "retweet_count": 32
+      },
+      "already_pushed": true,
+      "text": "Reminder to \n\n1. Find popular saas people kinda hate paying for \n2. Make them free and open source \n3. Build an insane amount of goodwill\n4. Upsell the power users to a hosted version, team features and support https://t.co/n9WEzJC1IA",
+      "text_zh": "提醒一下\n\n1. 找那些大家多少有点讨厌付费的热门 saas\n2. 把它们做成免费开源\n3. 积累大量善意\n4. 再向重度用户追加销售托管版本、团队功能和支持 https://t.co/n9WEzJC1IA",
+      "quoted": [
+        {
+          "id": "2122394902168473975",
+          "user": "kevinrose",
+          "text": "DocuSign wants $8,100/yr from a 15-person team just to sign PDFs. So I built SignuDoc: open source, one-click deploy to your own @vercel account, $0 per seat.\n\nWhite-label branding, full audit trails, tamper-evident seals and your documents never leave your cloud.",
+          "text_zh": "DocuSign 想向一个 15 人团队每年收 $8,100，就为了签个 PDF。所以我做了 SignuDoc：开源，一键部署到你自己的 @vercel 账号，每个席位 $0。\n\n支持白标 branding、完整审计追踪、防篡改印章，而且你的文件不会离开你自己的云。"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2122463466304971068",
+      "user": "steipete",
+      "url": "https://x.com/steipete/status/2122463466304971068",
+      "created_at": "2026-11-16T22:54:58.000Z",
+      "created_at_bj": "2026-11-17 06:54",
+      "views": 94201,
+      "rate_per_hour": 6053,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-17T15:06:20+08:00",
+        "views": 90317
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 146,
+        "impression_count": 94201,
+        "like_count": 1173,
+        "quote_count": 22,
+        "reply_count": 150,
+        "retweet_count": 44
+      },
+      "already_pushed": true,
+      "text": "People: Please reduce the number of permission alerts so agents can work on macOS without constant babysitting\n\nApple: I hear you, here’s some new scary alerts https://t.co/Saw8ftcNNW",
+      "text_zh": "人们：请减少权限弹窗的数量，好让 agents 能在 macOS 上工作，不必一直被人看管\n\n苹果：我听到了，给你们一些新的吓人警告 https://t.co/Saw8ftcNNW",
+      "quoted": [
+        {
+          "id": "2122436634172129687",
+          "user": "MacRumors",
+          "text": "macOS 27.3 Warns Against Giving AI Apps Full Mac Control https://t.co/Ko2jRzlEOl https://t.co/N9DsvPRis6",
+          "text_zh": "macOS 27.3 警告不要把 Mac 的完全控制权交给 AI 应用 https://t.co/Ko2jRzlEOl https://t.co/N9DsvPRis6"
+        }
+      ],
+      "hit": true
+    },
+    {
+      "id": "2122453067194847320",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2122453067194847320",
+      "created_at": "2026-11-16T22:13:39.000Z",
+      "created_at_bj": "2026-11-17 06:13",
+      "views": 48149,
+      "rate_per_hour": 2119,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-17T15:06:20+08:00",
+        "views": 46789
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 30,
+        "impression_count": 48149,
+        "like_count": 527,
+        "quote_count": 4,
+        "reply_count": 52,
+        "retweet_count": 21
+      },
+      "already_pushed": true,
+      "text": "This only further proves how terrible human drivers are and how we need to speedrun legalization of self driving cars worldwide https://t.co/0YkAhkMFcE",
+      "text_zh": "这只是进一步证明了人类司机有多糟糕，我们需要在全世界尽快让自动驾驶汽车合法化 https://t.co/0YkAhkMFcE",
+      "quoted": [
+        {
+          "id": "2122427270744973778",
+          "user": "Elenee_Dao",
+          "text": "Surveillance video shows the crash that involved two Waymos and two cars at 20th St and Van Buren. \n\n@PhoenixPolice said 3 people were taken to the hospital: 2 had non-life threatening injuries and one was transported with life-threatening injuries. @abc15 https://t.co/NMSoCCsSXj https://t.co/zg996awMgW",
+          "text_zh": "监控视频显示，在 20th St 和 Van Buren 路口发生了一起涉及两辆 Waymo 和两辆汽车的车祸。\n\n@PhoenixPolice 称有 3 人被送往医院：其中 2 人伤势不危及生命，另有一人因危及生命的伤势被送医。@abc15 https://t.co/NMSoCCsSXj https://t.co/zg996awMgW"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2122435589702328751",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2122435589702328751",
+      "created_at": "2026-11-16T21:04:12.000Z",
+      "created_at_bj": "2026-11-17 05:04",
+      "views": 71272,
+      "rate_per_hour": 4755,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-17T15:06:20+08:00",
+        "views": 68221
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 75,
+        "impression_count": 71272,
+        "like_count": 658,
+        "quote_count": 0,
+        "reply_count": 20,
+        "retweet_count": 16
+      },
+      "already_pushed": true,
+      "text": "This picture is really poetic https://t.co/O5VOBmyyN0 https://t.co/aSXSn3W70U",
+      "text_zh": "这张照片真的很有诗意 https://t.co/O5VOBmyyN0 https://t.co/aSXSn3W70U",
+      "quoted": [
+        {
+          "id": "2122424060755742756",
+          "user": "michalmalewicz",
+          "text": "EU is cooked. \n\nEurotrip through France and Germany summary and comparisons to Poland.\n\n🇩🇪 Germany: Dead, decaying society.  \n\nWe started in Berlin.\n\nOn K-damm (main fashion street) we saw a guy standing up in a sleeping bag and masturb4ting in front of the Gucci store. \n\nNobody paid any mind. People are completely desensitized, and that's actually bad. Their proverbial frog got boiled.\n\nGraffiti, trash everywhere, smell of urine. Feces. \n\nCouldn't find a bottle of water in glass in any store in the center, so had to buy €7 per bottle from a restaurant. \n\nDepressing.\n\nThen we got on the road. Gas stations are mostly decrepit, tiles falling off. Toilets resembling those from trainspotting. Compared to any Orlen in Poland (even in a small town) the difference is extreme. \n\nThen we stayed in Hamm. Took a small stroll after parking through the center. Not as dirty as berlin, but dead. Almost nobody on the streets. \n\nLooked like sadness. \n\n🇫🇷 Then we got to France\nStarting with Nancy. \n\nCrystal Plus was an amazing hotel. Super high quality everything, organic food, good gym, pool and sauna. But ... \n\nThen you walk outside and see half the streets boarded up. Including Lidl. \n\nThe city parking we went to looked like from a zombie movie.\n\nUrine soaked pavements, sticky door handles. \n\nWent for breakfast in the morning, some nice place, but on the way it looked like a war zone. Plywood everywhere. Tags.\n\nThen we drove to Grenoble. My sister lives there and she wants to leave. No wonder! \n\nOn the road I passed two TE gas stations on which the ev charging didn't work. They sold sandwiches as \"hot\" but couldn't heat them up. \n\nFrench gas stations used to be quality, only a little below Poland's. Now two years since I've been on French roads it got worse. Often the toilets don't work.\n\nWhen in Grenoble it was Nancy, but worse. Half the city boarded up. Many stores looted. Broken windows. Burned walls. \n\nAnd I noticed one other thing. Women going on a run constantly look behind their shoulder even at daytime. Definitely not giving off a feeling of safety. \n\nHere however the hotel we found was pretty amazing. Filtered RO water without microplastics, great organic food, teas and so on. \n\nThe problem was just ... going outside. \n\nWe've been doing this drive from Poland to Marbella every year for five or six years now. And somehow germany and france feel worse and worse each year.\n\nAnd sure there are upsides, Berlin has great food, France too in many places. \n\nBut at this moment in time the main word that comes to mind is decrepit. \n\nOr post-apocalyptic. \n\nAll photos taken in central locations.",
+          "text_zh": "欧盟完了。\n\n这次法国和德国的欧洲之行总结，并与波兰对比。\n\n🇩🇪 德国：一个死气沉沉、正在衰败的社会。\n\n我们从柏林开始。\n\n在 K-damm（主要时尚街道）上，我们看到一个男人站在睡袋里，在 Gucci 店门口自慰。\n\n没人理会。人们已经完全麻木了，而这其实很糟糕。那只谚语里的青蛙已经被慢慢煮熟了。\n\n到处是涂鸦和垃圾，一股尿味。还有粪便。\n\n在市中心任何一家店都找不到玻璃瓶装水，只能从餐厅花 €7 买一瓶。\n\n令人沮丧。\n\n然后我们上路了。加油站大多破败不堪，瓷砖都在掉。厕所像《Trainspotting》里的那种。和波兰任何一家 Orlen 比（哪怕是小镇上的），差距都极其明显。\n\n接着我们住在 Hamm。停车后在市中心走了一小圈。没有柏林那么脏，但一片死寂。街上几乎没人。\n\n看着像悲伤本身。\n\n🇫🇷 然后我们到了法国\n从 Nancy 开始。\n\nCrystal Plus 是一家很棒的酒店。一切都超高品质，有有机食品、不错的健身房、泳池和桑拿。但是……\n\n你一走到外面，就会看到一半街道都用木板封上了。连 Lidl 也是。\n\n我们去的那个城市停车场，看起来像僵尸电影里的场景。\n\n人行道被尿浸透，门把手黏糊糊的。\n\n早上去吃早餐，店本身还不错，但一路上简直像战区。到处是胶合板。还有涂鸦标签。\n\n然后我们开车去 Grenoble。我妹妹住在那里，她想离开。难怪！\n\n路上我经过两家 TE 加油站，ev charging 都不能用。他们卖的三明治号称是 “hot” 的，却没法加热。\n\n法国的加油站曾经品质不错，只比波兰的稍差一点。距离我上次走法国公路才两年，现在更糟了。厕所经常是坏的。\n\n到了 Grenoble，情况跟 Nancy 一样，但更差。半个城市都被木板封上。很多店被洗劫过。窗户碎了。墙被烧过。\n\n我还注意到另一件事。女人出门跑步时，即使在白天也不断回头看。完全给不出安全感。\n\n不过我们找到的这家酒店相当出色。有过滤的 RO water、没有微塑料，很棒的有机食品、茶等等。\n\n问题只是……走到外面去。\n\n我们现在每年都会从波兰开车到 Marbella，已经走了五六年。而不知怎的，德国和法国每年都感觉更糟。\n\n当然也有好的一面，柏林有很棒的食物，法国很多地方也是。\n\n但此刻脑海中浮现的关键词是破败。\n\n或者说，末日之后。\n\n所有照片都拍自市中心位置。"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2122431389052317954",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2122431389052317954",
+      "created_at": "2026-11-16T20:47:30.000Z",
+      "created_at_bj": "2026-11-17 04:47",
+      "views": 23666,
+      "rate_per_hour": 1046,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-17T15:06:20+08:00",
+        "views": 22995
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 23,
+        "impression_count": 23666,
+        "like_count": 120,
+        "quote_count": 1,
+        "reply_count": 7,
+        "retweet_count": 5
+      },
+      "already_pushed": false,
+      "text": "Very cool remake for all the 🇵🇹 Portuguese that are now 25 to 30 years old who in ~2008 all got this laptop from the Portuguese government\n\nIt was a branded version of Intel's Classmate PC with lots of open source software running on it like OpenOffice\n\nKinda like an early Chromebook!",
+      "text_zh": "这个复刻版对现在 25 到 30 岁、大约在 2008 年都从葡萄牙政府手里拿到过这台笔记本的 🇵🇹 葡萄牙人来说，真的很酷。\n\n它是 Intel Classmate PC 的品牌定制版，预装了大量开源软件，比如 OpenOffice。\n\n有点像早期的 Chromebook！",
+      "quoted": [
+        {
+          "id": "2122429953513849308",
+          "user": "goncalo_canhoto",
+          "text": "I just built an iconic Portuguese laptop simulator that runs in your browser!\n\nLet me explain:\n\"Magalhães\" was this \"Portuguese classic\" -  a low-spec Linux-based laptop that the Portuguese government  basically \"gave\" to a ton of students around 2008-2010 (its price ranged from 20€ to 180€ depending on your household income)\n\nFor many young Portuguese in their ~25-ish, playing SuperTux (an open-source game btw) is deeply nostalgic\n\nPeople would literally install games on this 'educational laptop' like Metin 2, CS 1.6, and more. It sure powered a generation of gamers 🤣\n\nAnyway, you can now play SuperTux, paint, create documents, pptx slides, play music, and I might just add browsing later on (imagine claude/chatgpt ahah)\n\nTry it now!\n\nhttps://t.co/ZzvEH9yeJd\n\n(needless to say, heavily inspired by @levelsio's https://t.co/aW3anesXo3 )\n\nhttps://t.co/APag0U0VtD",
+          "text_zh": "我刚做了一个可以在浏览器里运行的经典葡萄牙笔记本电脑模拟器！\n\n我来解释一下：\n\"Magalhães\" 是一款“葡萄牙经典”——一台低配的、基于 Linux 的笔记本电脑，葡萄牙政府大约在 2008-2010 年基本上“发给”了大量学生（价格从 20€ 到 180€ 不等，取决于家庭收入）\n\n对许多现在大约 25 岁左右的年轻葡萄牙人来说，玩 SuperTux（顺便说，这是一款开源游戏）有着深深的怀旧感\n\n人们真的会在这台“教育笔记本电脑”上安装游戏，比如 Metin 2、CS 1.6 等等。它确实撑起了一代 gamers 🤣\n\n总之，你现在可以玩 SuperTux、画画、创建文档、pptx 幻灯片、播放音乐，我可能稍后还会加上浏览功能（想象一下 claude/chatgpt ahah）\n\n现在就去试试！\n\nhttps://t.co/ZzvEH9yeJd\n\n（不用说，很大程度受 @levelsio 的 https://t.co/aW3anesXo3 启发）\n\nhttps://t.co/APag0U0VtD"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2122420795716653204",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2122420795716653204",
+      "created_at": "2026-11-16T20:05:25.000Z",
+      "created_at_bj": "2026-11-17 04:05",
+      "views": 70087,
+      "rate_per_hour": 5891,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-17T15:06:20+08:00",
+        "views": 66307
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 1757,
+        "impression_count": 70087,
+        "like_count": 883,
+        "quote_count": 12,
+        "reply_count": 157,
+        "retweet_count": 47
+      },
+      "already_pushed": true,
+      "text": "I’ve noticed open sourcing your saas is the new saas playbook \n\n1. pick the job your customers hire you for\n\n2. turn your best workflows for that job into skills\n\n3. open source them on github\n\n4. make them work in claude code, codex, cursor and openclaw on day one\n\n5. ship an MCP so agents can use your product directly\n\n6. post the repo with a list of every skill inside (like this one)\n\n7. every install puts your brand inside someone's agent, and it gets used every day\n\n8. the free skills do the work once. the paid product does it every week, with your data, hosting and support\n\n9. upsell to done for you, team plans and the hosted version\n\n10. keep shipping new skills. every one is a new launch\n\nYour free skills are the new free trial.\n\nsaas has gone open source for real",
+      "text_zh": "我发现，把你的 saas 开源，正在成为新的 saas 打法\n\n1. 先选准客户雇你来完成的那项工作\n\n2. 把你为这项工作准备的最佳 workflows 做成 skills\n\n3. 把它们开源到 github 上\n\n4. 第一天就让它们能在 claude code、codex、cursor 和 openclaw 上跑起来\n\n5. 做一个 MCP，让 agents 能直接使用你的产品\n\n6. 发这个 repo，并列出里面的每一项 skill（就像这一份一样）\n\n7. 每一次安装，都会把你的品牌放进某个人的 agent 里，而且它每天都会被用到\n\n8. 免费 skills 能把事情做一次。付费产品则每周都做，还带上你的数据、托管和支持\n\n9. 再向上销售 done for you、团队方案和托管版本\n\n10. 持续发布新的 skills。每一个都是一次新的发布\n\n你的免费 skills 就是新的免费试用。\n\nsaas 已经真正走向开源了",
+      "quoted": [
+        {
+          "id": "2122395509293989985",
+          "user": "boringmarketer",
+          "text": "I'm open sourcing 32 of my best skills that cover every marketing use case for AI agents I can think of\n\nit helps your AI execute marketing at a world class quality focused on RESULTS and ROI\n\nNot sure how long I'll keep these open, but you can grab them here: https://t.co/IfPLLBMbmW\n\nthis is what's inside (seo, ads, aeo, social, copy, research, and more more more)\n\nstart here\n1) start-here, reads any business from its site and reviews in 3 min, writes the brand files, routes you\n2) brand-voice, a voice profile built from real quotes\n3) positioning-angles, the angle and the offer, then the first screen and objection answers\n4) audience-research, your customers' own words from reviews, reddit and comments\n5) competitive-intel, rivals' messaging, pricing, paid ads and the gaps\n\nget found\n6) google-business-profile, your profile vs the top 3 in the map pack, plus a month of posts\n7) local-seo-plan, a 90 day plan with every page, title and week\n8) service-area-pages, town pages that aren't the same page with the city swapped\n9) ai-search, whether chatgpt, perplexity and google's AI name you, and what to fix\n10) keyword-research, a topic map instead of a 5,000 row spreadsheet\n11) seo-content, articles that rank and get cited in AI answers\n12) programmatic-seo, hundreds of pages from one template and real data\n13) site-audit, crawls your site the way google and the AI crawlers do, then ranks the fixes\n\nget chosen\n14) reviews, owner replies and the review ask after every job\n15) first-screen-check, your site on a phone the way a customer sees it\n16) landing-page, one offer per page, built and ready to ship\n17) direct-response-copy, copy in your customer's words, every claim checked\n18) lead-magnet, a quiz, calculator or guide, actually built\n\nget the call\n19) paid-ads, meta, google, linkedin and tiktok campaigns with a test plan\n20) google-ads-tracking, makes google ads count real calls and forms\n21) ads-incrementality-check, a pause test to see if ads add calls or just take credit\n22) meta-ads, launches and verifies campaigns through the API\n23) speed-to-lead, missed call text-back and follow-up\n24) creative, ads in 21 formats built from 336 live ads from top DTC brands, made with GPT Image, Seedance and Higgsfield\n\nbring them back\n25) email-sequences, welcome, follow-up, win-back and cold outbound\n26) newsletter, editions in your voice using your own click data\n27) performance-review, reads your numbers and feeds what worked back in\n\nwin clients\n28) find-local-clients, ranks the local businesses losing the most customers\n29) pitch-the-fix, a short email about one broken thing with a fix to sell\n\nmarket yourself\n30) social-content, posts built from your own best posts\n31) long-form-article, a long guide with named sources\n32) content-atomizer, one piece into native posts for every platform\n\nevery skill reads the same brand files. your edits become checks the next run follows. your results feed back in. free tools first, paid ones optional.\n\nnpx skills add boringmarketer/boring-marketing-skills",
+          "text_zh": "我正在开源 32 个我最好的 skills，覆盖我能想到的、面向 AI agents 的每一种营销场景\n\n它能帮你的 AI 以世界级的品质执行营销，专注于 RESULTS 和 ROI\n\n不确定我会开源多久，但你现在可以在这里拿到它们：https://t.co/IfPLLBMbmW\n\n这里面有这些（seo、ads、aeo、social、copy、research，以及更多更多）\n\n从这里开始\n1) start-here，3 分钟内从网站和评价读懂任何一家企业，写出 brand files，再给你指路\n2) brand-voice，根据真实引用建立的语气档案\n3) positioning-angles，角度和 offer，然后是首屏和异议回答\n4) audience-research，来自评价、reddit 和评论里顾客自己的原话\n5) competitive-intel，对手的话术、定价、付费广告，以及其中的缺口\n\n被人找到\n6) google-business-profile，你的资料对比 map pack 里前 3 名，外加一个月的帖子\n7) local-seo-plan，一份 90 天计划，包括每一页、标题和每一周\n8) service-area-pages，不会只是同一页换个城市名的城镇页面\n9) ai-search，chatgpt、perplexity 和 google 的 AI 会不会提到你，以及该改什么\n10) keyword-research，一张主题地图，而不是一份 5,000 行的表格\n11) seo-content，既能排名、又能被 AI 回答引用的文章\n12) programmatic-seo，用一个模板和真实数据做出上百个页面\n13) site-audit，按 google 和 AI crawlers 的方式抓取你的网站，再给修复项排序\n\n被人选中\n14) reviews，店主回复，以及每次服务后的评价邀请\n15) first-screen-check，用顾客的视角看你网站在手机上的样子\n16) landing-page，一页一个 offer，做好就能上线\n17) direct-response-copy，用顾客自己的话写文案，每条主张都经过核对\n18) lead-magnet，一个测验、计算器或指南，而且是真正做出来的\n\n接到电话\n19) paid-ads，meta、google、linkedin 和 tiktok 广告活动，带测试计划\n20) google-ads-tracking，让 google ads 统计到真实来电和表单\n21) ads-incrementality-check，用暂停测试看广告是真的带来了来电，还是只是在抢功\n22) meta-ads，通过 API 投放并验证广告活动\n23) speed-to-lead，未接来电短信回访和跟进\n24) creative，21 种格式的广告，素材来自头部 DTC 品牌的 336 条在投广告，用 GPT Image、Seedance 和 Higgsfield 制作\n\n把他们带回来\n25) email-sequences，欢迎、跟进、赢回和冷邮件 outbound\n26) newsletter，用你自己的点击数据和你的语气做期刊\n27) performance-review，读取你的数据，把有效的做法回馈进去\n\n赢下客户\n28) find-local-clients，给正在流失最多顾客的本地商家排序\n29) pitch-the-fix，一封短邮件，只谈一件坏掉的事和你可以卖的修复方案\n\n营销你自己\n30) social-content，用你自己表现最好的帖子来做新帖\n31) long-form-article，一篇带具名来源的长指南\n32) content-atomizer，把一条内容拆成适合每个平台的原生帖\n\n每一项 skill 都读取同一套 brand files。你的修改会变成下一轮运行要遵守的检查项。你的结果会反馈回来。免费工具优先，付费工具可选。\n\nnpx skills add boringmarketer/boring-marketing-skills"
+        }
+      ],
+      "hit": true
+    }
+  ],
+  "new_hits": [],
+  "dropped_from_window": [
+    "2122410176447693305"
+  ],
+  "notes": "1534 判定轮（实际运行 15:44:50 北京时间）：按规则判定达标并推送新达标帖。间隔 0.6417 小时（上一轮 15:06:20 → 本轮 15:44:50 北京时间，38 分 30 秒）。@marclou、@egeberkina、@karpathy 窗口内无原创或引用帖。本轮 get_users_posts 使用 exclude=replies,retweets 与 start_time=2026-11-16T19:30:00Z，再按 12 小时窗口本地过滤。窗口起点 2026-11-17 03:44 北京时间（2026-11-16T19:44:50Z）。本轮 run_at 取时间线拉取时刻 15:44:50（例行触发 15:44:18），以避免归档收尾把增速间隔拉长；浏览量以此时 get_users_posts 的 public_metrics 为准。所有检查帖均有 impression_count。本轮用公开 x.get_users_posts 拉时间线；本轮返回体未包含 note_post/note_tweet 字段，2 条检查帖时间线正文被截断。已将截断正文与 1504 归档全文做前缀核对，确认归档全文是本轮时间线正文的完整版本，故沿用 1504 全文，未再调用 get_posts_by_ids 补拉。长文检查帖：@levelsio 2122431389052317954、@gregisenberg 2122420795716653204，已取全文；其余 5 条正文与 1504 归档完全一致，无新的长文截断。被引用帖中篇幅较长的全文（与 1504 一致）亦沿用归档：@michalmalewicz 2122424060755742756（被 @levelsio 2122435589702328751 引用）；@goncalo_canhoto 2122429953513849308（被 @levelsio 2122431389052317954 引用）；@boringmarketer 2122395509293989985（被 @gregisenberg 2122420795716653204 引用）。时间线在 exclude=replies,retweets 与 start_time 过滤后，未再出现需本地排除的回复或纯转发。移出 12 小时窗口 1 条：@levelsio 2122410176447693305（发于 2026-11-17 03:23）。本轮无新进入窗口的检查帖。窗口内帖子 8 → 7 条（移出 1、新进 0）。已有检查帖及其被引用帖的英文全文均与 1504 轮归档核对一致（截断帖已按前缀确认），中文译文全部沿用 1504 归档。本轮无需新译。@gregisenberg 2122544737693655046 浏览 23650（上次 21816），每小时 +2858，已在 pushed 中，本轮未超过阈值。@gregisenberg 2122505285885423625 浏览 45628（上次 43506），每小时 +3307，已在 pushed 中，本轮未超过阈值。@steipete 2122463466304971068 浏览 94201（上次 90317），每小时 +6053，已在 pushed 中，本轮仍超过阈值，不重复推送。@levelsio 2122453067194847320 浏览 48149（上次 46789），每小时 +2119，已在 pushed 中，本轮未超过阈值。@levelsio 2122435589702328751 浏览 71272（上次 68221），每小时 +4755，已在 pushed 中，本轮未超过阈值。@levelsio 2122431389052317954 浏览 23666（上次 22995），每小时 +1046，未超过阈值。@gregisenberg 2122420795716653204 浏览 70087（上次 66307），每小时 +5891，已在 pushed 中，本轮仍超过阈值，不重复推送。本轮新达标 0 条，pushed 138 → 138。"
+}
