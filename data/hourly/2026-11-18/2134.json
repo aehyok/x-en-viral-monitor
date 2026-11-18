@@ -1,0 +1,83 @@
+{
+  "run_at": "2026-11-18T21:38:53+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "2134",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2123020400980603146",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2123020400980603146",
+      "created_at": "2026-11-18T11:48:02.000Z",
+      "created_at_bj": "2026-11-18 19:48",
+      "views": 9106,
+      "rate_per_hour": 3097,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-18T21:10:35+08:00",
+        "views": 7645
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 8,
+        "impression_count": 9106,
+        "like_count": 81,
+        "quote_count": 3,
+        "reply_count": 31,
+        "retweet_count": 2
+      },
+      "already_pushed": true,
+      "text": "386 people joined the welcome ZOOM call yesterday 🤗 https://t.co/wFqaDhQzgk https://t.co/Z4Bm1EAnc8",
+      "text_zh": "昨天有 386 人参加了欢迎 ZOOM 通话 🤗 https://t.co/wFqaDhQzgk https://t.co/Z4Bm1EAnc8",
+      "quoted": [
+        {
+          "id": "2120155404957311464",
+          "user": "marclou",
+          "text": "Higgsfield gave me $100,000 to realize my dream:\n\nA hackathon where participants build a real business, not just an app.\n\nSo... Introducing The $100K Hackathon:\n🏴‍☠️ https://t.co/nHDJ5Qruhu 🏴‍☠️\n\nIt starts on November 16, and you'll have 30 days to build a startup and make it profitable. The prizes:\n\n🥇 $100,000\n🥈 iPhone Duo\n🥉 MacBook Neo\n\nThis is not a joke. The winner will get $100,000 in cash.\n\nTo win, you must:\n\n1. Start a completely new business on Nov 16\n2. Build a digital product (SaaS, directory, etc.)\n3. Make the most profit (not revenue)\n\nYou can already register at $99. When the hackathon starts on Nov 16, you can still join for $149.\n\nI'm running this with my dear friend @jackfriks, and we'll manually review each potential winner to make sure everything holds up.\n\nSee you on November 16, builders 🏴‍☠️🫡",
+          "text_zh": "Higgsfield 给了我 10 万美元，让我实现梦想：\n\n一场让参赛者打造真正生意、而不只是做一个应用的黑客松。\n\n所以……隆重介绍 The $100K Hackathon：\n🏴‍☠️ https://t.co/nHDJ5Qruhu 🏴‍☠️\n\n11 月 16 日开始，你将有 30 天时间做出一家创业公司并实现盈利。奖品是：\n\n🥇 10 万美元\n🥈 iPhone Duo\n🥉 MacBook Neo\n\n这不是开玩笑。冠军将获得 10 万美元现金。\n\n要获胜，你必须：\n\n1. 在 11 月 16 日创办一家全新的生意\n2. 做出一款数字产品（SaaS、目录站等）\n3. 赚到最多利润（不是营收）\n\n现在就能以 99 美元报名。黑客松在 11 月 16 日开始后，仍可以 149 美元加入。\n\n我是和好友 @jackfriks 一起办这次活动的，我们会人工审核每一位潜在获胜者，确保一切经得起检验。\n\n11 月 16 日见，builders 🏴‍☠️🫡"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2123029694018994576",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2123029694018994576",
+      "created_at": "2026-11-18T12:24:57.000Z",
+      "created_at_bj": "2026-11-18 20:24",
+      "views": 788,
+      "rate_per_hour": 333,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-18T21:10:35+08:00",
+        "views": 631
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 3,
+        "impression_count": 788,
+        "like_count": 6,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "already_pushed": false,
+      "text": "Some places only exist at dusk https://t.co/CJiDSw5i0W",
+      "text_zh": "有些地方只存在于黄昏时分 https://t.co/CJiDSw5i0W",
+      "quoted": [],
+      "hit": false
+    }
+  ],
+  "new_hits": [],
+  "dropped_from_window": [],
+  "notes": "2134 判定轮（实际运行 21:38:53 北京时间）：按规则判定达标并推送新达标帖。间隔 0.4717 小时（上一轮 21:10:35 → 本轮 21:38:53 北京时间，28 分 18 秒）。@levelsio、@gregisenberg、@steipete、@karpathy 窗口内无原创或引用帖。本轮 get_users_posts 使用 exclude=replies,retweets，六个账号均使用 start_time=2026-11-18T01:30:00Z 拉取时间线，再按归档时刻 21:38:53 的 12 小时窗口本地过滤。窗口起点 2026-11-18 09:38:53 北京时间（2026-11-18T01:38:53Z）。本轮 run_at 取时间线采集与 get_posts_by_ids 复核完成后的归档时刻 21:38:53（例行触发 21:37:35）；浏览量与互动数据以公开 x.get_posts_by_ids 复核值为准（该接口字段为 repost_count，归档仍写为 retweet_count）。@marclou 时间线浏览量为 9089，get_posts_by_ids 复核为 9106，以复核为准；@egeberkina 时间线浏览量为 788、书签 2、转发 0，get_posts_by_ids 复核为浏览 788、书签 3、转发 1，以复核为准。get_posts_by_ids 还用于补全被引用帖 2120155404957311464 的长文 note_tweet。@levelsio、@gregisenberg、@steipete、@karpathy 带 start_time 的时间线均为 result_count=0。为确认并非漏采，对这四个账号另拉了不含 start_time 的最近原创/引用帖：最新一条分别为 @levelsio 2122818385570337275（2026-11-17T22:25:17.000Z / 2026-11-18 06:25 北京时间）、@gregisenberg 2122838261642961368（2026-11-17T23:44:16.000Z / 2026-11-18 07:44 北京时间）、@steipete 2122463466304971068（2026-11-16T22:54:58.000Z）、@karpathy 2119114537442189652（2026-11-07T17:07:31.000Z），均已超出本轮 12 小时窗口。不含 start_time 的 @levelsio 时间线中还出现了回复帖 2122818282650841495（2026-11-17T22:24:53.000Z，referenced_tweets 类型为 replied_to），已在本地排除，且同样超出窗口。窗口内检查帖 2 条，均有 impression_count。本轮先用公开 x.get_users_posts 拉时间线，再用 get_posts_by_ids 复核浏览量并补齐被引用帖长文。无新进入窗口的帖子。无纯转发需排除。带 start_time 的时间线在 exclude=replies,retweets 后无需再本地排除回复。无帖子从 snapshots 清理。2123020400980603146 为短帖，无 note_tweet；英文全文与中文译文沿用 2104 归档（与本轮原文一致）；被引用帖全文取自 get_posts_by_ids 的 note_tweet，与 2104 归档一致，中文译文沿用 2104。2123029694018994576 为短帖，无 note_tweet；英文全文与中文译文沿用 2104 归档（与本轮原文一致）。2123020400980603146 浏览 9106（上次 7645），每小时 +3097 → 1461 ÷ 0.4717 = 3097，未超过阈值；已在 pushed，不重复推送。2123029694018994576 浏览 788（上次 631），每小时 +333 → 157 ÷ 0.4717 = 333，未超过阈值。窗口内帖子 2 → 2 条。本轮新达标 0 条，pushed 151 → 151 条。"
+}
