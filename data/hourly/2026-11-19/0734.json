@@ -1,0 +1,405 @@
+{
+  "run_at": "2026-11-19T07:42:15+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "0734",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2123179348467278293",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2123179348467278293",
+      "created_at": "2026-11-18T22:19:38.000Z",
+      "created_at_bj": "2026-11-19 06:19",
+      "views": 16431,
+      "rate_per_hour": 10125,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-19T07:10:29+08:00",
+        "views": 11071
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 382,
+        "impression_count": 16431,
+        "like_count": 184,
+        "quote_count": 1,
+        "reply_count": 43,
+        "retweet_count": 14
+      },
+      "already_pushed": true,
+      "text": "How to turn your Grok Bot into a top 1% AI agent content team (research, scripts, editing etc)\n\nYou give your Grok Bot the creators you love, hooks you’ve saved, fav newsletters, and it’ll find what’s working, write script, cut your edit and publish the video:\n\nhttps://t.co/QIPSAJukIV",
+      "text_zh": "如何把你的 Grok Bot 打造成顶尖 1% 的 AI agent 内容团队（调研、脚本、剪辑等）\n\n你把喜欢的创作者、存下来的 hooks、常看的 newsletter 交给 Grok Bot，它就会找出正在生效的内容，写脚本、剪片子，然后发布视频：\n\nhttps://t.co/QIPSAJukIV",
+      "quoted": [],
+      "hit": true
+    },
+    {
+      "id": "2123162166102560996",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2123162166102560996",
+      "created_at": "2026-11-18T21:11:21.000Z",
+      "created_at_bj": "2026-11-19 05:11",
+      "views": 1065,
+      "rate_per_hour": 238,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-19T07:10:29+08:00",
+        "views": 939
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 2,
+        "impression_count": 1065,
+        "like_count": 12,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "already_pushed": false,
+      "text": "Look who's back https://t.co/dMc2KEMqTo https://t.co/Y3H7Q2LOOH",
+      "text_zh": "Look who's back（看看谁回来了） https://t.co/dMc2KEMqTo https://t.co/Y3H7Q2LOOH",
+      "quoted": [
+        {
+          "id": "2123082416763855316",
+          "user": "egeberkina",
+          "text": "Vice City, baby! https://t.co/llCIiqUgSY",
+          "text_zh": "Vice City, baby! https://t.co/llCIiqUgSY"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2123119704193802643",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2123119704193802643",
+      "created_at": "2026-11-18T18:22:37.000Z",
+      "created_at_bj": "2026-11-19 02:22",
+      "views": 32716,
+      "rate_per_hour": 2127,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-19T07:10:29+08:00",
+        "views": 31590
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 52,
+        "impression_count": 32716,
+        "like_count": 275,
+        "quote_count": 4,
+        "reply_count": 33,
+        "retweet_count": 4
+      },
+      "already_pushed": false,
+      "text": "💯\n\nIn so many of my purchasing decisions these days I get frustrated that there is nothing that I want and I am getting scalped by crazy high prices for the most ordinary basic stuff\n\nThe basic end conclusion then is: I have to rip out the middle men\n\nIn case of furniture, the answer is design it myself and go to a carpenter to build it\n\nThere's going to be a big revival of artisanal jobs I think",
+      "text_zh": "💯\n\n近来我很多购买决定都会让我很沮丧：我想要的东西根本没有，而且最普通的基本款都被漫天要价宰得很惨。\n\n于是最基本的结论就是：我必须把中间商剔除出去。\n\n就家具而言，答案是自己设计，然后找木匠来做。\n\n我觉得手工艺人的工作会迎来一次大复兴。",
+      "quoted": [
+        {
+          "id": "2123117813921669207",
+          "user": "StewartalsopIII",
+          "text": "this leads to higher quality over time\n\ninformation arbitrage from people who dont want to put in the work of creativity (opposite of hustle cult) is going away https://t.co/y6ztQaDe3l",
+          "text_zh": "这会随时间带来更高的品质\n\n不愿投入创造性劳动的人（与 hustle cult 相反）所依赖的信息套利正在消失 https://t.co/y6ztQaDe3l"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2123119037131674056",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2123119037131674056",
+      "created_at": "2026-11-18T18:19:58.000Z",
+      "created_at_bj": "2026-11-19 02:19",
+      "views": 81521,
+      "rate_per_hour": 5419,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-19T07:10:29+08:00",
+        "views": 78652
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 387,
+        "impression_count": 81521,
+        "like_count": 603,
+        "quote_count": 9,
+        "reply_count": 34,
+        "retweet_count": 17
+      },
+      "already_pushed": true,
+      "text": "Scary NGINX vulnerability, but I checked and my VPS servers already had auto upgraded to the new one!\n\nVery very very very very important to enable auto upgrades now, I even have auto reboot, which is a bit risky if you're not present, but I care more about my sites being up to date and safe than offline for a few hours\n\nAnd generally security updates/upgrades are tested and safe",
+      "text_zh": "NGINX 出了个吓人的漏洞，但我检查过了，我的 VPS 已经自动升级到新版本了！\n\n现在开启自动升级真的非常非常非常非常非常重要。我甚至开了自动重启——如果你人不在场，这会有点冒险，但比起离线几个小时，我更在意站点保持最新、安全。\n\n而且一般来说，安全更新/升级都是经过测试的，是安全的。",
+      "quoted": [
+        {
+          "id": "2123072693042082117",
+          "user": "wiz_io",
+          "text": "🚨 Critical NGINX Vulnerabilities: @wiz_io Research, alongside @xint_official , @MetnirAI , @rapid7 , @ikotas00 independently discovered 2 critical memory-safety flaws in NGINX (CVE-2026-123633 & CVE-2026-123007) allowing unauthenticated RCE with HTTP/2 enabled. https://t.co/9uSNydq71Y",
+          "text_zh": "🚨 严重的 NGINX 漏洞：@wiz_io 研究团队与 @xint_official、@MetnirAI、@rapid7、@ikotas00 独立发现了 NGINX 中两个严重的内存安全漏洞（CVE-2026-123633 和 CVE-2026-123007），在启用 HTTP/2 时可导致未认证远程代码执行（RCE）。https://t.co/9uSNydq71Y"
+        }
+      ],
+      "hit": true
+    },
+    {
+      "id": "2123115885879513098",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2123115885879513098",
+      "created_at": "2026-11-18T18:07:27.000Z",
+      "created_at_bj": "2026-11-19 02:07",
+      "views": 21653,
+      "rate_per_hour": 1141,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-19T07:10:29+08:00",
+        "views": 21049
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 46,
+        "impression_count": 21653,
+        "like_count": 73,
+        "quote_count": 1,
+        "reply_count": 4,
+        "retweet_count": 1
+      },
+      "already_pushed": false,
+      "text": "My friend @bai0 made something very cool\n\nLocal area networking (LAN) inside a webpage (or tweet!), meaning you can play any game or app that works over a local network on the web\n\nYou can try it in the tweet below, just click the box, you'll end up in a lobby chat and can then play GTA!",
+      "text_zh": "我朋友 @bai0 做了个非常酷的东西。\n\n在网页（或推文！）里实现局域网（LAN），意味着你可以在网页上玩任何能通过本地网络工作的游戏或应用。\n\n你可以在下面这条推文里试试，点一下那个框，就会进入大厅聊天，然后就能玩 GTA 了！",
+      "quoted": [
+        {
+          "id": "2123111430589440400",
+          "user": "bai0",
+          "text": "Still waiting on GTA 6 to drop? Same.\n\nWaiting's more fun with friends - come play the original Grand Theft Auto, multiplayer with up to 4 players, right here in this tweet. Just hit play!\n\nhttps://t.co/c45Ad4zgVX",
+          "text_zh": "还在等 GTA 6 上线？我也是。\n\n和朋友一起等更有意思——来这条推文里直接玩原版 Grand Theft Auto 吧，最多 4 人多人游戏。点 play 就行！\n\nhttps://t.co/c45Ad4zgVX"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2123103440616173949",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2123103440616173949",
+      "created_at": "2026-11-18T17:18:00.000Z",
+      "created_at_bj": "2026-11-19 01:18",
+      "views": 29324,
+      "rate_per_hour": 2267,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-19T07:10:29+08:00",
+        "views": 28124
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 89,
+        "impression_count": 29324,
+        "like_count": 160,
+        "quote_count": 1,
+        "reply_count": 37,
+        "retweet_count": 0
+      },
+      "already_pushed": false,
+      "text": "Really cool to follow this guy who’s building a gTLD business. \n\nIt’s very hard to pull off the ground because you need adoption, but they have a very high margin (90%).\n\n.ai is doing $80M/year.\n\nNot everyone can spend a few hundred thousand dollars to register a gTLD, so it’s good to see him building in public.\n\nGo Maxime!",
+      "text_zh": "跟着这个正在做 gTLD 生意的人一起看，真的很酷。\n\n这件事很难起步，因为你需要有人采用，但他们的利润率非常高（90%）。\n\n.ai 一年能做到 $80M。\n\n不是每个人都能拿出几十万美元去注册一个 gTLD，所以看到他在公开构建（building in public），感觉很好。\n\n加油 Maxime！",
+      "quoted": [
+        {
+          "id": "2123046822948331742",
+          "user": "Buildingitmyway",
+          "text": "embarked on the most exciting project of my life\n\nit's not an agency\nnot a SaaS\nnot an app\n\nit's .... 🥁\n\na whole domain extension\n\nexactly like a .com or a .ai\n\nfar from the spotlight, yet a lifetime asset with strong economics\n\nI raised $400k to apply to become the operator of \".labs\"\n\nand offer anyone a chance to own a [name].labs\n\nthe vision: the extension for builders and innovators\n\nbut wait... why the hell am I doing this? and how can we own an extension?\n\nstorytime:\n\nalmost 2 years ago, I launched yet another app\n\nwent on to buy a domain and the registrar says \"invalid TLD\"\n\nthe extension I typed simply didn't exist\n\nI was specifically looking for a .labs, it sounded so nice and meant so much\n\nbut not a single one exists\n\nbeing curious I looked up how domain extensions work and how new ones get created\n\nturns out you can apply for one, but only when ICANN opens a round\n\nthe last round was in 2012, and the next one... 2026\n\n14 years later\n\nit stuck with me, it felt like the opportunity of a lifetime\n\nthere will only ever be one .labs\n\na name that promises progress\n\nas a builder who believes in innovation\n\nI knew I had found my project\n\nthe kind I could spend the next 20 years on\n\nthe application isn't cheap though: $227k just to get in\n\nso I worked in stealth for almost 2 years and raised from top-class angels\n\ntook the leap, created a company, and sent the application\n\nICANN still has to review everything and big players want it too\n\nbut I’m going all in\n\non to building the largest community of innovators\n\nif you want to be part of it in your own way\n\nor want to waitlist your .labs name\n\njump in (link below)",
+          "text_zh": "我踏上了人生中最激动人心的项目\n\n它不是一家 agency\n不是一个 SaaS\n也不是一个 app\n\n它是……🥁\n\n一整套域名后缀\n\n就像 .com 或 .ai 那样\n\n远离聚光灯，却是一份有着强劲经济模型的终身资产\n\n我募集了 $400k，申请成为 \".labs\" 的运营商\n\n并让任何人都有机会拥有一个 [name].labs\n\n愿景是：面向构建者和创新者的后缀\n\n但等一下……我到底为什么要做这个？我们又怎么能“拥有”一个后缀？\n\n故事时间：\n\n大约两年前，我又上线了一个 app\n\n接着去买域名，注册商却提示 \"invalid TLD\"\n\n我输入的那个后缀根本不存在\n\n我当时特地在找 .labs，这个名字听起来很美，也意义重大\n\n但这样一个后缀一个都没有\n\n出于好奇，我去查了域名后缀是怎么运作的、新后缀又是怎么产生的\n\n原来你可以申请一个，但只有在 ICANN 开放申请轮次的时候才行\n\n上一轮是 2012 年，而下一轮是……2026\n\n时隔 14 年\n\n这件事一直留在我心里，感觉像是一生一次的机会\n\n世界上只会有一个 .labs\n\n一个承诺着进步的名字\n\n作为一个相信创新的 builder\n\n我知道自己找到了那个项目\n\n那种我可以投入接下来 20 年的项目\n\n不过申请并不便宜：光是入场就要 $227k\n\n于是我几乎隐身工作了两年，并向顶级天使融了资\n\n然后迈出这一步，成立了公司，提交了申请\n\nICANN 还要审核一切，而且大玩家也想要它\n\n但我决定 all in\n\n接下来，去打造最大的创新者社区\n\n如果你想以自己的方式参与其中\n\n或想把你的 .labs 名字加入 waitlist\n\n那就加入进来吧（链接在下方）"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2123082416763855316",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2123082416763855316",
+      "created_at": "2026-11-18T15:54:27.000Z",
+      "created_at_bj": "2026-11-18 23:54",
+      "views": 4126,
+      "rate_per_hour": 429,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-19T07:10:29+08:00",
+        "views": 3899
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 29,
+        "impression_count": 4126,
+        "like_count": 85,
+        "quote_count": 0,
+        "reply_count": 6,
+        "retweet_count": 3
+      },
+      "already_pushed": false,
+      "text": "Vice City, baby! https://t.co/llCIiqUgSY",
+      "text_zh": "Vice City, baby! https://t.co/llCIiqUgSY",
+      "quoted": [],
+      "hit": false
+    },
+    {
+      "id": "2123080307502964916",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2123080307502964916",
+      "created_at": "2026-11-18T15:46:04.000Z",
+      "created_at_bj": "2026-11-18 23:46",
+      "views": 81569,
+      "rate_per_hour": 3323,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-19T07:10:29+08:00",
+        "views": 79810
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 87,
+        "impression_count": 81569,
+        "like_count": 280,
+        "quote_count": 14,
+        "reply_count": 93,
+        "retweet_count": 3
+      },
+      "already_pushed": false,
+      "text": "Anyone know a good wooden table producer in South Brazil? Parana? Curitiba?\n\nI'm getting gaslit by all these furniture companies again, all they wanna sell me is some super thin wooden tables for $13K BRL ($2K USD), shit makes zero sense\n\nCan't they just chop a tree down and cut it in the size of a thick plank and sell it to me? Why this shit so hard?\n\nPics 1-4: tables I want\n\nPics after that: whatever they're selling which is not what I want, something about those thin tables gives me the absolute creeps",
+      "text_zh": "有没有人知道巴西南部有靠谱的木桌厂家？Parana？Curitiba？\n\n我又被这些家具公司 PUA 了，他们只想卖给我超薄的木桌，要价 $13K BRL（$2K USD），简直毫无道理。\n\n他们就不能砍棵树，锯成一块厚木板卖给我吗？这事为什么这么难？\n\n图 1-4：我想要的桌子\n\n后面的图：他们在卖的东西，根本不是我想要的。那种薄桌子总让我浑身发毛。",
+      "quoted": [],
+      "hit": false
+    },
+    {
+      "id": "2123061671090639332",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2123061671090639332",
+      "created_at": "2026-11-18T14:32:01.000Z",
+      "created_at_bj": "2026-11-18 22:32",
+      "views": 25944,
+      "rate_per_hour": 1018,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-19T07:10:29+08:00",
+        "views": 25405
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 56,
+        "impression_count": 25944,
+        "like_count": 266,
+        "quote_count": 3,
+        "reply_count": 121,
+        "retweet_count": 6
+      },
+      "already_pushed": true,
+      "text": "https://t.co/gFu88pnFdV just crossed $3K MRR 🥳\n\nGrowth was flat for 2 weeks because I rejected about 40% of new users.\n\nI'm following the advice of the Yoda of email, @jessethanley: if I want to build a long-term business, I need to be obsessed with deliverability.\n\nThe problem with newsletter tools is shared reputation: a few people abusing the system drag everyone else down. One user sending cold emails can kill deliverability for everyone else on the platform.\n\nSo I spent 2 weeks tightening everything. Import file names, newsletter content, subdomain names, subscriber emails, open rates: everything gets checked, mostly by AI. Users who aren't crystal clean get blocked.\n\nMy goal is to serve a few very high-quality customers for decades.",
+      "text_zh": "https://t.co/gFu88pnFdV 刚突破 $3K MRR 🥳\n\n过去两周增长几乎持平，因为我拒绝了大约 40% 的新用户。\n\n我在听从邮件界的 Yoda——@jessethanley 的建议：如果我想做一家长期生意，就必须对送达率（deliverability）执着到极致。\n\nnewsletter 工具的问题在于共享信誉：少数滥用系统的人会拖累所有人。一个用户发冷邮件，就可能毁掉平台上其他人的送达率。\n\n所以我花了两周把所有环节都收紧了。导入文件名、newsletter 内容、子域域名、订阅者邮箱、打开率：每一样都会检查，主要靠 AI。不够干净的用户会被拦截。\n\n我的目标是服务少数非常高质量的客户，而且要服务几十年。",
+      "quoted": [],
+      "hit": false
+    },
+    {
+      "id": "2123056961650381032",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2123056961650381032",
+      "created_at": "2026-11-18T14:13:18.000Z",
+      "created_at_bj": "2026-11-18 22:13",
+      "views": 45528,
+      "rate_per_hour": 1162,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-19T07:10:29+08:00",
+        "views": 44913
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 14,
+        "impression_count": 45528,
+        "like_count": 174,
+        "quote_count": 0,
+        "reply_count": 4,
+        "retweet_count": 3
+      },
+      "already_pushed": true,
+      "text": "👏 https://t.co/xOTDfrggWq",
+      "text_zh": "👏 https://t.co/xOTDfrggWq",
+      "quoted": [
+        {
+          "id": "2122734422445445629",
+          "user": "AravSrinivas",
+          "text": "Yesterday, I revealed that Perplexity crossed $1B ARR. We have strong margins and a healthy growth rate. We don’t talk about our finances very often because we’re focused on building. Follow our research: https://t.co/Ovl8YuZmS0",
+          "text_zh": "昨天我透露 Perplexity 的 ARR 已突破 10 亿美元。我们利润率不错，增速也健康。我们很少谈财务，因为我们把精力放在产品建设上。关注我们的研究：https://t.co/Ovl8YuZmS0"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2123029694018994576",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2123029694018994576",
+      "created_at": "2026-11-18T12:24:57.000Z",
+      "created_at_bj": "2026-11-18 20:24",
+      "views": 1950,
+      "rate_per_hour": 77,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-19T07:10:29+08:00",
+        "views": 1909
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 4,
+        "impression_count": 1950,
+        "like_count": 23,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 1
+      },
+      "already_pushed": false,
+      "text": "Some places only exist at dusk https://t.co/CJiDSw5i0W",
+      "text_zh": "有些地方只存在于黄昏时分 https://t.co/CJiDSw5i0W",
+      "quoted": [],
+      "hit": false
+    },
+    {
+      "id": "2123020400980603146",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2123020400980603146",
+      "created_at": "2026-11-18T11:48:02.000Z",
+      "created_at_bj": "2026-11-18 19:48",
+      "views": 19828,
+      "rate_per_hour": 450,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-19T07:10:29+08:00",
+        "views": 19590
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 16,
+        "impression_count": 19828,
+        "like_count": 159,
+        "quote_count": 4,
+        "reply_count": 59,
+        "retweet_count": 7
+      },
+      "already_pushed": true,
+      "text": "386 people joined the welcome ZOOM call yesterday 🤗 https://t.co/wFqaDhQzgk https://t.co/Z4Bm1EAnc8",
+      "text_zh": "昨天有 386 人参加了欢迎 ZOOM 通话 🤗 https://t.co/wFqaDhQzgk https://t.co/Z4Bm1EAnc8",
+      "quoted": [
+        {
+          "id": "2120155404957311464",
+          "user": "marclou",
+          "text": "Higgsfield gave me $100,000 to realize my dream:\n\nA hackathon where participants build a real business, not just an app.\n\nSo... Introducing The $100K Hackathon:\n🏴‍☠️ https://t.co/nHDJ5Qruhu 🏴‍☠️\n\nIt starts on November 16, and you'll have 30 days to build a startup and make it profitable. The prizes:\n\n🥇 $100,000\n🥈 iPhone Duo\n🥉 MacBook Neo\n\nThis is not a joke. The winner will get $100,000 in cash.\n\nTo win, you must:\n\n1. Start a completely new business on Nov 16\n2. Build a digital product (SaaS, directory, etc.)\n3. Make the most profit (not revenue)\n\nYou can already register at $99. When the hackathon starts on Nov 16, you can still join for $149.\n\nI'm running this with my dear friend @jackfriks, and we'll manually review each potential winner to make sure everything holds up.\n\nSee you on November 16, builders 🏴‍☠️🫡",
+          "text_zh": "Higgsfield 给了我 10 万美元，让我实现梦想：\n\n一场让参赛者打造真正生意、而不只是做一个应用的黑客松。\n\n所以……隆重介绍 The $100K Hackathon：\n🏴‍☠️ https://t.co/nHDJ5Qruhu 🏴‍☠️\n\n11 月 16 日开始，你将有 30 天时间做出一家创业公司并实现盈利。奖品是：\n\n🥇 10 万美元\n🥈 iPhone Duo\n🥉 MacBook Neo\n\n这不是开玩笑。冠军将获得 10 万美元现金。\n\n要获胜，你必须：\n\n1. 在 11 月 16 日创办一家全新的生意\n2. 做出一款数字产品（SaaS、目录站等）\n3. 赚到最多利润（不是营收）\n\n现在就能以 99 美元报名。黑客松在 11 月 16 日开始后，仍可以 149 美元加入。\n\n我是和好友 @jackfriks 一起办这次活动的，我们会人工审核每一位潜在获胜者，确保一切经得起检验。\n\n11 月 16 日见，builders 🏴‍☠️🫡"
+        }
+      ],
+      "hit": false
+    }
+  ],
+  "new_hits": [],
+  "dropped_from_window": [],
+  "notes": "0734 判定轮（实际运行 07:42:15 北京时间）：按规则判定达标并推送新达标帖。间隔 0.5294 小时（上一轮 07:10:29 → 本轮 07:42:15 北京时间，31 分 46 秒）。@steipete、@karpathy 窗口内无原创或引用帖。本轮 get_users_posts 使用 exclude=replies,retweets 与 start_time=2026-11-18T11:00:00Z，再按 12 小时窗口本地过滤。窗口起点 2026-11-18 19:42:15 北京时间（2026-11-18T11:42:15Z）。本轮 run_at 取 get_posts_by_ids 补全完成后的归档时刻 07:42:15（例行触发 07:40:46）；浏览量与互动数据以较晚的 get_posts_by_ids 返回的 public_metrics 为准（该接口字段为 repost_count，归档仍写为 retweet_count）。@steipete、@karpathy 均为 result_count=0。@gregisenberg 时间线还返回了回复帖 2123190401867874561（created_at 2026-11-18T23:03:33.000Z / 2026-11-19 07:03 北京时间，in_reply_to/referenced_tweets type=replied_to，浏览 1666，点赞 0），虽已设 exclude=replies，仍被返回，已按规则剔除，不进入检查列表。所有检查帖均有 impression_count。本轮先用公开 x.get_users_posts 拉时间线，再用 get_posts_by_ids 补齐长文 note_tweet 和引用全文。本轮无新进入窗口的检查帖，12 条检查帖与 0704 轮相同。@gregisenberg 2123179348467278293 时间线浏览量为 16362、点赞 183，get_posts_by_ids 复核为浏览 16431、点赞 184、书签 382，以复核为准（转发 14、引用 1、回复 43 与时间线一致）。@egeberkina 2123162166102560996 时间线浏览量为 1061，get_posts_by_ids 复核为浏览 1065，以复核为准（点赞 12、转发 1、引用 0、回复 0、书签 2 与时间线一致）。@levelsio 2123119704193802643 时间线浏览量为 32696，get_posts_by_ids 复核为浏览 32716，以复核为准（点赞 275、转发 4、引用 4、回复 33、书签 52 与时间线一致）。@levelsio 2123119037131674056 时间线浏览量为 81479、点赞 601，get_posts_by_ids 复核为浏览 81521、点赞 603、转发 17、书签 387，以复核为准（引用 9、回复 34 与时间线一致）。@levelsio 2123115885879513098 时间线浏览量为 21647，get_posts_by_ids 复核为浏览 21653，以复核为准（点赞 73、转发 1、引用 1、回复 4、书签 46 与时间线一致）。@marclou 2123103440616173949 时间线浏览量为 29305，get_posts_by_ids 复核为浏览 29324，以复核为准（点赞 160、转发 0、引用 1、回复 37、书签 89 与时间线一致）。@egeberkina 2123082416763855316 时间线浏览量为 4118，get_posts_by_ids 复核为浏览 4126，以复核为准（点赞 85、转发 3、引用 0、回复 6、书签 29 与时间线一致）。@levelsio 2123080307502964916 时间线浏览量为 81545，get_posts_by_ids 复核为浏览 81569，以复核为准（点赞 280、转发 3、引用 14、回复 93、书签 87 与时间线一致）。@marclou 2123061671090639332 时间线浏览量为 25922，get_posts_by_ids 复核为浏览 25944，以复核为准（点赞 266、转发 6、引用 3、回复 121、书签 56 与时间线一致）。@levelsio 2123056961650381032 时间线浏览量为 45523，get_posts_by_ids 复核为浏览 45528，以复核为准（点赞 174、转发 3、引用 0、回复 4、书签 14 与时间线一致）。@egeberkina 2123029694018994576 时间线浏览量为 1948，get_posts_by_ids 复核为浏览 1950，以复核为准（点赞 23、转发 1、引用 0、回复 1、书签 4 与时间线一致）。@marclou 2123020400980603146 时间线浏览量为 19817，get_posts_by_ids 复核为浏览 19828，以复核为准（点赞 159、转发 7、引用 4、回复 59、书签 16 与时间线一致）。引用帖正文与 0704 轮一致（@wiz_io 2123072693042082117 的 get_posts_by_ids 文本将 & 编码为 &amp;，归档仍按解码后的 & 保留，与既有译文一致）。正文与 text_zh 均复用 0704 轮（全文比对一致）。本轮新达标 0 条；阈值仍为每小时 > 5000。已在 pushed 中的帖子即使本轮增速再次超过阈值也不重复推送：@gregisenberg 2123179348467278293 本轮每小时 +10125、@levelsio 2123119037131674056 本轮每小时 +5419。本轮无用户推送。"
+}
