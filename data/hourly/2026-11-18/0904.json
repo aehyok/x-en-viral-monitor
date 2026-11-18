@@ -1,0 +1,464 @@
+{
+  "run_at": "2026-11-18T09:12:31+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "0904",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2122838261642961368",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2122838261642961368",
+      "created_at": "2026-11-17T23:44:16.000Z",
+      "created_at_bj": "2026-11-18 07:44",
+      "views": 9725,
+      "rate_per_hour": 5148,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-18T08:43:06+08:00",
+        "views": 7201
+      },
+      "edit_of": "2122838212615762126",
+      "metrics": {
+        "bookmark_count": 85,
+        "impression_count": 9725,
+        "like_count": 94,
+        "quote_count": 0,
+        "reply_count": 21,
+        "retweet_count": 5
+      },
+      "already_pushed": true,
+      "text": "chatgpt vs grokbot \n\nwhy use grokbot? https://t.co/U97RkO1Zjb",
+      "text_zh": "chatgpt vs grokbot\n\n为什么要用 grokbot？ https://t.co/U97RkO1Zjb",
+      "quoted": [],
+      "hit": false
+    },
+    {
+      "id": "2122818385570337275",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2122818385570337275",
+      "created_at": "2026-11-17T22:25:17.000Z",
+      "created_at_bj": "2026-11-18 06:25",
+      "views": 7500,
+      "rate_per_hour": 522,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-18T08:43:06+08:00",
+        "views": 7244
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 1,
+        "impression_count": 7500,
+        "like_count": 11,
+        "quote_count": 0,
+        "reply_count": 8,
+        "retweet_count": 0
+      },
+      "already_pushed": true,
+      "text": "🤔 https://t.co/GmX8dD4BMl",
+      "text_zh": "🤔 https://t.co/GmX8dD4BMl",
+      "quoted": [
+        {
+          "id": "2122817916601065627",
+          "user": "_dukeon",
+          "text": null,
+          "text_zh": null
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2122807280198463986",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2122807280198463986",
+      "created_at": "2026-11-17T21:41:10.000Z",
+      "created_at_bj": "2026-11-18 05:41",
+      "views": 66131,
+      "rate_per_hour": 12552,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-18T08:43:06+08:00",
+        "views": 59977
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 485,
+        "impression_count": 66131,
+        "like_count": 610,
+        "quote_count": 20,
+        "reply_count": 111,
+        "retweet_count": 29
+      },
+      "already_pushed": true,
+      "text": "💯\n\nThere is no real way to survive for most SaaS companies here because AI is so completely different than any technological advancement before it\n\nBefore you could just niche down and specialize on one thing and you'd know for certain the big tech companies would never be able to dedicate enough resources to fill your tiny little niche market of $300M where you could take 1% of the market and make $3M/year\n\nRiches in the niches!\n\nAnd so you'd avoid going too general, because \"you'd spread yourself too thin\" and hit \"death by a thousand paper cuts\"\n\nAnd general was where big tech companies were great at, they could dedicate huge resources in solving these big problems, like building Google Sheets, or Salesforce (whatever it is they do)\n\nBut that was the old days, and it's completely different now \n\nWith AI, big tech companies can easily fill any niche, or be general at the same time, they can do the whole range actually, without even spending time on consciously doing that, because they're not offering a particular SaaS offering at all\n\nThey're offering you artificial general intelligence (AGI) that can do it all\n\nAnd as long as they improve their models every time and make them bigger and better, it slowly can do literally anything (okay not yet anything, for anything they'll need physical robots, but they're working on that too of course)\n\nThis leaves SaaS companies with a bitter ending:\n- they either do nothing and stay in their niche like they economically should, but that doesn't work anymore now\n- they try go general, and offer EVERYTHING and ANYTHING, and that works for a little bit until customers realize they might as well use whoever makes the models that the SaaS itself uses anyway, which is the big tech and big AI companies, who by the way either offer it free or for much cheaper\n\nEveryone's been checkmated by big tech and big AI\n\nThis will be the creative destruction of the century\n\nBut there'll be some survivors and then a lot of new companies, but how they'll look nobody knows yet!",
+      "text_zh": "💯\n\n没有真正的办法让大多数 SaaS 公司在这里活下去，因为 AI 和此前任何一次技术进步都完全不一样。\n\n以前你只要向下做垂直、专精一件事，就可以确定大科技公司绝对不会投入足够资源，去填满你那个只有 $300M 的小小利基市场——你在里面拿下 1% 的份额，就能一年赚 $3M。\n\nRiches in the niches!\n\n所以你会避免做得太通用，因为那样会“把精力摊得太薄”，然后踩上“death by a thousand paper cuts”（千刀万剐）。\n\n而通用市场正是大科技公司擅长的地方，它们能投入巨大资源去解决这些大问题，比如做 Google Sheets，或 Salesforce（不管他们到底是做什么的）。\n\n但那是过去了，现在完全不一样了。\n\n有了 AI，大科技公司可以轻易填满任何利基，也可以同时做通用，它们其实能覆盖整个范围，甚至不必有意识地去这么做，因为它们根本不是在提供某个特定的 SaaS 产品。\n\n它们提供的是能包办一切的人工通用智能（AGI）。\n\n只要它们每次都把模型做得更大更好，它就会慢慢地几乎什么都能做（好吧，现在还做不到“任何事”，要做到任何事它们还需要实体机器人，但它们当然也在做这个）。\n\n这给 SaaS 公司留下了一个苦涩的结局：\n- 要么什么都不做，继续留在按经济规律本该待着的利基里，但现在这条路已经行不通了\n- 要么尝试走向通用，提供 EVERYTHING 和 ANYTHING，这会管用一小段时间，直到客户意识到，自己还不如直接用那些给这个 SaaS 提供模型的公司——也就是大科技和大 AI 公司，而且它们要么免费，要么便宜得多\n\n所有人都已经被大科技和大 AI 将死了。\n\n这将是本世纪的创造性破坏。\n\n但会有一些幸存者，然后会出现很多新公司，只是它们会是什么样子，现在谁也不知道！",
+      "quoted": [
+        {
+          "id": "2122777391567450483",
+          "user": "forgebitz",
+          "text": "don't you want your project management tool to also be a video editor? \n\neveryone is building everything \n\nthis will destroy most saas companies from the inside https://t.co/ojs7J6UkFU",
+          "text_zh": "你难道不希望你的项目管理工具同时也是视频编辑器吗？\n\n每个人都在做所有事情\n\n这会从内部摧毁大多数 saas 公司 https://t.co/ojs7J6UkFU"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2122795018670727512",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2122795018670727512",
+      "created_at": "2026-11-17T20:52:26.000Z",
+      "created_at_bj": "2026-11-18 04:52",
+      "views": 2445,
+      "rate_per_hour": 612,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-18T08:43:06+08:00",
+        "views": 2145
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 20,
+        "impression_count": 2445,
+        "like_count": 105,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 8
+      },
+      "already_pushed": false,
+      "text": "Bonjour France https://t.co/rgT7V44JHp https://t.co/AagGtR1xKN",
+      "text_zh": "Bonjour France（你好，法国） https://t.co/rgT7V44JHp https://t.co/AagGtR1xKN",
+      "quoted": [
+        {
+          "id": "2122311266664640848",
+          "user": "egeberkina",
+          "text": "Sawadee Thailand https://t.co/2b9xQS1ZOz https://t.co/ScGIu1hS4T",
+          "text_zh": "Sawadee Thailand https://t.co/2b9xQS1ZOz https://t.co/ScGIu1hS4T"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2122749849674367279",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2122749849674367279",
+      "created_at": "2026-11-17T17:52:57.000Z",
+      "created_at_bj": "2026-11-18 01:52",
+      "views": 15099,
+      "rate_per_hour": 773,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-18T08:43:06+08:00",
+        "views": 14720
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 8,
+        "impression_count": 15099,
+        "like_count": 47,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 1
+      },
+      "already_pushed": false,
+      "text": "From @grok to @paddix https://t.co/qWpFRZYMOd https://t.co/XRY1h6IaU8",
+      "text_zh": "从 @grok 到 @paddix https://t.co/qWpFRZYMOd https://t.co/XRY1h6IaU8",
+      "quoted": [
+        {
+          "id": "2122749499646828773",
+          "user": "grok",
+          "text": "@levelsio No. Automated scanners hit every new public IP within minutes looking for open SSH and other services. Default-deny firewalls, key-only auth, or Tailscale-only access are the sensible baseline in 2026. Relying on every user to harden it themselves is how boxes get owned.",
+          "text_zh": "@levelsio 不。自动扫描器会在几分钟内打到每一个新的公网 IP，寻找开放的 SSH 和其他服务。默认拒绝（default-deny）的防火墙、仅密钥认证，或只用 Tailscale 访问，才是 2026 年合理的基线。指望每个用户自己去加固，就是机器被攻破的原因。"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2122747564738941249",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2122747564738941249",
+      "created_at": "2026-11-17T17:43:52.000Z",
+      "created_at_bj": "2026-11-18 01:43",
+      "views": 35873,
+      "rate_per_hour": 1077,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-18T08:43:06+08:00",
+        "views": 35345
+      },
+      "edit_of": "2122747342873092162",
+      "metrics": {
+        "bookmark_count": 25,
+        "impression_count": 35873,
+        "like_count": 375,
+        "quote_count": 3,
+        "reply_count": 40,
+        "retweet_count": 8
+      },
+      "already_pushed": false,
+      "text": "I always forget that Jensen Huang is Lisa Su's cousin. https://t.co/hIETkHbmx7 https://t.co/zbkis6rdq1",
+      "text_zh": "我总是忘了黄仁勋是苏姿丰的表哥。 https://t.co/hIETkHbmx7 https://t.co/zbkis6rdq1",
+      "quoted": [
+        {
+          "id": "2122728977139941483",
+          "user": "PolymarketMoney",
+          "text": "JUST IN: AMD CEO Lisa Su praises rival Jensen Huang hours after he says he'd be honored to return as Nvidia CEO.",
+          "text_zh": "刚刚：AMD CEO 苏姿丰在竞争对手黄仁勋表示若能回归担任 Nvidia CEO 会感到荣幸的数小时后，称赞了黄仁勋。"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2122732900248617253",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2122732900248617253",
+      "created_at": "2026-11-17T16:45:36.000Z",
+      "created_at_bj": "2026-11-18 00:45",
+      "views": 26666,
+      "rate_per_hour": 606,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-18T08:43:06+08:00",
+        "views": 26369
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 94,
+        "impression_count": 26666,
+        "like_count": 224,
+        "quote_count": 3,
+        "reply_count": 53,
+        "retweet_count": 17
+      },
+      "already_pushed": false,
+      "text": "Today’s reminder that cybersecurity is the best business to be in right now and for 2027+ https://t.co/sntUam0XTO",
+      "text_zh": "今天再次提醒大家，网络安全是当下乃至 2027 年及以后最好的生意 https://t.co/sntUam0XTO",
+      "quoted": [
+        {
+          "id": "2122718390846394446",
+          "user": "DeItaone",
+          "text": "5 MAJOR DISRUPTIONS IN JUST 6 DAYS\n\n🇺🇸 Nov 17: NSA classified network DOWN\n🏦 Nov 16: JPMorgan banking failure\n✈️ Nov 16: United Airlines outage\n🛑 Nov 13: FAA nationwide ground stop\n🌐 Nov 12–13: Microsoft 365 outage\n\nNo coordinated cyberattack confirmed.",
+          "text_zh": "仅 6 天内就出现 5 起重大中断\n\n🇺🇸 11 月 17 日：NSA 机密网络 DOWN\n🏦 11 月 16 日：JPMorgan 银行故障\n✈️ 11 月 16 日：United Airlines 停运\n🛑 11 月 13 日：FAA 全国地面停飞\n🌐 11 月 12–13 日：Microsoft 365 故障\n\n尚未确认存在协同网络攻击。"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2122724654989332634",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2122724654989332634",
+      "created_at": "2026-11-17T16:12:50.000Z",
+      "created_at_bj": "2026-11-18 00:12",
+      "views": 103660,
+      "rate_per_hour": 4259,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-18T08:43:06+08:00",
+        "views": 101572
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 444,
+        "impression_count": 103660,
+        "like_count": 1180,
+        "quote_count": 20,
+        "reply_count": 39,
+        "retweet_count": 36
+      },
+      "already_pushed": true,
+      "text": "A good example of this effect is last year, around February 2025, I was sitting on my couch, with a pillow on my legs and my laptop on top of it (as per usual)\n\nI was trying to make my own Mario Kart style game for hours with Claude, but of course it didn't work at all\n\nThis was the time of Claude 3.5 Sonnet and AI couldn't really make games well yet\n\nAnyway I kept trying, and then tried to make a flight simulator, because I was so frustrated by Flight Simulator 2020 loading so slow with endless updates (like most modern games)\n\nThat ended up working a bit better and I built a basic blocky looking plane game and I'd tweet updates about it, and people seemed to like it\n\nIt was funny because as always with AI a lot of people on here kept telling me \"no you can't just make a game with AI\", then when I wanted to add multiplayer, even more game developers (even very famous ones) told me \"you'll never ever make that work\"\n\nThen just 2 days in Claude 3.7 Sonnet came out and suddenly it was actually able to make games for the first time pretty well\n\nAnd thanks to that, I did get it to work, and we had thousands of people flying at the same time in multiplayer (see pic) and it went really viral\n\nLots of companies ended up sponsoring the game itself with in-game blimps (remember?) and it made $85,000 in just a month (and $200K total)\n\nI coded that game in Cursor and then @mntruell messaged me my DMs to ask feedback how to improve Cursor (introducing himself as just a \"Cursor dev\" so humble), so I gave feedback\n\nIn that convo I asked if I could ever invest in Cursor (as Dutch people say \"not shot is always a miss\") and he said sure, and then I wired the money the same week\n\nMeanwhile seeing how much attention these vibe coded games made I thought it'd be nice to direct that to other people's games, so I made Vibe Jam (named after @karpathy's vibecoding term): a game dev competition for vibe coded games, which got 1000+ people to make games and over 1 million people playing the games\n\nThen a year later, Cursor ended up being acquired by SpaceX!\n\nSo me messing around on the couch with no goal whatsoever on some stupid game had lots of positive second order effects and literally made me millions, but it'd be hard to imagine that  if you'd see me sit there in February 2025 on the couch working on a Mario Kart clone that by any measure sucked \n\nSo I guess the point is, let people mess around and see where things end up!!!",
+      "text_zh": "一个很好的例子是去年，大约 2025 年 2 月，我坐在沙发上，腿上垫着枕头，笔记本放在枕头上（一如往常）\n\n我当时花了好几个小时，想用 Claude 做一款自己的 Mario Kart 风格游戏，但当然完全做不出来\n\n那还是 Claude 3.5 Sonnet 的时候，AI 当时还做不好游戏\n\n反正我一直试，后来又想做一款飞行模拟器，因为我被 Flight Simulator 2020 没完没了的更新和加载太慢搞得很烦（大多数现代游戏都这样）\n\n这次效果好一点，我做了一款看起来方方正正、很基础的飞机游戏，并发推更新进度，大家似乎还挺喜欢\n\n有趣的是，就像用 AI 时一贯的情况，这里很多人一直跟我说“不，你不可能只用 AI 做出一款游戏”，后来我想加多人联机时，甚至更多游戏开发者（包括非常有名的）告诉我“你永远做不成”\n\n然后仅仅两天后，Claude 3.7 Sonnet 发布了，突然之间它第一次能把游戏做得相当不错了\n\n多亏了这个，我真的做成了，我们有成千上万的人同时在多人模式里飞（见图），而且非常病毒式传播\n\n很多公司后来赞助了这款游戏本身，在游戏里放了飞艇广告（还记得吗），仅一个月就赚了 $85,000（总共 $200K）\n\n我是在 Cursor 里写的这款游戏，然后 @mntruell 私信我，问我 Cursor 该怎么改进（介绍自己只是一个 “Cursor dev”，非常谦虚），于是我给了反馈\n\n在那次对话里我问，我能不能投资 Cursor（荷兰人常说 “not shot is always a miss”，不开枪就永远打不中），他说可以，然后我当周就把钱打过去了\n\n与此同时，看到这些 vibe coded 游戏带来了这么多注意力，我觉得最好能把这股流量导向别人的游戏，于是我做了 Vibe Jam（名字来自 @karpathy 的 vibecoding 这个词）：一场面向 vibe coded 游戏的游戏开发比赛，吸引了 1000 多人做游戏，超过 100 万人来玩这些游戏\n\n然后一年后，Cursor 被 SpaceX 收购了！\n\n所以我当时毫无目标地在沙发上瞎玩一个蠢游戏，却带来了很多正向的二阶效应，而且真的让我赚到了数百万，但如果你在 2025 年 2 月看见我坐在沙发上做一款怎么看都烂的 Mario Kart 克隆，很难想象后来会发生这些\n\n所以我猜重点是：让人们去折腾，看看最后会成什么样！！！",
+      "quoted": [
+        {
+          "id": "2122667481412116624",
+          "user": "levelsio",
+          "text": "P.S. If you have a girlfriend/wife/partner that can't see this, you're not alone\n\nIt helps having a conversation with her about this, so she can understand that you messing around aimlessly with stuff is also highly important work\n\nMine understands very well, especially after experiencing my plane game from last year\n\nhttps://t.co/9S3cv9XwBc",
+          "text_zh": "P.S. 如果你有女朋友/妻子/伴侣看不明白这一点，你并不孤单\n\n跟她谈谈这件事会有帮助，让她理解：你漫无目的地瞎折腾，其实也是非常重要的工作\n\n我的伴侣就很理解，尤其是在体验过我去年那个飞机游戏之后\n\nhttps://t.co/9S3cv9XwBc"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2122715886910144623",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2122715886910144623",
+      "created_at": "2026-11-17T15:38:00.000Z",
+      "created_at_bj": "2026-11-17 23:38",
+      "views": 16136,
+      "rate_per_hour": 490,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-18T08:43:06+08:00",
+        "views": 15896
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 16,
+        "impression_count": 16136,
+        "like_count": 124,
+        "quote_count": 0,
+        "reply_count": 62,
+        "retweet_count": 2
+      },
+      "already_pushed": true,
+      "text": "People from 101 countries have joined!\n\n🇮🇳 India (21%)\n🇺🇸 United States (11%)\n🇫🇷 France (7%)\n🇬🇧 United Kingdom (4%)\n🇨🇦 Canada (4%)\n🇪🇸 Spain (3%)\n🇩🇪 Germany (3%)\n🇮🇹 Italy (3%)\n🇵🇰 Pakistan (2%)\n🇵🇱 Poland (2%)\n🌍 Other countries (40%)\n\nWe’ve got builders joining from Madagascar, Mongolia, and even 10 from Nepal 🤗",
+      "text_zh": "已经有来自 101 个国家的人加入了！\n\n🇮🇳 印度（21%）\n🇺🇸 美国（11%）\n🇫🇷 法国（7%）\n🇬🇧 英国（4%）\n🇨🇦 加拿大（4%）\n🇪🇸 西班牙（3%）\n🇩🇪 德国（3%）\n🇮🇹 意大利（3%）\n🇵🇰 巴基斯坦（2%）\n🇵🇱 波兰（2%）\n🌍 其他国家（40%）\n\n我们还有来自马达加斯加、蒙古的 builders，甚至有 10 人来自尼泊尔 🤗",
+      "quoted": [
+        {
+          "id": "2120155404957311464",
+          "user": "marclou",
+          "text": "Higgsfield gave me $100,000 to realize my dream:\n\nA hackathon where participants build a real business, not just an app.\n\nSo... Introducing The $100K Hackathon:\n🏴‍☠️ https://t.co/nHDJ5Qruhu 🏴‍☠️\n\nIt starts on November 16, and you'll have 30 days to build a startup and make it profitable. The prizes:\n\n🥇 $100,000\n🥈 iPhone Duo\n🥉 MacBook Neo\n\nThis is not a joke. The winner will get $100,000 in cash.\n\nTo win, you must:\n\n1. Start a completely new business on Nov 16\n2. Build a digital product (SaaS, directory, etc.)\n3. Make the most profit (not revenue)\n\nYou can already register at $99. When the hackathon starts on Nov 16, you can still join for $149.\n\nI'm running this with my dear friend @jackfriks, and we'll manually review each potential winner to make sure everything holds up.\n\nSee you on November 16, builders 🏴‍☠️🫡",
+          "text_zh": "Higgsfield 给了我 $100,000 来实现我的梦想：\n\n一场让参赛者去打造真实生意、而不只是做一个应用的黑客松。\n\n所以……隆重介绍 The $100K Hackathon：\n🏴‍☠️ https://t.co/nHDJ5Qruhu 🏴‍☠️\n\n它将于 11 月 16 日开始，你有 30 天时间去做出一家创业公司并让它盈利。奖项：\n\n🥇 $100,000\n🥈 iPhone Duo\n🥉 MacBook Neo\n\n这不是开玩笑。冠军将获得 $100,000 现金。\n\n要赢，你必须：\n\n1. 在 11 月 16 日从零开始一家全新的生意\n2. 做出一款数字产品（SaaS、directory 等）\n3. 赚到最多利润（不是营收）\n\n你现在可以用 $99 报名。黑客松在 11 月 16 日开始后，仍可以 $149 加入。\n\n我和我的好朋友 @jackfriks 一起办这件事，我们会人工审核每一位潜在赢家，确保一切都经得起核验。\n\n11 月 16 日见，builders 🏴‍☠️🫡"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2122711257526759547",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2122711257526759547",
+      "created_at": "2026-11-17T15:19:36.000Z",
+      "created_at_bj": "2026-11-17 23:19",
+      "views": 4409,
+      "rate_per_hour": 259,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-18T08:43:06+08:00",
+        "views": 4282
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 25,
+        "impression_count": 4409,
+        "like_count": 98,
+        "quote_count": 1,
+        "reply_count": 0,
+        "retweet_count": 5
+      },
+      "already_pushed": false,
+      "text": "No. For me. https://t.co/Bqro5j1ltT https://t.co/FTTqjdAokz",
+      "text_zh": "不。这是给我的。https://t.co/Bqro5j1ltT https://t.co/FTTqjdAokz",
+      "quoted": [
+        {
+          "id": "2122626306487562594",
+          "user": "egeberkina",
+          "text": "007: Shattered reflections https://t.co/lEt1TcVw15 https://t.co/3q7LbX8gHx",
+          "text_zh": "007：破碎的倒影 https://t.co/lEt1TcVw15 https://t.co/3q7LbX8gHx"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2122711140383838692",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2122711140383838692",
+      "created_at": "2026-11-17T15:19:08.000Z",
+      "created_at_bj": "2026-11-17 23:19",
+      "views": 109926,
+      "rate_per_hour": 6904,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-18T08:43:06+08:00",
+        "views": 106541
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 221,
+        "impression_count": 109926,
+        "like_count": 2628,
+        "quote_count": 6,
+        "reply_count": 116,
+        "retweet_count": 14
+      },
+      "already_pushed": true,
+      "text": "She's learning it https://t.co/7C1pxTuIny",
+      "text_zh": "她正在学这个。https://t.co/7C1pxTuIny",
+      "quoted": [],
+      "hit": false
+    },
+    {
+      "id": "2122684997643468874",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2122684997643468874",
+      "created_at": "2026-11-17T13:35:15.000Z",
+      "created_at_bj": "2026-11-17 21:35",
+      "views": 22882,
+      "rate_per_hour": 518,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-18T08:43:06+08:00",
+        "views": 22628
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 69,
+        "impression_count": 22882,
+        "like_count": 234,
+        "quote_count": 8,
+        "reply_count": 118,
+        "retweet_count": 6
+      },
+      "already_pushed": true,
+      "text": "24h into the $100K Hackathon. People are building:\n\n🎬 Video, photo & design tools (17%)\n📣 Marketing & SEO tools (16%)\n🛍️ Business & ecommerce tools (14%)\n🤖 AI agents & dev tools (9%)\n⚡ Productivity apps (9%)\n🎮 Games & entertainment (8%)\n🧠 Health & learning apps (6%)\n🎁 Personalized gifts & Christmas products (6%)\n🗂️ Directories & marketplaces (5%)\n💡 Other (10%)\n\nn = 10% of the 4,334 participants who've already shipped something.",
+      "text_zh": "$100K Hackathon 已经进行 24 小时。大家在做的项目分布：\n\n🎬 视频、照片和设计工具（17%）\n📣 营销和 SEO 工具（16%）\n🛍️ 商业和电商工具（14%）\n🤖 AI agents 和开发工具（9%）\n⚡ 效率应用（9%）\n🎮 游戏和娱乐（8%）\n🧠 健康和学习应用（6%）\n🎁 个性化礼物和圣诞产品（6%）\n🗂️ Directories 和 marketplaces（5%）\n💡 其他（10%）\n\nn = 已提交作品的 4,334 名参与者中的 10%。",
+      "quoted": [
+        {
+          "id": "2120155404957311464",
+          "user": "marclou",
+          "text": "Higgsfield gave me $100,000 to realize my dream:\n\nA hackathon where participants build a real business, not just an app.\n\nSo... Introducing The $100K Hackathon:\n🏴‍☠️ https://t.co/nHDJ5Qruhu 🏴‍☠️\n\nIt starts on November 16, and you'll have 30 days to build a startup and make it profitable. The prizes:\n\n🥇 $100,000\n🥈 iPhone Duo\n🥉 MacBook Neo\n\nThis is not a joke. The winner will get $100,000 in cash.\n\nTo win, you must:\n\n1. Start a completely new business on Nov 16\n2. Build a digital product (SaaS, directory, etc.)\n3. Make the most profit (not revenue)\n\nYou can already register at $99. When the hackathon starts on Nov 16, you can still join for $149.\n\nI'm running this with my dear friend @jackfriks, and we'll manually review each potential winner to make sure everything holds up.\n\nSee you on November 16, builders 🏴‍☠️🫡",
+          "text_zh": "Higgsfield 给了我 $100,000 来实现我的梦想：\n\n一场让参赛者去打造真实生意、而不只是做一个应用的黑客松。\n\n所以……隆重介绍 The $100K Hackathon：\n🏴‍☠️ https://t.co/nHDJ5Qruhu 🏴‍☠️\n\n它将于 11 月 16 日开始，你有 30 天时间去做出一家创业公司并让它盈利。奖项：\n\n🥇 $100,000\n🥈 iPhone Duo\n🥉 MacBook Neo\n\n这不是开玩笑。冠军将获得 $100,000 现金。\n\n要赢，你必须：\n\n1. 在 11 月 16 日从零开始一家全新的生意\n2. 做出一款数字产品（SaaS、directory 等）\n3. 赚到最多利润（不是营收）\n\n你现在可以用 $99 报名。黑客松在 11 月 16 日开始后，仍可以 $149 加入。\n\n我和我的好朋友 @jackfriks 一起办这件事，我们会人工审核每一位潜在赢家，确保一切都经得起核验。\n\n11 月 16 日见，builders 🏴‍☠️🫡"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2122680208729739305",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2122680208729739305",
+      "created_at": "2026-11-17T13:16:13.000Z",
+      "created_at_bj": "2026-11-17 21:16",
+      "views": 23827,
+      "rate_per_hour": 379,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-18T08:43:06+08:00",
+        "views": 23641
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 17,
+        "impression_count": 23827,
+        "like_count": 98,
+        "quote_count": 1,
+        "reply_count": 7,
+        "retweet_count": 0
+      },
+      "already_pushed": true,
+      "text": "Yes, great parallel!\n\nAll the rules shutdown any creativity before it can become a real groundbreaking business or project https://t.co/Puh2IZzhs4",
+      "text_zh": "是的，这个类比太准了！\n\n所有这些规则会在创造力还没来得及变成真正突破性的生意或项目之前，就把它扼杀掉。 https://t.co/Puh2IZzhs4",
+      "quoted": [
+        {
+          "id": "2122678660092076473",
+          "user": "Husckarl",
+          "text": "This is the problem with Holland and the EU. The way you have to comply with all sort of crazy regulations, and on top of that all kinds of rules where not following them will lead to being accountable personally will deter many people from actually trying out. Look at SpaceX: most of the earlier stuff was a failure, that’s how you learn. You need to do crazy stuff, to fail, in order to learn. Sadly, that’s not happening anymore.",
+          "text_zh": "这就是荷兰和欧盟的问题。你得遵守各种疯狂的监管，再加上各种各样的规则——不遵守就会被追究个人责任——这会让很多人根本不敢去尝试。看看 SpaceX：它早期的很多东西都失败了，而这正是学习的方式。你需要去做疯狂的事情、去失败，才能学会。可惜，这种情况已经不再发生了。"
+        }
+      ],
+      "hit": false
+    }
+  ],
+  "new_hits": [],
+  "dropped_from_window": [
+    "2122673839389675882",
+    "2122672795909796307"
+  ],
+  "notes": "0904 判定轮（实际运行 09:12:31 北京时间）：按规则判定达标并推送新达标帖。间隔 0.4903 小时（上一轮 08:43:06 → 本轮 09:12:31 北京时间，29 分 25 秒）。@steipete、@karpathy 窗口内无原创或引用帖。本轮 get_users_posts 使用 exclude=replies,retweets，六个账号均使用 start_time=2026-11-17T12:45:00Z，再按 12 小时窗口本地过滤。窗口起点 2026-11-17 21:12:31 北京时间（2026-11-17T13:12:31Z）。本轮 run_at 取 get_posts_by_ids 补全完成后的归档时刻 09:12:31（例行触发 09:11:39）；浏览量与互动数据以较晚的 get_posts_by_ids 返回的 public_metrics 为准（该接口字段为 repost_count，归档仍写为 retweet_count）。@steipete、@karpathy 均为 result_count=0。所有检查帖均有 impression_count。本轮先用公开 x.get_users_posts 拉时间线，再用 get_posts_by_ids 补齐长文 note_tweet 与浏览量。无新进入窗口的帖子。时间线在 exclude=replies,retweets 后仍额外返回需本地排除的回复：@levelsio 2122818282650841495（发于 2026-11-17T22:24:53.000Z / 2026-11-18 06:24 北京时间，replied_to 2122807280198463986，已排除，不计入检查帖）；@egeberkina 2122729673402544369（发于 2026-11-17T16:32:47.000Z / 2026-11-18 00:32 北京时间，quoted 2122711257526759547, replied_to 2122383555493781661，已排除，不计入检查帖）。无纯转发需排除。移出 12 小时窗口：2122673839389675882（@levelsio，发于 2026-11-17T12:50:55.000Z / 2026-11-17 20:50 北京时间）、2122672795909796307（@levelsio，发于 2026-11-17T12:46:46.000Z / 2026-11-17 20:46 北京时间）。所有沿用检查帖的英文全文与 0834 归档完全一致（已与本轮 get_posts_by_ids 的 note_tweet/正文核对），中文译文全部沿用 0834 归档；被引用帖译文亦沿用 0834。get_posts_by_ids 对被引用帖 2122817916601065627（@_dukeon，被 2122818385570337275 引用）仍未返回正文（上次即为 Authorization Error / not authorized，可能已删除或设为私密）。2122838261642961368 浏览 9725（上次 7201），每小时 +2524 → 2524 ÷ 0.4903 = 5148，虽超过阈值，但已在 pushed 中，本轮不重复推送。2122818385570337275 浏览 7500（上次 7244），每小时 +256 → 256 ÷ 0.4903 = 522，未超过阈值。2122807280198463986 浏览 66131（上次 59977），每小时 +6154 → 6154 ÷ 0.4903 = 12552，虽超过阈值，但已在 pushed 中，本轮不重复推送。2122795018670727512 浏览 2445（上次 2145），每小时 +300 → 300 ÷ 0.4903 = 612，未超过阈值。2122749849674367279 浏览 15099（上次 14720），每小时 +379 → 379 ÷ 0.4903 = 773，未超过阈值。2122747564738941249 浏览 35873（上次 35345），每小时 +528 → 528 ÷ 0.4903 = 1077，未超过阈值。2122732900248617253 浏览 26666（上次 26369），每小时 +297 → 297 ÷ 0.4903 = 606，未超过阈值。2122724654989332634 浏览 103660（上次 101572），每小时 +2088 → 2088 ÷ 0.4903 = 4259，未超过阈值。2122715886910144623 浏览 16136（上次 15896），每小时 +240 → 240 ÷ 0.4903 = 490，未超过阈值。2122711257526759547 浏览 4409（上次 4282），每小时 +127 → 127 ÷ 0.4903 = 259，未超过阈值。2122711140383838692 浏览 109926（上次 106541），每小时 +3385 → 3385 ÷ 0.4903 = 6904，虽超过阈值，但已在 pushed 中，本轮不重复推送。2122684997643468874 浏览 22882（上次 22628），每小时 +254 → 254 ÷ 0.4903 = 518，未超过阈值。2122680208729739305 浏览 23827（上次 23641），每小时 +186 → 186 ÷ 0.4903 = 379，未超过阈值。窗口内帖子 15 → 13 条。本轮新达标 0 条，pushed 150 → 150 条。"
+}
