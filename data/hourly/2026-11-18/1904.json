@@ -1,0 +1,48 @@
+{
+  "run_at": "2026-11-18T19:11:53+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "1904",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2122838261642961368",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2122838261642961368",
+      "created_at": "2026-11-17T23:44:16.000Z",
+      "created_at_bj": "2026-11-18 07:44",
+      "views": 33608,
+      "rate_per_hour": 1977,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-18T18:41:41+08:00",
+        "views": 32613
+      },
+      "edit_of": "2122838212615762126",
+      "metrics": {
+        "bookmark_count": 364,
+        "impression_count": 33608,
+        "like_count": 383,
+        "quote_count": 5,
+        "reply_count": 41,
+        "retweet_count": 14
+      },
+      "already_pushed": true,
+      "text": "chatgpt vs grokbot \n\nwhy use grokbot? https://t.co/U97RkO1Zjb",
+      "text_zh": "chatgpt vs grokbot\n\n为什么要用 grokbot？ https://t.co/U97RkO1Zjb",
+      "quoted": [],
+      "hit": false
+    }
+  ],
+  "new_hits": [],
+  "dropped_from_window": [],
+  "notes": "1904 判定轮（实际运行 19:11:53 北京时间）：按规则判定达标并推送新达标帖。间隔 0.503 小时（上一轮 18:41:41 → 本轮 19:11:53 北京时间，30 分 12 秒）。@levelsio、@marclou、@steipete、@egeberkina、@karpathy 窗口内无原创或引用帖。本轮 get_users_posts 使用 exclude=replies,retweets，六个账号均使用 start_time=2026-11-17T23:10:11.462Z（按采集时刻 2026-11-18T11:10:11.462Z 计算的 12 小时窗口起点）拉取时间线，再按归档时刻 19:11:53 的 12 小时窗口本地过滤。窗口起点 2026-11-18 07:11:53 北京时间（2026-11-17T23:11:53Z）。本轮 run_at 取时间线采集与判定完成后的归档时刻 19:11:53（例行触发 19:09:48）；浏览量与互动数据以本轮公开 x.get_users_posts 返回的 public_metrics 为准（该接口字段为 retweet_count，归档仍写为 retweet_count）。@levelsio、@marclou、@steipete、@egeberkina、@karpathy 带 start_time 的时间线均为 result_count=0。为确认并非漏采，对这五个账号另拉了不含 start_time 的最近原创/引用帖：最新一条分别为 @levelsio 2122818385570337275（2026-11-17T22:25:17.000Z / 2026-11-18 06:25 北京时间）、@marclou 2122715886910144623（2026-11-17T15:38:00.000Z）、@steipete 2122463466304971068（2026-11-16T22:54:58.000Z）、@egeberkina 2122795018670727512（2026-11-17T20:52:26.000Z）、@karpathy 2119114537442189652（2026-11-07T17:07:31.000Z），均已超出本轮 12 小时窗口。窗口内检查帖 1 条，有 impression_count。本轮用公开 x.get_users_posts 拉时间线。检查帖英文全文与 1834 归档完全一致，中文译文沿用 1834。未对检查帖做 get_posts_by_ids 浏览量刷新（浏览量以时间线为准）。无新进入窗口的帖子。无纯转发需排除。无帖子从 snapshots 清理。edit_history 中的 2122838212615762126 仍记录为 edit_of（旧编辑版本此前已确认 Not Found）。2122838261642961368 浏览 33608（上次 32613），每小时 +995 → 995 ÷ 0.503 = 1977，未超过阈值。窗口内帖子 1 → 1 条。本轮新达标 0 条，pushed 150 → 150 条。"
+}
