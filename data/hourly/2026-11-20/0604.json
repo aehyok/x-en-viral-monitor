@@ -1,0 +1,297 @@
+{
+  "run_at": "2026-11-20T06:13:46+08:00",
+  "baseline": true,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "0604",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2123526226144886786",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2123526226144886786",
+      "created_at": "2026-11-19T21:18:00.000Z",
+      "created_at_bj": "2026-11-20 05:18",
+      "views": 16885,
+      "rate_per_hour": 18167,
+      "basis": "first_sight",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 47,
+        "impression_count": 16885,
+        "like_count": 92,
+        "quote_count": 0,
+        "reply_count": 13,
+        "retweet_count": 3
+      },
+      "already_pushed": false,
+      "text": "I know many of these people and in many cases it's about avoiding dealing with child traumas or abuse etc some wild shit\n\nSo they could do therapy etc but the much easier way is perpetual novelty\n\nAnd novelty I know from digital nomading solves things for a bit, new place, new people, it really does reset you every time\n\nBut then after awhile you just return to the same stuff again and you have to go to the next place",
+      "text_zh": "我认识这里面很多人，很多情况下，他们其实是在逃避处理童年创伤或虐待之类的事情，有些情况相当狠\n\n所以他们本可以去做治疗等等，但更容易的办法是不断追求新鲜感\n\n而新鲜感这事，我从数字游民的经历里知道，短期内确实有用：新地方、新的人，每次都真的能让你重置一下\n\n但过一段时间，你又会回到同样的状态，于是只能再去下一个地方",
+      "quoted": [
+        {
+          "id": "2123475560626327809",
+          "user": "BonesawMD",
+          "text": "The most boring people you’ll ever meet are those that make seeking external novelty their identity.\n\nConstant travel, new restaurants, new foods, thrills like skydiving. When you actually speak to them there’s hardly anything there. Their stories are the same; you can predict the exact sequence of words before they say them. \n\nThey seek “rich” experiences desperately because their inner world lives in poverty.\n\nTheir minds remain unexplored.",
+          "text_zh": "你能遇到的最无聊的人，就是那些把对外界新鲜感的追求当成自己身份认同的人。\n\n不停旅行、打卡新餐厅、吃新食物、去跳伞这类刺激。可一旦你真正和他们交谈，里面几乎什么都没有。他们的故事都一个样；你甚至能在他们开口之前就预判出接下来会说的话。\n\n他们拼命追求「丰富」的体验，是因为内心世界一贫如洗。\n\n他们的头脑从未被探索过。"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2123524194998825224",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2123524194998825224",
+      "created_at": "2026-11-19T21:09:55.000Z",
+      "created_at_bj": "2026-11-20 05:09",
+      "views": 1064,
+      "rate_per_hour": 1000,
+      "basis": "first_sight",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 3,
+        "impression_count": 1064,
+        "like_count": 22,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "already_pushed": false,
+      "text": "Johnny https://t.co/rGjx87HtRu",
+      "text_zh": "Johnny https://t.co/rGjx87HtRu",
+      "quoted": [],
+      "hit": false
+    },
+    {
+      "id": "2123487048250327497",
+      "user": "steipete",
+      "url": "https://x.com/steipete/status/2123487048250327497",
+      "created_at": "2026-11-19T18:42:19.000Z",
+      "created_at_bj": "2026-11-20 02:42",
+      "views": 24813,
+      "rate_per_hour": 7041,
+      "basis": "first_sight",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 25,
+        "impression_count": 24813,
+        "like_count": 136,
+        "quote_count": 2,
+        "reply_count": 30,
+        "retweet_count": 7
+      },
+      "already_pushed": false,
+      "text": "Landed a fix for that in OpenClaw yesterday (for the few folks using the embedded harness instead of codex, since it’s a plugin), most harnesses aren’t updated yet. https://t.co/hyjqyZw1AU",
+      "text_zh": "昨天已经在 OpenClaw 里修好了这个问题（针对少数使用内置 harness 而不是 codex 的人，因为它是一个插件），大多数 harness 还没有更新。 https://t.co/hyjqyZw1AU",
+      "quoted": [
+        {
+          "id": "2123291268814094409",
+          "user": "bebuu_ai",
+          "text": "If your GPT-6.2 Astra or Sol API bills suddenly went up this week, there's another caching bug worth knowing about.\n\nOpenAI Codex issue #62312 found that on GPT-6.2 Astra and Sol, anything placed in the top-level instructions field of a Responses API request isn't actually cached. It stays at 0 cached tokens on every turn, even though OpenAI's own diagnostics incorrectly report a cache hit.\n\nThe impact is pretty big. Moving from GPT-6.1 Sol to 6.2 Sol dropped actual cache hit rates from 97.4% to 46.4%, meaning 64K–72K system tokens were billed at full price on every step.\n\nThere's already a workaround in OpenCode: put the system prompt inside a leading developer message in input.",
+          "text_zh": "如果你这周的 GPT-6.2 Astra 或 Sol API 账单突然变高了，还有另一个值得了解的缓存 bug。\n\nOpenAI Codex issue #62312 发现，在 GPT-6.2 Astra 和 Sol 上，放在 Responses API 请求顶层 instructions 字段里的内容实际上不会被缓存。每一轮的 cached tokens 都是 0，尽管 OpenAI 自己的诊断会错误地报告 cache hit。\n\n影响相当大。从 GPT-6.1 Sol 换到 6.2 Sol 后，实际缓存命中率从 97.4% 降到了 46.4%，意味着每一步都有 64K–72K 的 system tokens 按全价计费。\n\nOpenCode 里已经有一个变通方法：把 system prompt 放进 input 里一条靠前的 developer message 中。"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2123483195970662647",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2123483195970662647",
+      "created_at": "2026-11-19T18:27:00.000Z",
+      "created_at_bj": "2026-11-20 02:27",
+      "views": 35305,
+      "rate_per_hour": 9341,
+      "basis": "first_sight",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 19,
+        "impression_count": 35305,
+        "like_count": 249,
+        "quote_count": 4,
+        "reply_count": 65,
+        "retweet_count": 1
+      },
+      "already_pushed": false,
+      "text": "I just bought 500 $ANT https://t.co/RGTrpwyFFC",
+      "text_zh": "我刚买了 500 $ANT https://t.co/RGTrpwyFFC",
+      "quoted": [],
+      "hit": false
+    },
+    {
+      "id": "2123448770981409184",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2123448770981409184",
+      "created_at": "2026-11-19T16:10:13.000Z",
+      "created_at_bj": "2026-11-20 00:10",
+      "views": 35663,
+      "rate_per_hour": 5886,
+      "basis": "first_sight",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 19,
+        "impression_count": 35663,
+        "like_count": 515,
+        "quote_count": 3,
+        "reply_count": 73,
+        "retweet_count": 2
+      },
+      "already_pushed": false,
+      "text": "I have no other choice than to pack the PS5 because we're going traveling https://t.co/buAR2ToKW9",
+      "text_zh": "没办法，只能把 PS5 打包带走，因为我们要去旅行了 https://t.co/buAR2ToKW9",
+      "quoted": [],
+      "hit": false
+    },
+    {
+      "id": "2123432107359744455",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2123432107359744455",
+      "created_at": "2026-11-19T15:04:00.000Z",
+      "created_at_bj": "2026-11-19 23:04",
+      "views": 15606,
+      "rate_per_hour": 1673,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-19T23:39:41+08:00",
+        "views": 4615
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 22,
+        "impression_count": 15606,
+        "like_count": 97,
+        "quote_count": 6,
+        "reply_count": 66,
+        "retweet_count": 3
+      },
+      "already_pushed": true,
+      "text": "48 hours into the $100K Hackathon:\n\n💸 20 builders have revenue!\n🌍 They’re across 10 countries\n🇺🇸 7 are in the US, 🇮🇳 5 in India\n📱 3 are building mobile apps\n🎬 3 are making money from video tools\n🎁 2 are earning from personalized gifts https://t.co/haJAKxz0yq",
+      "text_zh": "$100K Hackathon 进行到第 48 小时：\n\n💸 已有 20 位 builder 产生了收入！\n🌍 他们来自 10 个国家\n🇺🇸 7 位在美国，🇮🇳 5 位在印度\n📱 3 位在做移动应用\n🎬 3 位靠视频工具赚钱\n🎁 2 位靠个性化礼物赚钱 https://t.co/haJAKxz0yq",
+      "quoted": [
+        {
+          "id": "2120155404957311464",
+          "user": "marclou",
+          "text": "Higgsfield gave me $100,000 to realize my dream:\n\nA hackathon where participants build a real business, not just an app.\n\nSo... Introducing The $100K Hackathon:\n🏴‍☠️ https://t.co/nHDJ5Qruhu 🏴‍☠️\n\nIt starts on November 16, and you'll have 30 days to build a startup and make it profitable. The prizes:\n\n🥇 $100,000\n🥈 iPhone Duo\n🥉 MacBook Neo\n\nThis is not a joke. The winner will get $100,000 in cash.\n\nTo win, you must:\n\n1. Start a completely new business on Nov 16\n2. Build a digital product (SaaS, directory, etc.)\n3. Make the most profit (not revenue)\n\nYou can already register at $99. When the hackathon starts on Nov 16, you can still join for $149.\n\nI'm running this with my dear friend @jackfriks, and we'll manually review each potential winner to make sure everything holds up.\n\nSee you on November 16, builders 🏴‍☠️🫡",
+          "text_zh": "Higgsfield 给了我 10 万美元，让我实现梦想：\n\n办一场黑客松，让参赛者打造的是一家真正的生意，而不只是一个应用。\n\n所以……隆重介绍 The $100K Hackathon：\n🏴‍☠️ https://t.co/nHDJ5Qruhu 🏴‍☠️\n\n它从 11 月 16 日开始，你将有 30 天时间做出一家初创公司并让它盈利。奖品是：\n\n🥇 $100,000\n🥈 iPhone Duo\n🥉 MacBook Neo\n\n这不是开玩笑。冠军将获得 10 万美元现金。\n\n要获胜，你必须：\n\n1. 在 11 月 16 日创办一家全新的生意\n2. 做出一款数字产品（SaaS、目录站等）\n3. 赚到最多的利润（不是收入）\n\n现在就可以以 $99 报名。黑客松在 11 月 16 日开始后，仍可以 $149 加入。\n\n我正和好友 @jackfriks 一起办这件事，我们会人工审核每一位潜在获胜者，确保一切经得起检验。\n\n11 月 16 日见，builders 🏴‍☠️🫡"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2123403690451349759",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2123403690451349759",
+      "created_at": "2026-11-19T13:11:05.000Z",
+      "created_at_bj": "2026-11-19 21:11",
+      "views": 32248,
+      "rate_per_hour": 1729,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-19T23:39:41+08:00",
+        "views": 20891
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 19,
+        "impression_count": 32248,
+        "like_count": 164,
+        "quote_count": 1,
+        "reply_count": 75,
+        "retweet_count": 3
+      },
+      "already_pushed": true,
+      "text": "Damn some people really want this AI reply bot mess to go on I guess https://t.co/DflJkTyw9U https://t.co/adr6WWBZTw",
+      "text_zh": "靠，看来还真有人希望这种 AI 回复机器人的乱象继续下去啊 https://t.co/DflJkTyw9U https://t.co/adr6WWBZTw",
+      "quoted": [
+        {
+          "id": "2123388955143893122",
+          "user": "levelsio",
+          "text": "It took a while but as promised here it is...\n\n\"THE 𝕏 SPAMMERS LIST\"\n🛡️ Blocked for AI reply\nhttps://t.co/0kzHNGpOrr\n\n3,728 𝕏 accounts that continuously spam automated AI replies to artificially farm engagement and ruin 𝕏's social network - 498 already suspended by 𝕏 - continuously updated\n\n✅ Evidence for every blocked account\n✅ One-click block all button\n✅ Continuously updated JSON API\n✅ Text-only username list\n\nBased on @ryanvogel's original Clankwall and @dillon_mulroy's X list\n\nI hope everyone uses this and keeps using it, so my account becomes a honeypot for AI replies, once I block them they're blocked by the entire network and they stop being able to reply to anyone\n\n+ It'd be cool to add more \"scouts\" like @ThePrimeagen and @JackEllis and sync their block list continuously too cause they and many others have the same issue\n\nI've also submitted this list to @X's CEO @petersellis to train their spam models on\n\nAgain it'll be continously updated!\n\nEnjoy a spam free 𝕏 experience! 😊🙏",
+          "text_zh": "花了点时间，但正如我承诺的，它来了……\n\n「THE 𝕏 SPAMMERS LIST」\n🛡️ Blocked for AI reply\nhttps://t.co/0kzHNGpOrr\n\n3,728 个 𝕏 账号持续发送自动化 AI 回复，人为刷互动、破坏 𝕏 的社交网络——其中 498 个已被 𝕏 封禁——名单持续更新\n\n✅ 每个被拉黑账号都有证据\n✅ 一键全部拉黑按钮\n✅ 持续更新的 JSON API\n✅ 纯文本用户名列表\n\n基于 @ryanvogel 最初的 Clankwall 和 @dillon_mulroy 的 X 列表\n\n我希望大家都用这份名单，并且一直用下去，这样我的账号就会变成 AI 回复的蜜罐：一旦我拉黑了它们，整个网络都会拉黑它们，它们就再也没法回复任何人了\n\n另外，要是能再加入更多像 @ThePrimeagen 和 @JackEllis 这样的「侦察兵」，并持续同步他们的拉黑名单就更好了，因为他们和很多人也有同样的问题\n\n我还把这份名单提交给了 @X 的 CEO @petersellis，用来训练他们的垃圾信息识别模型\n\n再次说明，名单会持续更新！\n\n享受一个没有垃圾信息的 𝕏 体验吧！😊🙏"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2123388955143893122",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2123388955143893122",
+      "created_at": "2026-11-19T12:12:32.000Z",
+      "created_at_bj": "2026-11-19 20:12",
+      "views": 114472,
+      "rate_per_hour": 6117,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-19T23:39:41+08:00",
+        "views": 74295
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 768,
+        "impression_count": 114472,
+        "like_count": 1674,
+        "quote_count": 84,
+        "reply_count": 215,
+        "retweet_count": 86
+      },
+      "already_pushed": true,
+      "text": "It took a while but as promised here it is...\n\n\"THE 𝕏 SPAMMERS LIST\"\n🛡️ Blocked for AI reply\nhttps://t.co/0kzHNGpOrr\n\n3,728 𝕏 accounts that continuously spam automated AI replies to artificially farm engagement and ruin 𝕏's social network - 498 already suspended by 𝕏 - continuously updated\n\n✅ Evidence for every blocked account\n✅ One-click block all button\n✅ Continuously updated JSON API\n✅ Text-only username list\n\nBased on @ryanvogel's original Clankwall and @dillon_mulroy's X list\n\nI hope everyone uses this and keeps using it, so my account becomes a honeypot for AI replies, once I block them they're blocked by the entire network and they stop being able to reply to anyone\n\n+ It'd be cool to add more \"scouts\" like @ThePrimeagen and @JackEllis and sync their block list continuously too cause they and many others have the same issue\n\nI've also submitted this list to @X's CEO @petersellis to train their spam models on\n\nAgain it'll be continously updated!\n\nEnjoy a spam free 𝕏 experience! 😊🙏",
+      "text_zh": "花了点时间，但正如我承诺的，它来了……\n\n「THE 𝕏 SPAMMERS LIST」\n🛡️ Blocked for AI reply\nhttps://t.co/0kzHNGpOrr\n\n3,728 个 𝕏 账号持续发送自动化 AI 回复，人为刷互动、破坏 𝕏 的社交网络——其中 498 个已被 𝕏 封禁——名单持续更新\n\n✅ 每个被拉黑账号都有证据\n✅ 一键全部拉黑按钮\n✅ 持续更新的 JSON API\n✅ 纯文本用户名列表\n\n基于 @ryanvogel 最初的 Clankwall 和 @dillon_mulroy 的 X 列表\n\n我希望大家都用这份名单，并且一直用下去，这样我的账号就会变成 AI 回复的蜜罐：一旦我拉黑了它们，整个网络都会拉黑它们，它们就再也没法回复任何人了\n\n另外，要是能再加入更多像 @ThePrimeagen 和 @JackEllis 这样的「侦察兵」，并持续同步他们的拉黑名单就更好了，因为他们和很多人也有同样的问题\n\n我还把这份名单提交给了 @X 的 CEO @petersellis，用来训练他们的垃圾信息识别模型\n\n再次说明，名单会持续更新！\n\n享受一个没有垃圾信息的 𝕏 体验吧！😊🙏",
+      "quoted": [
+        {
+          "id": "2118737314943754500",
+          "user": "levelsio",
+          "text": "I will publish my full list of 10,000+ blocked AI spammer accounts soon so everyone can block them easily tooo\n\nIf you write AI replies under my tweets you will now permanently destroy your X account\n\nBecause you'll very quickly end up in a public data set of AI spammers that people will use to block them\n\nBetter turn those AI reply bots off today",
+          "text_zh": "我很快就会公布完整的 10,000+ 被拉黑 AI 垃圾账号名单，方便大家也能轻松拉黑它们\n\n如果你在我的帖子下面发 AI 回复，从现在起等于永久毁掉自己的 X 账号\n\n因为你很快就会进入一份公开的 AI 垃圾账号数据集，供大家用来拉黑\n\n今天最好就把那些 AI 回复机器人关掉"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2123382033741472170",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2123382033741472170",
+      "created_at": "2026-11-19T11:45:02.000Z",
+      "created_at_bj": "2026-11-19 19:45",
+      "views": 15446,
+      "rate_per_hour": 698,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-19T23:39:41+08:00",
+        "views": 10864
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 22,
+        "impression_count": 15446,
+        "like_count": 173,
+        "quote_count": 4,
+        "reply_count": 103,
+        "retweet_count": 9
+      },
+      "already_pushed": true,
+      "text": "B2B vs B2C on TrustMRR 👀\n\nMade any revenue in the last 30 days:\n• B2C: 63.6%\n• B2B: 54.7%\n\nMade $10k+:\n• B2B: 4.2%\n• B2C: 2.4%\n\n2,494 B2B + 4,335 B2C startups. https://t.co/Ily8Uq0cKl",
+      "text_zh": "TrustMRR 上的 B2B vs B2C 👀\n\n过去 30 天有过任何收入：\n• B2C: 63.6%\n• B2B: 54.7%\n\n做到 $10k+：\n• B2B: 4.2%\n• B2C: 2.4%\n\n共 2,494 家 B2B + 4,335 家 B2C 创业公司。 https://t.co/Ily8Uq0cKl",
+      "quoted": [],
+      "hit": false
+    }
+  ],
+  "new_hits": [],
+  "dropped_from_window": [
+    "2123357011261678018",
+    "2123332144500011037",
+    "2123315306387165432",
+    "2123305754648322373"
+  ],
+  "notes": "6:04 基准轮（实际运行 06:13:46 北京时间）：只更新 snapshots，不判定达标、不写入 pushed、不通知。间隔 6.5681 小时（上一轮 23:39:41 → 本轮 06:13:46 北京时间，6 小时 34 分 5 秒）。@gregisenberg、@karpathy 窗口内无原创或引用帖。本轮 get_users_posts 使用 exclude=replies,retweets，六个账号均使用 start_time=2026-11-19T10:00:00Z 拉取时间线，再按归档时刻 06:13:46 的 12 小时窗口本地过滤。窗口起点 2026-11-19 18:13:46 北京时间（2026-11-19T10:13:46Z）。本轮 run_at 取时间线采集与 get_posts_by_ids 复核完成后的归档时刻 06:13:46（例行触发 06:10:21）；浏览量与互动数据以公开 x.get_posts_by_ids 复核值为准（该接口字段为 repost_count，归档仍写为 retweet_count）。@levelsio 2123526226144886786 时间线浏览量为 16658、点赞 91、书签 46、回复 12，get_posts_by_ids 复核为浏览 16885、点赞 92、书签 47、回复 13，以复核为准（转发 3、引用 0 与时间线一致）。@egeberkina 2123524194998825224 时间线浏览量为 1060，get_posts_by_ids 复核为浏览 1064，以复核为准（点赞 22、转发 0、书签 3、引用 0、回复 1 与时间线一致）。@steipete 2123487048250327497 时间线浏览量为 24794，get_posts_by_ids 复核为浏览 24813，以复核为准（点赞 136、转发 7、书签 25、引用 2、回复 30 与时间线一致）。@marclou 2123483195970662647 时间线浏览量为 35228、点赞 247、书签 18，get_posts_by_ids 复核为浏览 35305、点赞 249、书签 19，以复核为准（转发 1、引用 4、回复 65 与时间线一致）。@levelsio 2123448770981409184 时间线浏览量为 35620、点赞 514，get_posts_by_ids 复核为浏览 35663、点赞 515，以复核为准（转发 2、书签 19、引用 3、回复 73 与时间线一致）。@marclou 2123432107359744455 时间线浏览量为 15596，get_posts_by_ids 复核为浏览 15606，以复核为准（点赞 97、转发 3、书签 22、引用 6、回复 66 与时间线一致）。@levelsio 2123403690451349759 时间线浏览量为 32224，get_posts_by_ids 复核为浏览 32248，以复核为准（点赞 164、转发 3、书签 19、引用 1、回复 75 与时间线一致）。@levelsio 2123388955143893122 时间线浏览量为 114438，get_posts_by_ids 复核为浏览 114472，以复核为准（点赞 1674、转发 86、书签 768、引用 84、回复 215 与时间线一致）。@marclou 2123382033741472170 时间线浏览量为 15444，get_posts_by_ids 复核为浏览 15446，以复核为准（点赞 173、转发 9、书签 22、引用 4、回复 103 与时间线一致）。get_posts_by_ids 还用于补全长文 note_tweet（@levelsio 2123526226144886786、@levelsio 2123388955143893122），以及被引用帖 2123475560626327809、2123388955143893122、2123291268814094409、2120155404957311464、2118737314943754500 的全文或长文。@gregisenberg、@karpathy 带 start_time 的时间线均为 result_count=0。为确认并非漏采，对这两个账号另拉了不含 start_time 的最近原创/引用帖：最新一条分别为 @gregisenberg 2123218699721011305（2026-11-19T00:56:00.000Z / 2026-11-19 08:56 北京时间）、@karpathy 2119114537442189652（2026-11-07T17:07:31.000Z），均已超出本轮 12 小时窗口。@steipete 带 start_time 的时间线返回 1 条，在窗口内。@levelsio 时间线还返回了回复帖 2123397827267018902（created_at 2026-11-19T12:47:47.000Z / 2026-11-19 20:47 北京时间，referenced_tweets type=replied_to）、2123391603788087390（created_at 2026-11-19T12:23:03.000Z / 2026-11-19 20:23 北京时间，referenced_tweets type=replied_to）、2123389999844372648（created_at 2026-11-19T12:16:41.000Z / 2026-11-19 20:16 北京时间，referenced_tweets type=replied_to）、2123389610713616557（created_at 2026-11-19T12:15:08.000Z / 2026-11-19 20:15 北京时间，referenced_tweets type=replied_to），虽已设 exclude=replies，仍被返回，已按规则剔除，不进入检查列表。无纯转发需排除。窗口内检查帖 9 条，均有 impression_count。本轮先用公开 x.get_users_posts 拉时间线，再用 get_posts_by_ids 复核浏览量并补齐长文与被引用帖全文。移出 12 小时窗口：4 条（@egeberkina 2123357011261678018，发帖 2026-11-19T10:05:36.000Z / 2026-11-19 18:05 北京时间，早于窗口起点 2026-11-19T10:13:46Z；@marclou 2123332144500011037，发帖 2026-11-19T08:26:47.000Z / 2026-11-19 16:26 北京时间，早于窗口起点 2026-11-19T10:13:46Z；@marclou 2123315306387165432，发帖 2026-11-19T07:19:52.000Z / 2026-11-19 15:19 北京时间，早于窗口起点 2026-11-19T10:13:46Z；@marclou 2123305754648322373，发帖 2026-11-19T06:41:55.000Z / 2026-11-19 14:41 北京时间，早于窗口起点 2026-11-19T10:13:46Z）。新进入窗口的帖子 5 条：2123526226144886786、2123524194998825224、2123487048250327497、2123483195970662647、2123448770981409184。检查帖数量 8 → 9 条（移出 4 条、新进入 5 条）。2123526226144886786 为长文，全文取自 get_posts_by_ids 的 note_tweet，中文译文为本轮新译。被引用帖 2123475560626327809 全文取自 get_posts_by_ids 的 note_tweet，中文译文为本轮新译。2123524194998825224 为短帖，无 note_tweet，中文译文为本轮新译。2123487048250327497 为短帖，无 note_tweet，中文译文为本轮新译。被引用帖 2123291268814094409 全文取自 get_posts_by_ids 的 note_tweet，中文译文为本轮新译。2123483195970662647 为短帖，无 note_tweet，中文译文为本轮新译。2123448770981409184 为短帖，无 note_tweet，中文译文为本轮新译。2123432107359744455 为短帖，无 note_tweet；英文全文与中文译文沿用 2334 归档（与本轮原文一致）。被引用帖 2120155404957311464 全文取自 get_posts_by_ids 的 note_tweet，与 2334 归档一致，中文译文沿用 2334。2123403690451349759 为短帖，无 note_tweet；英文全文与中文译文沿用 2334 归档（与本轮原文一致）。被引用帖 2123388955143893122 全文取自 get_posts_by_ids 的 note_tweet，与 2334 归档一致，中文译文沿用 2334。2123388955143893122 为长文，全文取自 get_posts_by_ids 的 note_tweet，与 2334 归档一致，中文译文沿用 2334。被引用帖 2118737314943754500 全文取自 get_posts_by_ids 的 note_tweet，与 2334 归档一致，中文译文沿用 2334。2123382033741472170 为短帖，无 note_tweet；英文全文与中文译文沿用 2334 归档（与本轮原文一致）。2123526226144886786 首次见到，浏览 16885，发帖至今 0.9294 小时，每小时 +18167 → 16885 ÷ 0.9294 = 18167，本轮为基准轮仅作参考，不判定达标。2123524194998825224 首次见到，浏览 1064，发帖至今 1.0642 小时，每小时 +1000 → 1064 ÷ 1.0642 = 1000，本轮为基准轮仅作参考，不判定达标。2123487048250327497 首次见到，浏览 24813，发帖至今 3.5242 小时，每小时 +7041 → 24813 ÷ 3.5242 = 7041，本轮为基准轮仅作参考，不判定达标。2123483195970662647 首次见到，浏览 35305，发帖至今 3.7794 小时，每小时 +9341 → 35305 ÷ 3.7794 = 9341，本轮为基准轮仅作参考，不判定达标。2123448770981409184 首次见到，浏览 35663，发帖至今 6.0592 小时，每小时 +5886 → 35663 ÷ 6.0592 = 5886，本轮为基准轮仅作参考，不判定达标。2123432107359744455 浏览 15606（上次 4615），每小时 +1673 → 10991 ÷ 6.5681 = 1673，本轮为基准轮仅作参考，不判定达标；已在 pushed。2123403690451349759 浏览 32248（上次 20891），每小时 +1729 → 11357 ÷ 6.5681 = 1729，本轮为基准轮仅作参考，不判定达标；已在 pushed。2123388955143893122 浏览 114472（上次 74295），每小时 +6117 → 40177 ÷ 6.5681 = 6117，本轮为基准轮仅作参考，不判定达标；已在 pushed。2123382033741472170 浏览 15446（上次 10864），每小时 +698 → 4582 ÷ 6.5681 = 698，本轮为基准轮仅作参考，不判定达标；已在 pushed。窗口内帖子 8 → 9 条。本轮为基准轮，新达标 0 条（不判定），pushed 164 → 164 条。"
+}
