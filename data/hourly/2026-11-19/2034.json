@@ -1,0 +1,278 @@
+{
+  "run_at": "2026-11-19T20:38:49+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "2034",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2123388955143893122",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2123388955143893122",
+      "created_at": "2026-11-19T12:12:32.000Z",
+      "created_at_bj": "2026-11-19 20:12",
+      "views": 12982,
+      "rate_per_hour": 29636,
+      "basis": "first_sight",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 68,
+        "impression_count": 12982,
+        "like_count": 170,
+        "quote_count": 10,
+        "reply_count": 21,
+        "retweet_count": 7
+      },
+      "already_pushed": false,
+      "text": "It took a while but as promised here it is...\n\n\"THE 𝕏 SPAMMERS LIST\"\n🛡️ Blocked for AI reply\nhttps://t.co/0kzHNGpOrr\n\n3,728 𝕏 accounts that continuously spam automated AI replies to artificially farm engagement and ruin 𝕏's social network - 498 already suspended by 𝕏 - continuously updated\n\n✅ Evidence for every blocked account\n✅ One-click block all button\n✅ Continuously updated JSON API\n✅ Text-only username list\n\nBased on @ryanvogel's original Clankwall and @dillon_mulroy's X list\n\nI hope everyone uses this and keeps using it, so my account becomes a honeypot for AI replies, once I block them they're blocked by the entire network and they stop being able to reply to anyone\n\n+ It'd be cool to add more \"scouts\" like @ThePrimeagen and @JackEllis and sync their block list continuously too cause they and many others have the same issue\n\nI've also submitted this list to @X's CEO @petersellis to train their spam models on\n\nAgain it'll be continously updated!\n\nEnjoy a spam free 𝕏 experience! 😊🙏",
+      "text_zh": "花了点时间，但正如我承诺的，它来了……\n\n「THE 𝕏 SPAMMERS LIST」\n🛡️ Blocked for AI reply\nhttps://t.co/0kzHNGpOrr\n\n3,728 个 𝕏 账号持续发送自动化 AI 回复，人为刷互动、破坏 𝕏 的社交网络——其中 498 个已被 𝕏 封禁——名单持续更新\n\n✅ 每个被拉黑账号都有证据\n✅ 一键全部拉黑按钮\n✅ 持续更新的 JSON API\n✅ 纯文本用户名列表\n\n基于 @ryanvogel 最初的 Clankwall 和 @dillon_mulroy 的 X 列表\n\n我希望大家都用这份名单，并且一直用下去，这样我的账号就会变成 AI 回复的蜜罐：一旦我拉黑了它们，整个网络都会拉黑它们，它们就再也没法回复任何人了\n\n另外，要是能再加入更多像 @ThePrimeagen 和 @JackEllis 这样的「侦察兵」，并持续同步他们的拉黑名单就更好了，因为他们和很多人也有同样的问题\n\n我还把这份名单提交给了 @X 的 CEO @petersellis，用来训练他们的垃圾信息识别模型\n\n再次说明，名单会持续更新！\n\n享受一个没有垃圾信息的 𝕏 体验吧！😊🙏",
+      "quoted": [
+        {
+          "id": "2118737314943754500",
+          "user": "levelsio",
+          "text": "I will publish my full list of 10,000+ blocked AI spammer accounts soon so everyone can block them easily tooo\n\nIf you write AI replies under my tweets you will now permanently destroy your X account\n\nBecause you'll very quickly end up in a public data set of AI spammers that people will use to block them\n\nBetter turn those AI reply bots off today",
+          "text_zh": "我很快就会公布完整的 10,000+ 被拉黑 AI 垃圾账号名单，方便大家也能轻松拉黑它们\n\n如果你在我的帖子下面发 AI 回复，从现在起等于永久毁掉自己的 X 账号\n\n因为你很快就会进入一份公开的 AI 垃圾账号数据集，供大家用来拉黑\n\n今天最好就把那些 AI 回复机器人关掉"
+        }
+      ],
+      "hit": true
+    },
+    {
+      "id": "2123382033741472170",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2123382033741472170",
+      "created_at": "2026-11-19T11:45:02.000Z",
+      "created_at_bj": "2026-11-19 19:45",
+      "views": 6137,
+      "rate_per_hour": 3886,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-19T20:10:17+08:00",
+        "views": 4289
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 7,
+        "impression_count": 6137,
+        "like_count": 77,
+        "quote_count": 0,
+        "reply_count": 50,
+        "retweet_count": 1
+      },
+      "already_pushed": true,
+      "text": "B2B vs B2C on TrustMRR 👀\n\nMade any revenue in the last 30 days:\n• B2C: 63.6%\n• B2B: 54.7%\n\nMade $10k+:\n• B2B: 4.2%\n• B2C: 2.4%\n\n2,494 B2B + 4,335 B2C startups. https://t.co/Ily8Uq0cKl",
+      "text_zh": "TrustMRR 上的 B2B vs B2C 👀\n\n过去 30 天有过任何收入：\n• B2C: 63.6%\n• B2B: 54.7%\n\n做到 $10k+：\n• B2B: 4.2%\n• B2C: 2.4%\n\n共 2,494 家 B2B + 4,335 家 B2C 创业公司。 https://t.co/Ily8Uq0cKl",
+      "quoted": [],
+      "hit": false
+    },
+    {
+      "id": "2123357011261678018",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2123357011261678018",
+      "created_at": "2026-11-19T10:05:36.000Z",
+      "created_at_bj": "2026-11-19 18:05",
+      "views": 4949,
+      "rate_per_hour": 4056,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-19T20:10:17+08:00",
+        "views": 3020
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 44,
+        "impression_count": 4949,
+        "like_count": 180,
+        "quote_count": 2,
+        "reply_count": 1,
+        "retweet_count": 18
+      },
+      "already_pushed": false,
+      "text": "A very English morning https://t.co/u5v3f49ixZ https://t.co/3rKJZpP8wP",
+      "text_zh": "一个非常英式的早晨 https://t.co/u5v3f49ixZ https://t.co/3rKJZpP8wP",
+      "quoted": [
+        {
+          "id": "2122795018670727512",
+          "user": "egeberkina",
+          "text": "Bonjour France https://t.co/rgT7V44JHp https://t.co/AagGtR1xKN",
+          "text_zh": "Bonjour France（你好，法国） https://t.co/rgT7V44JHp https://t.co/AagGtR1xKN"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2123332144500011037",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2123332144500011037",
+      "created_at": "2026-11-19T08:26:47.000Z",
+      "created_at_bj": "2026-11-19 16:26",
+      "views": 16334,
+      "rate_per_hour": 3800,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-19T20:10:17+08:00",
+        "views": 14527
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 35,
+        "impression_count": 16334,
+        "like_count": 92,
+        "quote_count": 1,
+        "reply_count": 35,
+        "retweet_count": 1
+      },
+      "already_pushed": true,
+      "text": "My heart beats 6,624 fewer times per day\n\n> resting:           40 bpm \n> 24/7 avg:        52 bpm \n> night drop:     34% \n\n> 6,624 per day is 2.4 million per year  \n> Bryan saves 24,800 versus my 31,424 https://t.co/PagBN7XqgR",
+      "text_zh": "我的心脏每天少跳 6,624 次\n\n> 静息心率：           40 bpm \n> 全天平均：        52 bpm \n> 夜间下降：     34% \n\n> 每天少跳 6,624 次，相当于一年少跳 240 万次  \n> Bryan 少跳 24,800 次，而我是 31,424 次 https://t.co/PagBN7XqgR",
+      "quoted": [
+        {
+          "id": "2123164253884731845",
+          "user": "bryan_johnson",
+          "text": "My heart beats 24,800 fewer times per day\n\n> resting:           43 bpm \n> lowest:            38 bpm\n> 24/7 avg:        57 bpm \n> night drop:     31% \n\n> 24,800 per day is 8.8 million per year  \n> elite cyclists save 11,500 versus my 24,800\n\nPuts my heart in the top 1% of all men\n\nOther notes: \n> avg adult heart rate drop at night is 15%\n> any heart rate drop below 10% predicts higher mortality",
+          "text_zh": "我的心脏每天少跳 24,800 次\n\n> 静息心率：           43 bpm \n> 最低：            38 bpm\n> 全天平均：        57 bpm \n> 夜间下降：     31% \n\n> 每天少跳 24,800 次，相当于一年少跳 880 万次  \n> 精英自行车手少跳 11,500 次，而我是 24,800 次\n\n这让我的心脏处于所有男性的前 1%\n\n其他说明：\n> 普通成年人夜间心率下降幅度平均为 15%\n> 夜间心率下降幅度低于 10%，预示着更高的死亡率"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2123315306387165432",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2123315306387165432",
+      "created_at": "2026-11-19T07:19:52.000Z",
+      "created_at_bj": "2026-11-19 15:19",
+      "views": 12706,
+      "rate_per_hour": 2155,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-19T20:10:17+08:00",
+        "views": 11681
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 5,
+        "impression_count": 12706,
+        "like_count": 97,
+        "quote_count": 0,
+        "reply_count": 27,
+        "retweet_count": 0
+      },
+      "already_pushed": true,
+      "text": "shutting down the little voice https://t.co/RZ4ndR4qD8",
+      "text_zh": "把心里那个小声关掉 https://t.co/RZ4ndR4qD8",
+      "quoted": [],
+      "hit": false
+    },
+    {
+      "id": "2123305754648322373",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2123305754648322373",
+      "created_at": "2026-11-19T06:41:55.000Z",
+      "created_at_bj": "2026-11-19 14:41",
+      "views": 9757,
+      "rate_per_hour": 683,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-19T20:10:17+08:00",
+        "views": 9432
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 1,
+        "impression_count": 9757,
+        "like_count": 51,
+        "quote_count": 2,
+        "reply_count": 39,
+        "retweet_count": 0
+      },
+      "already_pushed": true,
+      "text": "PM at X have cooked with this https://t.co/aiistaUZg3",
+      "text_zh": "X 的 PM 这次真的整了波好活 https://t.co/aiistaUZg3",
+      "quoted": [],
+      "hit": false
+    },
+    {
+      "id": "2123218699721011305",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2123218699721011305",
+      "created_at": "2026-11-19T00:56:00.000Z",
+      "created_at_bj": "2026-11-19 08:56",
+      "views": 26378,
+      "rate_per_hour": 923,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-19T20:10:17+08:00",
+        "views": 25939
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 429,
+        "impression_count": 26378,
+        "like_count": 256,
+        "quote_count": 0,
+        "reply_count": 38,
+        "retweet_count": 11
+      },
+      "already_pushed": true,
+      "text": "How to own a keyword on YouTube with Grok Bot:\n\n1. Set up a weekly routine where your Grok Bot finds a keyword in your space that’s rising month over month (Louise connects hers to vidIQ)\n\n2. Have it check whether anyone has made a good video on it yet\n\n3. If they haven’t, record the video this week\n\n4. Let Grok Bot write the title, description and chapters around that keyword, then publish",
+      "text_zh": "如何用 Grok Bot 在 YouTube 上占领一个关键词：\n\n1. 设置一个每周例行任务，让你的 Grok Bot 找出你所在领域里环比持续上升的关键词（Louise 会把它接到 vidIQ 上）\n\n2. 让它检查是否已有人就这个词做出过像样的视频\n\n3. 如果还没有，就在本周把视频录了\n\n4. 再让 Grok Bot 围绕这个关键词写标题、描述和章节，然后发布",
+      "quoted": [
+        {
+          "id": "2123179348467278293",
+          "user": "gregisenberg",
+          "text": "How to turn your Grok Bot into a top 1% AI agent content team (research, scripts, editing etc)\n\nYou give your Grok Bot the creators you love, hooks you’ve saved, fav newsletters, and it’ll find what’s working, write script, cut your edit and publish the video:\n\nhttps://t.co/QIPSAJukIV",
+          "text_zh": "如何把你的 Grok Bot 打造成顶尖 1% 的 AI agent 内容团队（调研、脚本、剪辑等）\n\n你把喜欢的创作者、存下来的 hooks、常看的 newsletter 交给 Grok Bot，它就会找出正在生效的内容，写脚本、剪片子，然后发布视频：\n\nhttps://t.co/QIPSAJukIV"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2123214879192502517",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2123214879192502517",
+      "created_at": "2026-11-19T00:40:49.000Z",
+      "created_at_bj": "2026-11-19 08:40",
+      "views": 42761,
+      "rate_per_hour": 1546,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-19T20:10:17+08:00",
+        "views": 42026
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 136,
+        "impression_count": 42761,
+        "like_count": 662,
+        "quote_count": 2,
+        "reply_count": 72,
+        "retweet_count": 25
+      },
+      "already_pushed": true,
+      "text": "I got to test Gemini 4 Neon early and it’s really good, really fast and about half the price of what I’m used to.\n\nThen I saw the benchmarks, and it made sense. It scored about the same as Opus 5.5 on coding for around half the cost per task!\n\nClaude is still often what I reach for on the hardest problems, and Opus still edges it on a couple of coding benchmarks.\n\nBut when you run agents literally all day, fast and half the cost is hard to ignore.\n\nThis is great news for anyone using agents, because competition like this pushes prices down for all of us.",
+      "text_zh": "我提前体验了 Gemini 4 Neon，真的很好，速度很快，价格大概是我习惯的一半。\n\n后来我看了评测，就理解了。它在编程上的得分和 Opus 5.5 差不多，但每项任务的成本大约只有一半！\n\n遇到最难的问题，我通常还是会用 Claude，而且在几个编程基准测试上 Opus 仍然略胜一筹。\n\n但如果你整天都在跑 agents，又快又只要一半成本，这就很难忽视了。\n\n这对所有使用 agents 的人来说都是好消息，因为这样的竞争会把大家的价格都压下来。",
+      "quoted": [
+        {
+          "id": "2123176686468690429",
+          "user": "Polymarket",
+          "text": "JUST IN: Google launches Gemini 4 Neon, debuting at No. 1 on the Artificial Analysis Coding Agent Index.",
+          "text_zh": "刚刚：Google 发布 Gemini 4 Neon，在 Artificial Analysis Coding Agent Index 上首发即登顶第一。"
+        }
+      ],
+      "hit": false
+    }
+  ],
+  "new_hits": [
+    "2123388955143893122"
+  ],
+  "dropped_from_window": [],
+  "notes": "2034 判定轮（实际运行 20:38:49 北京时间）：按规则判定达标并推送新达标帖。间隔 0.4756 小时（上一轮 20:10:17 → 本轮 20:38:49 北京时间）。@steipete、@karpathy 窗口内无原创或引用帖。本轮 get_users_posts 使用 exclude=replies,retweets 与 start_time=2026-11-19T00:36:00Z，再按 12 小时窗口本地过滤。窗口起点 2026-11-19 08:38:49 北京时间（2026-11-19T00:38:49Z）。本轮 run_at 取 get_posts_by_ids 补全完成后的归档时刻 20:38:49（例行触发约 20:36）；浏览量与互动数据以较晚的 get_posts_by_ids 返回的 public_metrics 为准（该接口字段为 repost_count，归档仍写为 retweet_count）。@steipete、@karpathy 均为 result_count=0。@levelsio 时间线还返回了回复帖 2123391603788087390（created_at 2026-11-19T12:23:03.000Z / 2026-11-19 20:23 北京时间，referenced_tweets type=replied_to）、2123389999844372648（created_at 2026-11-19T12:16:41.000Z / 2026-11-19 20:16 北京时间，referenced_tweets type=replied_to）、2123389610713616557（created_at 2026-11-19T12:15:08.000Z / 2026-11-19 20:15 北京时间，referenced_tweets type=replied_to），虽已设 exclude=replies，仍被返回，已按规则剔除，不进入检查列表。@marclou 时间线还返回了回复帖 2123332596184535430（created_at 2026-11-19T08:28:35.000Z / 2026-11-19 16:28 北京时间，referenced_tweets type=replied_to），虽已设 exclude=replies，仍被返回，已按规则剔除，不进入检查列表。所有进入检查列表的帖子均有 impression_count。本轮先用公开 x.get_users_posts 拉时间线，再用 get_posts_by_ids 补齐长文 note_tweet 和引用全文。移出 12 小时窗口：无。检查帖数量 7 → 8 条（移出 0 条、新进入 1 条）。新进入窗口：@levelsio 2123388955143893122（发于 2026-11-19T12:12:32.000Z / 2026-11-19 20:12 北京时间）。@levelsio 2123388955143893122 时间线浏览量为 12794，get_posts_by_ids 复核为浏览 12982，以复核为准（点赞 170、转发 7、书签 68、引用 10、回复 21）。@marclou 2123382033741472170 时间线浏览量为 6099，get_posts_by_ids 复核为浏览 6137，以复核为准（点赞 77、转发 1、书签 7、引用 0、回复 50）。@egeberkina 2123357011261678018 时间线浏览量为 4898，get_posts_by_ids 复核为浏览 4949，以复核为准（点赞 180、转发 18、书签 44、引用 2、回复 1）。@marclou 2123332144500011037 时间线浏览量为 16254，get_posts_by_ids 复核为浏览 16334，以复核为准（点赞 92、转发 1、书签 35、引用 1、回复 35）。@marclou 2123315306387165432 时间线浏览量为 12689，get_posts_by_ids 复核为浏览 12706，以复核为准（点赞 97、转发 0、书签 5、引用 0、回复 27）。@marclou 2123305754648322373 时间线浏览量为 9755，get_posts_by_ids 复核为浏览 9757，以复核为准（点赞 51、转发 0、书签 1、引用 2、回复 39）。@gregisenberg 2123218699721011305 时间线浏览量为 26372，get_posts_by_ids 复核为浏览 26378，以复核为准（点赞 256、转发 11、书签 429、引用 0、回复 38）。@gregisenberg 2123214879192502517 时间线浏览量为 42730，get_posts_by_ids 复核为浏览 42761，以复核为准（点赞 662、转发 25、书签 136、引用 2、回复 72）。已在检查列表中的既有帖子正文与中文译文均沿用 2004 归档（本轮 get_posts_by_ids 的 note_tweet/正文核对一致）；被引用帖全文亦与 2004 一致，译文沿用 2004。2123388955143893122 中文译文为本轮新译，正文取 note_tweet 全文（时间线短文末尾被截断）。2123388955143893122 首次见到，浏览 12982，发帖至今 0.4381 小时（1577 秒），每小时 +29636 → 12982 ÷ (1577/3600) = 29636，超过阈值 5000，且不在 pushed 中，本轮新达标。2123382033741472170 浏览 6137（上次 4289），每小时 +3886 → 1848 ÷ 0.4756 = 3886，未超过阈值，但已在 pushed 中，不重复推送。2123357011261678018 浏览 4949（上次 3020），每小时 +4056 → 1929 ÷ 0.4756 = 4056，未超过阈值。2123332144500011037 浏览 16334（上次 14527），每小时 +3800 → 1807 ÷ 0.4756 = 3800，未超过阈值，但已在 pushed 中，不重复推送。2123315306387165432 浏览 12706（上次 11681），每小时 +2155 → 1025 ÷ 0.4756 = 2155，未超过阈值，但已在 pushed 中，不重复推送。2123305754648322373 浏览 9757（上次 9432），每小时 +683 → 325 ÷ 0.4756 = 683，未超过阈值，但已在 pushed 中，不重复推送。2123218699721011305 浏览 26378（上次 25939），每小时 +923 → 439 ÷ 0.4756 = 923，未超过阈值，但已在 pushed 中，不重复推送。2123214879192502517 浏览 42761（上次 42026），每小时 +1546 → 735 ÷ 0.4756 = 1546，未超过阈值，但已在 pushed 中，不重复推送。本轮新达标 1 条（2123388955143893122），pushed 161 → 162 条。"
+}
