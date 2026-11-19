@@ -1,0 +1,208 @@
+{
+  "run_at": "2026-11-19T15:36:31+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "1534",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2123315306387165432",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2123315306387165432",
+      "created_at": "2026-11-19T07:19:52.000Z",
+      "created_at_bj": "2026-11-19 15:19",
+      "views": 2185,
+      "rate_per_hour": 7874,
+      "basis": "first_sight",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 2,
+        "impression_count": 2185,
+        "like_count": 22,
+        "quote_count": 0,
+        "reply_count": 5,
+        "retweet_count": 0
+      },
+      "already_pushed": false,
+      "text": "shutting down the little voice https://t.co/RZ4ndR4qD8",
+      "text_zh": "把心里那个小声关掉 https://t.co/RZ4ndR4qD8",
+      "quoted": [],
+      "hit": true
+    },
+    {
+      "id": "2123305754648322373",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2123305754648322373",
+      "created_at": "2026-11-19T06:41:55.000Z",
+      "created_at_bj": "2026-11-19 14:41",
+      "views": 4694,
+      "rate_per_hour": 3037,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-19T15:07:11+08:00",
+        "views": 3209
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 1,
+        "impression_count": 4694,
+        "like_count": 32,
+        "quote_count": 1,
+        "reply_count": 25,
+        "retweet_count": 0
+      },
+      "already_pushed": true,
+      "text": "PM at X have cooked with this https://t.co/aiistaUZg3",
+      "text_zh": "X 的 PM 这次真的整了波好活 https://t.co/aiistaUZg3",
+      "quoted": [],
+      "hit": false
+    },
+    {
+      "id": "2123218699721011305",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2123218699721011305",
+      "created_at": "2026-11-19T00:56:00.000Z",
+      "created_at_bj": "2026-11-19 08:56",
+      "views": 21950,
+      "rate_per_hour": 1223,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-19T15:07:11+08:00",
+        "views": 21352
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 353,
+        "impression_count": 21950,
+        "like_count": 200,
+        "quote_count": 0,
+        "reply_count": 26,
+        "retweet_count": 9
+      },
+      "already_pushed": true,
+      "text": "How to own a keyword on YouTube with Grok Bot:\n\n1. Set up a weekly routine where your Grok Bot finds a keyword in your space that’s rising month over month (Louise connects hers to vidIQ)\n\n2. Have it check whether anyone has made a good video on it yet\n\n3. If they haven’t, record the video this week\n\n4. Let Grok Bot write the title, description and chapters around that keyword, then publish",
+      "text_zh": "如何用 Grok Bot 在 YouTube 上占领一个关键词：\n\n1. 设置一个每周例行任务，让你的 Grok Bot 找出你所在领域里环比持续上升的关键词（Louise 会把它接到 vidIQ 上）\n\n2. 让它检查是否已有人就这个词做出过像样的视频\n\n3. 如果还没有，就在本周把视频录了\n\n4. 再让 Grok Bot 围绕这个关键词写标题、描述和章节，然后发布",
+      "quoted": [
+        {
+          "id": "2123179348467278293",
+          "user": "gregisenberg",
+          "text": "How to turn your Grok Bot into a top 1% AI agent content team (research, scripts, editing etc)\n\nYou give your Grok Bot the creators you love, hooks you’ve saved, fav newsletters, and it’ll find what’s working, write script, cut your edit and publish the video:\n\nhttps://t.co/QIPSAJukIV",
+          "text_zh": "如何把你的 Grok Bot 打造成顶尖 1% 的 AI agent 内容团队（调研、脚本、剪辑等）\n\n你把喜欢的创作者、存下来的 hooks、常看的 newsletter 交给 Grok Bot，它就会找出正在生效的内容，写脚本、剪片子，然后发布视频：\n\nhttps://t.co/QIPSAJukIV"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2123214879192502517",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2123214879192502517",
+      "created_at": "2026-11-19T00:40:49.000Z",
+      "created_at_bj": "2026-11-19 08:40",
+      "views": 33732,
+      "rate_per_hour": 2362,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-19T15:07:11+08:00",
+        "views": 32577
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 105,
+        "impression_count": 33732,
+        "like_count": 530,
+        "quote_count": 1,
+        "reply_count": 59,
+        "retweet_count": 20
+      },
+      "already_pushed": true,
+      "text": "I got to test Gemini 4 Neon early and it’s really good, really fast and about half the price of what I’m used to.\n\nThen I saw the benchmarks, and it made sense. It scored about the same as Opus 5.5 on coding for around half the cost per task!\n\nClaude is still often what I reach for on the hardest problems, and Opus still edges it on a couple of coding benchmarks.\n\nBut when you run agents literally all day, fast and half the cost is hard to ignore.\n\nThis is great news for anyone using agents, because competition like this pushes prices down for all of us.",
+      "text_zh": "我提前体验了 Gemini 4 Neon，真的很好，速度很快，价格大概是我习惯的一半。\n\n后来我看了评测，就理解了。它在编程上的得分和 Opus 5.5 差不多，但每项任务的成本大约只有一半！\n\n遇到最难的问题，我通常还是会用 Claude，而且在几个编程基准测试上 Opus 仍然略胜一筹。\n\n但如果你整天都在跑 agents，又快又只要一半成本，这就很难忽视了。\n\n这对所有使用 agents 的人来说都是好消息，因为这样的竞争会把大家的价格都压下来。",
+      "quoted": [
+        {
+          "id": "2123176686468690429",
+          "user": "Polymarket",
+          "text": "JUST IN: Google launches Gemini 4 Neon, debuting at No. 1 on the Artificial Analysis Coding Agent Index.",
+          "text_zh": "刚刚：Google 发布 Gemini 4 Neon，在 Artificial Analysis Coding Agent Index 上首发即登顶第一。"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2123179348467278293",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2123179348467278293",
+      "created_at": "2026-11-18T22:19:38.000Z",
+      "created_at_bj": "2026-11-19 06:19",
+      "views": 60694,
+      "rate_per_hour": 3624,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-19T15:07:11+08:00",
+        "views": 58922
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 1226,
+        "impression_count": 60694,
+        "like_count": 634,
+        "quote_count": 6,
+        "reply_count": 84,
+        "retweet_count": 46
+      },
+      "already_pushed": true,
+      "text": "How to turn your Grok Bot into a top 1% AI agent content team (research, scripts, editing etc)\n\nYou give your Grok Bot the creators you love, hooks you’ve saved, fav newsletters, and it’ll find what’s working, write script, cut your edit and publish the video:\n\nhttps://t.co/QIPSAJukIV",
+      "text_zh": "如何把你的 Grok Bot 打造成顶尖 1% 的 AI agent 内容团队（调研、脚本、剪辑等）\n\n你把喜欢的创作者、存下来的 hooks、常看的 newsletter 交给 Grok Bot，它就会找出正在生效的内容，写脚本、剪片子，然后发布视频：\n\nhttps://t.co/QIPSAJukIV",
+      "quoted": [],
+      "hit": false
+    },
+    {
+      "id": "2123162166102560996",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2123162166102560996",
+      "created_at": "2026-11-18T21:11:21.000Z",
+      "created_at_bj": "2026-11-19 05:11",
+      "views": 1950,
+      "rate_per_hour": 117,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-19T15:07:11+08:00",
+        "views": 1893
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 10,
+        "impression_count": 1950,
+        "like_count": 29,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "already_pushed": false,
+      "text": "Look who's back https://t.co/dMc2KEMqTo https://t.co/Y3H7Q2LOOH",
+      "text_zh": "Look who's back（看看谁回来了） https://t.co/dMc2KEMqTo https://t.co/Y3H7Q2LOOH",
+      "quoted": [
+        {
+          "id": "2123082416763855316",
+          "user": "egeberkina",
+          "text": "Vice City, baby! https://t.co/llCIiqUgSY",
+          "text_zh": "Vice City, baby! https://t.co/llCIiqUgSY"
+        }
+      ],
+      "hit": false
+    }
+  ],
+  "new_hits": [
+    "2123315306387165432"
+  ],
+  "dropped_from_window": [],
+  "notes": "1534 判定轮（实际运行 15:36:31 北京时间）：按规则判定达标并推送新达标帖。间隔 0.4889 小时（上一轮 15:07:11 → 本轮 15:36:31 北京时间，29 分 20 秒）。@levelsio、@steipete、@karpathy 窗口内无原创或引用帖。本轮 get_users_posts 使用 exclude=replies,retweets 与 start_time=2026-11-18T19:30:00Z，再按 12 小时窗口本地过滤。窗口起点 2026-11-19 03:36:31 北京时间（2026-11-18T19:36:31Z）。本轮 run_at 取 get_posts_by_ids 补全完成后的归档时刻 15:36:31（例行触发 15:35:42）；浏览量与互动数据以较晚的 get_posts_by_ids 返回的 public_metrics 为准（该接口字段为 repost_count，归档仍写为 retweet_count）。@levelsio、@steipete、@karpathy 均为 result_count=0。@gregisenberg 时间线还返回了回复帖 2123190401867874561（created_at 2026-11-18T23:03:33.000Z / 2026-11-19 07:03 北京时间，referenced_tweets type=replied_to，浏览 4250，点赞 9，转发 1，书签 3，引用 0，回复 2），虽已设 exclude=replies，仍被返回，已按规则剔除，不进入检查列表。所有检查帖均有 impression_count。本轮先用公开 x.get_users_posts 拉时间线，再用 get_posts_by_ids 补齐长文 note_tweet 和引用全文。新进入窗口 1 条检查帖：@marclou 2123315306387165432（发于 2026-11-19T07:19:52.000Z / 2026-11-19 15:19 北京时间，原创短帖，配有视频附件 https://t.co/RZ4ndR4qD8）。该新帖按首次见到规则判定。无移出窗口的帖子。检查帖数量 5 → 6 条（新进入 1 条）。@marclou 2123315306387165432 时间线浏览量为 2185，get_posts_by_ids 复核为浏览 2185，与时间线一致（点赞 22、转发 0、书签 2、引用 0、回复 5）。@marclou 2123305754648322373 时间线浏览量为 4694，get_posts_by_ids 复核为浏览 4694，与时间线一致（点赞 32、转发 0、书签 1、引用 1、回复 25）。@gregisenberg 2123218699721011305 时间线浏览量为 21939，get_posts_by_ids 复核为浏览 21950，以复核为准（点赞 200、转发 9、书签 353、引用 0、回复 26与时间线一致）。@gregisenberg 2123214879192502517 时间线浏览量为 33732，get_posts_by_ids 复核为浏览 33732，与时间线一致（点赞 530、转发 20、书签 105、引用 1、回复 59）。@gregisenberg 2123179348467278293 时间线浏览量为 60694，get_posts_by_ids 复核为浏览 60694，与时间线一致（点赞 634、转发 46、书签 1226、引用 6、回复 84）。@egeberkina 2123162166102560996 时间线浏览量为 1950，get_posts_by_ids 复核为浏览 1950，与时间线一致（点赞 29、转发 1、书签 10、引用 0、回复 0）。已在检查列表中的帖子正文与中文译文均沿用 1504 归档（本轮 get_posts_by_ids 的 note_tweet/正文核对一致）；被引用帖全文亦与 1504 一致，译文沿用 1504。2123315306387165432 中文译文为本轮新译。2123315306387165432 首次见到，浏览 2185，发帖至今 0.2775 小时（999 秒，16 分 39 秒），每小时 +7874 → 2185 ÷ (999/3600) = 7874，超过阈值 5000，且不在 pushed 中，本轮新达标。2123305754648322373 浏览 4694（上次 3209），每小时 +3037 → 1485 ÷ 0.4889 = 3037，未超过阈值，但已在 pushed 中，不重复推送。2123218699721011305 浏览 21950（上次 21352），每小时 +1223 → 598 ÷ 0.4889 = 1223，未超过阈值，但已在 pushed 中，不重复推送。2123214879192502517 浏览 33732（上次 32577），每小时 +2362 → 1155 ÷ 0.4889 = 2362，未超过阈值，但已在 pushed 中，不重复推送。2123179348467278293 浏览 60694（上次 58922），每小时 +3624 → 1772 ÷ 0.4889 = 3624，未超过阈值，但已在 pushed 中，不重复推送。2123162166102560996 浏览 1950（上次 1893），每小时 +117 → 57 ÷ 0.4889 = 117，未超过阈值。本轮新达标 1 条，pushed 158 → 159 条。"
+}
