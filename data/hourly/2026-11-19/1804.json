@@ -1,0 +1,241 @@
+{
+  "run_at": "2026-11-19T18:09:49+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "1804",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2123357011261678018",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2123357011261678018",
+      "created_at": "2026-11-19T10:05:36.000Z",
+      "created_at_bj": "2026-11-19 18:05",
+      "views": 199,
+      "rate_per_hour": 2831,
+      "basis": "first_sight",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 0,
+        "impression_count": 199,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "already_pushed": false,
+      "text": "A very English morning https://t.co/u5v3f49ixZ https://t.co/3rKJZpP8wP",
+      "text_zh": "一个非常英式的早晨 https://t.co/u5v3f49ixZ https://t.co/3rKJZpP8wP",
+      "quoted": [
+        {
+          "id": "2122795018670727512",
+          "user": "egeberkina",
+          "text": "Bonjour France https://t.co/rgT7V44JHp https://t.co/AagGtR1xKN",
+          "text_zh": "Bonjour France（你好，法国） https://t.co/rgT7V44JHp https://t.co/AagGtR1xKN"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2123332144500011037",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2123332144500011037",
+      "created_at": "2026-11-19T08:26:47.000Z",
+      "created_at_bj": "2026-11-19 16:26",
+      "views": 8648,
+      "rate_per_hour": 4450,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-19T17:36:46+08:00",
+        "views": 6197
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 20,
+        "impression_count": 8648,
+        "like_count": 50,
+        "quote_count": 0,
+        "reply_count": 27,
+        "retweet_count": 1
+      },
+      "already_pushed": true,
+      "text": "My heart beats 6,624 fewer times per day\n\n> resting:           40 bpm \n> 24/7 avg:        52 bpm \n> night drop:     34% \n\n> 6,624 per day is 2.4 million per year  \n> Bryan saves 24,800 versus my 31,424 https://t.co/PagBN7XqgR",
+      "text_zh": "我的心脏每天少跳 6,624 次\n\n> 静息心率：           40 bpm \n> 全天平均：        52 bpm \n> 夜间下降：     34% \n\n> 每天少跳 6,624 次，相当于一年少跳 240 万次  \n> Bryan 少跳 24,800 次，而我是 31,424 次 https://t.co/PagBN7XqgR",
+      "quoted": [
+        {
+          "id": "2123164253884731845",
+          "user": "bryan_johnson",
+          "text": "My heart beats 24,800 fewer times per day\n\n> resting:           43 bpm \n> lowest:            38 bpm\n> 24/7 avg:        57 bpm \n> night drop:     31% \n\n> 24,800 per day is 8.8 million per year  \n> elite cyclists save 11,500 versus my 24,800\n\nPuts my heart in the top 1% of all men\n\nOther notes: \n> avg adult heart rate drop at night is 15%\n> any heart rate drop below 10% predicts higher mortality",
+          "text_zh": "我的心脏每天少跳 24,800 次\n\n> 静息心率：           43 bpm \n> 最低：            38 bpm\n> 全天平均：        57 bpm \n> 夜间下降：     31% \n\n> 每天少跳 24,800 次，相当于一年少跳 880 万次  \n> 精英自行车手少跳 11,500 次，而我是 24,800 次\n\n这让我的心脏处于所有男性的前 1%\n\n其他说明：\n> 普通成年人夜间心率下降幅度平均为 15%\n> 夜间心率下降幅度低于 10%，预示着更高的死亡率"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2123315306387165432",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2123315306387165432",
+      "created_at": "2026-11-19T07:19:52.000Z",
+      "created_at_bj": "2026-11-19 15:19",
+      "views": 8379,
+      "rate_per_hour": 1946,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-19T17:36:46+08:00",
+        "views": 7307
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 4,
+        "impression_count": 8379,
+        "like_count": 64,
+        "quote_count": 0,
+        "reply_count": 21,
+        "retweet_count": 0
+      },
+      "already_pushed": true,
+      "text": "shutting down the little voice https://t.co/RZ4ndR4qD8",
+      "text_zh": "把心里那个小声关掉 https://t.co/RZ4ndR4qD8",
+      "quoted": [],
+      "hit": false
+    },
+    {
+      "id": "2123305754648322373",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2123305754648322373",
+      "created_at": "2026-11-19T06:41:55.000Z",
+      "created_at_bj": "2026-11-19 14:41",
+      "views": 7987,
+      "rate_per_hour": 855,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-19T17:36:46+08:00",
+        "views": 7516
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 1,
+        "impression_count": 7987,
+        "like_count": 43,
+        "quote_count": 2,
+        "reply_count": 37,
+        "retweet_count": 0
+      },
+      "already_pushed": true,
+      "text": "PM at X have cooked with this https://t.co/aiistaUZg3",
+      "text_zh": "X 的 PM 这次真的整了波好活 https://t.co/aiistaUZg3",
+      "quoted": [],
+      "hit": false
+    },
+    {
+      "id": "2123218699721011305",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2123218699721011305",
+      "created_at": "2026-11-19T00:56:00.000Z",
+      "created_at_bj": "2026-11-19 08:56",
+      "views": 24312,
+      "rate_per_hour": 750,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-19T17:36:46+08:00",
+        "views": 23899
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 388,
+        "impression_count": 24312,
+        "like_count": 226,
+        "quote_count": 0,
+        "reply_count": 31,
+        "retweet_count": 11
+      },
+      "already_pushed": true,
+      "text": "How to own a keyword on YouTube with Grok Bot:\n\n1. Set up a weekly routine where your Grok Bot finds a keyword in your space that’s rising month over month (Louise connects hers to vidIQ)\n\n2. Have it check whether anyone has made a good video on it yet\n\n3. If they haven’t, record the video this week\n\n4. Let Grok Bot write the title, description and chapters around that keyword, then publish",
+      "text_zh": "如何用 Grok Bot 在 YouTube 上占领一个关键词：\n\n1. 设置一个每周例行任务，让你的 Grok Bot 找出你所在领域里环比持续上升的关键词（Louise 会把它接到 vidIQ 上）\n\n2. 让它检查是否已有人就这个词做出过像样的视频\n\n3. 如果还没有，就在本周把视频录了\n\n4. 再让 Grok Bot 围绕这个关键词写标题、描述和章节，然后发布",
+      "quoted": [
+        {
+          "id": "2123179348467278293",
+          "user": "gregisenberg",
+          "text": "How to turn your Grok Bot into a top 1% AI agent content team (research, scripts, editing etc)\n\nYou give your Grok Bot the creators you love, hooks you’ve saved, fav newsletters, and it’ll find what’s working, write script, cut your edit and publish the video:\n\nhttps://t.co/QIPSAJukIV",
+          "text_zh": "如何把你的 Grok Bot 打造成顶尖 1% 的 AI agent 内容团队（调研、脚本、剪辑等）\n\n你把喜欢的创作者、存下来的 hooks、常看的 newsletter 交给 Grok Bot，它就会找出正在生效的内容，写脚本、剪片子，然后发布视频：\n\nhttps://t.co/QIPSAJukIV"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2123214879192502517",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2123214879192502517",
+      "created_at": "2026-11-19T00:40:49.000Z",
+      "created_at_bj": "2026-11-19 08:40",
+      "views": 38696,
+      "rate_per_hour": 1498,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-19T17:36:46+08:00",
+        "views": 37871
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 123,
+        "impression_count": 38696,
+        "like_count": 597,
+        "quote_count": 1,
+        "reply_count": 67,
+        "retweet_count": 23
+      },
+      "already_pushed": true,
+      "text": "I got to test Gemini 4 Neon early and it’s really good, really fast and about half the price of what I’m used to.\n\nThen I saw the benchmarks, and it made sense. It scored about the same as Opus 5.5 on coding for around half the cost per task!\n\nClaude is still often what I reach for on the hardest problems, and Opus still edges it on a couple of coding benchmarks.\n\nBut when you run agents literally all day, fast and half the cost is hard to ignore.\n\nThis is great news for anyone using agents, because competition like this pushes prices down for all of us.",
+      "text_zh": "我提前体验了 Gemini 4 Neon，真的很好，速度很快，价格大概是我习惯的一半。\n\n后来我看了评测，就理解了。它在编程上的得分和 Opus 5.5 差不多，但每项任务的成本大约只有一半！\n\n遇到最难的问题，我通常还是会用 Claude，而且在几个编程基准测试上 Opus 仍然略胜一筹。\n\n但如果你整天都在跑 agents，又快又只要一半成本，这就很难忽视了。\n\n这对所有使用 agents 的人来说都是好消息，因为这样的竞争会把大家的价格都压下来。",
+      "quoted": [
+        {
+          "id": "2123176686468690429",
+          "user": "Polymarket",
+          "text": "JUST IN: Google launches Gemini 4 Neon, debuting at No. 1 on the Artificial Analysis Coding Agent Index.",
+          "text_zh": "刚刚：Google 发布 Gemini 4 Neon，在 Artificial Analysis Coding Agent Index 上首发即登顶第一。"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2123179348467278293",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2123179348467278293",
+      "created_at": "2026-11-18T22:19:38.000Z",
+      "created_at_bj": "2026-11-19 06:19",
+      "views": 68407,
+      "rate_per_hour": 2411,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-19T17:36:46+08:00",
+        "views": 67079
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 1332,
+        "impression_count": 68407,
+        "like_count": 699,
+        "quote_count": 8,
+        "reply_count": 91,
+        "retweet_count": 52
+      },
+      "already_pushed": true,
+      "text": "How to turn your Grok Bot into a top 1% AI agent content team (research, scripts, editing etc)\n\nYou give your Grok Bot the creators you love, hooks you’ve saved, fav newsletters, and it’ll find what’s working, write script, cut your edit and publish the video:\n\nhttps://t.co/QIPSAJukIV",
+      "text_zh": "如何把你的 Grok Bot 打造成顶尖 1% 的 AI agent 内容团队（调研、脚本、剪辑等）\n\n你把喜欢的创作者、存下来的 hooks、常看的 newsletter 交给 Grok Bot，它就会找出正在生效的内容，写脚本、剪片子，然后发布视频：\n\nhttps://t.co/QIPSAJukIV",
+      "quoted": [],
+      "hit": false
+    }
+  ],
+  "new_hits": [],
+  "dropped_from_window": [],
+  "notes": "1804 判定轮（实际运行 18:09:49 北京时间）：按规则判定达标并推送新达标帖。间隔 0.5508 小时（上一轮 17:36:46 → 本轮 18:09:49 北京时间，33 分 3 秒）。@levelsio、@steipete、@karpathy 窗口内无原创或引用帖。本轮 get_users_posts 使用 exclude=replies,retweets 与 start_time=2026-11-18T22:00:00Z，再按 12 小时窗口本地过滤。窗口起点 2026-11-19 06:09:49 北京时间（2026-11-18T22:09:49Z）。本轮 run_at 取 get_posts_by_ids 补全完成后的归档时刻 18:09:49（例行触发 18:07:31）；浏览量与互动数据以较晚的 get_posts_by_ids 返回的 public_metrics 为准（该接口字段为 repost_count，归档仍写为 retweet_count）。@levelsio、@steipete、@karpathy 均为 result_count=0。@marclou 时间线还返回了回复帖 2123332596184535430（created_at 2026-11-19T08:28:35.000Z / 2026-11-19 16:28 北京时间，referenced_tweets type=replied_to，浏览 1821，点赞 10，转发 0，书签 2，引用 0，回复 3），虽已设 exclude=replies，仍被返回，已按规则剔除，不进入检查列表。@gregisenberg 时间线还返回了回复帖 2123190401867874561（created_at 2026-11-18T23:03:33.000Z / 2026-11-19 07:03 北京时间，referenced_tweets type=replied_to，浏览 4559，点赞 12，转发 1，书签 3，引用 0，回复 2），虽已设 exclude=replies，仍被返回，已按规则剔除，不进入检查列表。所有进入检查列表的帖子均有 impression_count。本轮先用公开 x.get_users_posts 拉时间线，再用 get_posts_by_ids 补齐长文 note_tweet 和引用全文。新进入窗口的检查帖：@egeberkina 2123357011261678018（发于 2026-11-19T10:05:36.000Z / 2026-11-19 18:05 北京时间，引用帖，引用 @egeberkina 的 2122795018670727512）。该新帖按首次见到规则判定。无帖子移出 12 小时窗口。检查帖数量 6 → 7 条（移出 0 条、新进入 1 条）。@marclou 2123332144500011037 时间线浏览量为 8563，get_posts_by_ids 复核为浏览 8648，以复核为准（点赞 50、转发 1、书签 20、引用 0、回复 27与时间线一致）。@marclou 2123315306387165432 时间线浏览量为 8365，get_posts_by_ids 复核为浏览 8379，以复核为准（点赞 64、转发 0、书签 4、引用 0、回复 21与时间线一致）。@marclou 2123305754648322373 时间线浏览量为 7974，get_posts_by_ids 复核为浏览 7987，以复核为准（点赞 43、转发 0、书签 1、引用 2、回复 37与时间线一致）。@gregisenberg 2123218699721011305 时间线浏览量为 24303，get_posts_by_ids 复核为浏览 24312，以复核为准（点赞 226、转发 11、书签 388、引用 0、回复 31与时间线一致）。@gregisenberg 2123214879192502517 时间线浏览量为 38634，get_posts_by_ids 复核为浏览 38696，以复核为准（点赞 597、转发 23、书签 123、引用 1、回复 67与时间线一致）。@gregisenberg 2123179348467278293 时间线浏览量为 68348、点赞 698，get_posts_by_ids 复核为浏览 68407、点赞 699，以复核为准（转发 52、书签 1332、引用 8、回复 91与时间线一致）。@egeberkina 2123357011261678018 时间线浏览量为 166，get_posts_by_ids 复核为浏览 199，以复核为准（点赞 1、转发 0、书签 0、引用 0、回复 0与时间线一致）。已在检查列表中的既有帖子正文与中文译文均沿用 1734 归档（本轮 get_posts_by_ids 的 note_tweet/正文核对一致）；被引用帖全文亦与 1734 一致，译文沿用 1734。2123357011261678018 首次见到，浏览 199，发帖至今 0.0703 小时（2026-11-19T10:05:36.000Z / 2026-11-19 18:05 北京时间），每小时 +2831 → 199 ÷ 0.0703 = 2831，未超过阈值。2123332144500011037 浏览 8648（上次 6197），每小时 +4450 → 2451 ÷ 0.5508 = 4450，未超过阈值，但已在 pushed 中，不重复推送。2123315306387165432 浏览 8379（上次 7307），每小时 +1946 → 1072 ÷ 0.5508 = 1946，未超过阈值，但已在 pushed 中，不重复推送。2123305754648322373 浏览 7987（上次 7516），每小时 +855 → 471 ÷ 0.5508 = 855，未超过阈值，但已在 pushed 中，不重复推送。2123218699721011305 浏览 24312（上次 23899），每小时 +750 → 413 ÷ 0.5508 = 750，未超过阈值，但已在 pushed 中，不重复推送。2123214879192502517 浏览 38696（上次 37871），每小时 +1498 → 825 ÷ 0.5508 = 1498，未超过阈值，但已在 pushed 中，不重复推送。2123179348467278293 浏览 68407（上次 67079），每小时 +2411 → 1328 ÷ 0.5508 = 2411，未超过阈值，但已在 pushed 中，不重复推送。本轮新达标 0 条，pushed 仍为 160 条。"
+}
