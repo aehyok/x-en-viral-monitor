@@ -1,0 +1,349 @@
+{
+  "run_at": "2026-11-19T11:40:36+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "1134",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2123218699721011305",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2123218699721011305",
+      "created_at": "2026-11-19T00:56:00.000Z",
+      "created_at_bj": "2026-11-19 08:56",
+      "views": 15444,
+      "rate_per_hour": 3014,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-19T11:09:30+08:00",
+        "views": 13882
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 247,
+        "impression_count": 15444,
+        "like_count": 124,
+        "quote_count": 0,
+        "reply_count": 20,
+        "retweet_count": 7
+      },
+      "already_pushed": true,
+      "text": "How to own a keyword on YouTube with Grok Bot:\n\n1. Set up a weekly routine where your Grok Bot finds a keyword in your space that’s rising month over month (Louise connects hers to vidIQ)\n\n2. Have it check whether anyone has made a good video on it yet\n\n3. If they haven’t, record the video this week\n\n4. Let Grok Bot write the title, description and chapters around that keyword, then publish",
+      "text_zh": "如何用 Grok Bot 在 YouTube 上占领一个关键词：\n\n1. 设置一个每周例行任务，让你的 Grok Bot 找出你所在领域里环比持续上升的关键词（Louise 会把它接到 vidIQ 上）\n\n2. 让它检查是否已有人就这个词做出过像样的视频\n\n3. 如果还没有，就在本周把视频录了\n\n4. 再让 Grok Bot 围绕这个关键词写标题、描述和章节，然后发布",
+      "quoted": [
+        {
+          "id": "2123179348467278293",
+          "user": "gregisenberg",
+          "text": "How to turn your Grok Bot into a top 1% AI agent content team (research, scripts, editing etc)\n\nYou give your Grok Bot the creators you love, hooks you’ve saved, fav newsletters, and it’ll find what’s working, write script, cut your edit and publish the video:\n\nhttps://t.co/QIPSAJukIV",
+          "text_zh": "如何把你的 Grok Bot 打造成顶尖 1% 的 AI agent 内容团队（调研、脚本、剪辑等）\n\n你把喜欢的创作者、存下来的 hooks、常看的 newsletter 交给 Grok Bot，它就会找出正在生效的内容，写脚本、剪片子，然后发布视频：\n\nhttps://t.co/QIPSAJukIV"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2123214879192502517",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2123214879192502517",
+      "created_at": "2026-11-19T00:40:49.000Z",
+      "created_at_bj": "2026-11-19 08:40",
+      "views": 22395,
+      "rate_per_hour": 4461,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-19T11:09:30+08:00",
+        "views": 20083
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 73,
+        "impression_count": 22395,
+        "like_count": 342,
+        "quote_count": 0,
+        "reply_count": 46,
+        "retweet_count": 12
+      },
+      "already_pushed": true,
+      "text": "I got to test Gemini 4 Neon early and it’s really good, really fast and about half the price of what I’m used to.\n\nThen I saw the benchmarks, and it made sense. It scored about the same as Opus 5.5 on coding for around half the cost per task!\n\nClaude is still often what I reach for on the hardest problems, and Opus still edges it on a couple of coding benchmarks.\n\nBut when you run agents literally all day, fast and half the cost is hard to ignore.\n\nThis is great news for anyone using agents, because competition like this pushes prices down for all of us.",
+      "text_zh": "我提前体验了 Gemini 4 Neon，真的很好，速度很快，价格大概是我习惯的一半。\n\n后来我看了评测，就理解了。它在编程上的得分和 Opus 5.5 差不多，但每项任务的成本大约只有一半！\n\n遇到最难的问题，我通常还是会用 Claude，而且在几个编程基准测试上 Opus 仍然略胜一筹。\n\n但如果你整天都在跑 agents，又快又只要一半成本，这就很难忽视了。\n\n这对所有使用 agents 的人来说都是好消息，因为这样的竞争会把大家的价格都压下来。",
+      "quoted": [
+        {
+          "id": "2123176686468690429",
+          "user": "Polymarket",
+          "text": "JUST IN: Google launches Gemini 4 Neon, debuting at No. 1 on the Artificial Analysis Coding Agent Index.",
+          "text_zh": "刚刚：Google 发布 Gemini 4 Neon，在 Artificial Analysis Coding Agent Index 上首发即登顶第一。"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2123179348467278293",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2123179348467278293",
+      "created_at": "2026-11-18T22:19:38.000Z",
+      "created_at_bj": "2026-11-19 06:19",
+      "views": 45795,
+      "rate_per_hour": 5885,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-19T11:09:30+08:00",
+        "views": 42745
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 938,
+        "impression_count": 45795,
+        "like_count": 477,
+        "quote_count": 3,
+        "reply_count": 72,
+        "retweet_count": 32
+      },
+      "already_pushed": true,
+      "text": "How to turn your Grok Bot into a top 1% AI agent content team (research, scripts, editing etc)\n\nYou give your Grok Bot the creators you love, hooks you’ve saved, fav newsletters, and it’ll find what’s working, write script, cut your edit and publish the video:\n\nhttps://t.co/QIPSAJukIV",
+      "text_zh": "如何把你的 Grok Bot 打造成顶尖 1% 的 AI agent 内容团队（调研、脚本、剪辑等）\n\n你把喜欢的创作者、存下来的 hooks、常看的 newsletter 交给 Grok Bot，它就会找出正在生效的内容，写脚本、剪片子，然后发布视频：\n\nhttps://t.co/QIPSAJukIV",
+      "quoted": [],
+      "hit": true
+    },
+    {
+      "id": "2123162166102560996",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2123162166102560996",
+      "created_at": "2026-11-18T21:11:21.000Z",
+      "created_at_bj": "2026-11-19 05:11",
+      "views": 1500,
+      "rate_per_hour": 100,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-19T11:09:30+08:00",
+        "views": 1448
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 6,
+        "impression_count": 1500,
+        "like_count": 21,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "already_pushed": false,
+      "text": "Look who's back https://t.co/dMc2KEMqTo https://t.co/Y3H7Q2LOOH",
+      "text_zh": "Look who's back（看看谁回来了） https://t.co/dMc2KEMqTo https://t.co/Y3H7Q2LOOH",
+      "quoted": [
+        {
+          "id": "2123082416763855316",
+          "user": "egeberkina",
+          "text": "Vice City, baby! https://t.co/llCIiqUgSY",
+          "text_zh": "Vice City, baby! https://t.co/llCIiqUgSY"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2123119704193802643",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2123119704193802643",
+      "created_at": "2026-11-18T18:22:37.000Z",
+      "created_at_bj": "2026-11-19 02:22",
+      "views": 36922,
+      "rate_per_hour": 886,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-19T11:09:30+08:00",
+        "views": 36463
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 66,
+        "impression_count": 36922,
+        "like_count": 316,
+        "quote_count": 4,
+        "reply_count": 35,
+        "retweet_count": 4
+      },
+      "already_pushed": false,
+      "text": "💯\n\nIn so many of my purchasing decisions these days I get frustrated that there is nothing that I want and I am getting scalped by crazy high prices for the most ordinary basic stuff\n\nThe basic end conclusion then is: I have to rip out the middle men\n\nIn case of furniture, the answer is design it myself and go to a carpenter to build it\n\nThere's going to be a big revival of artisanal jobs I think",
+      "text_zh": "💯\n\n近来我很多购买决定都会让我很沮丧：我想要的东西根本没有，而且最普通的基本款都被漫天要价宰得很惨。\n\n于是最基本的结论就是：我必须把中间商剔除出去。\n\n就家具而言，答案是自己设计，然后找木匠来做。\n\n我觉得手工艺人的工作会迎来一次大复兴。",
+      "quoted": [
+        {
+          "id": "2123117813921669207",
+          "user": "StewartalsopIII",
+          "text": "this leads to higher quality over time\n\ninformation arbitrage from people who dont want to put in the work of creativity (opposite of hustle cult) is going away https://t.co/y6ztQaDe3l",
+          "text_zh": "这会随时间带来更高的品质\n\n不愿投入创造性劳动的人（与 hustle cult 相反）所依赖的信息套利正在消失 https://t.co/y6ztQaDe3l"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2123119037131674056",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2123119037131674056",
+      "created_at": "2026-11-18T18:19:58.000Z",
+      "created_at_bj": "2026-11-19 02:19",
+      "views": 93827,
+      "rate_per_hour": 2512,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-19T11:09:30+08:00",
+        "views": 92525
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 455,
+        "impression_count": 93827,
+        "like_count": 704,
+        "quote_count": 10,
+        "reply_count": 36,
+        "retweet_count": 21
+      },
+      "already_pushed": true,
+      "text": "Scary NGINX vulnerability, but I checked and my VPS servers already had auto upgraded to the new one!\n\nVery very very very very important to enable auto upgrades now, I even have auto reboot, which is a bit risky if you're not present, but I care more about my sites being up to date and safe than offline for a few hours\n\nAnd generally security updates/upgrades are tested and safe",
+      "text_zh": "NGINX 出了个吓人的漏洞，但我检查过了，我的 VPS 已经自动升级到新版本了！\n\n现在开启自动升级真的非常非常非常非常非常重要。我甚至开了自动重启——如果你人不在场，这会有点冒险，但比起离线几个小时，我更在意站点保持最新、安全。\n\n而且一般来说，安全更新/升级都是经过测试的，是安全的。",
+      "quoted": [
+        {
+          "id": "2123072693042082117",
+          "user": "wiz_io",
+          "text": "🚨 Critical NGINX Vulnerabilities: @wiz_io Research, alongside @xint_official , @MetnirAI , @rapid7 , @ikotas00 independently discovered 2 critical memory-safety flaws in NGINX (CVE-2026-123633 & CVE-2026-123007) allowing unauthenticated RCE with HTTP/2 enabled. https://t.co/9uSNydq71Y",
+          "text_zh": "🚨 严重的 NGINX 漏洞：@wiz_io 研究团队与 @xint_official、@MetnirAI、@rapid7、@ikotas00 独立发现了 NGINX 中两个严重的内存安全漏洞（CVE-2026-123633 和 CVE-2026-123007），在启用 HTTP/2 时可导致未认证远程代码执行（RCE）。https://t.co/9uSNydq71Y"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2123115885879513098",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2123115885879513098",
+      "created_at": "2026-11-18T18:07:27.000Z",
+      "created_at_bj": "2026-11-19 02:07",
+      "views": 24075,
+      "rate_per_hour": 453,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-19T11:09:30+08:00",
+        "views": 23840
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 54,
+        "impression_count": 24075,
+        "like_count": 82,
+        "quote_count": 1,
+        "reply_count": 5,
+        "retweet_count": 2
+      },
+      "already_pushed": false,
+      "text": "My friend @bai0 made something very cool\n\nLocal area networking (LAN) inside a webpage (or tweet!), meaning you can play any game or app that works over a local network on the web\n\nYou can try it in the tweet below, just click the box, you'll end up in a lobby chat and can then play GTA!",
+      "text_zh": "我朋友 @bai0 做了个非常酷的东西。\n\n在网页（或推文！）里实现局域网（LAN），意味着你可以在网页上玩任何能通过本地网络工作的游戏或应用。\n\n你可以在下面这条推文里试试，点一下那个框，就会进入大厅聊天，然后就能玩 GTA 了！",
+      "quoted": [
+        {
+          "id": "2123111430589440400",
+          "user": "bai0",
+          "text": "Still waiting on GTA 6 to drop? Same.\n\nWaiting's more fun with friends - come play the original Grand Theft Auto, multiplayer with up to 4 players, right here in this tweet. Just hit play!\n\nhttps://t.co/c45Ad4zgVX",
+          "text_zh": "还在等 GTA 6 上线？我也是。\n\n和朋友一起等更有意思——来这条推文里直接玩原版 Grand Theft Auto 吧，最多 4 人多人游戏。点 play 就行！\n\nhttps://t.co/c45Ad4zgVX"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2123103440616173949",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2123103440616173949",
+      "created_at": "2026-11-18T17:18:00.000Z",
+      "created_at_bj": "2026-11-19 01:18",
+      "views": 35162,
+      "rate_per_hour": 1354,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-19T11:09:30+08:00",
+        "views": 34460
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 109,
+        "impression_count": 35162,
+        "like_count": 193,
+        "quote_count": 1,
+        "reply_count": 40,
+        "retweet_count": 1
+      },
+      "already_pushed": false,
+      "text": "Really cool to follow this guy who’s building a gTLD business. \n\nIt’s very hard to pull off the ground because you need adoption, but they have a very high margin (90%).\n\n.ai is doing $80M/year.\n\nNot everyone can spend a few hundred thousand dollars to register a gTLD, so it’s good to see him building in public.\n\nGo Maxime!",
+      "text_zh": "跟着这个正在做 gTLD 生意的人一起看，真的很酷。\n\n这件事很难起步，因为你需要有人采用，但他们的利润率非常高（90%）。\n\n.ai 一年能做到 $80M。\n\n不是每个人都能拿出几十万美元去注册一个 gTLD，所以看到他在公开构建（building in public），感觉很好。\n\n加油 Maxime！",
+      "quoted": [
+        {
+          "id": "2123046822948331742",
+          "user": "Buildingitmyway",
+          "text": "embarked on the most exciting project of my life\n\nit's not an agency\nnot a SaaS\nnot an app\n\nit's .... 🥁\n\na whole domain extension\n\nexactly like a .com or a .ai\n\nfar from the spotlight, yet a lifetime asset with strong economics\n\nI raised $400k to apply to become the operator of \".labs\"\n\nand offer anyone a chance to own a [name].labs\n\nthe vision: the extension for builders and innovators\n\nbut wait... why the hell am I doing this? and how can we own an extension?\n\nstorytime:\n\nalmost 2 years ago, I launched yet another app\n\nwent on to buy a domain and the registrar says \"invalid TLD\"\n\nthe extension I typed simply didn't exist\n\nI was specifically looking for a .labs, it sounded so nice and meant so much\n\nbut not a single one exists\n\nbeing curious I looked up how domain extensions work and how new ones get created\n\nturns out you can apply for one, but only when ICANN opens a round\n\nthe last round was in 2012, and the next one... 2026\n\n14 years later\n\nit stuck with me, it felt like the opportunity of a lifetime\n\nthere will only ever be one .labs\n\na name that promises progress\n\nas a builder who believes in innovation\n\nI knew I had found my project\n\nthe kind I could spend the next 20 years on\n\nthe application isn't cheap though: $227k just to get in\n\nso I worked in stealth for almost 2 years and raised from top-class angels\n\ntook the leap, created a company, and sent the application\n\nICANN still has to review everything and big players want it too\n\nbut I’m going all in\n\non to building the largest community of innovators\n\nif you want to be part of it in your own way\n\nor want to waitlist your .labs name\n\njump in (link below)",
+          "text_zh": "我踏上了人生中最激动人心的项目\n\n它不是一家 agency\n不是一个 SaaS\n也不是一个 app\n\n它是……🥁\n\n一整套域名后缀\n\n就像 .com 或 .ai 那样\n\n远离聚光灯，却是一份有着强劲经济模型的终身资产\n\n我募集了 $400k，申请成为 \".labs\" 的运营商\n\n并让任何人都有机会拥有一个 [name].labs\n\n愿景是：面向构建者和创新者的后缀\n\n但等一下……我到底为什么要做这个？我们又怎么能“拥有”一个后缀？\n\n故事时间：\n\n大约两年前，我又上线了一个 app\n\n接着去买域名，注册商却提示 \"invalid TLD\"\n\n我输入的那个后缀根本不存在\n\n我当时特地在找 .labs，这个名字听起来很美，也意义重大\n\n但这样一个后缀一个都没有\n\n出于好奇，我去查了域名后缀是怎么运作的、新后缀又是怎么产生的\n\n原来你可以申请一个，但只有在 ICANN 开放申请轮次的时候才行\n\n上一轮是 2012 年，而下一轮是……2026\n\n时隔 14 年\n\n这件事一直留在我心里，感觉像是一生一次的机会\n\n世界上只会有一个 .labs\n\n一个承诺着进步的名字\n\n作为一个相信创新的 builder\n\n我知道自己找到了那个项目\n\n那种我可以投入接下来 20 年的项目\n\n不过申请并不便宜：光是入场就要 $227k\n\n于是我几乎隐身工作了两年，并向顶级天使融了资\n\n然后迈出这一步，成立了公司，提交了申请\n\nICANN 还要审核一切，而且大玩家也想要它\n\n但我决定 all in\n\n接下来，去打造最大的创新者社区\n\n如果你想以自己的方式参与其中\n\n或想把你的 .labs 名字加入 waitlist\n\n那就加入进来吧（链接在下方）"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2123082416763855316",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2123082416763855316",
+      "created_at": "2026-11-18T15:54:27.000Z",
+      "created_at_bj": "2026-11-18 23:54",
+      "views": 5198,
+      "rate_per_hour": 380,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-19T11:09:30+08:00",
+        "views": 5001
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 40,
+        "impression_count": 5198,
+        "like_count": 118,
+        "quote_count": 0,
+        "reply_count": 6,
+        "retweet_count": 5
+      },
+      "already_pushed": false,
+      "text": "Vice City, baby! https://t.co/llCIiqUgSY",
+      "text_zh": "Vice City, baby! https://t.co/llCIiqUgSY",
+      "quoted": [],
+      "hit": false
+    },
+    {
+      "id": "2123080307502964916",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2123080307502964916",
+      "created_at": "2026-11-18T15:46:04.000Z",
+      "created_at_bj": "2026-11-18 23:46",
+      "views": 87939,
+      "rate_per_hour": 1206,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-19T11:09:30+08:00",
+        "views": 87314
+      },
+      "edit_of": null,
+      "metrics": {
+        "bookmark_count": 95,
+        "impression_count": 87939,
+        "like_count": 300,
+        "quote_count": 15,
+        "reply_count": 98,
+        "retweet_count": 3
+      },
+      "already_pushed": false,
+      "text": "Anyone know a good wooden table producer in South Brazil? Parana? Curitiba?\n\nI'm getting gaslit by all these furniture companies again, all they wanna sell me is some super thin wooden tables for $13K BRL ($2K USD), shit makes zero sense\n\nCan't they just chop a tree down and cut it in the size of a thick plank and sell it to me? Why this shit so hard?\n\nPics 1-4: tables I want\n\nPics after that: whatever they're selling which is not what I want, something about those thin tables gives me the absolute creeps",
+      "text_zh": "有没有人知道巴西南部有靠谱的木桌厂家？Parana？Curitiba？\n\n我又被这些家具公司 PUA 了，他们只想卖给我超薄的木桌，要价 $13K BRL（$2K USD），简直毫无道理。\n\n他们就不能砍棵树，锯成一块厚木板卖给我吗？这事为什么这么难？\n\n图 1-4：我想要的桌子\n\n后面的图：他们在卖的东西，根本不是我想要的。那种薄桌子总让我浑身发毛。",
+      "quoted": [],
+      "hit": false
+    }
+  ],
+  "new_hits": [],
+  "dropped_from_window": [],
+  "notes": "1134 判定轮（实际运行 11:40:36 北京时间）：按规则判定达标；本轮无新达标帖，不向用户推送。间隔 0.5183 小时（上一轮 11:09:30 → 本轮 11:40:36 北京时间，31 分 6 秒）。@steipete、@karpathy 窗口内无原创或引用帖。本轮 get_users_posts 使用 exclude=replies,retweets 与 start_time=2026-11-18T15:30:00Z，再按 12 小时窗口本地过滤。窗口起点 2026-11-18 23:40:36 北京时间（2026-11-18T15:40:36Z）。本轮 run_at 取 get_posts_by_ids 补全完成后的归档时刻 11:40:36（例行触发 11:35:13）；浏览量与互动数据以较晚的 get_posts_by_ids 返回的 public_metrics 为准（该接口字段为 repost_count，归档仍写为 retweet_count）。@steipete、@karpathy 均为 result_count=0。@gregisenberg 时间线还返回了回复帖 2123190401867874561（created_at 2026-11-18T23:03:33.000Z / 2026-11-19 07:03 北京时间，referenced_tweets type=replied_to，浏览 3526，点赞 6，转发 0，书签 1，引用 0，回复 1），虽已设 exclude=replies，仍被返回，已按规则剔除，不进入检查列表。所有检查帖均有 impression_count。本轮先用公开 x.get_users_posts 拉时间线，再用 get_posts_by_ids 补齐长文 note_tweet 和引用全文。没有帖子离开 12 小时窗口，也没有新进入窗口的检查帖。检查帖数量 10 → 10 条（移出 0 条、新进入 0 条）。@gregisenberg 2123218699721011305 时间线浏览量为 15409、书签 246，get_posts_by_ids 复核为浏览 15444、书签 247，以复核为准（点赞 124、转发 7、引用 0、回复 20与时间线一致）。@gregisenberg 2123214879192502517 时间线浏览量为 22376、点赞 341，get_posts_by_ids 复核为浏览 22395、点赞 342，以复核为准（转发 12、书签 73、引用 0、回复 46与时间线一致）。@gregisenberg 2123179348467278293 时间线浏览量为 45674、点赞 476、书签 936、回复 71，get_posts_by_ids 复核为浏览 45795、点赞 477、书签 938、回复 72，以复核为准（转发 32、引用 3与时间线一致）。@egeberkina 2123162166102560996 时间线浏览量为 1498，get_posts_by_ids 复核为浏览 1500，以复核为准（点赞 21、转发 1、书签 6、引用 0、回复 0与时间线一致）。@levelsio 2123119704193802643 时间线浏览量为 36909，get_posts_by_ids 复核为浏览 36922，以复核为准（点赞 316、转发 4、书签 66、引用 4、回复 35与时间线一致）。@levelsio 2123119037131674056 时间线浏览量为 93776，get_posts_by_ids 复核为浏览 93827，以复核为准（点赞 704、转发 21、书签 455、引用 10、回复 36与时间线一致）。@levelsio 2123115885879513098 时间线浏览量为 24069，get_posts_by_ids 复核为浏览 24075，以复核为准（点赞 82、转发 2、书签 54、引用 1、回复 5与时间线一致）。@marclou 2123103440616173949 时间线浏览量为 35142、点赞 192，get_posts_by_ids 复核为浏览 35162、点赞 193，以复核为准（转发 1、书签 109、引用 1、回复 40与时间线一致）。@egeberkina 2123082416763855316 时间线浏览量为 5194，get_posts_by_ids 复核为浏览 5198，以复核为准（点赞 118、转发 5、书签 40、引用 0、回复 6与时间线一致）。@levelsio 2123080307502964916 时间线浏览量为 87930，get_posts_by_ids 复核为浏览 87939，以复核为准（点赞 300、转发 3、书签 95、引用 15、回复 98与时间线一致）。@gregisenberg 2123218699721011305 浏览 15444（上次 13882），每小时 +3014 → 1562 ÷ 0.5183 = 3014，未超过阈值；已在 pushed，不重复推送。@gregisenberg 2123214879192502517 浏览 22395（上次 20083），每小时 +4461 → 2312 ÷ 0.5183 = 4461，未超过阈值；已在 pushed，不重复推送。@gregisenberg 2123179348467278293 浏览 45795（上次 42745），每小时 +5885 → 3050 ÷ 0.5183 = 5885，超过阈值；已在 pushed，不重复推送。@egeberkina 2123162166102560996 浏览 1500（上次 1448），每小时 +100 → 52 ÷ 0.5183 = 100，未超过阈值。@levelsio 2123119704193802643 浏览 36922（上次 36463），每小时 +886 → 459 ÷ 0.5183 = 886，未超过阈值。@levelsio 2123119037131674056 浏览 93827（上次 92525），每小时 +2512 → 1302 ÷ 0.5183 = 2512，未超过阈值；已在 pushed，不重复推送。@levelsio 2123115885879513098 浏览 24075（上次 23840），每小时 +453 → 235 ÷ 0.5183 = 453，未超过阈值。@marclou 2123103440616173949 浏览 35162（上次 34460），每小时 +1354 → 702 ÷ 0.5183 = 1354，未超过阈值。@egeberkina 2123082416763855316 浏览 5198（上次 5001），每小时 +380 → 197 ÷ 0.5183 = 380，未超过阈值。@levelsio 2123080307502964916 浏览 87939（上次 87314），每小时 +1206 → 625 ÷ 0.5183 = 1206，未超过阈值。本轮新达标 0 条，pushed 157 → 157 条。"
+}
