@@ -1,0 +1,108 @@
+{
+  "run_at": "2026-11-20T22:14:24+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "2204",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2123758657540370633",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2123758657540370633",
+      "created_at": "2026-11-20T12:41:36.000Z",
+      "created_at_bj": "2026-11-20 20:41",
+      "views": 35416,
+      "rate_per_hour": 20461,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-20T21:40:06+08:00",
+        "views": 23719
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 35416,
+        "like_count": 413,
+        "reply_count": 176,
+        "quote_count": 54,
+        "retweet_count": 14,
+        "bookmark_count": 70
+      },
+      "already_pushed": true,
+      "text": "Two big updates to the $100K Hackathon 🏴‍☠️\n\n1/ We have disqualified the #1 product.\n\nAfter reviewing the entry, we found that work started before November 16 and that it was a reworked version of an existing product.\n\nBoth break the requirement to build a completely new business from zero after the hackathon starts.\n\nThis decision applies to the product. Jacky can still participate with a new business that meets the rules. The disqualified product’s revenue won’t carry over.\n\nHere's the updated leaderboard: https://t.co/lZUe71oAFc\n\n2/ We’re changing how the $100,000 is distributed.\n\nI’ve been reading your feedback. Having one person win all the cash made the prize feel out of reach for many of you.\n\nMy goal with this hackathon is to get people to finally ship the business they’ve been thinking about. If more chances to win help more people keep going, that makes sense to me.\n\nSo we’re replacing the single $100K cash prize with:\n\n🥇 1st: $30,000\n🥈 2nd: $20,000\n🥉 3rd: $10,000\n4th: $8,000\n5th: $7,000\n6th: $5,000\n7th: $5,000\n8th: $5,000\n9th: $5,000\n10th: $5,000\n\nPlus the iPhone Duo and MacBook Neo. 12 winners in total!\n\nThe cash pool stays at $100,000. Winners are still ranked by verified profit.\n\nBuilding apps changed my life. I’m doing this with @jackfriks because I want more people to experience that too.\n\nThank you for helping us make this hackathon better 🫡",
+      "text_zh": "$100K Hackathon 的两项重大更新 🏴‍☠️\n\n1/ 我们取消了排名第一的产品的参赛资格。\n\n在审核该作品后，我们发现它的开发工作在 11 月 16 日之前就已经开始，而且是对一款已有产品的改版。\n\n这两点都违反了「黑客松开始后必须从零打造一个全新业务」的要求。\n\n这项决定针对的是这款产品。Jacky 仍然可以用一个符合规则的新业务继续参赛。被取消资格的产品所产生的收入不会结转。\n\n更新后的排行榜在这里：https://t.co/lZUe71oAFc\n\n2/ 我们要调整这 $100,000 的分配方式。\n\n我一直在看大家的反馈。一个人独得全部现金，让很多人觉得这个奖可望而不可即。\n\n我办这场黑客松的目标，是让大家终于把一直想做的业务做出来、上线。如果增加获奖机会能让更多人坚持下去，我觉得这很合理。\n\n所以我们把单一的 $100K 现金大奖改成：\n\n🥇 第 1 名：$30,000\n🥈 第 2 名：$20,000\n🥉 第 3 名：$10,000\n第 4 名：$8,000\n第 5 名：$7,000\n第 6 名：$5,000\n第 7 名：$5,000\n第 8 名：$5,000\n第 9 名：$5,000\n第 10 名：$5,000\n\n再加上 iPhone Duo 和 MacBook Neo。一共 12 位获奖者！\n\n奖金总池仍是 $100,000。获奖者仍然按已验证利润排名。\n\n做应用改变了我的人生。我和 @jackfriks 一起做这件事，是希望更多人也能有这样的体验。\n\n感谢大家帮我们把这场黑客松变得更好 🫡",
+      "quoted": [],
+      "hit": false
+    },
+    {
+      "id": "2123779773084340528",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2123779773084340528",
+      "created_at": "2026-11-20T14:05:30.000Z",
+      "created_at_bj": "2026-11-20 22:05",
+      "views": 3985,
+      "rate_per_hour": 26865,
+      "basis": "first_sight",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 3985,
+        "like_count": 22,
+        "reply_count": 22,
+        "quote_count": 0,
+        "retweet_count": 0,
+        "bookmark_count": 10
+      },
+      "already_pushed": false,
+      "text": "the most in demand skill set right now is cracked marketing engineer and cracked cybersecurity engineer https://t.co/b3UbI60fem",
+      "text_zh": "现在最紧缺的技能组合，是特别厉害的营销工程师（cracked marketing engineer）和特别厉害的网络安全工程师（cracked cybersecurity engineer） https://t.co/b3UbI60fem",
+      "quoted": [],
+      "hit": true
+    },
+    {
+      "id": "2123781613347897431",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2123781613347897431",
+      "created_at": "2026-11-20T14:12:49.000Z",
+      "created_at_bj": "2026-11-20 22:12",
+      "views": 174,
+      "rate_per_hour": 6594,
+      "basis": "first_sight",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 174,
+        "like_count": 0,
+        "reply_count": 1,
+        "quote_count": 0,
+        "retweet_count": 0,
+        "bookmark_count": 0
+      },
+      "already_pushed": false,
+      "text": "My take on China https://t.co/Q38NzDcGbc https://t.co/NAe4CkevsV",
+      "text_zh": "我眼中的中国 https://t.co/Q38NzDcGbc https://t.co/NAe4CkevsV",
+      "quoted": [
+        {
+          "id": "2123357011261678018",
+          "user": "egeberkina",
+          "text": "A very English morning https://t.co/u5v3f49ixZ https://t.co/3rKJZpP8wP",
+          "text_zh": "非常英式的早晨 https://t.co/u5v3f49ixZ https://t.co/3rKJZpP8wP"
+        }
+      ],
+      "hit": true
+    }
+  ],
+  "new_hits": [
+    "2123779773084340528",
+    "2123781613347897431"
+  ],
+  "dropped_from_window": [],
+  "notes": "2204 判定轮（实际运行 22:14:24 北京时间）：按规则判定达标并推送新达标帖。间隔 0.5717 小时（上一轮 21:40:06 → 本轮 22:14:24 北京时间，34 分 18 秒）。例行触发 22:07:25 北京时间（2026-11-20T14:07:25.775Z）。@levelsio、@steipete、@karpathy 窗口内无原创或引用帖。本轮 get_users_posts 使用 exclude=replies,retweets 与 start_time=2026-11-20T02:13:51.359Z，再按 12 小时窗口本地过滤。窗口起点 2026-11-20 10:14:24 北京时间（2026-11-20T02:14:24Z）。本轮 run_at 取 get_posts_by_ids 补全完成后的归档时刻 22:14:24（例行触发 22:07:25；时间线接口在此之前已返回）；浏览量与互动数据以较晚的 get_posts_by_ids 返回的 public_metrics 为准（该接口字段为 repost_count，归档仍写为 retweet_count）。@levelsio、@steipete、@karpathy 带 start_time 的时间线均为 result_count=0。@marclou 时间线还返回了 2123769487228817804（created_at 2026-11-20T13:24:38.000Z，referenced type=replied_to，是对 2123758657540370633 的回复），已按规则从检查列表中排除。所有进入检查列表的帖子均有 impression_count。本轮先用公开 x.get_users_posts 拉时间线，再用 get_posts_by_ids 补齐长文 note_tweet 和复核浏览量。移出 12 小时窗口：0 条。检查帖数量 1 → 3 条（移出 0 条、新进入 2 条）。已在检查列表中的既有帖子正文与中文译文均沿用 2104 归档，并与本轮返回的长文全文核对一致。@marclou 2123758657540370633 时间线浏览量为 35273，get_posts_by_ids 复核为浏览 35416，以复核为准（点赞 413、书签 70、转发 14、引用 54、回复 176；时间线为点赞 413、书签 69、转发 14、引用 54、回复 176）。该帖本轮每小时 20461，超过阈值，但已在 pushed 中，不重复推送。本轮新进入 2 条：@gregisenberg 2123779773084340528（created_at 2026-11-20T14:05:30.000Z / 2026-11-20 22:05:30 北京时间，原创配图，无引用），正文中文译文为本轮新译。时间线浏览量为 3893，get_posts_by_ids 复核为浏览 3985，以复核为准（点赞 22、书签 10、转发 0、引用 0、回复 22；时间线为点赞 20、书签 9、转发 0、引用 0、回复 21）。basis=first_sight，每小时 26865，超过阈值，已加入 pushed。@egeberkina 2123781613347897431（created_at 2026-11-20T14:12:49.000Z / 2026-11-20 22:12:49 北京时间，引用帖，配图），正文中文译文为本轮新译。时间线浏览量为 149，get_posts_by_ids 复核为浏览 174，以复核为准（点赞 0、书签 0、转发 0、引用 0、回复 1；时间线互动相同、浏览 149）。basis=first_sight，每小时 6594，超过阈值，已加入 pushed。引用 @egeberkina 自己的 2123357011261678018「A very English morning」。本轮新达标 2 条：@gregisenberg 2123779773084340528、@egeberkina 2123781613347897431。"
+}
