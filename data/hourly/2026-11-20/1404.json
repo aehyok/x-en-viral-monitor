@@ -1,0 +1,216 @@
+{
+  "run_at": "2026-11-20T14:16:34+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "1404",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2123577230399807978",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2123577230399807978",
+      "created_at": "2026-11-20T00:40:40.000Z",
+      "created_at_bj": "2026-11-20 08:40",
+      "views": 45687,
+      "rate_per_hour": 5184,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-20T13:37:20+08:00",
+        "views": 42297
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 45687,
+        "like_count": 91,
+        "reply_count": 15,
+        "quote_count": 1,
+        "retweet_count": 0,
+        "bookmark_count": 35
+      },
+      "already_pushed": true,
+      "text": "I wonder if they have a CPF https://t.co/7Eb17FcjMk",
+      "text_zh": "不知道他们有没有 CPF https://t.co/7Eb17FcjMk",
+      "quoted": [
+        {
+          "id": "2123424358794224073",
+          "user": "JanayBand",
+          "text": "Li um comentário interessante sobre esse vídeo, ocorrido no interior do Maranhão \n\nSe esses índios que vivem isolados estão se sujeitando a ter contato e receber comida e mantimentos de outra tribo é pq o ecossistema deles deve estar muito desequilibrado, não estão achando comida na natureza 🥺 https://t.co/0VynAFRuD7",
+          "text_zh": "我读到一条关于这段视频的有趣评论，事情发生在马拉尼昂（Maranhão）内陆。\n\n如果这些与世隔绝的原住民现在愿意接触另一个部落、并接受对方的食物和物资，那是因为他们的生态系统一定已经严重失衡，在自然界里找不到吃的了 🥺 https://t.co/0VynAFRuD7"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2123571040806977993",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2123571040806977993",
+      "created_at": "2026-11-20T00:16:04.000Z",
+      "created_at_bj": "2026-11-20 08:16",
+      "views": 15306,
+      "rate_per_hour": 1308,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-20T13:37:20+08:00",
+        "views": 14451
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 15306,
+        "like_count": 78,
+        "reply_count": 26,
+        "quote_count": 3,
+        "retweet_count": 0,
+        "bookmark_count": 8
+      },
+      "already_pushed": true,
+      "text": "Yes! Esp if blocked from a big account the X algo weighs it heavily and it kills their reach\n\nSo using your AI reply bot on my tweets might be the dumbest thing you can do\n\nOnce I nuke you, the algo nukes you, and then I share your account with everyone who then auto blocks you too, meaning the algo nukes you into perma-oblivion even further",
+      "text_zh": "没错！尤其是如果被大账号拉黑，X 的算法会非常看重这一点，直接毁掉他们的曝光\n\n所以用你的 AI 回复机器人来回我的帖子，可能是你能做的最蠢的事\n\n一旦我把你 nuke 掉，算法也会把你 nuke 掉，然后我再把你的账号分享给所有人，他们也会自动拉黑你，这意味着算法会把你更进一步 nuke 进永久沉寂",
+      "quoted": [
+        {
+          "id": "2123552201260056940",
+          "user": "JakeManger",
+          "text": "@levelsio @alightinastorm Woo woo!\n\nAny chance blocking will help or even limit reach somehow? \n\nWas thinking if they were initial likes/comments/views then I suppose they could",
+          "text_zh": "@levelsio @alightinastorm 哇哦！\n\n把他们拉黑，有没有可能有帮助，甚至限制他们的曝光？\n\n我在想，如果他们贡献了最初的点赞/评论/浏览，那大概会有影响"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2123526226144886786",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2123526226144886786",
+      "created_at": "2026-11-19T21:18:00.000Z",
+      "created_at_bj": "2026-11-20 05:18",
+      "views": 46201,
+      "rate_per_hour": 2664,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-20T13:37:20+08:00",
+        "views": 44459
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 46201,
+        "like_count": 333,
+        "reply_count": 33,
+        "quote_count": 3,
+        "retweet_count": 9,
+        "bookmark_count": 165
+      },
+      "already_pushed": true,
+      "text": "I know many of these people and in many cases it's about avoiding dealing with child traumas or abuse etc some wild shit\n\nSo they could do therapy etc but the much easier way is perpetual novelty\n\nAnd novelty I know from digital nomading solves things for a bit, new place, new people, it really does reset you every time\n\nBut then after awhile you just return to the same stuff again and you have to go to the next place",
+      "text_zh": "我认识这里面很多人，很多情况下，他们其实是在逃避处理童年创伤或虐待之类的事情，有些情况相当狠\n\n所以他们本可以去做治疗等等，但更容易的办法是不断追求新鲜感\n\n而新鲜感这事，我从数字游民的经历里知道，短期内确实有用：新地方、新的人，每次都真的能让你重置一下\n\n但过一段时间，你又会回到同样的状态，于是只能再去下一个地方",
+      "quoted": [
+        {
+          "id": "2123475560626327809",
+          "user": "BonesawMD",
+          "text": "The most boring people you’ll ever meet are those that make seeking external novelty their identity.\n\nConstant travel, new restaurants, new foods, thrills like skydiving. When you actually speak to them there’s hardly anything there. Their stories are the same; you can predict the exact sequence of words before they say them. \n\nThey seek “rich” experiences desperately because their inner world lives in poverty.\n\nTheir minds remain unexplored.",
+          "text_zh": "你能遇到的最无聊的人，就是那些把对外界新鲜感的追求当成自己身份认同的人。\n\n不停旅行、打卡新餐厅、吃新食物、去跳伞这类刺激。可一旦你真正和他们交谈，里面几乎什么都没有。他们的故事都一个样；你甚至能在他们开口之前就预判出接下来会说的话。\n\n他们拼命追求「丰富」的体验，是因为内心世界一贫如洗。\n\n他们的头脑从未被探索过。"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2123524194998825224",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2123524194998825224",
+      "created_at": "2026-11-19T21:09:55.000Z",
+      "created_at_bj": "2026-11-20 05:09",
+      "views": 3356,
+      "rate_per_hour": 176,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-20T13:37:20+08:00",
+        "views": 3241
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 3356,
+        "like_count": 75,
+        "reply_count": 1,
+        "quote_count": 0,
+        "retweet_count": 2,
+        "bookmark_count": 15
+      },
+      "already_pushed": false,
+      "text": "Johnny https://t.co/rGjx87HtRu",
+      "text_zh": "Johnny https://t.co/rGjx87HtRu",
+      "quoted": [],
+      "hit": false
+    },
+    {
+      "id": "2123487048250327497",
+      "user": "steipete",
+      "url": "https://x.com/steipete/status/2123487048250327497",
+      "created_at": "2026-11-19T18:42:19.000Z",
+      "created_at_bj": "2026-11-20 02:42",
+      "views": 35310,
+      "rate_per_hour": 740,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-20T13:37:20+08:00",
+        "views": 34826
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 35310,
+        "like_count": 197,
+        "reply_count": 34,
+        "quote_count": 3,
+        "retweet_count": 9,
+        "bookmark_count": 38
+      },
+      "already_pushed": false,
+      "text": "Landed a fix for that in OpenClaw yesterday (for the few folks using the embedded harness instead of codex, since it’s a plugin), most harnesses aren’t updated yet. https://t.co/hyjqyZw1AU",
+      "text_zh": "昨天已经在 OpenClaw 里修好了这个问题（针对少数使用内置 harness 而不是 codex 的人，因为它是一个插件），大多数 harness 还没有更新。 https://t.co/hyjqyZw1AU",
+      "quoted": [
+        {
+          "id": "2123291268814094409",
+          "user": "bebuu_ai",
+          "text": "If your GPT-6.2 Astra or Sol API bills suddenly went up this week, there's another caching bug worth knowing about.\n\nOpenAI Codex issue #62312 found that on GPT-6.2 Astra and Sol, anything placed in the top-level instructions field of a Responses API request isn't actually cached. It stays at 0 cached tokens on every turn, even though OpenAI's own diagnostics incorrectly report a cache hit.\n\nThe impact is pretty big. Moving from GPT-6.1 Sol to 6.2 Sol dropped actual cache hit rates from 97.4% to 46.4%, meaning 64K–72K system tokens were billed at full price on every step.\n\nThere's already a workaround in OpenCode: put the system prompt inside a leading developer message in input.",
+          "text_zh": "如果你这周的 GPT-6.2 Astra 或 Sol API 账单突然变高了，还有另一个值得了解的缓存 bug。\n\nOpenAI Codex issue #62312 发现，在 GPT-6.2 Astra 和 Sol 上，放在 Responses API 请求顶层 instructions 字段里的内容实际上不会被缓存。每一轮的 cached tokens 都是 0，尽管 OpenAI 自己的诊断会错误地报告 cache hit。\n\n影响相当大。从 GPT-6.1 Sol 换到 6.2 Sol 后，实际缓存命中率从 97.4% 降到了 46.4%，意味着每一步都有 64K–72K 的 system tokens 按全价计费。\n\nOpenCode 里已经有一个变通方法：把 system prompt 放进 input 里一条靠前的 developer message 中。"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2123483195970662647",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2123483195970662647",
+      "created_at": "2026-11-19T18:27:00.000Z",
+      "created_at_bj": "2026-11-20 02:27",
+      "views": 52993,
+      "rate_per_hour": 1855,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-20T13:37:20+08:00",
+        "views": 51780
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 52993,
+        "like_count": 341,
+        "reply_count": 71,
+        "quote_count": 6,
+        "retweet_count": 2,
+        "bookmark_count": 28
+      },
+      "already_pushed": false,
+      "text": "I just bought 500 $ANT https://t.co/RGTrpwyFFC",
+      "text_zh": "我刚买了 500 $ANT https://t.co/RGTrpwyFFC",
+      "quoted": [],
+      "hit": false
+    }
+  ],
+  "new_hits": [],
+  "dropped_from_window": [],
+  "notes": "1404 判定轮（实际运行 14:16:34 北京时间）：按规则判定达标并推送新达标帖。间隔 0.6539 小时（上一轮 13:37:20 → 本轮 14:16:34 北京时间，39 分 14 秒）。例行触发 14:14:49 北京时间（2026-11-20T06:14:49.476Z）。@gregisenberg、@karpathy 窗口内无原创或引用帖。本轮 get_users_posts 使用 exclude=replies,retweets 与 start_time=2026-11-19T18:00:00Z，再按 12 小时窗口本地过滤。窗口起点 2026-11-20 02:16:34 北京时间（2026-11-19T18:16:34Z）。本轮 run_at 取拉取时间线完成、得到浏览量的时刻 14:16:34（例行触发 14:14:49）；浏览量与互动数据以 get_users_posts 返回的 public_metrics 为准（该接口字段为 repost_count，归档仍写为 retweet_count）。本轮对检查列表中的帖子另用 get_posts_by_ids 核对正文与实体，长文全文与既有归档一致（该次调用补充了 note_tweet）。@gregisenberg、@karpathy 带 start_time 的时间线均为 result_count=0。所有进入检查列表的帖子均有 impression_count。被引用帖正文与作者信息沿用 1334/1304/1234/1204/1134 归档，本轮通过 get_users_posts 的 referenced_posts includes 与 get_posts_by_ids 核对。移出 12 小时窗口：0 条。检查帖数量 6 → 6 条（移出 0 条、新进入 0 条）。已在检查列表中的既有帖子正文与中文译文均沿用 1334/1304/1234/1204/1134/1104/1034/1004/0934/0904/0834/0804/0734/0704/0634/0604 归档（被引用帖沿用既有译文，本轮未再单独翻译）。本轮新达标 0 条。未推送帖中最接近阈值的是 @marclou 2123483195970662647，每小时 1855。 @levelsio 2123577230399807978 本轮每小时 5184，已超过阈值，但已在 pushed 中，不重复推送。"
+}
