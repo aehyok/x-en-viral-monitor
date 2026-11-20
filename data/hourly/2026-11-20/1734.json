@@ -1,0 +1,92 @@
+{
+  "run_at": "2026-11-20T17:43:35+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "1734",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2123577230399807978",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2123577230399807978",
+      "created_at": "2026-11-20T00:40:40.000Z",
+      "created_at_bj": "2026-11-20 08:40",
+      "views": 62965,
+      "rate_per_hour": 2883,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-20T17:11:47+08:00",
+        "views": 61437
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 62965,
+        "like_count": 113,
+        "reply_count": 20,
+        "quote_count": 1,
+        "retweet_count": 0,
+        "bookmark_count": 45
+      },
+      "already_pushed": true,
+      "text": "I wonder if they have a CPF https://t.co/7Eb17FcjMk",
+      "text_zh": "不知道他们有没有 CPF https://t.co/7Eb17FcjMk",
+      "quoted": [
+        {
+          "id": "2123424358794224073",
+          "user": "JanayBand",
+          "text": "Li um comentário interessante sobre esse vídeo, ocorrido no interior do Maranhão \n\nSe esses índios que vivem isolados estão se sujeitando a ter contato e receber comida e mantimentos de outra tribo é pq o ecossistema deles deve estar muito desequilibrado, não estão achando comida na natureza 🥺 https://t.co/0VynAFRuD7",
+          "text_zh": "我读到一条关于这段视频的有趣评论，事情发生在马拉尼昂（Maranhão）内陆。\n\n如果这些与世隔绝的原住民现在愿意接触另一个部落、并接受对方的食物和物资，那是因为他们的生态系统一定已经严重失衡，在自然界里找不到吃的了 🥺 https://t.co/0VynAFRuD7"
+        }
+      ],
+      "hit": false
+    },
+    {
+      "id": "2123571040806977993",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2123571040806977993",
+      "created_at": "2026-11-20T00:16:04.000Z",
+      "created_at_bj": "2026-11-20 08:16",
+      "views": 19711,
+      "rate_per_hour": 1140,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-20T17:11:47+08:00",
+        "views": 19107
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 19711,
+        "like_count": 103,
+        "reply_count": 34,
+        "quote_count": 6,
+        "retweet_count": 0,
+        "bookmark_count": 10
+      },
+      "already_pushed": true,
+      "text": "Yes! Esp if blocked from a big account the X algo weighs it heavily and it kills their reach\n\nSo using your AI reply bot on my tweets might be the dumbest thing you can do\n\nOnce I nuke you, the algo nukes you, and then I share your account with everyone who then auto blocks you too, meaning the algo nukes you into perma-oblivion even further",
+      "text_zh": "没错！尤其是如果被大账号拉黑，X 的算法会非常看重这一点，直接毁掉他们的曝光\n\n所以用你的 AI 回复机器人来回我的帖子，可能是你能做的最蠢的事\n\n一旦我把你 nuke 掉，算法也会把你 nuke 掉，然后我再把你的账号分享给所有人，他们也会自动拉黑你，这意味着算法会把你更进一步 nuke 进永久沉寂",
+      "quoted": [
+        {
+          "id": "2123552201260056940",
+          "user": "JakeManger",
+          "text": "@levelsio @alightinastorm Woo woo!\n\nAny chance blocking will help or even limit reach somehow? \n\nWas thinking if they were initial likes/comments/views then I suppose they could",
+          "text_zh": "@levelsio @alightinastorm 哇哦！\n\n把他们拉黑，有没有可能有帮助，甚至限制他们的曝光？\n\n我在想，如果他们贡献了最初的点赞/评论/浏览，那大概会有影响"
+        }
+      ],
+      "hit": false
+    }
+  ],
+  "new_hits": [],
+  "dropped_from_window": [
+    "2123526226144886786"
+  ],
+  "notes": "1734 判定轮（实际运行 17:43:35 北京时间）：按规则判定达标并推送新达标帖。间隔 0.5300 小时（上一轮 17:11:47 → 本轮 17:43:35 北京时间，31 分 48 秒）。例行触发 17:40:14 北京时间（2026-11-20T09:40:14.843Z）。@marclou、@gregisenberg、@steipete、@karpathy 窗口内无原创或引用帖。本轮 get_users_posts 使用 exclude=replies,retweets 与 start_time=2026-11-19T20:40:00Z，再按 12 小时窗口本地过滤。窗口起点 2026-11-20 05:43:35 北京时间（2026-11-19T21:43:35Z）。本轮 run_at 取开始整理浏览量并写归档的时刻 17:43:35（例行触发 17:40:14；时间线接口在此之前已返回）；浏览量与互动数据以 get_users_posts 返回的 public_metrics 为准（本轮接口直接返回了 retweet_count，归档字段同名）。已在检查列表中的既有帖子正文、中文译文与被引用帖均沿用 1704 归档（@levelsio 的两条长文本本轮 note_post 未返回完整全文，故沿用 1704 全文与译文；被引用帖 @JanayBand、@JakeManger 沿用 1704 全文与译文）。@marclou、@gregisenberg、@steipete、@karpathy 带 start_time 的时间线均为 result_count=0。@egeberkina 时间线返回 1 条（2123524194998825224，发于 2026-11-20 05:09:55 北京时间），但发帖时间已超出 12 小时窗口，上一轮已移出，本轮仍不进入检查列表。所有进入检查列表的帖子均有 impression_count。移出 12 小时窗口：1 条（@levelsio 2123526226144886786，发于 2026-11-20 05:18:00 北京时间）。检查帖数量 3 → 2 条（移出 1 条、新进入 0 条）。本轮新达标 0 条。窗口内未推送帖已无剩余。 @levelsio 2123577230399807978 本轮每小时 2883，未超过阈值；该帖已在 pushed 中，即使达标也不重复推送。 @levelsio 2123571040806977993 本轮每小时 1140，未超过阈值；该帖已在 pushed 中，即使达标也不重复推送。"
+}
