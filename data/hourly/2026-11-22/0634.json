@@ -1,0 +1,318 @@
+{
+  "run_at": "2026-11-22T06:49:42+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "0634",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2124243178870255864",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2124243178870255864",
+      "created_at": "2026-11-21T20:46:55.000Z",
+      "created_at_bj": "2026-11-22 04:46",
+      "views": 61282,
+      "rate_per_hour": 29307,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-22T06:12:25+08:00",
+        "views": 43071
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 61282,
+        "like_count": 798,
+        "reply_count": 28,
+        "quote_count": 2,
+        "retweet_count": 11,
+        "bookmark_count": 347
+      },
+      "already_pushed": false,
+      "text": "He's such an excellent speaker https://t.co/oq8rA0niTK",
+      "text_zh": "他真是一位出色的演讲者 https://t.co/oq8rA0niTK",
+      "hit": true,
+      "quoted": [
+        {
+          "id": "2123989025702735962",
+          "user": "ianmSC",
+          "text": "You can literally see Andrew Ross Sorkin sink in his chair as he realizes Palmer Luckey is going to dismantle everything his political party believes about Ukraine, Elon Musk and Donald Trump https://t.co/H72RX7Ig3T",
+          "text_zh": "你可以清清楚楚看到，Andrew Ross Sorkin 在座位上往下沉，因为他意识到 Palmer Luckey 即将拆穿他所在政党关于乌克兰、Elon Musk 和 Donald Trump 的一切信念 https://t.co/H72RX7Ig3T"
+        }
+      ]
+    },
+    {
+      "id": "2124209048128016777",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2124209048128016777",
+      "created_at": "2026-11-21T18:31:17.000Z",
+      "created_at_bj": "2026-11-22 02:31",
+      "views": 24250,
+      "rate_per_hour": 1852,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-22T06:12:25+08:00",
+        "views": 23099
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 24250,
+        "like_count": 313,
+        "reply_count": 78,
+        "quote_count": 1,
+        "retweet_count": 1,
+        "bookmark_count": 16
+      },
+      "already_pushed": false,
+      "text": "Best part of scaring of AI reply bots is that now everyone can reply to my posts again\n\nBefore I had to lock it to \"only people who my followers follow can reply\"\n\nI like to have everyone reply and AI reply bots were ruining that too! https://t.co/T4G7v6nR7y",
+      "text_zh": "把 AI 回复机器人吓跑之后，最棒的一点是现在大家又都能回复我的帖子了\n\n以前我只能把回复权限锁成「仅我关注者所关注的人可回复」\n\n我希望所有人都能回复，但 AI 回复机器人也把这件事搞砸了！ https://t.co/T4G7v6nR7y",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2124188998985724374",
+          "user": "Delaurens03",
+          "text": "@levelsio Hey now i can comment!",
+          "text_zh": "@levelsio 嘿，我现在能评论了！"
+        }
+      ]
+    },
+    {
+      "id": "2124200538904375547",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2124200538904375547",
+      "created_at": "2026-11-21T17:57:28.000Z",
+      "created_at_bj": "2026-11-22 01:57",
+      "views": 21191,
+      "rate_per_hour": 1273,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-22T06:12:25+08:00",
+        "views": 20400
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 21191,
+        "like_count": 151,
+        "reply_count": 81,
+        "quote_count": 2,
+        "retweet_count": 6,
+        "bookmark_count": 65
+      },
+      "already_pushed": false,
+      "text": "I paid $300 for a 15+ year old Sony camcorder that was probably collecting dust in someone’s garage. \n\nBest thing I bought this year.\n\nIn a world of brainrot and infinite scroll, I think millions of people want physical, tactile things again. https://t.co/DPcAHGqaIe",
+      "text_zh": "我花了 300 美元买了一台有 15 年以上历史的 Sony 摄像机，它大概之前一直在某人家车库里吃灰。\n\n这是我今年买过最值的东西。\n\n在这个满是脑腐内容和无限滚动的世界里，我觉得有几百万人又开始想要实体的、能亲手触摸的东西了。 https://t.co/DPcAHGqaIe",
+      "hit": false,
+      "quoted": []
+    },
+    {
+      "id": "2124190058194632873",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2124190058194632873",
+      "created_at": "2026-11-21T17:15:50.000Z",
+      "created_at_bj": "2026-11-22 01:15",
+      "views": 13309,
+      "rate_per_hour": 605,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-22T06:12:25+08:00",
+        "views": 12933
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 13309,
+        "like_count": 118,
+        "reply_count": 37,
+        "quote_count": 3,
+        "retweet_count": 1,
+        "bookmark_count": 9
+      },
+      "already_pushed": false,
+      "text": "Second builder to reach the  $1K revenue mark ✅ https://t.co/bD0kD8GZg1 https://t.co/gIDSIcKP91",
+      "text_zh": "第二位达到 $1K 营收里程碑的 builder ✅ https://t.co/bD0kD8GZg1 https://t.co/gIDSIcKP91",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2124039685420814497",
+          "user": "marclou",
+          "text": "#1 of $100k hackathon just crossed $1,000 👏 https://t.co/8VnzowWi0x",
+          "text_zh": "$100k hackathon 的第 1 名刚刚突破 $1,000 👏 https://t.co/8VnzowWi0x"
+        }
+      ]
+    },
+    {
+      "id": "2124189735262548313",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2124189735262548313",
+      "created_at": "2026-11-21T17:14:33.000Z",
+      "created_at_bj": "2026-11-22 01:14",
+      "views": 129011,
+      "rate_per_hour": 17865,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-22T06:12:25+08:00",
+        "views": 117910
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 129011,
+        "like_count": 5008,
+        "reply_count": 36,
+        "quote_count": 23,
+        "retweet_count": 311,
+        "bookmark_count": 1179
+      },
+      "already_pushed": false,
+      "text": "With love from Türkiye https://t.co/2K85Rs2Rxx https://t.co/SrxGht2ReA",
+      "text_zh": "来自 Türkiye 的爱 https://t.co/2K85Rs2Rxx https://t.co/SrxGht2ReA",
+      "hit": true,
+      "quoted": [
+        {
+          "id": "2123901078647210300",
+          "user": "egeberkina",
+          "text": "India has so much color https://t.co/ITtbi6366A https://t.co/EWcodLbOXv",
+          "text_zh": "印度的色彩太丰富了 https://t.co/ITtbi6366A https://t.co/EWcodLbOXv"
+        }
+      ]
+    },
+    {
+      "id": "2124174144812220784",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2124174144812220784",
+      "created_at": "2026-11-21T16:12:36.000Z",
+      "created_at_bj": "2026-11-22 00:12",
+      "views": 73170,
+      "rate_per_hour": 5670,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-22T06:12:25+08:00",
+        "views": 69647
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 73170,
+        "like_count": 1234,
+        "reply_count": 135,
+        "quote_count": 13,
+        "retweet_count": 16,
+        "bookmark_count": 101
+      },
+      "already_pushed": false,
+      "text": "More likely than permanent underclass is we will all be permanent middle class",
+      "text_zh": "比起出现永久底层阶级，更可能的是我们都会成为永久的中产阶级",
+      "hit": true,
+      "quoted": []
+    },
+    {
+      "id": "2124173662597075020",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2124173662597075020",
+      "created_at": "2026-11-21T16:10:41.000Z",
+      "created_at_bj": "2026-11-22 00:10",
+      "views": 59086,
+      "rate_per_hour": 2713,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-22T06:12:25+08:00",
+        "views": 57400
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 59086,
+        "like_count": 1033,
+        "reply_count": 185,
+        "quote_count": 7,
+        "retweet_count": 7,
+        "bookmark_count": 37
+      },
+      "already_pushed": false,
+      "text": "I think we may have solved AI replies for now\n\nI literally don't get them anymore\n\nWe scared them off with the mass block list?\n\n🙏 😊",
+      "text_zh": "我觉得我们暂时可能已经解决了 AI 回复的问题\n\n我现在基本上再也收不到这类回复了\n\n是我们用大规模屏蔽名单把它们吓跑了吗？\n\n🙏 😊",
+      "hit": false,
+      "quoted": []
+    },
+    {
+      "id": "2124150966446674236",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2124150966446674236",
+      "created_at": "2026-11-21T14:40:29.000Z",
+      "created_at_bj": "2026-11-21 22:40",
+      "views": 23076,
+      "rate_per_hour": 1199,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-22T06:12:25+08:00",
+        "views": 22331
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 23076,
+        "like_count": 274,
+        "reply_count": 30,
+        "quote_count": 2,
+        "retweet_count": 1,
+        "bookmark_count": 20
+      },
+      "already_pushed": true,
+      "text": "- chicken / broccoli https://t.co/p1o0og8CTY https://t.co/EMHwcNv2Kz",
+      "text_zh": "- 鸡肉 / 西兰花 https://t.co/p1o0og8CTY https://t.co/EMHwcNv2Kz",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2123828083052658862",
+          "user": "clavicular",
+          "text": "Working on the mog, taking minimal stack rn\n-240 test\n-7.5 reta \n-.5 dut\n-2.5 minox \n-5 nebivolol \n-200 modaf \n-5ml cereb\n-200 doxy\n-5 tadalafil\n-6mg selegiline \n-100mcg mt2 https://t.co/AejXbU5oAx",
+          "text_zh": "正在搞 mog，目前用的是最小药栈\n-240 test\n-7.5 reta \n-.5 dut\n-2.5 minox \n-5 nebivolol \n-200 modaf \n-5ml cereb\n-200 doxy\n-5 tadalafil\n-6mg selegiline \n-100mcg mt2 https://t.co/AejXbU5oAx"
+        }
+      ]
+    },
+    {
+      "id": "2124139645587841226",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2124139645587841226",
+      "created_at": "2026-11-21T13:55:30.000Z",
+      "created_at_bj": "2026-11-21 21:55",
+      "views": 52311,
+      "rate_per_hour": 1622,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-22T06:12:25+08:00",
+        "views": 51303
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 52311,
+        "like_count": 355,
+        "reply_count": 67,
+        "quote_count": 6,
+        "retweet_count": 1,
+        "bookmark_count": 20
+      },
+      "already_pushed": true,
+      "text": "First appeal oath in!\n\n✅ Removed from the block list https://t.co/3oWzKfs4Wg",
+      "text_zh": "第一份申诉誓言来了！\n\n✅ 已从屏蔽名单中移除 https://t.co/3oWzKfs4Wg",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2124101198131413133",
+          "user": "AGI_Tiramisu",
+          "text": "⚠️ I, @AGI_Tiramisu, of sound mind and human body, sincerely apologize for my AI replies and do hereby solemnly swear and affirm that I shall never again use AI to write any reply on X. I swear to God. Should I break this oath, I accept a permanent block by the entire internet",
+          "text_zh": "⚠️ 我，@AGI_Tiramisu，在心智健全、身为人类的前提下，真诚为我此前用 AI 回复道歉，并在此郑重宣誓：以后绝不再用 AI 撰写任何 X 上的回复。我对天发誓。若违背此誓，我接受被全网永久拉黑。"
+        }
+      ]
+    }
+  ],
+  "new_hits": [
+    "2124243178870255864",
+    "2124189735262548313",
+    "2124174144812220784"
+  ],
+  "dropped_from_window": [],
+  "notes": "0634 判定轮（实际运行 06:49:42 北京时间）：按规则判定达标并推送新达标帖。间隔 0.6214 小时（上一轮 06:12:25 → 本轮 06:49:42 北京时间，37 分 17 秒）。例行触发 06:44:46 北京时间（2026-11-21T22:44:46.309Z），晚于预定 06:34 槽位约 10 分钟；本轮按 0634 槽位归档。@steipete、@karpathy 窗口内无原创或引用帖。本轮 get_users_posts 使用 exclude=replies,retweets，六个账号均使用 start_time=2026-11-21T10:45:38Z 拉取时间线，再按归档时刻 06:49:42 的 12 小时窗口本地过滤。窗口起点 2026-11-21 18:49:42 北京时间（2026-11-21T10:49:42Z）。本轮 run_at 取 get_posts_by_ids 复核完成后的归档时刻 06:49:42（例行触发 06:44:46）；浏览量与互动数据以公开 x.get_posts_by_ids 复核值为准（该接口字段为 repost_count，归档仍写为 retweet_count）。@steipete、@karpathy 带 start_time 的时间线均为 result_count=0。六个账号时间线均未返回需剔除的回复或纯转发。窗口内检查帖 9 条，均有 impression_count。本轮先用公开 x.get_users_posts 拉时间线，再用 get_posts_by_ids 复核浏览量并补齐长文与被引用帖全文。get_users_posts 的 max_results 被接口从请求值 100 降为 25；六个账号均无 next_token，时间线已拉全。无帖子移出 12 小时窗口。本轮无新进入窗口的帖子。检查帖数量 9 → 9 条。全部 9 条检查帖的英文全文与中文译文沿用 0604 归档（与本轮原文一致）；被引用帖 2123989025702735962、2124188998985724374、2124039685420814497、2123901078647210300、2123828083052658862、2124101198131413133 的英文全文与中文译文亦沿用 0604（与本轮原文一致）。@levelsio 2124243178870255864 时间线浏览 60540、点赞 788、书签 344，get_posts_by_ids 复核为浏览 61282、点赞 798、书签 347，以复核为准（回复 28、引用 2、转发 11 与时间线一致）。@levelsio 2124209048128016777 时间线浏览 24213，get_posts_by_ids 复核为浏览 24250，以复核为准（点赞 313、回复 78、引用 1、转发 1、书签 16 与时间线一致）。@gregisenberg 2124200538904375547 时间线浏览 21170，get_posts_by_ids 复核为浏览 21191，以复核为准（点赞 151、回复 81、引用 2、转发 6、书签 65 与时间线一致）。@marclou 2124190058194632873 时间线浏览 13291，get_posts_by_ids 复核为浏览 13309，以复核为准（点赞 118、回复 37、引用 3、转发 1、书签 9 与时间线一致）。@egeberkina 2124189735262548313 时间线浏览 128589、点赞 4997、书签 1175，get_posts_by_ids 复核为浏览 129011、点赞 5008、书签 1179，以复核为准（回复 36、引用 23、转发 311 与时间线一致）。@levelsio 2124174144812220784 时间线浏览 73081、点赞 1233、书签 100，get_posts_by_ids 复核为浏览 73170、点赞 1234、书签 101，以复核为准（回复 135、引用 13、转发 16 与时间线一致）。@levelsio 2124173662597075020 时间线浏览 59050，get_posts_by_ids 复核为浏览 59086，以复核为准（点赞 1033、回复 185、引用 7、转发 7、书签 37 与时间线一致）。@marclou 2124150966446674236 时间线浏览 23052，get_posts_by_ids 复核为浏览 23076，以复核为准（点赞 274、回复 30、引用 2、转发 1、书签 20 与时间线一致）。@levelsio 2124139645587841226 时间线浏览 52273，get_posts_by_ids 复核为浏览 52311，以复核为准（点赞 355、回复 67、引用 6、转发 1、书签 20 与时间线一致）。2124243178870255864 浏览 61282（上次 43071），每小时 +29307 → 18211 ÷ 0.6214 = 29307，超过阈值；本轮新达标，将推送。2124209048128016777 浏览 24250（上次 23099），每小时 +1852 → 1151 ÷ 0.6214 = 1852，未超过阈值。2124200538904375547 浏览 21191（上次 20400），每小时 +1273 → 791 ÷ 0.6214 = 1273，未超过阈值。2124190058194632873 浏览 13309（上次 12933），每小时 +605 → 376 ÷ 0.6214 = 605，未超过阈值。2124189735262548313 浏览 129011（上次 117910），每小时 +17865 → 11101 ÷ 0.6214 = 17865，超过阈值；本轮新达标，将推送。2124174144812220784 浏览 73170（上次 69647），每小时 +5670 → 3523 ÷ 0.6214 = 5670，超过阈值；本轮新达标，将推送。2124173662597075020 浏览 59086（上次 57400），每小时 +2713 → 1686 ÷ 0.6214 = 2713，未超过阈值。2124150966446674236 浏览 23076（上次 22331），每小时 +1199 → 745 ÷ 0.6214 = 1199，未超过阈值；已在 pushed 中，不重复推送。2124139645587841226 浏览 52311（上次 51303），每小时 +1622 → 1008 ÷ 0.6214 = 1622，未超过阈值；已在 pushed 中，不重复推送。窗口内帖子 9 → 9 条。本轮新达标 3 条。pushed 179 → 182 条。"
+}
