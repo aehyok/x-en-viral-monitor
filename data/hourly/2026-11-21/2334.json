@@ -1,0 +1,118 @@
+{
+  "run_at": "2026-11-21T23:36:21+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "2334",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "new_hits": [],
+  "dropped_from_window": [],
+  "notes": "2334 判定轮（实际运行 23:36:21 北京时间）：按规则判定达标并推送新达标帖。间隔 0.354 小时（上一轮 23:15:08 → 本轮 23:36:21 北京时间，21 分 13 秒）。例行触发 23:35:06 北京时间（2026-11-21T15:35:06.122Z），晚于预定 23:34 槽位约 1 分钟；本轮按 2334 槽位归档。@gregisenberg、@steipete、@egeberkina、@karpathy 窗口内无原创或引用帖。本轮 get_users_posts 使用 exclude=replies,retweets，六个账号均使用 start_time=2026-11-21T03:00:00Z 拉取时间线，再按归档时刻 23:36:21 的 12 小时窗口本地过滤。窗口起点 2026-11-21 11:36:21 北京时间（2026-11-21T03:36:21Z）。本轮 run_at 取 get_posts_by_ids 复核完成后的归档时刻 23:36:21（例行触发 23:35:06）；浏览量与互动数据以公开 x.get_posts_by_ids 复核值为准（该接口字段为 repost_count，归档仍写为 retweet_count）。@gregisenberg、@steipete、@egeberkina、@karpathy 带 start_time 的时间线均为 result_count=0。六个账号时间线均未返回需剔除的回复或纯转发。窗口内检查帖 3 条，均有 impression_count。本轮先用公开 x.get_users_posts 拉时间线，再用 get_posts_by_ids 复核浏览量并补齐长文与被引用帖全文。get_users_posts 的 max_results 被接口从请求值降为 25；六个账号均无 next_token，时间线已拉全。无帖子移出 12 小时窗口。本轮无新进入窗口的帖子。检查帖数量 3 → 3 条。三条检查帖英文全文与中文译文沿用 2304 归档（与本轮原文一致）；被引用帖 2123828083052658862、2124101198131413133 中文译文亦沿用 2304（与本轮原文一致）。@marclou 2124150966446674236 时间线浏览 6101、点赞 73、回复 12、引用 1、转发 0、书签 4，get_posts_by_ids 复核为浏览 6133、点赞 74，以复核为准（回复 12、引用 1、转发 0、书签 4 与时间线一致）。@levelsio 2124139645587841226 时间线与复核一致：浏览 24979、点赞 182、回复 51、引用 4、转发 0、书签 15。@marclou 2124039685420814497 时间线与复核一致：浏览 20154、点赞 199、回复 63、引用 5、转发 6、书签 17。2124150966446674236 浏览 6133（上次 4868），每小时 +3577 → 1265 ÷ 0.354 = 3577，未超过阈值；已在 pushed 中，不重复推送。2124139645587841226 浏览 24979（上次 21376），每小时 +10189 → 3603 ÷ 0.354 = 10189，超过阈值；已在 pushed 中，不重复推送。2124039685420814497 浏览 20154（上次 19729），每小时 +1202 → 425 ÷ 0.354 = 1202，未超过阈值；已在 pushed 中，不重复推送。窗口内帖子 3 → 3 条。本轮新达标 0 条。pushed 179 → 179 条。",
+  "posts": [
+    {
+      "id": "2124150966446674236",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2124150966446674236",
+      "created_at": "2026-11-21T14:40:29.000Z",
+      "created_at_bj": "2026-11-21 22:40",
+      "views": 6133,
+      "rate_per_hour": 3577,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-21T23:15:08+08:00",
+        "views": 4868
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 6133,
+        "like_count": 74,
+        "reply_count": 12,
+        "quote_count": 1,
+        "retweet_count": 0,
+        "bookmark_count": 4
+      },
+      "already_pushed": true,
+      "text": "- chicken / broccoli https://t.co/p1o0og8CTY https://t.co/EMHwcNv2Kz",
+      "text_zh": "- 鸡肉 / 西兰花 https://t.co/p1o0og8CTY https://t.co/EMHwcNv2Kz",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2123828083052658862",
+          "user": "clavicular",
+          "text": "Working on the mog, taking minimal stack rn\n-240 test\n-7.5 reta \n-.5 dut\n-2.5 minox \n-5 nebivolol \n-200 modaf \n-5ml cereb\n-200 doxy\n-5 tadalafil\n-6mg selegiline \n-100mcg mt2 https://t.co/AejXbU5oAx",
+          "text_zh": "正在搞 mog，目前用的是最小药栈\n-240 test\n-7.5 reta \n-.5 dut\n-2.5 minox \n-5 nebivolol \n-200 modaf \n-5ml cereb\n-200 doxy\n-5 tadalafil\n-6mg selegiline \n-100mcg mt2 https://t.co/AejXbU5oAx"
+        }
+      ]
+    },
+    {
+      "id": "2124139645587841226",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2124139645587841226",
+      "created_at": "2026-11-21T13:55:30.000Z",
+      "created_at_bj": "2026-11-21 21:55",
+      "views": 24979,
+      "rate_per_hour": 10189,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-21T23:15:08+08:00",
+        "views": 21376
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 24979,
+        "like_count": 182,
+        "reply_count": 51,
+        "quote_count": 4,
+        "retweet_count": 0,
+        "bookmark_count": 15
+      },
+      "already_pushed": true,
+      "text": "First appeal oath in!\n\n✅ Removed from the block list https://t.co/3oWzKfs4Wg",
+      "text_zh": "第一份申诉誓言来了！\n\n✅ 已从屏蔽名单中移除 https://t.co/3oWzKfs4Wg",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2124101198131413133",
+          "user": "AGI_Tiramisu",
+          "text": "⚠️ I, @AGI_Tiramisu, of sound mind and human body, sincerely apologize for my AI replies and do hereby solemnly swear and affirm that I shall never again use AI to write any reply on X. I swear to God. Should I break this oath, I accept a permanent block by the entire internet",
+          "text_zh": "⚠️ 我，@AGI_Tiramisu，在心智健全、身为人类的前提下，真诚为我此前用 AI 回复道歉，并在此郑重宣誓：以后绝不再用 AI 撰写任何 X 上的回复。我对天发誓。若违背此誓，我接受被全网永久拉黑。"
+        }
+      ]
+    },
+    {
+      "id": "2124039685420814497",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2124039685420814497",
+      "created_at": "2026-11-21T07:18:18.000Z",
+      "created_at_bj": "2026-11-21 15:18",
+      "views": 20154,
+      "rate_per_hour": 1202,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-21T23:15:08+08:00",
+        "views": 19729
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 20154,
+        "like_count": 199,
+        "reply_count": 63,
+        "quote_count": 5,
+        "retweet_count": 6,
+        "bookmark_count": 17
+      },
+      "already_pushed": true,
+      "text": "#1 of $100k hackathon just crossed $1,000 👏 https://t.co/8VnzowWi0x",
+      "text_zh": "$100k hackathon 的第 1 名刚刚突破 $1,000 👏 https://t.co/8VnzowWi0x",
+      "hit": false,
+      "quoted": []
+    }
+  ]
+}
