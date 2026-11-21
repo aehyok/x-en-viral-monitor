@@ -1,0 +1,181 @@
+{
+  "run_at": "2026-11-21T13:15:46+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "1304",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "new_hits": [],
+  "dropped_from_window": [],
+  "notes": "1304 判定轮（实际运行 13:15:46 北京时间）：按规则判定达标；本轮无新达标帖，不给用户推送。间隔 0.554 小时（上一轮 12:42:32 → 本轮 13:15:46 北京时间，33 分 14 秒）。例行触发 13:12:12 北京时间（2026-11-21T05:12:12.352Z）。@marclou、@steipete、@karpathy 窗口内无原创或引用帖。本轮 get_users_posts 使用 exclude=replies,retweets，六个账号均使用 start_time=2026-11-20T17:00:00Z 拉取时间线，再按归档时刻 13:15:46 的 12 小时窗口本地过滤。窗口起点 2026-11-21 01:15:46 北京时间（2026-11-20T17:15:46Z）。本轮 run_at 取 get_posts_by_ids 复核完成后的归档时刻 13:15:46（例行触发 13:12:12）；浏览量与互动数据以公开 x.get_posts_by_ids 复核值为准（该接口字段为 repost_count，归档仍写为 retweet_count）。@marclou、@steipete、@karpathy 带 start_time 的时间线均为 result_count=0。六个账号时间线均未返回需剔除的回复或纯转发。窗口内检查帖 5 条，均有 impression_count。本轮先用公开 x.get_users_posts 拉时间线，再用 get_posts_by_ids 复核浏览量并补齐长文与被引用帖全文。get_users_posts 的 max_results 被接口从请求值降为 25；六个账号均无 next_token，时间线已拉全。无帖子移出 12 小时窗口。无新进入窗口的帖子。检查帖数量 5 → 5 条。2123943441017028866 英文全文与中文译文沿用 1234 归档（本轮 get_posts_by_ids 仍未返回 note_post，接口仅给出约 304 字的截断展示文，前缀至 “a couple of engineers.” 与归档全文一致，其后为视频链接 https://t.co/Yx9hwhBJoi）。2123926083896566106 英文全文与中文译文沿用 1234 归档（与本轮原文一致）。被引用帖 2123924805938450940 英文全文与中文译文沿用 1234 归档（本轮接口仍为截断展示文，约 270 字，前缀与归档全文一致）。2123920308126060726 英文全文与中文译文沿用 1234 归档（本轮 get_posts_by_ids 仍未返回 note_post，展示文在 “and then” 之后被截断并附上配图/引用短链；正文里的举报链接本轮展示为 https://t.co/Z6YNRzkDZW，展开同为 https://blockedforaireply.levels.io/，与归档全文中的 https://t.co/udYXwekFac 为同一站点的不同短链，完整收句仍沿用 1234 已核验全文）。被引用帖 2123388955143893122 英文全文与中文译文沿用 1234 归档（本轮接口仍为截断展示文，约 322 字，前缀与归档全文一致）。2123906584531304944 英文全文与中文译文沿用 1234 归档（本轮 get_posts_by_ids 仍未返回 note_post，接口仅给出 280 字截断展示文，前缀与归档全文一致）。2123901078647210300 英文全文与中文译文沿用 1234 归档（与本轮原文一致）。被引用帖 2123781613347897431 英文全文与中文译文沿用 1234 归档（与本轮原文一致）。@gregisenberg 2123943441017028866 时间线点赞 236，get_posts_by_ids 复核为点赞 238，以复核为准（浏览 25312、回复 37、引用 4、转发 15、书签 300 与时间线一致）。@levelsio 2123926083896566106 时间线浏览 76858、点赞 294，get_posts_by_ids 复核为浏览 76910、点赞 295，以复核为准（回复 26、引用 2、转发 6、书签 302 与时间线一致）。@levelsio 2123920308126060726 时间线浏览 15133，get_posts_by_ids 复核为浏览 15143，以复核为准（点赞 122、回复 20、引用 5、转发 5、书签 36 与时间线一致）。@gregisenberg 2123906584531304944 时间线浏览 331325、点赞 5805、转发 645、书签 10651，get_posts_by_ids 复核为浏览 331873、点赞 5812、转发 646、书签 10668，以复核为准（回复 228、引用 58 与时间线一致）。@egeberkina 2123901078647210300 时间线浏览 8510，get_posts_by_ids 复核为浏览 8522，以复核为准（点赞 384、回复 3、引用 2、转发 41、书签 91 与时间线一致）。2123943441017028866 浏览 25312（上次 23530），每小时 +3217 → 1782 ÷ 0.554 = 3217，未超过阈值；已在 pushed 中，不重复推送。2123926083896566106 浏览 76910（上次 72930），每小时 +7184 → 3980 ÷ 0.554 = 7184，超过阈值；已在 pushed 中，不重复推送。2123920308126060726 浏览 15143（上次 14634），每小时 +919 → 509 ÷ 0.554 = 919，未超过阈值；已在 pushed 中，不重复推送。2123906584531304944 浏览 331873（上次 300424），每小时 +56767 → 31449 ÷ 0.554 = 56767，超过阈值；已在 pushed 中，不重复推送。2123901078647210300 浏览 8522（上次 7331），每小时 +2150 → 1191 ÷ 0.554 = 2150，未超过阈值。窗口内帖子 5 → 5 条。本轮新达标 0 条。pushed 175 → 175 条。",
+  "posts": [
+    {
+      "id": "2123943441017028866",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2123943441017028866",
+      "created_at": "2026-11-21T00:55:51.000Z",
+      "created_at_bj": "2026-11-21 08:55",
+      "views": 25312,
+      "rate_per_hour": 3217,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-21T12:42:32+08:00",
+        "views": 23530
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 25312,
+        "like_count": 238,
+        "reply_count": 37,
+        "quote_count": 4,
+        "retweet_count": 15,
+        "bookmark_count": 300
+      },
+      "already_pushed": true,
+      "text": "I've been playing with Gemini 4 Neon for 5 straight days. Google gave me early access and sponsored today's episode.\n\n10 insights using Gemini 4 Neon (for people who want to make cool things with AI):\n\n1. Type /swarm and give it a researcher, a designer and a couple of engineers. I'd point it at a small directory or app for a niche and let it run overnight. \n\n2. The physics are so good that I'd mock up a hardware product or a little game with it before spending a dollar on either.\n\n3. I gave it my company's messy invoices and asked for a financial model. Now I go back and forth with it like I've got a CFO on call.\n\n4. Paste in a local business's website and it'll read the whole thing and build them something useful, like a calculator or a new homepage. Interesting cash flow idea there.\n\n5. Make a mini game or a 3D customizer for your product and put an email box in front of it. It's way more fun than a PDF, and people share them.\n\n6. Drop every customer call from last quarter into AI Studio and ask it what you promised and never shipped. It can hold about a million tokens at once, and it stays sharp the whole way through.\n\n7. It's the best model I've tried for the boring stuff like lead routing, CRM cleanup and reconciling invoices. Surprisingly darn good at business workflows.\n\n8. For everyday work, pick Orchestrator in Antigravity. Neon does the thinking and hands the typing to Hydrogen, which is a lot cheaper.\n\n9. Set the thinking to high and build in Antigravity, even though the app still has some catching up to do. The same model scored three times higher there on a coding test.\n\n10. It's a really good writer once you tell it to drop the em dashes. It's also brief, so ask for more when you want more.\n\nTLDR; it's a REALLY good money for WAY cheaper than we're used to. So, you can be way more loose on the types of projects you build and agents you have running.\n\nLink to full ep: https://t.co/9XiEE0SP7I\n\nMake cool things with AI that people buy.\n\nThis episode of @startupideaspod might give you some ideas. I show what people are already building with it, where to use it, 5 ways to get the most out of it and 5 ways to make money with it.\n\nWhatever it is you are building, just know that I'm rooting for you.",
+      "text_zh": "我已经连续 5 天都在玩 Gemini 4 Neon。Google 给了我提前体验权限，并赞助了今天这一期。\n\n10 条使用 Gemini 4 Neon 的洞察（写给想用 AI 做出很酷东西的人）：\n\n1. 输入 /swarm，给它配一个研究员、一个设计师，再加几个工程师。我会把它指向一个小目录，或某个垂直领域的应用，然后让它跑一整晚。\n\n2. 它对物理效果的模拟非常好，我会先用它来做硬件产品或小游戏的原型，再决定要不要花哪怕一美元去做真的。\n\n3. 我把公司里乱七八糟的发票丢给它，让它做财务模型。现在我会跟它来来回回地讨论，就像手头有一位随时在线的 CFO。\n\n4. 把一家本地商家的网站粘贴进去，它会把整个站点读完，再给对方做出有用的东西，比如一个计算器或全新的首页。这里面藏着一个有意思的现金流点子。\n\n5. 给你的产品做一个小游戏或 3D 定制器，并在前面加一个邮箱收集框。这比一份 PDF 有趣得多，人们也会愿意转发。\n\n6. 把上一季度的每一通客户电话都丢进 AI Studio，问它你曾经承诺过却还没交付的是什么。它可以一次容纳大约一百万 tokens，而且从头到尾都保持清醒。\n\n7. 在线索分发、CRM 清理和发票对账这类无聊工作上，这是我用过最好的模型。做商务工作流出人意料地出色。\n\n8. 日常工作请在 Antigravity 里选择 Orchestrator。Neon 负责思考，把打字交给更便宜的 Hydrogen。\n\n9. 把思考强度设为 high，并在 Antigravity 里构建，尽管这个应用本身还有些地方需要跟上。同样的模型在那里的编程测试中得分高出三倍。\n\n10. 只要你让它不要用 em dashes，它就是一位非常好的写作者。它也很简短，所以你想要更多内容时，记得主动要求。\n\nTLDR；它真的非常超值，比我们习惯的价格便宜得多。所以，你在选择要做的项目、以及要跑哪些 agent 时，可以大胆放宽很多。\n\n完整一期链接：https://t.co/9XiEE0SP7I\n\n用 AI 做出人们愿意付钱买的酷东西。\n\n@startupideaspod 这一期也许能给你一些启发。我展示了人们已经在用它做什么、该在哪里用、5 种把它用到极致的方法，以及 5 种用它赚钱的方法。\n\n无论你正在做什么，请记住：我站在你这边，为你加油。",
+      "hit": false,
+      "quoted": []
+    },
+    {
+      "id": "2123926083896566106",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2123926083896566106",
+      "created_at": "2026-11-20T23:46:53.000Z",
+      "created_at_bj": "2026-11-21 07:46",
+      "views": 76910,
+      "rate_per_hour": 7184,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-21T12:42:32+08:00",
+        "views": 72930
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 76910,
+        "like_count": 295,
+        "reply_count": 26,
+        "quote_count": 2,
+        "retweet_count": 6,
+        "bookmark_count": 302
+      },
+      "already_pushed": true,
+      "text": "💯 https://t.co/MlUO62tDbE",
+      "text_zh": "💯 https://t.co/MlUO62tDbE",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2123924805938450940",
+          "user": "dannypostma",
+          "text": "Here's my thought on the future of software/SaaS.\n\nI'm completely switching off hosted platforms and hosted tools. I just reverse engineer them for myself, because I only need parts of them.\n\nTwo reasons why:\n\n1. I want to own my data.\n\nI use my data in different tools. Marketing, note-taking, whatever. And I want my agents, like Claude, to have complete access to it.\n\nNot walled off in HubSpot, where I have to talk to their agent. Not behind MCP either. With MCP the agent pulls what it asks for, but it doesn't know what's there.\n\nGive it a full list of data files and it has complete access. It knows what's there.\n\n2. I want to customize it.\n\nWhen I sign up for Pipedrive, I don't need all that bloated shit. I need one part of it, adjusted to my content, my business, how I work.\n\nWith AI that's a prompt, and one hour later it's done.\n\nSo static software is going to be a thing of the past. People want to adjust it to how they work and plug it into the other tools they have.\n\nWhere this goes, I think two ways:\n\nA. You buy software again. Like paying $900 for a Photoshop license and putting it on your computer. Except now you get the source code. It's premade, because you don't have weeks to build it, but you host it on your own headless box and you can customize it, remove stuff, plug stuff in. Someone needs to build the operating system for this.\n\nB. Everyone gets their own hosted instance. Not 10,000 customers on one box. Your own sandbox, with an agent that customizes it fully to you. The code stays proprietary, but you can adjust everything.\n\nMight be completely wrong. Might be different for most people.\n\nBut this is already how I work.",
+          "text_zh": "这是我对 software/SaaS 未来的看法。\n\n我正在彻底停用托管平台和托管工具。我只会为自己逆向它们，因为我只需用到其中的一部分。\n\n原因有两个：\n\n1. 我要掌握自己的数据。\n\n我会在不同工具里使用自己的数据。Marketing、笔记，随便什么。而且我希望我的 agent，比如 Claude，能对数据有完整访问权。\n\n不要被关在 HubSpot 里，还得去跟他们的 agent 对话。也不要挡在 MCP 后面。有了 MCP，agent 只会拉取它询问的东西，但并不知道那里有什么。\n\n给它一份完整的数据文件清单，它就拥有完整访问权。它知道那里有什么。\n\n2. 我要能定制它。\n\n当我注册 Pipedrive 时，我不需要那些臃肿的东西。我只需要其中一部分，并且要按我的内容、我的业务、我的工作方式来调整。\n\n有了 AI，这就是一个 prompt，一小时后就做完了。\n\n所以静态软件将成为过去。人们希望按自己的工作方式去调整它，并把它接入自己已有的其他工具。\n\n至于这会走向哪里，我觉得有两条路：\n\nA. 你再次买断软件。就像花 $900 买一份 Photoshop 许可证，然后装到自己的电脑上。只不过现在你会拿到源代码。它是现成的，因为你没有几周时间去从零做，但你可以把它托管在自己的 headless box 上，并且可以定制、删掉不需要的、再接入别的东西。得有人来做这件事的操作系统。\n\nB. 每个人都有自己的托管实例。不是 10,000 个客户挤在一台机器上。而是你自己的 sandbox，再配一个会按你的需求完整定制的 agent。代码仍然是专有的，但你可以调整一切。\n\n我可能完全错了。对大多数人来说，也许会不一样。\n\n但这已经是我现在的工作方式。"
+        }
+      ]
+    },
+    {
+      "id": "2123920308126060726",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2123920308126060726",
+      "created_at": "2026-11-20T23:23:56.000Z",
+      "created_at_bj": "2026-11-21 07:23",
+      "views": 15143,
+      "rate_per_hour": 919,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-21T12:42:32+08:00",
+        "views": 14634
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 15143,
+        "like_count": 122,
+        "reply_count": 20,
+        "quote_count": 5,
+        "retweet_count": 5,
+        "bookmark_count": 36
+      },
+      "already_pushed": true,
+      "text": "This was a great success\n\nSo I've also added a report endpoint to report AI reply bots yourself\n\nhttps://t.co/udYXwekFac\n\nFeel free to add them to your Chrome extensions etc.\n\nMy AI reviews them all, and then I review them again to see if their other replies are also AI and then if confirmed add them to the block list",
+      "text_zh": "这次非常成功\n\n所以我还加了一个举报接口，方便你自己去举报 AI 回复机器人\n\nhttps://t.co/udYXwekFac\n\n欢迎把它们加到你的 Chrome 扩展里等等。\n\n我的 AI 会先全部审核一遍，然后我再复查一遍，看他们的其他回复是不是也是 AI，确认后再把它们加入屏蔽名单。",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2123388955143893122",
+          "user": "levelsio",
+          "text": "It took a while but as promised here it is...\n\n\"THE 𝕏 SPAMMERS LIST\"\n🛡️ Blocked for AI reply\nhttps://t.co/0kzHNGpOrr\n\n3,728 𝕏 accounts that continuously spam automated AI replies to artificially farm engagement and ruin 𝕏's social network - 498 already suspended by 𝕏 - continuously updated\n\n✅ Evidence for every blocked account\n✅ One-click block all button\n✅ Continuously updated JSON API\n✅ Text-only username list\n\nBased on @ryanvogel's original Clankwall and @dillon_mulroy's X list\n\nI hope everyone uses this and keeps using it, so my account becomes a honeypot for AI replies, once I block them they're blocked by the entire network and they stop being able to reply to anyone\n\n+ It'd be cool to add more \"scouts\" like @ThePrimeagen and @JackEllis and sync their block list continuously too cause they and many others have the same issue\n\nI've also submitted this list to @X's CEO @petersellis to train their spam models on\n\nAgain it'll be continously updated!\n\nEnjoy a spam free 𝕏 experience! 😊🙏",
+          "text_zh": "花了一些时间，但正如之前承诺的，它来了……\n\n「THE 𝕏 SPAMMERS LIST」\n🛡️ Blocked for AI reply\nhttps://t.co/0kzHNGpOrr\n\n3,728 个持续刷自动 AI 回复、用来刷互动并破坏 𝕏 社交网络的 𝕏 账号——其中 498 个已被 𝕏 封禁——持续更新\n\n✅ 每个被屏蔽的账号都有证据\n✅ 一键全部屏蔽按钮\n✅ 持续更新的 JSON API\n✅ 纯文本用户名列表\n\n基于 @ryanvogel 最初的 Clankwall，以及 @dillon_mulroy 的 X 列表\n\n我希望大家都用起来、并且持续使用，这样我的账号就会变成 AI 回复的蜜罐：一旦被我屏蔽，它们就会被整个网络屏蔽，再也没法回复任何人\n\n+ 要是能再加上更多像 @ThePrimeagen 和 @JackEllis 这样的「侦察员」，并持续同步他们的屏蔽列表就更好了，因为他们和很多人都有同样的问题\n\n我也已经把这份列表提交给了 @X 的 CEO @petersellis，用来训练他们的垃圾信息识别模型\n\n再说一遍，它会持续更新！\n\n享受一个没有垃圾信息的 𝕏 体验吧！😊🙏"
+        }
+      ]
+    },
+    {
+      "id": "2123906584531304944",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2123906584531304944",
+      "created_at": "2026-11-20T22:29:24.000Z",
+      "created_at_bj": "2026-11-21 06:29",
+      "views": 331873,
+      "rate_per_hour": 56767,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-21T12:42:32+08:00",
+        "views": 300424
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 331873,
+        "like_count": 5812,
+        "reply_count": 228,
+        "quote_count": 58,
+        "retweet_count": 646,
+        "bookmark_count": 10668
+      },
+      "already_pushed": true,
+      "text": "The biggest opportunities right now:\n\n1. build for solving loneliness (the more AI floods everything, the more people crave real human connection, IRL and small social) \n\n2. build for places with no cameras and no recording (being offline and unseen is turning into the new status symbol)\n\n3. build for the crisis of young men. Millions of guys in their 20s feel completely lost with work, dating, and purpose. Whoever builds real brotherhood, mentorship, and an actual path forward wins a massive market (and helps a ton of people). \n\n4. build for protecting people's brains (feeds are turning everyone's attention to mush, tools that protect your focus and mood are an easy sell)\n\n5. build for the death of \"everyone agrees\" (you can find a chart or a podcast clip to prove any point now, people are starving for one source they actually trust)\n\n6. build for day 2, not day 0. Anyone can launch an app in a weekend now. But how can you keep it running, fix the mess, and grow it for 3 years.\n\n7. build for throwaway software (not everything needs to be a $20 a month subscription, tiny apps made for one trip, one wedding, or one group chat are coming)\n\n8. build for people whose ego just got bruised by AI. Millions of smart people are  realizing their job was mostly pattern matching. Help them figure out what they're good for next.\n\n9. build for things that take effort on purpose (when everything is instant and free, nothing feels earned, people will pay for slowness and craft)\n\n10. build for people who miss being told they're wrong. AI agrees with everything you say now. Real rooms where smart people actually push back on your ideas are becoming a luxury.\n\n11. build for skin in the game. The internet is full of free takes and bots. Any platform where people have to put real money, real names, or real work behind what they say wins.\n\n12. build for agents that need to spend money (they're getting virtual cards and budgets, someone builds the spend controls, fraud protection, receipts)\n\n13. build for the end of fake email jobs (half of corporate America knows their job is theater, build the exit ramp for people who want to do real work)\n\n14. build for the friend with great recommendations (nobody trusts Yelp reviews etc anymore because it's all bots and SEO, people will pay one obsessive person to just tell them where to eat and what to buy)\n\n15. build for life after the chat box. Typing prompts already feels old. The best AI products won't look like chatbots at all, they'll just sit in the background and proactively handle things.\n\n16. build for markets too small to matter before (500 lobster fishermen was never worth a team, now it's a  real business if you can figure out what to build value to add to these fishermen lives!)\n\n17. build for helpful without being creepy. AI is getting very personal very fast. Whoever figures out how to make it feel warm instead of weird owns consumer tech.\n\n18. build for small private rooms (the public internet feels like an ad and a bot farm, all the good conversations and deals are moving into small invite-only groups)\n\n19. build for someone taking the blame. AI can write the contract or read the scan, but a machine can't look you in the eye when it goes wrong. People still pay for a human on the hook.\n\n20. build for learning that actually keeps up (a four year degree is way too slow for how fast things move now)\n\n21. build for the anti-AI premium (as everything gets generated, human-made and unpolished become status symbols people pay up for)\n\nnote: more trends/ideas https://t.co/a5ARFnvSnA (free to sign up)\n\n22. build for the return to the physical (screens fill with slop, people crave the real world, the hands on, the local, the analog)\n\n23. build for the caregiving wave. The population is aging fast, tens of millions are caring for parents, and the whole burden is landing on families with no support.\n\n24. build for finding things you didn't know to search for (algorithms just feed you more of what you clicked yesterday, people miss stumbling onto something totally different)\n\n25. build for the housing and rootlessness problem (people can't afford to settle down, and the whole idea of a stable home base is up for grabs)\n\n26. build for anti marketing (the slickest, most polished websites now look like AI slop or a scam, sometimes a plain text page from 1998 converts better because it feels like a real person built it)\n\n27. build for agents that sit on hold for you (canceling a gym membership, fighting a medical bill, haggling with your internet provider, aint nobody got time for that)\n\n28. build for software you actually own (people are exhausted from renting 30 different subscriptions every month, pay once and run it on your own machine is a massive wedge)\n\n29. build for stuff that only works locally. The internet feels like one giant mall where every city has the exact same coffee shops and trends. Things that refuse to scale are suddenly cool again.\n\n30. build for the 90% automated, 10% human sign-off model (clients don't actually care if AI did the heavy lifting, they just want one real expert to check the work and put their name on it)\n\n31. build for infinite creative testing. Some brands are lighting money on fire on Meta because their ads die in 10 days. Build an automated pipeline that pumps out 100 fresh UGC and static ad variations a week based on what's actually converting in their ad account.\n\n32. build for cold outreach that doesn't look like cold outreach. Mass blasting 50,000 people with \"Hope this finds you well\" is dead lol. Build an agent that watches for one specific trigger like a new VP hire or a broken checkout page, builds a custom teardown on the fly, and sends it before a human SDR even wakes up.\n\n33. build for programmatic free tools instead of blog posts. Spin up 200 tiny, hyper-specific calculators, little apps and templates for one niche, rank them, and turn the traffic straight into conversions.\n\n34. build for the food and toxin awakening (people are finally waking up to ultra processed food, microplastics, and why everyone feels sick and tired all the time)\n\n35. build for the death of third places (there is almost nowhere left to just hang out without spending $50, which is why run clubs, saunas, and neighborhood clubs are blowing up)\n\n36. build for people who can't retire at 65. Either they can't afford it or they're going to live to 95 and don't want to spend 30 years watching TV. The second act\"market is huge.\n\n37. build for the \"undo\" button for agents. Giving an AI access to your inbox, calendar, or bank account is still terrifying. Whoever makes it safe to let go of the wheel wins.\n\n38. build for the sports betting and day trading hangover (a whole generation of young people are addicted to gambling on their phones and blowing up their bank accounts)\n\n39. build for the death of the attention span. Smart adults can't even sit through a movie without checking their phone or finish a book anymore, and they're starting to hate themselves for it.\n\n40. build for keeping marriages alive. Couples are stretched thin with work, kids, and money, and traditional therapy is $250 an hour with a waitlist. Anything that actually saves relationships is priceless.\n\n41. build for people who don't own anything anymore. You rent your apartment, lease your car, stream your music, and subscribe to your software. Anything that helps regular people actually own an asset again wins.\n\nKEEP BUILDING",
+      "text_zh": "现在最大的机会：\n\n1. 为解决孤独而做产品（AI 越是淹没一切，人们就越渴望真实的人际连接，IRL 和小型社交）\n\n2. 为没有摄像头、不会被录下来的场所而做（离线、不被看见，正在变成新的身份象征）\n\n3. 为年轻男性的危机而做。数以百万计二十多岁的男生，在工作、约会和人生意义上感到彻底迷茫。谁能真正建立起兄弟情谊、导师关系和一条切实可行的前进道路，谁就能拿下巨大的市场（同时也能帮到很多人）。\n\n4. 为保护人们的大脑而做（信息流正在把所有人的注意力搅成一团浆糊，能保护专注力和情绪的工具很好卖）\n\n5. 为「所有人都同意」的消亡而做（现在随便一个观点，你都能找到一张图表或一段播客来证明，人们正在渴求一个自己真正信任的信息源）\n\n6. 为 Day 2 而做，而不是 Day 0。现在谁都能用一个周末做出一款应用。但问题是：你怎么让它持续运转、收拾烂摊子，并连续增长 3 年。\n\n7. 为一次性软件而做（不是所有东西都需要做成每月 $20 的订阅，为一次旅行、一场婚礼，或一个群聊而做的小应用正在到来）\n\n8. 为那些自尊刚被 AI 挫伤的人而做。数以百万计的聪明人正在意识到，自己的工作其实大多是 pattern matching。帮他们想清楚自己接下来还能擅长什么。\n\n9. 为那些故意需要付出努力的事物而做（当一切都即时、免费时，没有什么会让人觉得是自己挣来的，人们会为慢和匠心付钱）\n\n10. 为那些怀念被指出错误的人而做。现在 AI 会同意你说的一切。能让聪明人真正反驳你想法的真实房间，正在变成一种奢侈品。\n\n11. 为 skin in the game 而做。互联网上充满了免费观点和机器人。任何要求人们用真金白银、真实姓名或真实付出，为自己所说的话负责的平台都会赢。\n\n12. 为需要花钱的 agent 而做（它们正在获得虚拟卡和预算，得有人来做支出管控、防欺诈和收据处理）\n\n13. 为装样子的邮件工作（fake email jobs）的终结而做（美国企业里有一半人清楚自己的工作就是表演，为那些想做真正工作的人修好退出坡道）\n\n14. 为那个品味很好、推荐靠谱的朋友而做（已经没人再信 Yelp 评价之类的东西了，因为全是机器人和 SEO，人们会付钱给一个特别较真的人，让他直接告诉自己去哪吃、买什么）\n\n15. 为聊天框之后的生活而做。敲 prompt 已经显得过时了。最好的 AI 产品根本不会看起来像聊天机器人，它们会待在后台，主动把事情处理掉。\n\n16. 为以前太小而不被当回事的市场而做（500 个捕龙虾的渔民以前根本不够支撑一个团队，但现在，只要你能想清楚能为这些渔民的生活增加什么价值，这就能成为一门真正的生意！）\n\n17. 为「有帮助，但不让人觉得诡异」而做。AI 正在非常快地变得非常私人。谁能想明白如何让它感觉温暖而不是怪异，谁就能拿下消费级科技。\n\n18. 为小型私密房间而做（公共互联网感觉就像广告和机器人农场，所有真正有价值的对话和交易，都在进入小型邀请制圈子）\n\n19. 为有人愿意承担责任而做。AI 可以写合同、看扫描结果，但出了问题时，机器没法看着你的眼睛。人们仍然愿意为那个能被问责的人付钱。\n\n20. 为真正跟得上变化的学习而做（四年制学位，对现在事物变化的速度来说实在太慢了）\n\n21. 为反 AI 溢价而做（当一切都被生成出来时，人手做的、未打磨的东西会成为人们愿意加价购买的身份象征）\n\n注：更多趋势/点子 https://t.co/a5ARFnvSnA（免费注册）\n\n22. 为回归实体而做（屏幕被 slop 填满，人们渴望真实世界、动手去做、本地和 analog）\n\n23. 为照护浪潮而做。人口正在快速老龄化，数千万的人在照顾父母，而全部负担都落在毫无支持的家庭身上。\n\n24. 为发现那些你根本不知道该搜什么的东西而做（算法只会继续喂给你昨天点过的同类内容，人们怀念那种偶然碰到完全不同事物的感觉）\n\n25. 为住房和无所归属的问题而做（人们负担不起安顿下来，而「稳定的家」这个概念本身也正在被重新争夺）\n\n26. 为反营销而做（现在最光滑、最精致的网站，看起来反而像 AI slop 或骗局；有时候一个 1998 年风格的纯文本页面转化反而更好，因为它感觉像是一个真人做的）\n\n27. 为能替你在电话里排队等待的 agent 而做（取消健身房会员、对抗医疗账单、跟宽带供应商讨价还价，aint nobody got time for that）\n\n28. 为你真正拥有的软件而做（人们已经厌倦了每月租用 30 个不同的订阅，一次买断并在自己的机器上运行，会是一个巨大的切入点）\n\n29. 为只在本地才成立的东西而做。互联网感觉像一个巨大的商场，每个城市都是完全一样的咖啡店和潮流。拒绝规模化的东西，突然又酷了起来。\n\n30. 为 90% 自动化、10% 人工签字的模式而做（客户其实并不关心重活是不是 AI 干的，他们只想要一位真正的专家来检查成果并署上自己的名字）\n\n31. 为无限创意测试而做。有些品牌正在 Meta 上烧钱，因为广告 10 天就失效了。做一个自动化流水线，根据广告账户里真正在转化的内容，每周产出 100 条新的 UGC 和静态广告变体。\n\n32. 为看起来不像冷触达的冷触达而做。对着 50,000 人群发 “Hope this finds you well” 已经死了 lol。做一个 agent，去盯某一个特定触发条件，比如新 VP 入职或结账页面坏了，即时做出一份定制拆解，并在人类 SDR 还没醒来之前就发出去。\n\n33. 用程序化的免费工具取代博客文章。为同一个细分领域快速做出 200 个超具体的计算器、小应用和模板，把它们做上排名，再把流量直接转化为转化。\n\n34. 为食物和毒素觉醒而做（人们终于开始意识到超加工食品、微塑料，以及为什么所有人都觉得不舒服、很疲惫）\n\n35. 为第三空间的消亡而做（几乎已经没有可以不花 $50 就只是待着聊天的地方了，这就是跑步俱乐部、桑拿和社区俱乐部正在爆发的原因）\n\n36. 为没法在 65 岁退休的人而做。要么他们负担不起，要么他们会活到 95 岁，不想用 30 年看电视。这门 second act 市场非常大。\n\n37. 为 agent 的「undo」按钮而做。把收件箱、日历或银行账户的权限交给 AI，仍然让人害怕。谁能让放手方向盘变得安全，谁就能赢。\n\n38. 为体育博彩和日内交易的宿醉而做（整整一代年轻人正沉迷于在手机上赌博，并把银行账户掏空）\n\n39. 为注意力时长的消亡而做。聪明的成年人已经没法看完一部电影还不看手机，也读不完一本书了，他们开始为此讨厌自己。\n\n40. 为维系婚姻而做。夫妻被工作、孩子和钱压得太薄，传统治疗是每小时 $250 还要排队。任何真正能挽救关系的东西都是无价的。\n\n41. 为那些已经不再拥有任何东西的人而做。房子是租的，车是租的，音乐是流媒体，软件是订阅的。任何能帮普通人重新真正拥有一项资产的东西都会赢。\n\nKEEP BUILDING",
+      "hit": false,
+      "quoted": []
+    },
+    {
+      "id": "2123901078647210300",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2123901078647210300",
+      "created_at": "2026-11-20T22:07:31.000Z",
+      "created_at_bj": "2026-11-21 06:07",
+      "views": 8522,
+      "rate_per_hour": 2150,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-21T12:42:32+08:00",
+        "views": 7331
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 8522,
+        "like_count": 384,
+        "reply_count": 3,
+        "quote_count": 2,
+        "retweet_count": 41,
+        "bookmark_count": 91
+      },
+      "already_pushed": false,
+      "text": "India has so much color https://t.co/ITtbi6366A https://t.co/EWcodLbOXv",
+      "text_zh": "印度的色彩太丰富了 https://t.co/ITtbi6366A https://t.co/EWcodLbOXv",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2123781613347897431",
+          "user": "egeberkina",
+          "text": "My take on China https://t.co/Q38NzDcGbc https://t.co/NAe4CkevsV",
+          "text_zh": "我眼中的中国 https://t.co/Q38NzDcGbc https://t.co/NAe4CkevsV"
+        }
+      ]
+    }
+  ]
+}
