@@ -1,0 +1,349 @@
+{
+  "run_at": "2026-11-22T08:43:58+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "0834",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2124292261479321960",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2124292261479321960",
+      "created_at": "2026-11-22T00:01:57.000Z",
+      "created_at_bj": "2026-11-22 08:01",
+      "views": 13113,
+      "rate_per_hour": 15923,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-22T08:12:08+08:00",
+        "views": 4665
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 13113,
+        "like_count": 186,
+        "reply_count": 32,
+        "quote_count": 4,
+        "retweet_count": 16,
+        "bookmark_count": 352
+      },
+      "already_pushed": true,
+      "text": "More REALLY big opportunities right now:\n\n1. build for safe, unstructured hangouts for tweens and teens. Kids don't roam neighborhoods anymore, so they live on TikTok and Roblox. Physical maker spaces, sports labs, and offline clubs where they can actually just hang out are a massive gap.\n\n2. build for people whose nervous system is stuck in fight or flight. Everyone is wired, scrolling at 1am, and waking up exhausted. Anything that actually down-regulates people without a prescription is an easy sell.\n\n3. build for the new blue collar millionaire. Smart 19-year-olds are skipping $200k degrees to become electricians, welders, and robotics techs. Build the modern software, training, and prestige brands for them.\n\n4. build for companies that refuse to put their data in the cloud (hospitals, law firms, and defense contractors want AI badly, they just can't paste client secrets into a chatbot…private, on-premise AI setups are a massive market)\n\n5. build for people who treat their dog like their firstborn child (fewer kids means absurd spending on pet longevity, fresh food, and preventative diagnostics, we're in the golden age of pet health)\n\n6. build for the physical world that never got digitized. Warehouses, construction sites, and kitchens still run on clipboards and shouting. Cameras and smart glasses that just watch the work and automatically log inventory, safety, and billing are coming fast.\n\n7. build for hyper local news that isn't dead (everyone knows what's happening in DC, nobody knows why their town's school board just raised taxes or what's opening down the street…one person with AI tools can now run a profitable local media empire)\n\n8. build for live experiences you can't fake or stream. When any video can be generated in 5 seconds, being in the actual room. weird live sports, underground shows, real world tournaments... it becomes the last uncopyable media asset IMO.\n\n9. build for people living alone (more adults live solo than ever in history, yet groceries, housing, furniture, and travel are still designed and priced for families of four)\n\n10. build for charging for completion, not access (people buy courses they never watch, books they never finish, and gym memberships they never use…products with real accountability that get people across the finish line can charge 5x more)\n\n11. build for adult summer camp. Burned out professionals don't want another beach resort where they scroll on their phone, but they'll pay $3k (more?) to spend 5 days in the woods building something, cooking over fire, and making real friends.\n\n12. build for \"know your maker\" everyday goods (people are sick of Amazon knockoffs and mystery factories. direct, traceable basics for clothing, cookware, and furniture where you know the exact material and who made it are exploding)\n\n13. build for people who want to make real things with their hands. Woodworking, ceramics, welding, sewing. modern neighborhood workshops with memberships like Equinox instead of dusty community college basements vibes.\n\n14. build for people who want to read real books again. Goodreads hasn't changed since 2008. Social reading clubs, physical book swaps, and distraction free reading trackers are wide open.\n\n15. build for teaching kids how to actually think in the AI era (memorizing facts is dead and essays are written by bots. so things like live debate clubs, Socratic tutoring, and real-world problem solving for kids)\n\n16. build for sober nightlife that isn't lame. Younger generations are drinking way less, but they still want a great 10pm Friday vibe that isn't a loud bar or a cheesy wellness cult.\n\n17. build for amateur sports with pro-level production (35-year olds playing rec basketball, golf, or tennis will happily pay for automated AI highlight reels, real stats, rankings, and leagues that feel like the pros)\n\n18. build for winning government contracts and grants with AI. Trillions of dollars go to the same 50 dinosaur incumbents just because the paperwork is 200 pages of torture. Automate the RFPs and unlock it for small, modern companies. I need to do a whole ep of @startupideaspod on this.\n\n19. build for modern rites of passage. We stripped away almost all the old ceremonies for turning 30, becoming a parent, or starting a new chapter and people are  starving for meaningful ways to mark big life moments that dont cost an arm and a leg too.\n\n20. build for micro-franchises in entertainment (instead of spending $200M to make one movie for everyone, use AI tools to build deep, interactive worlds, games, and shows for 10,000 obsessive superfans)\n\nNote: I co-founded an agency https://t.co/YQJFV1Xlkt that brings ideas to life and are trusted by Nike, Shopify, Dropbox, Fortnite and more.\n\n21. build for reclaiming dead strip malls and empty office towers (turn half-empty commercial real estate into bathhouses, indoor padel clubs, micro-factories, and neighborhood hubs. real estate arbitrage with huge upside)\n\n22. build for \"how it's made\" craft media and commerce (people are hypnotized by watching real humans do hard physical skills like restoring watches, forging knives, building cabins and pair authentic craft content directly with physical products)\n\n23. build for the quiet quitters of social media (millions of people still want to keep up with 30 real friends without posting to an algorithm... private, zero-feed life updates and monthly friend newsletters are overdue)\n\nThye'll tell you it's a \"bad time to be building\". \n\nI'll tell you this...\n\nHAPPY BUILDING",
+      "text_zh": "现在还有更多真正巨大的机会：\n\n1. 为青少年安全、非结构化的线下聚会而做。孩子们不再在街区里到处跑了，所以他们都活在 TikTok 和 Roblox 上。实体创客空间、运动实验室，以及能让他们真正只是待在一起玩的线下俱乐部，是一个巨大的缺口。\n\n2. 为神经系统卡在 fight or flight 状态的人而做。所有人都紧绷着，凌晨 1 点还在刷手机，醒来却精疲力尽。任何能真正让人下调紧张状态、又不需要处方的东西，都很好卖。\n\n3. 为新一代蓝领百万富翁而做。聪明的 19 岁年轻人正在跳过要花 $200k 的学位，去当电工、焊工和机器人技术员。为他们打造现代化的软件、培训和有声望的品牌。\n\n4. 为拒绝把数据放进云端的公司而做（医院、律所和国防承包商非常想用 AI，只是不能把客户机密粘贴到聊天机器人里……私有、本地部署的 AI 方案是一个巨大的市场）\n\n5. 为把狗当成亲生老大来对待的人而做（孩子更少，意味着在宠物长寿、鲜粮和预防性诊断上的支出会高得离谱，我们正处在宠物健康的黄金时代）\n\n6. 为从未被数字化的物理世界而做。仓库、工地和厨房仍然靠剪贴板和喊话运转。能看着干活、并自动记录库存、安全和账单的摄像头和智能眼镜，正在快速到来。\n\n7. 为并没有死掉的超本地新闻而做（每个人都知道 DC 在发生什么，却没人知道自己镇上的教育委员会为什么刚加了税，或者街边新开了什么……现在一个人加上 AI 工具，就能运营一个能赚钱的本地媒体帝国）\n\n8. 为无法伪造、也无法直播替代的现场体验而做。当任何视频都能在 5 秒内生成时，真正身在现场这件事——古怪的现场体育、地下演出、现实世界的锦标赛……在我看来，会成为最后一种无法被复制的媒体资产。\n\n9. 为独自生活的人而做（独自生活的成年人比历史上任何时候都多，但杂货、住房、家具和旅行，仍然是按一家四口来设计和定价的）\n\n10. 为「为完成收费，而不是为进入收费」而做（人们买了课却不看，买了书却读不完，办了健身会员却不去……真正有问责机制、能把人带到终点线的产品，可以收 5 倍的价格）\n\n11. 为成人夏令营而做。精疲力尽的职场人不再想去另一个只会刷手机的海滨度假村，但他们愿意花 $3k（也许更多？）在树林里待 5 天，一起做点东西、在火上做饭，并交到真正的朋友。\n\n12. 为「认识你的制造者」日用好物而做（人们已经厌倦了 Amazon 仿品和来路不明的工厂。能直接溯源的服装、厨具和家具基础款——你知道确切用了什么材料、是谁做的——正在爆发）\n\n13. 为想亲手做出真实物件的人而做。木工、陶艺、焊接、缝纫。现代化的社区工坊，会员制要像 Equinox，而不是落满灰的社区大学地下室那种感觉。\n\n14. 为想重新读实体书的人而做。Goodreads 从 2008 年以来就没怎么变过。社交阅读俱乐部、实体换书，以及无干扰的阅读打卡工具，都还是一片空白。\n\n15. 为在 AI 时代真正教孩子思考而做（背诵事实已经过时，作文都是机器人写的。所以可以做现场辩论俱乐部、苏格拉底式辅导，以及面向孩子的真实世界问题解决）\n\n16. 为不 lame 的清醒夜生活而做。年轻一代喝酒少多了，但他们仍然想要周五晚上 10 点那种很棒的氛围，而不是嘈杂的酒吧，或装腔作势的 wellness 邪教。\n\n17. 为带有职业级制作水准的业余运动而做（35 岁还在打业余篮球、高尔夫或网球的人，会很乐意付钱买自动生成的 AI 集锦、真实数据、排名，以及有职业感的联赛）\n\n18. 为用 AI 拿下政府合同和资助而做。数万亿美元都流向同一批 50 家恐龙级在位者，只因为那套文件有 200 页，填起来就是折磨。把 RFP 自动化，把它向小型、现代化的公司打开。这件事我得专门做一整期 @startupideaspod。\n\n19. 为现代成人礼/人生仪式而做。我们几乎剥掉了所有旧的仪式——30 岁、成为父母，或开启新篇章——而人们极度渴望有意义的方式来标记人生大事，而且不要贵到让人倾家荡产。\n\n20. 为娱乐领域的微特许经营而做（与其花 $200M 给所有人拍一部电影，不如用 AI 工具，为 10,000 名极其痴迷的超级粉丝，打造深度的互动世界、游戏和剧集）\n\n注：我联合创办了一家能把点子做成现实的机构 https://t.co/YQJFV1Xlkt，Nike、Shopify、Dropbox、Fortnite 等公司都信任我们。\n\n21. 为盘活死去的购物中心和空置写字楼而做（把半空的商业地产改造成浴场、室内 padel 俱乐部、微型工厂和社区中心。这种房地产套利空间巨大）\n\n22. 为「它是怎么做出来的」工艺媒体和商业而做（人们会看得入迷：看真人做高难度的体力技艺，比如修复手表、锻造刀具、建造木屋，并把真实的工艺内容直接和实体产品配对）\n\n23. 为社交媒体上的安静退出者而做（仍有数百万人只想跟进 30 个真正的朋友，而不想发帖去迎合算法……私密、没有信息流的生活近况更新，以及每月朋友通讯，早就该出现了）\n\n他们会告诉你，现在是「做产品的糟糕时机」。\n\n我要告诉你的是……\n\nHAPPY BUILDING",
+      "hit": true,
+      "quoted": [
+        {
+          "id": "2123906584531304944",
+          "user": "gregisenberg",
+          "text": "The biggest opportunities right now:\n\n1. build for solving loneliness (the more AI floods everything, the more people crave real human connection, IRL and small social) \n\n2. build for places with no cameras and no recording (being offline and unseen is turning into the new status symbol)\n\n3. build for the crisis of young men. Millions of guys in their 20s feel completely lost with work, dating, and purpose. Whoever builds real brotherhood, mentorship, and an actual path forward wins a massive market (and helps a ton of people). \n\n4. build for protecting people's brains (feeds are turning everyone's attention to mush, tools that protect your focus and mood are an easy sell)\n\n5. build for the death of \"everyone agrees\" (you can find a chart or a podcast clip to prove any point now, people are starving for one source they actually trust)\n\n6. build for day 2, not day 0. Anyone can launch an app in a weekend now. But how can you keep it running, fix the mess, and grow it for 3 years.\n\n7. build for throwaway software (not everything needs to be a $20 a month subscription, tiny apps made for one trip, one wedding, or one group chat are coming)\n\n8. build for people whose ego just got bruised by AI. Millions of smart people are  realizing their job was mostly pattern matching. Help them figure out what they're good for next.\n\n9. build for things that take effort on purpose (when everything is instant and free, nothing feels earned, people will pay for slowness and craft)\n\n10. build for people who miss being told they're wrong. AI agrees with everything you say now. Real rooms where smart people actually push back on your ideas are becoming a luxury.\n\n11. build for skin in the game. The internet is full of free takes and bots. Any platform where people have to put real money, real names, or real work behind what they say wins.\n\n12. build for agents that need to spend money (they're getting virtual cards and budgets, someone builds the spend controls, fraud protection, receipts)\n\n13. build for the end of fake email jobs (half of corporate America knows their job is theater, build the exit ramp for people who want to do real work)\n\n14. build for the friend with great recommendations (nobody trusts Yelp reviews etc anymore because it's all bots and SEO, people will pay one obsessive person to just tell them where to eat and what to buy)\n\n15. build for life after the chat box. Typing prompts already feels old. The best AI products won't look like chatbots at all, they'll just sit in the background and proactively handle things.\n\n16. build for markets too small to matter before (500 lobster fishermen was never worth a team, now it's a  real business if you can figure out what to build value to add to these fishermen lives!)\n\n17. build for helpful without being creepy. AI is getting very personal very fast. Whoever figures out how to make it feel warm instead of weird owns consumer tech.\n\n18. build for small private rooms (the public internet feels like an ad and a bot farm, all the good conversations and deals are moving into small invite-only groups)\n\n19. build for someone taking the blame. AI can write the contract or read the scan, but a machine can't look you in the eye when it goes wrong. People still pay for a human on the hook.\n\n20. build for learning that actually keeps up (a four year degree is way too slow for how fast things move now)\n\n21. build for the anti-AI premium (as everything gets generated, human-made and unpolished become status symbols people pay up for)\n\nnote: more trends/ideas https://t.co/a5ARFnvSnA (free to sign up)\n\n22. build for the return to the physical (screens fill with slop, people crave the real world, the hands on, the local, the analog)\n\n23. build for the caregiving wave. The population is aging fast, tens of millions are caring for parents, and the whole burden is landing on families with no support.\n\n24. build for finding things you didn't know to search for (algorithms just feed you more of what you clicked yesterday, people miss stumbling onto something totally different)\n\n25. build for the housing and rootlessness problem (people can't afford to settle down, and the whole idea of a stable home base is up for grabs)\n\n26. build for anti marketing (the slickest, most polished websites now look like AI slop or a scam, sometimes a plain text page from 1998 converts better because it feels like a real person built it)\n\n27. build for agents that sit on hold for you (canceling a gym membership, fighting a medical bill, haggling with your internet provider, aint nobody got time for that)\n\n28. build for software you actually own (people are exhausted from renting 30 different subscriptions every month, pay once and run it on your own machine is a massive wedge)\n\n29. build for stuff that only works locally. The internet feels like one giant mall where every city has the exact same coffee shops and trends. Things that refuse to scale are suddenly cool again.\n\n30. build for the 90% automated, 10% human sign-off model (clients don't actually care if AI did the heavy lifting, they just want one real expert to check the work and put their name on it)\n\n31. build for infinite creative testing. Some brands are lighting money on fire on Meta because their ads die in 10 days. Build an automated pipeline that pumps out 100 fresh UGC and static ad variations a week based on what's actually converting in their ad account.\n\n32. build for cold outreach that doesn't look like cold outreach. Mass blasting 50,000 people with \"Hope this finds you well\" is dead lol. Build an agent that watches for one specific trigger like a new VP hire or a broken checkout page, builds a custom teardown on the fly, and sends it before a human SDR even wakes up.\n\n33. build for programmatic free tools instead of blog posts. Spin up 200 tiny, hyper-specific calculators, little apps and templates for one niche, rank them, and turn the traffic straight into conversions.\n\n34. build for the food and toxin awakening (people are finally waking up to ultra processed food, microplastics, and why everyone feels sick and tired all the time)\n\n35. build for the death of third places (there is almost nowhere left to just hang out without spending $50, which is why run clubs, saunas, and neighborhood clubs are blowing up)\n\n36. build for people who can't retire at 65. Either they can't afford it or they're going to live to 95 and don't want to spend 30 years watching TV. The second act\"market is huge.\n\n37. build for the \"undo\" button for agents. Giving an AI access to your inbox, calendar, or bank account is still terrifying. Whoever makes it safe to let go of the wheel wins.\n\n38. build for the sports betting and day trading hangover (a whole generation of young people are addicted to gambling on their phones and blowing up their bank accounts)\n\n39. build for the death of the attention span. Smart adults can't even sit through a movie without checking their phone or finish a book anymore, and they're starting to hate themselves for it.\n\n40. build for keeping marriages alive. Couples are stretched thin with work, kids, and money, and traditional therapy is $250 an hour with a waitlist. Anything that actually saves relationships is priceless.\n\n41. build for people who don't own anything anymore. You rent your apartment, lease your car, stream your music, and subscribe to your software. Anything that helps regular people actually own an asset again wins.\n\nKEEP BUILDING",
+          "text_zh": "现在最大的机会：\n\n1. 为解决孤独而做产品（AI 越是淹没一切，人们就越渴望真实的人际连接，IRL 和小型社交）\n\n2. 为没有摄像头、不会被录下来的场所而做（离线、不被看见，正在变成新的身份象征）\n\n3. 为年轻男性的危机而做。数以百万计二十多岁的男生，在工作、约会和人生意义上感到彻底迷茫。谁能真正建立起兄弟情谊、导师关系和一条切实可行的前进道路，谁就能拿下巨大的市场（同时也能帮到很多人）。\n\n4. 为保护人们的大脑而做（信息流正在把所有人的注意力搅成一团浆糊，能保护专注力和情绪的工具很好卖）\n\n5. 为「所有人都同意」的消亡而做（现在随便一个观点，你都能找到一张图表或一段播客来证明，人们正在渴求一个自己真正信任的信息源）\n\n6. 为 Day 2 而做，而不是 Day 0。现在谁都能用一个周末做出一款应用。但问题是：你怎么让它持续运转、收拾烂摊子，并连续增长 3 年。\n\n7. 为一次性软件而做（不是所有东西都需要做成每月 $20 的订阅，为一次旅行、一场婚礼，或一个群聊而做的小应用正在到来）\n\n8. 为那些自尊刚被 AI 挫伤的人而做。数以百万计的聪明人正在意识到，自己的工作其实大多是 pattern matching。帮他们想清楚自己接下来还能擅长什么。\n\n9. 为那些故意需要付出努力的事物而做（当一切都即时、免费时，没有什么会让人觉得是自己挣来的，人们会为慢和匠心付钱）\n\n10. 为那些怀念被指出错误的人而做。现在 AI 会同意你说的一切。能让聪明人真正反驳你想法的真实房间，正在变成一种奢侈品。\n\n11. 为 skin in the game 而做。互联网上充满了免费观点和机器人。任何要求人们用真金白银、真实姓名或真实付出，为自己所说的话负责的平台都会赢。\n\n12. 为需要花钱的 agent 而做（它们正在获得虚拟卡和预算，得有人来做支出管控、防欺诈和收据处理）\n\n13. 为装样子的邮件工作（fake email jobs）的终结而做（美国企业里有一半人清楚自己的工作就是表演，为那些想做真正工作的人修好退出坡道）\n\n14. 为那个品味很好、推荐靠谱的朋友而做（已经没人再信 Yelp 评价之类的东西了，因为全是机器人和 SEO，人们会付钱给一个特别较真的人，让他直接告诉自己去哪吃、买什么）\n\n15. 为聊天框之后的生活而做。敲 prompt 已经显得过时了。最好的 AI 产品根本不会看起来像聊天机器人，它们会待在后台，主动把事情处理掉。\n\n16. 为以前太小而不被当回事的市场而做（500 个捕龙虾的渔民以前根本不够支撑一个团队，但现在，只要你能想清楚能为这些渔民的生活增加什么价值，这就能成为一门真正的生意！）\n\n17. 为「有帮助，但不让人觉得诡异」而做。AI 正在非常快地变得非常私人。谁能想明白如何让它感觉温暖而不是怪异，谁就能拿下消费级科技。\n\n18. 为小型私密房间而做（公共互联网感觉就像广告和机器人农场，所有真正有价值的对话和交易，都在进入小型邀请制圈子）\n\n19. 为有人愿意承担责任而做。AI 可以写合同、看扫描结果，但出了问题时，机器没法看着你的眼睛。人们仍然愿意为那个能被问责的人付钱。\n\n20. 为真正跟得上变化的学习而做（四年制学位，对现在事物变化的速度来说实在太慢了）\n\n21. 为反 AI 溢价而做（当一切都被生成出来时，人手做的、未打磨的东西会成为人们愿意加价购买的身份象征）\n\n注：更多趋势/点子 https://t.co/a5ARFnvSnA（免费注册）\n\n22. 为回归实体而做（屏幕被 slop 填满，人们渴望真实世界、动手去做、本地和 analog）\n\n23. 为照护浪潮而做。人口正在快速老龄化，数千万的人在照顾父母，而全部负担都落在毫无支持的家庭身上。\n\n24. 为发现那些你根本不知道该搜什么的东西而做（算法只会继续喂给你昨天点过的同类内容，人们怀念那种偶然碰到完全不同事物的感觉）\n\n25. 为住房和无所归属的问题而做（人们负担不起安顿下来，而「稳定的家」这个概念本身也正在被重新争夺）\n\n26. 为反营销而做（现在最光滑、最精致的网站，看起来反而像 AI slop 或骗局；有时候一个 1998 年风格的纯文本页面转化反而更好，因为它感觉像是一个真人做的）\n\n27. 为能替你在电话里排队等待的 agent 而做（取消健身房会员、对抗医疗账单、跟宽带供应商讨价还价，aint nobody got time for that）\n\n28. 为你真正拥有的软件而做（人们已经厌倦了每月租用 30 个不同的订阅，一次买断并在自己的机器上运行，会是一个巨大的切入点）\n\n29. 为只在本地才成立的东西而做。互联网感觉像一个巨大的商场，每个城市都是完全一样的咖啡店和潮流。拒绝规模化的东西，突然又酷了起来。\n\n30. 为 90% 自动化、10% 人工签字的模式而做（客户其实并不关心重活是不是 AI 干的，他们只想要一位真正的专家来检查成果并署上自己的名字）\n\n31. 为无限创意测试而做。有些品牌正在 Meta 上烧钱，因为广告 10 天就失效了。做一个自动化流水线，根据广告账户里真正在转化的内容，每周产出 100 条新的 UGC 和静态广告变体。\n\n32. 为看起来不像冷触达的冷触达而做。对着 50,000 人群发 “Hope this finds you well” 已经死了 lol。做一个 agent，去盯某一个特定触发条件，比如新 VP 入职或结账页面坏了，即时做出一份定制拆解，并在人类 SDR 还没醒来之前就发出去。\n\n33. 用程序化的免费工具取代博客文章。为同一个细分领域快速做出 200 个超具体的计算器、小应用和模板，把它们做上排名，再把流量直接转化为转化。\n\n34. 为食物和毒素觉醒而做（人们终于开始意识到超加工食品、微塑料，以及为什么所有人都觉得不舒服、很疲惫）\n\n35. 为第三空间的消亡而做（几乎已经没有可以不花 $50 就只是待着聊天的地方了，这就是跑步俱乐部、桑拿和社区俱乐部正在爆发的原因）\n\n36. 为没法在 65 岁退休的人而做。要么他们负担不起，要么他们会活到 95 岁，不想用 30 年看电视。这门 second act 市场非常大。\n\n37. 为 agent 的「undo」按钮而做。把收件箱、日历或银行账户的权限交给 AI，仍然让人害怕。谁能让放手方向盘变得安全，谁就能赢。\n\n38. 为体育博彩和日内交易的宿醉而做（整整一代年轻人正沉迷于在手机上赌博，并把银行账户掏空）\n\n39. 为注意力时长的消亡而做。聪明的成年人已经没法看完一部电影还不看手机，也读不完一本书了，他们开始为此讨厌自己。\n\n40. 为维系婚姻而做。夫妻被工作、孩子和钱压得太薄，传统治疗是每小时 $250 还要排队。任何真正能挽救关系的东西都是无价的。\n\n41. 为那些已经不再拥有任何东西的人而做。房子是租的，车是租的，音乐是流媒体，软件是订阅的。任何能帮普通人重新真正拥有一项资产的东西都会赢。\n\nKEEP BUILDING"
+        }
+      ]
+    },
+    {
+      "id": "2124243178870255864",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2124243178870255864",
+      "created_at": "2026-11-21T20:46:55.000Z",
+      "created_at_bj": "2026-11-22 04:46",
+      "views": 94722,
+      "rate_per_hour": 11367,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-22T08:12:08+08:00",
+        "views": 88691
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 94722,
+        "like_count": 1270,
+        "reply_count": 35,
+        "quote_count": 2,
+        "retweet_count": 21,
+        "bookmark_count": 545
+      },
+      "already_pushed": true,
+      "text": "He's such an excellent speaker https://t.co/oq8rA0niTK",
+      "text_zh": "他真是一位出色的演讲者 https://t.co/oq8rA0niTK",
+      "hit": true,
+      "quoted": [
+        {
+          "id": "2123989025702735962",
+          "user": "ianmSC",
+          "text": "You can literally see Andrew Ross Sorkin sink in his chair as he realizes Palmer Luckey is going to dismantle everything his political party believes about Ukraine, Elon Musk and Donald Trump https://t.co/H72RX7Ig3T",
+          "text_zh": "你可以清清楚楚看到，Andrew Ross Sorkin 在座位上往下沉，因为他意识到 Palmer Luckey 即将拆穿他所在政党关于乌克兰、Elon Musk 和 Donald Trump 的一切信念 https://t.co/H72RX7Ig3T"
+        }
+      ]
+    },
+    {
+      "id": "2124209048128016777",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2124209048128016777",
+      "created_at": "2026-11-21T18:31:17.000Z",
+      "created_at_bj": "2026-11-22 02:31",
+      "views": 26941,
+      "rate_per_hour": 1236,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-22T08:12:08+08:00",
+        "views": 26285
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 26941,
+        "like_count": 357,
+        "reply_count": 89,
+        "quote_count": 1,
+        "retweet_count": 1,
+        "bookmark_count": 18
+      },
+      "already_pushed": false,
+      "text": "Best part of scaring of AI reply bots is that now everyone can reply to my posts again\n\nBefore I had to lock it to \"only people who my followers follow can reply\"\n\nI like to have everyone reply and AI reply bots were ruining that too! https://t.co/T4G7v6nR7y",
+      "text_zh": "把 AI 回复机器人吓跑之后，最棒的一点是现在大家又都能回复我的帖子了\n\n以前我只能把回复权限锁成「仅我关注者所关注的人可回复」\n\n我希望所有人都能回复，但 AI 回复机器人也把这件事搞砸了！ https://t.co/T4G7v6nR7y",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2124188998985724374",
+          "user": "Delaurens03",
+          "text": "@levelsio Hey now i can comment!",
+          "text_zh": "@levelsio 嘿，我现在能评论了！"
+        }
+      ]
+    },
+    {
+      "id": "2124200538904375547",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2124200538904375547",
+      "created_at": "2026-11-21T17:57:28.000Z",
+      "created_at_bj": "2026-11-22 01:57",
+      "views": 23230,
+      "rate_per_hour": 929,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-22T08:12:08+08:00",
+        "views": 22737
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 23230,
+        "like_count": 165,
+        "reply_count": 84,
+        "quote_count": 3,
+        "retweet_count": 6,
+        "bookmark_count": 68
+      },
+      "already_pushed": false,
+      "text": "I paid $300 for a 15+ year old Sony camcorder that was probably collecting dust in someone’s garage. \n\nBest thing I bought this year.\n\nIn a world of brainrot and infinite scroll, I think millions of people want physical, tactile things again. https://t.co/DPcAHGqaIe",
+      "text_zh": "我花了 300 美元买了一台有 15 年以上历史的 Sony 摄像机，它大概之前一直在某人家车库里吃灰。\n\n这是我今年买过最值的东西。\n\n在这个满是脑腐内容和无限滚动的世界里，我觉得有几百万人又开始想要实体的、能亲手触摸的东西了。 https://t.co/DPcAHGqaIe",
+      "hit": false,
+      "quoted": []
+    },
+    {
+      "id": "2124190058194632873",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2124190058194632873",
+      "created_at": "2026-11-21T17:15:50.000Z",
+      "created_at_bj": "2026-11-22 01:15",
+      "views": 14305,
+      "rate_per_hour": 409,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-22T08:12:08+08:00",
+        "views": 14088
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 14305,
+        "like_count": 125,
+        "reply_count": 39,
+        "quote_count": 4,
+        "retweet_count": 1,
+        "bookmark_count": 11
+      },
+      "already_pushed": false,
+      "text": "Second builder to reach the  $1K revenue mark ✅ https://t.co/bD0kD8GZg1 https://t.co/gIDSIcKP91",
+      "text_zh": "第二位达到 $1K 营收里程碑的 builder ✅ https://t.co/bD0kD8GZg1 https://t.co/gIDSIcKP91",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2124039685420814497",
+          "user": "marclou",
+          "text": "#1 of $100k hackathon just crossed $1,000 👏 https://t.co/8VnzowWi0x",
+          "text_zh": "$100k hackathon 的第 1 名刚刚突破 $1,000 👏 https://t.co/8VnzowWi0x"
+        }
+      ]
+    },
+    {
+      "id": "2124189735262548313",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2124189735262548313",
+      "created_at": "2026-11-21T17:14:33.000Z",
+      "created_at_bj": "2026-11-22 01:14",
+      "views": 147303,
+      "rate_per_hour": 5801,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-22T08:12:08+08:00",
+        "views": 144225
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 147303,
+        "like_count": 5719,
+        "reply_count": 38,
+        "quote_count": 26,
+        "retweet_count": 357,
+        "bookmark_count": 1344
+      },
+      "already_pushed": true,
+      "text": "With love from Türkiye https://t.co/2K85Rs2Rxx https://t.co/SrxGht2ReA",
+      "text_zh": "来自 Türkiye 的爱 https://t.co/2K85Rs2Rxx https://t.co/SrxGht2ReA",
+      "hit": true,
+      "quoted": [
+        {
+          "id": "2123901078647210300",
+          "user": "egeberkina",
+          "text": "India has so much color https://t.co/ITtbi6366A https://t.co/EWcodLbOXv",
+          "text_zh": "印度的色彩太丰富了 https://t.co/ITtbi6366A https://t.co/EWcodLbOXv"
+        }
+      ]
+    },
+    {
+      "id": "2124174144812220784",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2124174144812220784",
+      "created_at": "2026-11-21T16:12:36.000Z",
+      "created_at_bj": "2026-11-22 00:12",
+      "views": 82182,
+      "rate_per_hour": 3732,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-22T08:12:08+08:00",
+        "views": 80202
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 82182,
+        "like_count": 1373,
+        "reply_count": 148,
+        "quote_count": 13,
+        "retweet_count": 19,
+        "bookmark_count": 115
+      },
+      "already_pushed": true,
+      "text": "More likely than permanent underclass is we will all be permanent middle class",
+      "text_zh": "比起出现永久底层阶级，更可能的是我们都会成为永久的中产阶级",
+      "hit": false,
+      "quoted": []
+    },
+    {
+      "id": "2124173662597075020",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2124173662597075020",
+      "created_at": "2026-11-21T16:10:41.000Z",
+      "created_at_bj": "2026-11-22 00:10",
+      "views": 66407,
+      "rate_per_hour": 2441,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-22T08:12:08+08:00",
+        "views": 65112
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 66407,
+        "like_count": 1103,
+        "reply_count": 191,
+        "quote_count": 8,
+        "retweet_count": 7,
+        "bookmark_count": 41
+      },
+      "already_pushed": true,
+      "text": "I think we may have solved AI replies for now\n\nI literally don't get them anymore\n\nWe scared them off with the mass block list?\n\n🙏 😊",
+      "text_zh": "我觉得我们暂时可能已经解决了 AI 回复的问题\n\n我现在基本上再也收不到这类回复了\n\n是我们用大规模屏蔽名单把它们吓跑了吗？\n\n🙏 😊",
+      "hit": false,
+      "quoted": []
+    },
+    {
+      "id": "2124150966446674236",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2124150966446674236",
+      "created_at": "2026-11-21T14:40:29.000Z",
+      "created_at_bj": "2026-11-21 22:40",
+      "views": 24788,
+      "rate_per_hour": 795,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-22T08:12:08+08:00",
+        "views": 24366
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 24788,
+        "like_count": 286,
+        "reply_count": 33,
+        "quote_count": 2,
+        "retweet_count": 1,
+        "bookmark_count": 21
+      },
+      "already_pushed": true,
+      "text": "- chicken / broccoli https://t.co/p1o0og8CTY https://t.co/EMHwcNv2Kz",
+      "text_zh": "- 鸡肉 / 西兰花 https://t.co/p1o0og8CTY https://t.co/EMHwcNv2Kz",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2123828083052658862",
+          "user": "clavicular",
+          "text": "Working on the mog, taking minimal stack rn\n-240 test\n-7.5 reta \n-.5 dut\n-2.5 minox \n-5 nebivolol \n-200 modaf \n-5ml cereb\n-200 doxy\n-5 tadalafil\n-6mg selegiline \n-100mcg mt2 https://t.co/AejXbU5oAx",
+          "text_zh": "正在搞 mog，目前用的是最小药栈\n-240 test\n-7.5 reta \n-.5 dut\n-2.5 minox \n-5 nebivolol \n-200 modaf \n-5ml cereb\n-200 doxy\n-5 tadalafil\n-6mg selegiline \n-100mcg mt2 https://t.co/AejXbU5oAx"
+        }
+      ]
+    },
+    {
+      "id": "2124139645587841226",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2124139645587841226",
+      "created_at": "2026-11-21T13:55:30.000Z",
+      "created_at_bj": "2026-11-21 21:55",
+      "views": 54924,
+      "rate_per_hour": 1284,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-22T08:12:08+08:00",
+        "views": 54243
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 54924,
+        "like_count": 372,
+        "reply_count": 69,
+        "quote_count": 7,
+        "retweet_count": 1,
+        "bookmark_count": 23
+      },
+      "already_pushed": true,
+      "text": "First appeal oath in!\n\n✅ Removed from the block list https://t.co/3oWzKfs4Wg",
+      "text_zh": "第一份申诉誓言来了！\n\n✅ 已从屏蔽名单中移除 https://t.co/3oWzKfs4Wg",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2124101198131413133",
+          "user": "AGI_Tiramisu",
+          "text": "⚠️ I, @AGI_Tiramisu, of sound mind and human body, sincerely apologize for my AI replies and do hereby solemnly swear and affirm that I shall never again use AI to write any reply on X. I swear to God. Should I break this oath, I accept a permanent block by the entire internet",
+          "text_zh": "⚠️ 我，@AGI_Tiramisu，在心智健全、身为人类的前提下，真诚为我此前用 AI 回复道歉，并在此郑重宣誓：以后绝不再用 AI 撰写任何 X 上的回复。我对天发誓。若违背此誓，我接受被全网永久拉黑。"
+        }
+      ]
+    }
+  ],
+  "new_hits": [],
+  "dropped_from_window": [],
+  "notes": "0834 判定轮（实际运行 08:43:58 北京时间）：按规则判定达标并推送新达标帖。间隔 0.5306 小时（上一轮 08:12:08 → 本轮 08:43:58 北京时间，31 分 50 秒）。例行触发 08:40:09 北京时间（2026-11-22T00:40:09.360Z），晚于预定 08:34 槽位约 6 分 9 秒；本轮按 0834 槽位归档。@steipete、@karpathy 窗口内无原创或引用帖。本轮 get_users_posts 使用 exclude=replies,retweets，六个账号均使用 start_time=2026-11-21T12:40:00Z 拉取时间线，再按归档时刻 08:43:58 的 12 小时窗口本地过滤。窗口起点 2026-11-21 20:43:58 北京时间（2026-11-21T12:43:58Z）。本轮 run_at 取 get_posts_by_ids 复核完成后的归档时刻 08:43:58（例行触发 08:40:09）；浏览量与互动数据以公开 x.get_posts_by_ids 复核值为准（该接口字段为 repost_count，归档仍写为 retweet_count）。@steipete、@karpathy 带 start_time 的时间线均为 result_count=0。六个账号时间线另返回 1 条需剔除的回复：@gregisenberg 2124293076776538124（其长文 2124292261479321960 的跟帖，时间线浏览 1781），已按规则排除，不进入检查集。窗口内检查帖 10 条，均有 impression_count。本轮先用公开 x.get_users_posts 拉时间线，再用 get_posts_by_ids 复核浏览量并补齐长文与被引用帖全文。get_users_posts 的 max_results 请求值为 100，接口降至 25；六个账号均无 next_token，时间线已拉全。无帖子移出 12 小时窗口。本轮无新进入窗口的帖子。检查帖数量 10 → 10 条。全部 10 条检查帖的英文全文与中文译文沿用 0804 归档（与本轮原文一致）；被引用帖 2123906584531304944、2123989025702735962、2124188998985724374、2124039685420814497、2123901078647210300、2123828083052658862、2124101198131413133 的英文全文与中文译文亦沿用 0804（与本轮原文一致）。@gregisenberg 2124292261479321960 时间线浏览 12940、点赞 183、书签 349，get_posts_by_ids 复核为浏览 13113、点赞 186、书签 352，以复核为准（回复 32、引用 4、转发 16 与时间线一致）。 @levelsio 2124243178870255864 时间线浏览 94610、点赞 1268，get_posts_by_ids 复核为浏览 94722、点赞 1270，以复核为准（书签 545、回复 35、引用 2、转发 21 与时间线一致）。 @levelsio 2124209048128016777 时间线浏览 26937，get_posts_by_ids 复核为浏览 26941，以复核为准（点赞 357、书签 18、回复 89、引用 1、转发 1 与时间线一致）。 @gregisenberg 2124200538904375547 时间线与复核一致：浏览 23230、点赞 165、书签 68、回复 84、引用 3、转发 6。 @marclou 2124190058194632873 时间线浏览 14300，get_posts_by_ids 复核为浏览 14305，以复核为准（点赞 125、书签 11、回复 39、引用 4、转发 1 与时间线一致）。 @egeberkina 2124189735262548313 时间线浏览 147248、点赞 5716、书签 1343，get_posts_by_ids 复核为浏览 147303、点赞 5719、书签 1344，以复核为准（回复 38、引用 26、转发 357 与时间线一致）。 @levelsio 2124174144812220784 时间线浏览 82131，get_posts_by_ids 复核为浏览 82182，以复核为准（点赞 1373、书签 115、回复 148、引用 13、转发 19 与时间线一致）。 @levelsio 2124173662597075020 时间线浏览 66386，get_posts_by_ids 复核为浏览 66407，以复核为准（点赞 1103、书签 41、回复 191、引用 8、转发 7 与时间线一致）。 @marclou 2124150966446674236 时间线浏览 24776，get_posts_by_ids 复核为浏览 24788，以复核为准（点赞 286、书签 21、回复 33、引用 2、转发 1 与时间线一致）。 @levelsio 2124139645587841226 时间线浏览 54909、点赞 371，get_posts_by_ids 复核为浏览 54924、点赞 372，以复核为准（书签 23、回复 69、引用 7、转发 1 与时间线一致）。2124292261479321960 浏览 13113（上次 4665），每小时 +15923 → 8448 ÷ 0.5306 = 15923，超过阈值；已在 pushed 中，不重复推送。2124243178870255864 浏览 94722（上次 88691），每小时 +11367 → 6031 ÷ 0.5306 = 11367，超过阈值；已在 pushed 中，不重复推送。2124209048128016777 浏览 26941（上次 26285），每小时 +1236 → 656 ÷ 0.5306 = 1236，未超过阈值。2124200538904375547 浏览 23230（上次 22737），每小时 +929 → 493 ÷ 0.5306 = 929，未超过阈值。2124190058194632873 浏览 14305（上次 14088），每小时 +409 → 217 ÷ 0.5306 = 409，未超过阈值。2124189735262548313 浏览 147303（上次 144225），每小时 +5801 → 3078 ÷ 0.5306 = 5801，超过阈值；已在 pushed 中，不重复推送。2124174144812220784 浏览 82182（上次 80202），每小时 +3732 → 1980 ÷ 0.5306 = 3732，未超过阈值。2124173662597075020 浏览 66407（上次 65112），每小时 +2441 → 1295 ÷ 0.5306 = 2441，未超过阈值。2124150966446674236 浏览 24788（上次 24366），每小时 +795 → 422 ÷ 0.5306 = 795，未超过阈值。2124139645587841226 浏览 54924（上次 54243），每小时 +1284 → 681 ÷ 0.5306 = 1284，未超过阈值。窗口内帖子 10 → 10 条。本轮新达标 0 条。pushed 184 → 184 条。"
+}
