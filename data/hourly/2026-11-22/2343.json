@@ -1,0 +1,253 @@
+{
+  "run_at": "2026-11-22T23:47:45+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "2343",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2124526770527297645",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2124526770527297645",
+      "created_at": "2026-11-22T15:33:48.000Z",
+      "created_at_bj": "2026-11-22 23:33",
+      "views": 4672,
+      "rate_per_hour": 20082,
+      "basis": "first_sight",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 4672,
+        "like_count": 25,
+        "reply_count": 5,
+        "quote_count": 0,
+        "retweet_count": 0,
+        "bookmark_count": 4
+      },
+      "already_pushed": false,
+      "text": "Because we're fighting dead internet theory https://t.co/QXh2FVzKtx https://t.co/r2dpu4qQPv",
+      "text_zh": "因为我们在对抗死亡互联网理论 https://t.co/QXh2FVzKtx https://t.co/r2dpu4qQPv",
+      "hit": true,
+      "quoted": [
+        {
+          "id": "2124522983809060928",
+          "user": "c318f0a3e68842c",
+          "text": "@levelsio @s4hvm How about judging a reply by the value it brings to the subject rather than by the origin?\nMost of us are completely ok \"chatting\" to an AI agent all day long. Or would you rather go back to stackoverflow era?",
+          "text_zh": "@levelsio @s4hvm 何不按一条回复对讨论本身带来的价值来评判，而不是看它从哪来？我们大多数人整天和 AI agent「聊天」都完全没问题。难道你更想回到 Stack Overflow 时代？"
+        }
+      ]
+    },
+    {
+      "id": "2124513170228146241",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2124513170228146241",
+      "created_at": "2026-11-22T14:39:45.000Z",
+      "created_at_bj": "2026-11-22 22:39",
+      "views": 12853,
+      "rate_per_hour": 5323,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-22T23:17:18+08:00",
+        "views": 10151
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 12853,
+        "like_count": 81,
+        "reply_count": 21,
+        "quote_count": 1,
+        "retweet_count": 0,
+        "bookmark_count": 7
+      },
+      "already_pushed": true,
+      "text": "I think \"graffiti all over other people's stuff\" is a great metaphor for AI reply spam https://t.co/94EB06i2Ev",
+      "text_zh": "我觉得「在别人的东西上到处涂鸦」是对 AI 回复刷屏的一个很妙的比喻 https://t.co/94EB06i2Ev",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2124497636505907567",
+          "user": "ryanlanciaux",
+          "text": "@levelsio What did people think would happen? \"I leave graffiti all over other people's stuff and they're mad!?!?!?\"",
+          "text_zh": "@levelsio 大家以为会怎样？「我在别人的东西上到处涂鸦，他们居然还生气了！？！？！」"
+        }
+      ]
+    },
+    {
+      "id": "2124500602856353851",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2124500602856353851",
+      "created_at": "2026-11-22T13:49:49.000Z",
+      "created_at_bj": "2026-11-22 21:49",
+      "views": 17421,
+      "rate_per_hour": 4773,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-22T23:17:18+08:00",
+        "views": 14998
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 17421,
+        "like_count": 50,
+        "reply_count": 13,
+        "quote_count": 2,
+        "retweet_count": 0,
+        "bookmark_count": 0
+      },
+      "already_pushed": true,
+      "text": "😂 https://t.co/dPEi74sQnl",
+      "text_zh": "😂 https://t.co/dPEi74sQnl",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2124497757079523517",
+          "user": "BeardWhoCodes",
+          "text": "This guy tried to have an opinion about @levelsio ai reply ban list, then went on replying to AI-reply bots on his post.\n\nWhat a joke! 🤣 https://t.co/v2AElEO05o https://t.co/BqFdwfjrL2",
+          "text_zh": "这家伙刚想对 @levelsio 的 AI 回复屏蔽名单发表意见，接着又在自己的帖子下面回复那些 AI 回复机器人。\n\n简直是个笑话！🤣 https://t.co/v2AElEO05o https://t.co/BqFdwfjrL2"
+        }
+      ]
+    },
+    {
+      "id": "2124495591715582103",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2124495591715582103",
+      "created_at": "2026-11-22T13:29:54.000Z",
+      "created_at_bj": "2026-11-22 21:29",
+      "views": 19627,
+      "rate_per_hour": 4834,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-22T23:17:18+08:00",
+        "views": 17173
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 19627,
+        "like_count": 96,
+        "reply_count": 58,
+        "quote_count": 3,
+        "retweet_count": 1,
+        "bookmark_count": 16
+      },
+      "already_pushed": true,
+      "text": "Usually it's a rehash of the exact post they reply to with nothing added, often a question\n\nThen you check their other replies and it's the same endless replying same empty substance replies rehashing a post\n\nAI has only the post as input to work with and has no real personality so it's easy for me to spot\n\nOften they try add humanization to it like write only in lowercase or adding genz slang like fr etc. but it's still an AI reply\n\nWhat shocks me is how many people can't detect AI replies already now, long term we'll have no way to detect as models get better. Probably already I'm not able to detect many!\n\nIt's funny to see the shitstorm of people now posting about my blocklist where the majority admits they use AI bots to reply but don't think it's an issue so are outraged about being on a list of AI reply bots! But that's exactly what the list is about so it works! 😁",
+      "text_zh": "通常，这些回复只是把被回复的原帖换个说法再复述一遍，什么新东西都没加，还经常是个问句。\n\n然后再去看他们别的回复，会发现也是没完没了地用同样空洞的话术，把原帖再复述一遍。\n\nAI 只能拿原帖当输入，也没有真实个性，所以对我来说很容易一眼认出来。\n\n他们常常会刻意加一点「人性化」，比如全文只用小写，或塞进 fr 这类 genz 俚语，但终究还是 AI 回复。\n\n让我震惊的是，现在居然已经有这么多人辨别不出 AI 回复了。长期来看，随着模型越来越好，我们将完全没法分辨。可能现在就已经有很多我认不出来！\n\n好笑的是，现在一堆人在发帖讨论我的 blocklist，其中大多数都承认自己在用 AI 机器人回复，却觉得这不是问题，还因为被列进 AI 回复机器人名单而愤怒！但这份名单本来就是干这个的，所以它起作用了！😁",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2124493250719322275",
+          "user": "exQUIZitely",
+          "text": "@levelsio I feel so naive… how do you know when a reply is AI generated? I looked at some of the blocked people on your list and what replies they have been blocked for. For some the AI was quite obvious, for others I had no idea. How do you spot it?",
+          "text_zh": "@levelsio 我觉得自己好天真……你是怎么判断一条回复是 AI 生成的？我看了你名单里一些被屏蔽的人，以及他们因为哪些回复被屏蔽。有的 AI 痕迹很明显，有的我完全看不出来。你是怎么发现的？"
+        }
+      ]
+    },
+    {
+      "id": "2124449885999042859",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2124449885999042859",
+      "created_at": "2026-11-22T10:28:17.000Z",
+      "created_at_bj": "2026-11-22 18:28",
+      "views": 14199,
+      "rate_per_hour": 2466,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-22T23:17:18+08:00",
+        "views": 12947
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 14199,
+        "like_count": 343,
+        "reply_count": 0,
+        "quote_count": 1,
+        "retweet_count": 22,
+        "bookmark_count": 54
+      },
+      "already_pushed": false,
+      "text": "Vegas belongs to Max again https://t.co/Xb9NxDrFyc",
+      "text_zh": "Vegas 再次属于 Max https://t.co/Xb9NxDrFyc",
+      "hit": false,
+      "quoted": []
+    },
+    {
+      "id": "2124419241252446690",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2124419241252446690",
+      "created_at": "2026-11-22T08:26:31.000Z",
+      "created_at_bj": "2026-11-22 16:26",
+      "views": 106103,
+      "rate_per_hour": 12885,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-22T23:17:18+08:00",
+        "views": 99562
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 106103,
+        "like_count": 928,
+        "reply_count": 60,
+        "quote_count": 1,
+        "retweet_count": 9,
+        "bookmark_count": 97
+      },
+      "already_pushed": true,
+      "text": "He literally just sounds like my group chats with my best friends https://t.co/Sb4vNQJ1Y6",
+      "text_zh": "他听起来简直就像我和最好的朋友们的群聊 https://t.co/Sb4vNQJ1Y6",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2123813117146607903",
+          "user": "unusual_whales",
+          "text": "Jensen Huang told Nvidia staff they’d become so rich that the only way to get more work out of them was through humiliation, The New York Times reports.\n\nAs Nvidia’s wealth soared, Huang grew increasingly frustrated with his employees, according to three people who spoke on condition of anonymity. He told groups of subordinates he couldn’t motivate them with money anymore.\n\nThe Times says it was part of a decades-long pattern of berating employees, according to documents and interviews:\n\n- He told one executive his mother should have aborted him, according to one witness.\n- He said he would rip both arms off a subordinate and beat the person to death with them.\n- He told another employee he would rip off the top of their head and “pee on your brain.”",
+          "text_zh": "《纽约时报》(The New York Times) 报道，Jensen Huang 对 Nvidia 员工说，他们已经变得太有钱，唯一还能让他们多干活的办法就是羞辱。\n\n据三名要求匿名的人士称，随着 Nvidia 的财富飙升，Huang 对员工越来越不满。他对下属们说，已经没法再用钱来激励他们了。\n\nThe Times 根据文件和采访称，这是他长达数十年辱骂员工模式的一部分：\n\n- 据一名目击者称，他对一名高管说，他妈妈当初应该把他堕掉。\n- 他说他会把一名下属的双臂撕下来，再用这两条胳膊把对方打死。\n- 他对另一名员工说，他会掀开对方的头顶，「往你脑子上撒尿」。"
+        }
+      ]
+    }
+  ],
+  "new_hits": [
+    {
+      "id": "2124526770527297645",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2124526770527297645",
+      "created_at": "2026-11-22T15:33:48.000Z",
+      "created_at_bj": "2026-11-22 23:33",
+      "views": 4672,
+      "rate_per_hour": 20082,
+      "basis": "first_sight",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 4672,
+        "like_count": 25,
+        "reply_count": 5,
+        "quote_count": 0,
+        "retweet_count": 0,
+        "bookmark_count": 4
+      },
+      "already_pushed": false,
+      "text": "Because we're fighting dead internet theory https://t.co/QXh2FVzKtx https://t.co/r2dpu4qQPv",
+      "text_zh": "因为我们在对抗死亡互联网理论 https://t.co/QXh2FVzKtx https://t.co/r2dpu4qQPv",
+      "hit": true,
+      "quoted": [
+        {
+          "id": "2124522983809060928",
+          "user": "c318f0a3e68842c",
+          "text": "@levelsio @s4hvm How about judging a reply by the value it brings to the subject rather than by the origin?\nMost of us are completely ok \"chatting\" to an AI agent all day long. Or would you rather go back to stackoverflow era?",
+          "text_zh": "@levelsio @s4hvm 何不按一条回复对讨论本身带来的价值来评判，而不是看它从哪来？我们大多数人整天和 AI agent「聊天」都完全没问题。难道你更想回到 Stack Overflow 时代？"
+        }
+      ]
+    }
+  ],
+  "dropped_from_window": [],
+  "notes": "2343 判定轮（实际运行 23:47:45 北京时间）：按规则判定达标并推送新达标帖。间隔 0.507646 小时（上一轮 23:17:18 → 本轮 23:47:45 北京时间，30 分 28 秒）。例行触发 23:43:30 北京时间（2026-11-22T15:43:30.924Z），晚于预定 2334 槽位约 9 分 31 秒；本轮按 2343 槽位归档（与 2210、2243、2311 轮在延迟时按触发时刻命名的做法一致）。run_at 取归档时刻 23:47:45 北京时间。首次并行拉取 get_users_posts 时，在 15:44 分窗口出现短暂的公开 X 读取配额校验失败（“could not check this user's X read limit”），未落盘；随即在 15:45 分窗口改为逐账号顺序重拉，六个账号均成功。get_users_posts 六个账号的拉取处于 15:45 分窗口（公开 X 读取配额重置时间为 2026-11-22T15:46:00.000Z；顺序拉取后剩余 24/30 本分钟、561/1000 今日）。get_posts_by_ids 主复核与被引用帖复核处于同一 15:45 分窗口（重置时间为 2026-11-22T15:46:00.000Z；分别剩余 23/30 与 22/30 本分钟、560/1000 与 559/1000 今日）。今日配额重置时间为 2026-11-23T00:00:00.000Z。@marclou、@gregisenberg、@steipete、@karpathy 窗口内无原创或引用帖。本轮 get_users_posts 使用 exclude=replies,retweets，六个账号均使用 start_time=2026-11-22T03:45:00.917Z 拉取时间线，再按归档时刻 23:47:45 的 12 小时窗口本地过滤。窗口起点 2026-11-22 11:47 北京时间（2026-11-22T03:47:45.000Z）。@marclou、@gregisenberg、@steipete、@karpathy 带 start_time 的时间线均为 result_count=0。get_users_posts 的 max_results 请求值为 25（此前并行尝试曾请求 100，接口降至 25）；六个账号均无 next_token，时间线已拉全。本轮新进入窗口的原创/引用帖：2124526770527297645（@levelsio 引用帖，首次见到）。移出 12 小时窗口：无。检查帖数量 5 → 6 条。新帖 2124526770527297645 的英文全文与中文译文为本轮新译。其引用的 2124522983809060928 英文全文取自 get_posts_by_ids（作者经 includes.users 确认为 @c318f0a3e68842c），中文译文亦为本轮新译。其余检查帖的英文全文与中文译文沿用 2311 归档（与本轮原文一致）；被引用帖 2124497636505907567、2124497757079523517、2124493250719322275、2123813117146607903 的英文全文与中文译文亦沿用 2311（与本轮 get_posts_by_ids 及先前归档全文一致）。@levelsio 2124526770527297645 时间线浏览 4559、点赞 23、回复 5、引用 0、转发 0、书签 4，get_posts_by_ids 复核为浏览 4672、点赞 25，以复核为准（回复、引用、转发、书签 与时间线一致）。@levelsio 2124513170228146241 时间线浏览 12819、点赞 81、回复 21、引用 1、转发 0、书签 7，get_posts_by_ids 复核为浏览 12853，以复核为准（点赞、回复、引用、转发、书签 与时间线一致）。@levelsio 2124500602856353851 时间线浏览 17387、点赞 50、回复 13、引用 2、转发 0、书签 0，get_posts_by_ids 复核为浏览 17421，以复核为准（点赞、回复、引用、转发、书签 与时间线一致）。@levelsio 2124495591715582103 时间线浏览 19593、点赞 96、回复 58、引用 3、转发 1、书签 15，get_posts_by_ids 复核为浏览 19627、书签 16，以复核为准（点赞、回复、引用、转发 与时间线一致）。@levelsio 2124419241252446690 时间线浏览 105997、点赞 928、回复 60、引用 1、转发 9、书签 96，get_posts_by_ids 复核为浏览 106103、书签 97，以复核为准（点赞、回复、引用、转发 与时间线一致）。@egeberkina 2124449885999042859 时间线浏览 14183、点赞 343、回复 0、引用 1、转发 22、书签 54，get_posts_by_ids 复核为浏览 14199，以复核为准（点赞、回复、引用、转发、书签 与时间线一致）。2124526770527297645 浏览 4672（首次见到），每小时 +20082 → 4672 ÷ 0.232646 = 20082，超过阈值；本轮新达标，将推送。 2124513170228146241 浏览 12853（上次 10151），每小时 +5323 → 2702 ÷ 0.507646 = 5323，超过阈值；已在 pushed 中，不重复推送。 2124500602856353851 浏览 17421（上次 14998），每小时 +4773 → 2423 ÷ 0.507646 = 4773，未超过阈值。 2124495591715582103 浏览 19627（上次 17173），每小时 +4834 → 2454 ÷ 0.507646 = 4834，未超过阈值。 2124419241252446690 浏览 106103（上次 99562），每小时 +12885 → 6541 ÷ 0.507646 = 12885，超过阈值；已在 pushed 中，不重复推送。 2124449885999042859 浏览 14199（上次 12947），每小时 +2466 → 1252 ÷ 0.507646 = 2466，未超过阈值。窗口内帖子 5 → 6 条。本轮新达标 1 条。pushed 188 → 189 条。无移出 12 小时窗口的帖子。"
+}
