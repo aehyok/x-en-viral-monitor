@@ -1,0 +1,148 @@
+{
+  "run_at": "2026-11-22T21:39:53+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "2134",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2124495591715582103",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2124495591715582103",
+      "created_at": "2026-11-22T13:29:54.000Z",
+      "created_at_bj": "2026-11-22 21:29",
+      "views": 3929,
+      "rate_per_hour": 23613,
+      "basis": "first_sight",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 3929,
+        "like_count": 12,
+        "reply_count": 7,
+        "quote_count": 0,
+        "retweet_count": 1,
+        "bookmark_count": 3
+      },
+      "already_pushed": false,
+      "text": "Usually it's a rehash of the exact post they reply to with nothing added, often a question\n\nThen you check their other replies and it's the same endless replying same empty substance replies rehashing a post\n\nAI has only the post as input to work with and has no real personality so it's easy for me to spot\n\nOften they try add humanization to it like write only in lowercase or adding genz slang like fr etc. but it's still an AI reply\n\nWhat shocks me is how many people can't detect AI replies already now, long term we'll have no way to detect as models get better. Probably already I'm not able to detect many!\n\nIt's funny to see the shitstorm of people now posting about my blocklist where the majority admits they use AI bots to reply but don't think it's an issue so are outraged about being on a list of AI reply bots! But that's exactly what the list is about so it works! 😁",
+      "text_zh": "通常，这些回复只是把被回复的原帖换个说法再复述一遍，什么新东西都没加，还经常是个问句。\n\n然后再去看他们别的回复，会发现也是没完没了地用同样空洞的话术，把原帖再复述一遍。\n\nAI 只能拿原帖当输入，也没有真实个性，所以对我来说很容易一眼认出来。\n\n他们常常会刻意加一点「人性化」，比如全文只用小写，或塞进 fr 这类 genz 俚语，但终究还是 AI 回复。\n\n让我震惊的是，现在居然已经有这么多人辨别不出 AI 回复了。长期来看，随着模型越来越好，我们将完全没法分辨。可能现在就已经有很多我认不出来！\n\n好笑的是，现在一堆人在发帖讨论我的 blocklist，其中大多数都承认自己在用 AI 机器人回复，却觉得这不是问题，还因为被列进 AI 回复机器人名单而愤怒！但这份名单本来就是干这个的，所以它起作用了！😁",
+      "hit": true,
+      "quoted": [
+        {
+          "id": "2124493250719322275",
+          "user": "exQUIZitely",
+          "text": "@levelsio I feel so naive… how do you know when a reply is AI generated? I looked at some of the blocked people on your list and what replies they have been blocked for. For some the AI was quite obvious, for others I had no idea. How do you spot it?",
+          "text_zh": "@levelsio 我觉得自己好天真……你是怎么判断一条回复是 AI 生成的？我看了你名单里一些被屏蔽的人，以及他们因为哪些回复被屏蔽。有的 AI 痕迹很明显，有的我完全看不出来。你是怎么发现的？"
+        }
+      ]
+    },
+    {
+      "id": "2124449885999042859",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2124449885999042859",
+      "created_at": "2026-11-22T10:28:17.000Z",
+      "created_at_bj": "2026-11-22 18:28",
+      "views": 8316,
+      "rate_per_hour": 3137,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-22T21:13:43+08:00",
+        "views": 6948
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 8316,
+        "like_count": 177,
+        "reply_count": 0,
+        "quote_count": 1,
+        "retweet_count": 9,
+        "bookmark_count": 22
+      },
+      "already_pushed": false,
+      "text": "Vegas belongs to Max again https://t.co/Xb9NxDrFyc",
+      "text_zh": "Vegas 再次属于 Max https://t.co/Xb9NxDrFyc",
+      "hit": false,
+      "quoted": []
+    },
+    {
+      "id": "2124419241252446690",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2124419241252446690",
+      "created_at": "2026-11-22T08:26:31.000Z",
+      "created_at_bj": "2026-11-22 16:26",
+      "views": 76314,
+      "rate_per_hour": 12171,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-22T21:13:43+08:00",
+        "views": 71006
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 76314,
+        "like_count": 688,
+        "reply_count": 47,
+        "quote_count": 0,
+        "retweet_count": 6,
+        "bookmark_count": 68
+      },
+      "already_pushed": true,
+      "text": "He literally just sounds like my group chats with my best friends https://t.co/Sb4vNQJ1Y6",
+      "text_zh": "他听起来简直就像我和最好的朋友们的群聊 https://t.co/Sb4vNQJ1Y6",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2123813117146607903",
+          "user": "unusual_whales",
+          "text": "Jensen Huang told Nvidia staff they’d become so rich that the only way to get more work out of them was through humiliation, The New York Times reports.\n\nAs Nvidia’s wealth soared, Huang grew increasingly frustrated with his employees, according to three people who spoke on condition of anonymity. He told groups of subordinates he couldn’t motivate them with money anymore.\n\nThe Times says it was part of a decades-long pattern of berating employees, according to documents and interviews:\n\n- He told one executive his mother should have aborted him, according to one witness.\n- He said he would rip both arms off a subordinate and beat the person to death with them.\n- He told another employee he would rip off the top of their head and “pee on your brain.”",
+          "text_zh": "《纽约时报》(The New York Times) 报道，Jensen Huang 对 Nvidia 员工说，他们已经变得太有钱，唯一还能让他们多干活的办法就是羞辱。\n\n据三名要求匿名的人士称，随着 Nvidia 的财富飙升，Huang 对员工越来越不满。他对下属们说，已经没法再用钱来激励他们了。\n\nThe Times 根据文件和采访称，这是他长达数十年辱骂员工模式的一部分：\n\n- 据一名目击者称，他对一名高管说，他妈妈当初应该把他堕掉。\n- 他说他会把一名下属的双臂撕下来，再用这两条胳膊把对方打死。\n- 他对另一名员工说，他会掀开对方的头顶，「往你脑子上撒尿」。"
+        }
+      ]
+    }
+  ],
+  "new_hits": [
+    {
+      "id": "2124495591715582103",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2124495591715582103",
+      "created_at": "2026-11-22T13:29:54.000Z",
+      "created_at_bj": "2026-11-22 21:29",
+      "views": 3929,
+      "rate_per_hour": 23613,
+      "basis": "first_sight",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 3929,
+        "like_count": 12,
+        "reply_count": 7,
+        "quote_count": 0,
+        "retweet_count": 1,
+        "bookmark_count": 3
+      },
+      "already_pushed": false,
+      "text": "Usually it's a rehash of the exact post they reply to with nothing added, often a question\n\nThen you check their other replies and it's the same endless replying same empty substance replies rehashing a post\n\nAI has only the post as input to work with and has no real personality so it's easy for me to spot\n\nOften they try add humanization to it like write only in lowercase or adding genz slang like fr etc. but it's still an AI reply\n\nWhat shocks me is how many people can't detect AI replies already now, long term we'll have no way to detect as models get better. Probably already I'm not able to detect many!\n\nIt's funny to see the shitstorm of people now posting about my blocklist where the majority admits they use AI bots to reply but don't think it's an issue so are outraged about being on a list of AI reply bots! But that's exactly what the list is about so it works! 😁",
+      "text_zh": "通常，这些回复只是把被回复的原帖换个说法再复述一遍，什么新东西都没加，还经常是个问句。\n\n然后再去看他们别的回复，会发现也是没完没了地用同样空洞的话术，把原帖再复述一遍。\n\nAI 只能拿原帖当输入，也没有真实个性，所以对我来说很容易一眼认出来。\n\n他们常常会刻意加一点「人性化」，比如全文只用小写，或塞进 fr 这类 genz 俚语，但终究还是 AI 回复。\n\n让我震惊的是，现在居然已经有这么多人辨别不出 AI 回复了。长期来看，随着模型越来越好，我们将完全没法分辨。可能现在就已经有很多我认不出来！\n\n好笑的是，现在一堆人在发帖讨论我的 blocklist，其中大多数都承认自己在用 AI 机器人回复，却觉得这不是问题，还因为被列进 AI 回复机器人名单而愤怒！但这份名单本来就是干这个的，所以它起作用了！😁",
+      "hit": true,
+      "quoted": [
+        {
+          "id": "2124493250719322275",
+          "user": "exQUIZitely",
+          "text": "@levelsio I feel so naive… how do you know when a reply is AI generated? I looked at some of the blocked people on your list and what replies they have been blocked for. For some the AI was quite obvious, for others I had no idea. How do you spot it?",
+          "text_zh": "@levelsio 我觉得自己好天真……你是怎么判断一条回复是 AI 生成的？我看了你名单里一些被屏蔽的人，以及他们因为哪些回复被屏蔽。有的 AI 痕迹很明显，有的我完全看不出来。你是怎么发现的？"
+        }
+      ]
+    }
+  ],
+  "dropped_from_window": [],
+  "notes": "2134 判定轮（实际运行 21:39:53 北京时间）：按规则判定达标并推送新达标帖。间隔 0.436111 小时（上一轮 21:13:43 → 本轮 21:39:53 北京时间，26 分 10 秒）。例行触发 21:35:21 北京时间（2026-11-22T13:35:21.257Z），晚于预定 2134 槽位约 1 分 21 秒；本轮按 2134 槽位归档。run_at 取归档时刻 21:39:53 北京时间（get_posts_by_ids 处于 13:36 分这一分钟的公开 X 读取配额窗口内，重置时间为 2026-11-22T13:37:00.000Z；当时剩余 29/30 本分钟、622/1000 今日）。@marclou、@gregisenberg、@steipete、@karpathy 窗口内无原创或引用帖。本轮 get_users_posts 使用 exclude=replies,retweets，六个账号均使用 start_time=2026-11-22T01:35:57.114Z 拉取时间线，再按归档时刻 21:39:53 的 12 小时窗口本地过滤。窗口起点 2026-11-22 09:39:53 北京时间（2026-11-22T01:39:53.000Z）。@marclou、@gregisenberg、@steipete、@karpathy 带 start_time 的时间线均为 result_count=0。get_users_posts 的 max_results 请求值为 100，接口降至 25；六个账号均无 next_token，时间线已拉全。本轮新进入窗口的原创/引用帖：2124495591715582103（@levelsio 引用帖，首次见到）。移出 12 小时窗口：无。检查帖数量 2 → 3 条。新帖 2124495591715582103 的英文全文与中文译文为本轮新译。其引用的 2124493250719322275 英文全文取自 get_posts_by_ids，中文译文亦为本轮新译。其余检查帖的英文全文与中文译文沿用 2104 归档（与本轮原文一致）；被引用帖 2123813117146607903 的英文全文与中文译文亦沿用 2104（与本轮 get_posts_by_ids 及先前归档全文一致）。@levelsio 2124495591715582103 时间线浏览 3601、点赞 11、回复 5、引用 0、转发 1、书签 3，get_posts_by_ids 复核为浏览 3929、点赞 12、回复 7，以复核为准（引用、转发、书签 与时间线一致）。@egeberkina 2124449885999042859 时间线浏览 8271、点赞 176、回复 0、引用 1、转发 9、书签 22，get_posts_by_ids 复核为浏览 8316、点赞 177，以复核为准（回复、引用、转发、书签 与时间线一致）。@levelsio 2124419241252446690 时间线浏览 76049、点赞 686、回复 47、引用 0、转发 6、书签 68，get_posts_by_ids 复核为浏览 76314、点赞 688，以复核为准（回复、引用、转发、书签 与时间线一致）。2124495591715582103 浏览 3929（首次见到），每小时 +23613 → 3929 ÷ 0.166389 = 23613，超过阈值；本轮新达标，将推送。2124449885999042859 浏览 8316（上次 6948），每小时 +3137 → 1368 ÷ 0.436111 = 3137，未超过阈值。2124419241252446690 浏览 76314（上次 71006），每小时 +12171 → 5308 ÷ 0.436111 = 12171，超过阈值；已在 pushed 中，不重复推送。窗口内帖子 2 → 3 条。本轮新达标 1 条。pushed 185 → 186 条。无移出 12 小时窗口的帖子。"
+}
