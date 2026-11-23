@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-11-23T18:14:28+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "1812",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2124806688947781738",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2124806688947781738",
+      "created_at": "2026-11-23T10:06:06.000Z",
+      "created_at_bj": "2026-11-23 18:06",
+      "views": 4073,
+      "rate_per_hour": 29209,
+      "basis": "first_sight",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 4073,
+        "like_count": 36,
+        "reply_count": 5,
+        "quote_count": 0,
+        "retweet_count": 2,
+        "bookmark_count": 4
+      },
+      "already_pushed": false,
+      "text": "A big Tor flood attack today on my block list while I was sleeping\n\nAI spammers are very very very angry we're uncovering their massive spam network on X! https://t.co/ilv9N2As56 https://t.co/3gBBiIzFvi",
+      "text_zh": "今天我睡觉的时候，我的屏蔽名单遭到了一次大规模的 Tor 洪水攻击\n\nAI 垃圾信息发送者非常非常非常愤怒，因为我们正在揭开他们在 X 上的庞大垃圾网络！ https://t.co/ilv9N2As56 https://t.co/3gBBiIzFvi",
+      "hit": true,
+      "quoted": [
+        {
+          "id": "2124586276489695710",
+          "user": "levelsio",
+          "text": "Nobody likes AI replies but they're defending each other\n\nBecause they're part of a giant network of people who all are using AI bots to spam X replies, and people selling them the shady tools to do that including bot farms, telephone farms etc. They all defend each other on here\n\nWhen you poke a hornet's nest, they all come out to sting you, which they're doing to me today\n\nRemember @nikitabier's work on original content and demonetizing all the automated spam? That was the same thing and it got so vicious he had security issues due to it\n\nSo yes nobody likes AI replies, it's just a self sustaining ecosystem on here with a lot of people dependent on it to make money from X monetization and the shady businesses selling them the automation tools and bot farms to do so\n\nI'd call it a criminal enterprise",
+          "text_zh": "没人喜欢 AI 回复，但他们却在互相袒护。\n\n因为他们同属一个庞大的网络：里面的人都在用 AI 机器人刷 X 回复，还有人向他们出售做这件事的灰色工具，包括机器人农场、电话农场等等。他们在这里彼此袒护。\n\n你一旦捅了马蜂窝，它们就会倾巢而出叮你，今天它们就是这样对我的。\n\n还记得 @nikitabier 推动原创内容、取消所有自动垃圾内容变现的事情吗？当时也是一样，闹得非常凶，他还因此遇到了安全问题。\n\n所以没错，没人喜欢 AI 回复，这里只是一个自我维持的生态系统，很多人靠它从 X 变现赚钱，还有那些向他们出售自动化工具和机器人农场的灰色生意。\n\n我称之为一个犯罪企业。"
+        }
+      ]
+    },
+    {
+      "id": "2124691877752422804",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2124691877752422804",
+      "created_at": "2026-11-23T02:29:53.000Z",
+      "created_at_bj": "2026-11-23 10:29",
+      "views": 20864,
+      "rate_per_hour": 856,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-23T17:44:40+08:00",
+        "views": 20439
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 20864,
+        "like_count": 147,
+        "reply_count": 57,
+        "quote_count": 1,
+        "retweet_count": 9,
+        "bookmark_count": 203
+      },
+      "already_pushed": true,
+      "text": "Group chats are one of the most underrated features in Grok Bot https://t.co/CtHusBtjDl https://t.co/TgGBI4oy1K",
+      "text_zh": "群聊是 Grok Bot 最被低估的功能之一 https://t.co/CtHusBtjDl https://t.co/TgGBI4oy1K",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2123179348467278293",
+          "user": "gregisenberg",
+          "text": "How to turn your Grok Bot into a top 1% AI agent content team (research, scripts, editing etc)\n\nYou give your Grok Bot the creators you love, hooks you’ve saved, fav newsletters, and it’ll find what’s working, write script, cut your edit and publish the video:\n\nhttps://t.co/QIPSAJukIV",
+          "text_zh": "如何把你的 Grok Bot 变成顶尖 1% 的 AI agent 内容团队（调研、脚本、剪辑等）\n\n你把喜欢的创作者、收藏的 hooks、常看的 newsletter 交给 Grok Bot，它就会找出正在起效的内容，写脚本、剪片子，然后发布视频：\n\nhttps://t.co/QIPSAJukIV"
+        }
+      ]
+    }
+  ],
+  "new_hits": [
+    {
+      "id": "2124806688947781738",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2124806688947781738",
+      "created_at": "2026-11-23T10:06:06.000Z",
+      "created_at_bj": "2026-11-23 18:06",
+      "views": 4073,
+      "rate_per_hour": 29209,
+      "basis": "first_sight",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 4073,
+        "like_count": 36,
+        "reply_count": 5,
+        "quote_count": 0,
+        "retweet_count": 2,
+        "bookmark_count": 4
+      },
+      "already_pushed": false,
+      "text": "A big Tor flood attack today on my block list while I was sleeping\n\nAI spammers are very very very angry we're uncovering their massive spam network on X! https://t.co/ilv9N2As56 https://t.co/3gBBiIzFvi",
+      "text_zh": "今天我睡觉的时候，我的屏蔽名单遭到了一次大规模的 Tor 洪水攻击\n\nAI 垃圾信息发送者非常非常非常愤怒，因为我们正在揭开他们在 X 上的庞大垃圾网络！ https://t.co/ilv9N2As56 https://t.co/3gBBiIzFvi",
+      "hit": true,
+      "quoted": [
+        {
+          "id": "2124586276489695710",
+          "user": "levelsio",
+          "text": "Nobody likes AI replies but they're defending each other\n\nBecause they're part of a giant network of people who all are using AI bots to spam X replies, and people selling them the shady tools to do that including bot farms, telephone farms etc. They all defend each other on here\n\nWhen you poke a hornet's nest, they all come out to sting you, which they're doing to me today\n\nRemember @nikitabier's work on original content and demonetizing all the automated spam? That was the same thing and it got so vicious he had security issues due to it\n\nSo yes nobody likes AI replies, it's just a self sustaining ecosystem on here with a lot of people dependent on it to make money from X monetization and the shady businesses selling them the automation tools and bot farms to do so\n\nI'd call it a criminal enterprise",
+          "text_zh": "没人喜欢 AI 回复，但他们却在互相袒护。\n\n因为他们同属一个庞大的网络：里面的人都在用 AI 机器人刷 X 回复，还有人向他们出售做这件事的灰色工具，包括机器人农场、电话农场等等。他们在这里彼此袒护。\n\n你一旦捅了马蜂窝，它们就会倾巢而出叮你，今天它们就是这样对我的。\n\n还记得 @nikitabier 推动原创内容、取消所有自动垃圾内容变现的事情吗？当时也是一样，闹得非常凶，他还因此遇到了安全问题。\n\n所以没错，没人喜欢 AI 回复，这里只是一个自我维持的生态系统，很多人靠它从 X 变现赚钱，还有那些向他们出售自动化工具和机器人农场的灰色生意。\n\n我称之为一个犯罪企业。"
+        }
+      ]
+    }
+  ],
+  "counts": {
+    "checked": 2,
+    "new_hits": 1,
+    "snapshots_before": 3,
+    "snapshots_after": 2,
+    "pushed_before": 191,
+    "pushed_after": 192,
+    "aged_out": [
+      "2124626900454687214",
+      "2124621898877125105"
+    ],
+    "per_account": {
+      "levelsio": 1,
+      "marclou": 0,
+      "gregisenberg": 1,
+      "steipete": 0,
+      "egeberkina": 0,
+      "karpathy": 0
+    }
+  }
+}
