@@ -1,0 +1,335 @@
+{
+  "run_at": "2026-11-23T08:07:41+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "0806",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2124626900454687214",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2124626900454687214",
+      "created_at": "2026-11-22T22:11:41.000Z",
+      "created_at_bj": "2026-11-23 06:11",
+      "views": 36982,
+      "rate_per_hour": 19794,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-23T07:39:55+08:00",
+        "views": 27822
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 36982,
+        "like_count": 193,
+        "reply_count": 14,
+        "quote_count": 0,
+        "retweet_count": 2,
+        "bookmark_count": 69
+      },
+      "already_pushed": true,
+      "text": "I did this https://t.co/6CoGJKlCg8",
+      "text_zh": "我已经这么做了 https://t.co/6CoGJKlCg8",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2124613622588707018",
+          "user": "nikitabier",
+          "text": "The entire global economy is being held by a single thread of people forgetting to cancel auto-renewing subscriptions and people being too lazy to move their cash to higher yielding money market accounts.\n\nIf every human ran a prompt for an agent to do it for them, the banking system would collapse and the world would explode.",
+          "text_zh": "整个全球经济现在就靠一根线吊着：有人忘了取消自动续订的订阅，还有人懒得把现金转到收益更高的货币市场账户。\n\n如果每个人都跑一个 prompt，让 agent 替他们做这些事，银行系统就会崩溃，世界也会爆炸。"
+        }
+      ]
+    },
+    {
+      "id": "2124621898877125105",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2124621898877125105",
+      "created_at": "2026-11-22T21:51:48.000Z",
+      "created_at_bj": "2026-11-23 05:51",
+      "views": 907,
+      "rate_per_hour": 145,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-23T07:39:55+08:00",
+        "views": 840
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 907,
+        "like_count": 4,
+        "reply_count": 0,
+        "quote_count": 0,
+        "retweet_count": 0,
+        "bookmark_count": 3
+      },
+      "already_pushed": false,
+      "text": "She's been watching this house for weeks and all she wanted was the perfume\n\n4 characters, 1 bottle, 1 template. \n\nMade it in @dreamina_ai Marketing Studio\n\n#DreaminaMarketingStudio #DreaminaAI https://t.co/qIbALHzK2g",
+      "text_zh": "她已经盯着这栋房子看了好几个星期，而她想要的只是那瓶香水。\n\n4 个角色，1 瓶香水，1 个模板。\n\n用 @dreamina_ai Marketing Studio 制作\n\n#DreaminaMarketingStudio #DreaminaAI https://t.co/qIbALHzK2g",
+      "hit": false,
+      "quoted": []
+    },
+    {
+      "id": "2124586276489695710",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2124586276489695710",
+      "created_at": "2026-11-22T19:30:15.000Z",
+      "created_at_bj": "2026-11-23 03:30",
+      "views": 23585,
+      "rate_per_hour": 2152,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-23T07:39:55+08:00",
+        "views": 22589
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 23585,
+        "like_count": 231,
+        "reply_count": 36,
+        "quote_count": 7,
+        "retweet_count": 3,
+        "bookmark_count": 26
+      },
+      "already_pushed": false,
+      "text": "Nobody likes AI replies but they're defending each other\n\nBecause they're part of a giant network of people who all are using AI bots to spam X replies, and people selling them the shady tools to do that including bot farms, telephone farms etc. They all defend each other on here\n\nWhen you poke a hornet's nest, they all come out to sting you, which they're doing to me today\n\nRemember @nikitabier's work on original content and demonetizing all the automated spam? That was the same thing and it got so vicious he had security issues due to it\n\nSo yes nobody likes AI replies, it's just a self sustaining ecosystem on here with a lot of people dependent on it to make money from X monetization and the shady businesses selling them the automation tools and bot farms to do so\n\nI'd call it a criminal enterprise",
+      "text_zh": "没人喜欢 AI 回复，但他们却在互相袒护。\n\n因为他们同属一个庞大的网络：里面的人都在用 AI 机器人刷 X 回复，还有人向他们出售做这件事的灰色工具，包括机器人农场、电话农场等等。他们在这里彼此袒护。\n\n你一旦捅了马蜂窝，它们就会倾巢而出叮你，今天它们就是这样对我的。\n\n还记得 @nikitabier 推动原创内容、取消所有自动垃圾内容变现的事情吗？当时也是一样，闹得非常凶，他还因此遇到了安全问题。\n\n所以没错，没人喜欢 AI 回复，这里只是一个自我维持的生态系统，很多人靠它从 X 变现赚钱，还有那些向他们出售自动化工具和机器人农场的灰色生意。\n\n我称之为一个犯罪企业。",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2124582236091719955",
+          "user": "tryagainlimited",
+          "text": "@levelsio I just don't get why real people want to engage with others via bot",
+          "text_zh": "@levelsio 我就是不明白，为什么真人会想通过机器人去和别人互动"
+        }
+      ]
+    },
+    {
+      "id": "2124571306175889486",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2124571306175889486",
+      "created_at": "2026-11-22T18:30:46.000Z",
+      "created_at_bj": "2026-11-23 02:30",
+      "views": 7153,
+      "rate_per_hour": 754,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-23T07:39:55+08:00",
+        "views": 6804
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 7153,
+        "like_count": 233,
+        "reply_count": 5,
+        "quote_count": 1,
+        "retweet_count": 9,
+        "bookmark_count": 60
+      },
+      "already_pushed": false,
+      "text": "A little piece of the USA https://t.co/gRxt4y5diI https://t.co/KlF1KmuG4S",
+      "text_zh": "来自美国的一小片 https://t.co/gRxt4y5diI https://t.co/KlF1KmuG4S",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2124189735262548313",
+          "user": "egeberkina",
+          "text": "With love from Türkiye https://t.co/2K85Rs2Rxx https://t.co/SrxGht2ReA",
+          "text_zh": "来自 Türkiye 的爱 https://t.co/2K85Rs2Rxx https://t.co/SrxGht2ReA"
+        }
+      ]
+    },
+    {
+      "id": "2124560949059240002",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2124560949059240002",
+      "created_at": "2026-11-22T17:49:37.000Z",
+      "created_at_bj": "2026-11-23 01:49",
+      "views": 52555,
+      "rate_per_hour": 4006,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-23T07:39:55+08:00",
+        "views": 50701
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 52555,
+        "like_count": 331,
+        "reply_count": 56,
+        "quote_count": 6,
+        "retweet_count": 3,
+        "bookmark_count": 24
+      },
+      "already_pushed": false,
+      "text": "✅ We got another person to stop spamming AI replies\n\nA great achievement 🙏 \n\nNow she'll be removed from the list\n\nSeems like X is actually healing and the block list is working exactly as intended? https://t.co/uYnNCk4I0W",
+      "text_zh": "✅ 我们又成功让一个人停止用 AI 刷回复了\n\n了不起的成就 🙏\n\n现在她会被移出名单\n\n看起来 X 真的在好转，这份屏蔽名单也完全按预期在发挥作用？ https://t.co/uYnNCk4I0W",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2124559911472562336",
+          "user": "marianebekker",
+          "text": "@levelsio @stefano_caioni @JustinasRoland0 @1PasswordDev I got your point @levelsio. Thanks for the feedback.\n\nWe’ll stop the automated AI replies. I understand your concerns and will make sure we do better going forward.\n\nI’ll just use AI to correct my English and not use bots at all to posts.\n\nCan you give us another chance 💙",
+          "text_zh": "@levelsio @stefano_caioni @JustinasRoland0 @1PasswordDev 我明白你的意思了 @levelsio。感谢反馈。\n\n我们会停止自动 AI 回复。我理解你的担忧，以后会做得更好。\n\n我只会用 AI 来修正我的英语，完全不再用机器人发帖。\n\n能再给我们一次机会吗 💙"
+        }
+      ]
+    },
+    {
+      "id": "2124526770527297645",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2124526770527297645",
+      "created_at": "2026-11-22T15:33:48.000Z",
+      "created_at_bj": "2026-11-22 23:33",
+      "views": 24454,
+      "rate_per_hour": 832,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-23T07:39:55+08:00",
+        "views": 24069
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 24454,
+        "like_count": 221,
+        "reply_count": 49,
+        "quote_count": 4,
+        "retweet_count": 4,
+        "bookmark_count": 14
+      },
+      "already_pushed": true,
+      "text": "Because we're fighting dead internet theory https://t.co/QXh2FVzKtx https://t.co/r2dpu4qQPv",
+      "text_zh": "因为我们在对抗死亡互联网理论 https://t.co/QXh2FVzKtx https://t.co/r2dpu4qQPv",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2124522983809060928",
+          "user": "c318f0a3e68842c",
+          "text": "@levelsio @s4hvm How about judging a reply by the value it brings to the subject rather than by the origin?\nMost of us are completely ok \"chatting\" to an AI agent all day long. Or would you rather go back to stackoverflow era?",
+          "text_zh": "@levelsio @s4hvm 何不按一条回复对讨论本身带来的价值来评判，而不是看它从哪来？我们大多数人整天和 AI agent「聊天」都完全没问题。难道你更想回到 Stack Overflow 时代？"
+        }
+      ]
+    },
+    {
+      "id": "2124513170228146241",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2124513170228146241",
+      "created_at": "2026-11-22T14:39:45.000Z",
+      "created_at_bj": "2026-11-22 22:39",
+      "views": 25345,
+      "rate_per_hour": 568,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-23T07:39:55+08:00",
+        "views": 25082
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 25345,
+        "like_count": 148,
+        "reply_count": 37,
+        "quote_count": 2,
+        "retweet_count": 1,
+        "bookmark_count": 10
+      },
+      "already_pushed": true,
+      "text": "I think \"graffiti all over other people's stuff\" is a great metaphor for AI reply spam https://t.co/94EB06i2Ev",
+      "text_zh": "我觉得「在别人的东西上到处涂鸦」是对 AI 回复刷屏的一个很妙的比喻 https://t.co/94EB06i2Ev",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2124497636505907567",
+          "user": "ryanlanciaux",
+          "text": "@levelsio What did people think would happen? \"I leave graffiti all over other people's stuff and they're mad!?!?!?\"",
+          "text_zh": "@levelsio 大家以为会怎样？「我在别人的东西上到处涂鸦，他们居然还生气了！？！？！」"
+        }
+      ]
+    },
+    {
+      "id": "2124500602856353851",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2124500602856353851",
+      "created_at": "2026-11-22T13:49:49.000Z",
+      "created_at_bj": "2026-11-22 21:49",
+      "views": 33289,
+      "rate_per_hour": 959,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-23T07:39:55+08:00",
+        "views": 32845
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 33289,
+        "like_count": 86,
+        "reply_count": 20,
+        "quote_count": 3,
+        "retweet_count": 2,
+        "bookmark_count": 4
+      },
+      "already_pushed": true,
+      "text": "😂 https://t.co/dPEi74sQnl",
+      "text_zh": "😂 https://t.co/dPEi74sQnl",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2124497757079523517",
+          "user": "BeardWhoCodes",
+          "text": "This guy tried to have an opinion about @levelsio ai reply ban list, then went on replying to AI-reply bots on his post.\n\nWhat a joke! 🤣 https://t.co/v2AElEO05o https://t.co/BqFdwfjrL2",
+          "text_zh": "这家伙刚想对 @levelsio 的 AI 回复屏蔽名单发表意见，接着又在自己的帖子下面回复那些 AI 回复机器人。\n\n简直是个笑话！🤣 https://t.co/v2AElEO05o https://t.co/BqFdwfjrL2"
+        }
+      ]
+    },
+    {
+      "id": "2124495591715582103",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2124495591715582103",
+      "created_at": "2026-11-22T13:29:54.000Z",
+      "created_at_bj": "2026-11-22 21:29",
+      "views": 53640,
+      "rate_per_hour": 5033,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-23T07:39:55+08:00",
+        "views": 51311
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 53640,
+        "like_count": 217,
+        "reply_count": 89,
+        "quote_count": 10,
+        "retweet_count": 3,
+        "bookmark_count": 34
+      },
+      "already_pushed": true,
+      "text": "Usually it's a rehash of the exact post they reply to with nothing added, often a question\n\nThen you check their other replies and it's the same endless replying same empty substance replies rehashing a post\n\nAI has only the post as input to work with and has no real personality so it's easy for me to spot\n\nOften they try add humanization to it like write only in lowercase or adding genz slang like fr etc. but it's still an AI reply\n\nWhat shocks me is how many people can't detect AI replies already now, long term we'll have no way to detect as models get better. Probably already I'm not able to detect many!\n\nIt's funny to see the shitstorm of people now posting about my blocklist where the majority admits they use AI bots to reply but don't think it's an issue so are outraged about being on a list of AI reply bots! But that's exactly what the list is about so it works! 😁",
+      "text_zh": "通常，这些回复只是把被回复的原帖换个说法再复述一遍，什么新东西都没加，还经常是个问句。\n\n然后再去看他们别的回复，会发现也是没完没了地用同样空洞的话术，把原帖再复述一遍。\n\nAI 只能拿原帖当输入，也没有真实个性，所以对我来说很容易一眼认出来。\n\n他们常常会刻意加一点「人性化」，比如全文只用小写，或塞进 fr 这类 genz 俚语，但终究还是 AI 回复。\n\n让我震惊的是，现在居然已经有这么多人辨别不出 AI 回复了。长期来看，随着模型越来越好，我们将完全没法分辨。可能现在就已经有很多我认不出来！\n\n好笑的是，现在一堆人在发帖讨论我的 blocklist，其中大多数都承认自己在用 AI 机器人回复，却觉得这不是问题，还因为被列进 AI 回复机器人名单而愤怒！但这份名单本来就是干这个的，所以它起作用了！😁",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2124493250719322275",
+          "user": "exQUIZitely",
+          "text": "@levelsio I feel so naive… how do you know when a reply is AI generated? I looked at some of the blocked people on your list and what replies they have been blocked for. For some the AI was quite obvious, for others I had no idea. How do you spot it?",
+          "text_zh": "@levelsio 我觉得自己好天真……你是怎么判断一条回复是 AI 生成的？我看了你名单里一些被屏蔽的人，以及他们因为哪些回复被屏蔽。有的 AI 痕迹很明显，有的我完全看不出来。你是怎么发现的？"
+        }
+      ]
+    }
+  ],
+  "new_hits": [],
+  "removed_from_window": [],
+  "counts": {
+    "levelsio": 7,
+    "marclou": 0,
+    "gregisenberg": 0,
+    "steipete": 0,
+    "egeberkina": 2,
+    "karpathy": 0
+  }
+}
