@@ -1,0 +1,230 @@
+{
+  "run_at": "2026-11-23T12:07:10+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": 1205,
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2124691877752422804",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2124691877752422804",
+      "created_at": "2026-11-23T02:29:53.000Z",
+      "created_at_bj": "2026-11-23 10:29",
+      "views": 12352,
+      "rate_per_hour": 3132,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-23T11:37:16+08:00",
+        "views": 10791
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 12352,
+        "like_count": 81,
+        "reply_count": 27,
+        "quote_count": 0,
+        "retweet_count": 6,
+        "bookmark_count": 115
+      },
+      "already_pushed": true,
+      "text": "Group chats are one of the most underrated features in Grok Bot https://t.co/CtHusBtjDl https://t.co/TgGBI4oy1K",
+      "text_zh": "群聊是 Grok Bot 最被低估的功能之一 https://t.co/CtHusBtjDl https://t.co/TgGBI4oy1K",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2123179348467278293",
+          "user": "gregisenberg",
+          "text": "How to turn your Grok Bot into a top 1% AI agent content team (research, scripts, editing etc)\n\nYou give your Grok Bot the creators you love, hooks you’ve saved, fav newsletters, and it’ll find what’s working, write script, cut your edit and publish the video:\n\nhttps://t.co/QIPSAJukIV",
+          "text_zh": "如何把你的 Grok Bot 变成顶尖 1% 的 AI agent 内容团队（调研、脚本、剪辑等）\n\n你把喜欢的创作者、收藏的 hooks、常看的 newsletter 交给 Grok Bot，它就会找出正在起效的内容，写脚本、剪片子，然后发布视频：\n\nhttps://t.co/QIPSAJukIV"
+        }
+      ]
+    },
+    {
+      "id": "2124626900454687214",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2124626900454687214",
+      "created_at": "2026-11-22T22:11:41.000Z",
+      "created_at_bj": "2026-11-23 06:11",
+      "views": 76812,
+      "rate_per_hour": 6710,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-23T11:37:16+08:00",
+        "views": 73468
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 76812,
+        "like_count": 400,
+        "reply_count": 24,
+        "quote_count": 2,
+        "retweet_count": 2,
+        "bookmark_count": 156
+      },
+      "already_pushed": true,
+      "text": "I did this https://t.co/6CoGJKlCg8",
+      "text_zh": "我已经这么做了 https://t.co/6CoGJKlCg8",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2124613622588707018",
+          "user": "nikitabier",
+          "text": "The entire global economy is being held by a single thread of people forgetting to cancel auto-renewing subscriptions and people being too lazy to move their cash to higher yielding money market accounts.\n\nIf every human ran a prompt for an agent to do it for them, the banking system would collapse and the world would explode.",
+          "text_zh": "整个全球经济现在就靠一根线吊着：有人忘了取消自动续订的订阅，还有人懒得把现金转到收益更高的货币市场账户。\n\n如果每个人都跑一个 prompt，让 agent 替他们做这些事，银行系统就会崩溃，世界也会爆炸。"
+        }
+      ]
+    },
+    {
+      "id": "2124621898877125105",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2124621898877125105",
+      "created_at": "2026-11-22T21:51:48.000Z",
+      "created_at_bj": "2026-11-23 05:51",
+      "views": 1350,
+      "rate_per_hour": 171,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-23T11:37:16+08:00",
+        "views": 1265
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 1350,
+        "like_count": 7,
+        "reply_count": 0,
+        "quote_count": 0,
+        "retweet_count": 0,
+        "bookmark_count": 3
+      },
+      "already_pushed": false,
+      "text": "She's been watching this house for weeks and all she wanted was the perfume\n\n4 characters, 1 bottle, 1 template. \n\nMade it in @dreamina_ai Marketing Studio\n\n#DreaminaMarketingStudio #DreaminaAI https://t.co/qIbALHzK2g",
+      "text_zh": "她已经盯着这栋房子看了好几个星期，而她想要的只是那瓶香水。\n\n4 个角色，1 瓶香水，1 个模板。\n\n用 @dreamina_ai Marketing Studio 制作\n\n#DreaminaMarketingStudio #DreaminaAI https://t.co/qIbALHzK2g",
+      "hit": false,
+      "quoted": []
+    },
+    {
+      "id": "2124586276489695710",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2124586276489695710",
+      "created_at": "2026-11-22T19:30:15.000Z",
+      "created_at_bj": "2026-11-23 03:30",
+      "views": 30981,
+      "rate_per_hour": 1405,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-23T11:37:16+08:00",
+        "views": 30281
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 30981,
+        "like_count": 299,
+        "reply_count": 43,
+        "quote_count": 10,
+        "retweet_count": 6,
+        "bookmark_count": 30
+      },
+      "already_pushed": false,
+      "text": "Nobody likes AI replies but they're defending each other\n\nBecause they're part of a giant network of people who all are using AI bots to spam X replies, and people selling them the shady tools to do that including bot farms, telephone farms etc. They all defend each other on here\n\nWhen you poke a hornet's nest, they all come out to sting you, which they're doing to me today\n\nRemember @nikitabier's work on original content and demonetizing all the automated spam? That was the same thing and it got so vicious he had security issues due to it\n\nSo yes nobody likes AI replies, it's just a self sustaining ecosystem on here with a lot of people dependent on it to make money from X monetization and the shady businesses selling them the automation tools and bot farms to do so\n\nI'd call it a criminal enterprise",
+      "text_zh": "没人喜欢 AI 回复，但他们却在互相袒护。\n\n因为他们同属一个庞大的网络：里面的人都在用 AI 机器人刷 X 回复，还有人向他们出售做这件事的灰色工具，包括机器人农场、电话农场等等。他们在这里彼此袒护。\n\n你一旦捅了马蜂窝，它们就会倾巢而出叮你，今天它们就是这样对我的。\n\n还记得 @nikitabier 推动原创内容、取消所有自动垃圾内容变现的事情吗？当时也是一样，闹得非常凶，他还因此遇到了安全问题。\n\n所以没错，没人喜欢 AI 回复，这里只是一个自我维持的生态系统，很多人靠它从 X 变现赚钱，还有那些向他们出售自动化工具和机器人农场的灰色生意。\n\n我称之为一个犯罪企业。",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2124582236091719955",
+          "user": "tryagainlimited",
+          "text": "@levelsio I just don't get why real people want to engage with others via bot",
+          "text_zh": "@levelsio 我就是不明白，为什么真人会想通过机器人去和别人互动"
+        }
+      ]
+    },
+    {
+      "id": "2124571306175889486",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2124571306175889486",
+      "created_at": "2026-11-22T18:30:46.000Z",
+      "created_at_bj": "2026-11-23 02:30",
+      "views": 9424,
+      "rate_per_hour": 431,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-23T11:37:16+08:00",
+        "views": 9209
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 9424,
+        "like_count": 320,
+        "reply_count": 8,
+        "quote_count": 1,
+        "retweet_count": 16,
+        "bookmark_count": 75
+      },
+      "already_pushed": false,
+      "text": "A little piece of the USA https://t.co/gRxt4y5diI https://t.co/KlF1KmuG4S",
+      "text_zh": "来自美国的一小片 https://t.co/gRxt4y5diI https://t.co/KlF1KmuG4S",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2124189735262548313",
+          "user": "egeberkina",
+          "text": "With love from Türkiye https://t.co/2K85Rs2Rxx https://t.co/SrxGht2ReA",
+          "text_zh": "来自 Türkiye 的爱 https://t.co/2K85Rs2Rxx https://t.co/SrxGht2ReA"
+        }
+      ]
+    },
+    {
+      "id": "2124560949059240002",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2124560949059240002",
+      "created_at": "2026-11-22T17:49:37.000Z",
+      "created_at_bj": "2026-11-23 01:49",
+      "views": 68136,
+      "rate_per_hour": 3562,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-23T11:37:16+08:00",
+        "views": 66361
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 68136,
+        "like_count": 412,
+        "reply_count": 61,
+        "quote_count": 9,
+        "retweet_count": 4,
+        "bookmark_count": 30
+      },
+      "already_pushed": false,
+      "text": "✅ We got another person to stop spamming AI replies\n\nA great achievement 🙏 \n\nNow she'll be removed from the list\n\nSeems like X is actually healing and the block list is working exactly as intended? https://t.co/uYnNCk4I0W",
+      "text_zh": "✅ 我们又成功让一个人停止用 AI 刷回复了\n\n了不起的成就 🙏\n\n现在她会被移出名单\n\n看起来 X 真的在好转，这份屏蔽名单也完全按预期在发挥作用？ https://t.co/uYnNCk4I0W",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2124559911472562336",
+          "user": "marianebekker",
+          "text": "@levelsio @stefano_caioni @JustinasRoland0 @1PasswordDev I got your point @levelsio. Thanks for the feedback.\n\nWe’ll stop the automated AI replies. I understand your concerns and will make sure we do better going forward.\n\nI’ll just use AI to correct my English and not use bots at all to posts.\n\nCan you give us another chance 💙",
+          "text_zh": "@levelsio @stefano_caioni @JustinasRoland0 @1PasswordDev 我明白你的意思了 @levelsio。感谢反馈。\n\n我们会停止自动 AI 回复。我理解你的担忧，以后会做得更好。\n\n我只会用 AI 来修正我的英语，完全不再用机器人发帖。\n\n能再给我们一次机会吗 💙"
+        }
+      ]
+    }
+  ],
+  "new_hits": [],
+  "removed_from_window": [],
+  "counts": {
+    "levelsio": 3,
+    "marclou": 0,
+    "gregisenberg": 1,
+    "steipete": 0,
+    "egeberkina": 2,
+    "karpathy": 0
+  }
+}
