@@ -1,0 +1,449 @@
+{
+  "run_at": "2026-11-23T22:40:42+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "2237",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2124874706700648823",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2124874706700648823",
+      "created_at": "2026-11-23T14:36:22.000Z",
+      "created_at_bj": "2026-11-23 22:36",
+      "views": 2969,
+      "rate_per_hour": 41109,
+      "basis": "first_sight",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 2969,
+        "like_count": 15,
+        "reply_count": 4,
+        "quote_count": 0,
+        "retweet_count": 0,
+        "bookmark_count": 0
+      },
+      "already_pushed": false,
+      "text": "The bad thing about IBKR is it's so slow to clear deposits and has the worst interface ever so you can't day trade\n\nThe good thing about IBKR is it's so slow to clear deposits and has the worst interface ever so you can't day trade https://t.co/JANkNHednK https://t.co/110WvGR6NE",
+      "text_zh": "IBKR 的坏处是入金到账特别慢，界面也是有史以来最差的，所以你没法做日内交易\n\nIBKR 的好处是入金到账特别慢，界面也是有史以来最差的，所以你没法做日内交易 https://t.co/JANkNHednK https://t.co/110WvGR6NE",
+      "hit": true,
+      "quoted": [
+        {
+          "id": "2124866879101493290",
+          "user": "levelsio",
+          "text": "HE'S BAAAAACKKKKKKK\n\nI'M GONNA CRY OF JOY 😭 😭  😭 https://t.co/kTP1XRSRNM",
+          "text_zh": "他回——来——啦————\n\n我要高兴哭了 😭 😭  😭 https://t.co/kTP1XRSRNM"
+        }
+      ]
+    },
+    {
+      "id": "2124866879101493290",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2124866879101493290",
+      "created_at": "2026-11-23T14:05:16.000Z",
+      "created_at_bj": "2026-11-23 22:05",
+      "views": 17144,
+      "rate_per_hour": 28400,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-23T22:13:59+08:00",
+        "views": 4498
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 17144,
+        "like_count": 404,
+        "reply_count": 43,
+        "quote_count": 5,
+        "retweet_count": 15,
+        "bookmark_count": 12
+      },
+      "already_pushed": true,
+      "text": "HE'S BAAAAACKKKKKKK\n\nI'M GONNA CRY OF JOY 😭 😭  😭 https://t.co/kTP1XRSRNM",
+      "text_zh": "他回——来——啦————\n\n我要高兴哭了 😭 😭  😭 https://t.co/kTP1XRSRNM",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2124865188927291642",
+          "user": "KobeissiLetter",
+          "text": "BREAKING: Nvidia, $NVDA, reinstates Jensen Huang as CEO, President, and Board Member, effective immediately. https://t.co/FwXpSC8mRb",
+          "text_zh": "突发：Nvidia（$NVDA）立即恢复 Jensen Huang 担任 CEO、总裁及董事会成员。https://t.co/FwXpSC8mRb"
+        }
+      ]
+    },
+    {
+      "id": "2124853382821356015",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2124853382821356015",
+      "created_at": "2026-11-23T13:11:38.000Z",
+      "created_at_bj": "2026-11-23 21:11",
+      "views": 24261,
+      "rate_per_hour": 11379,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-23T22:13:59+08:00",
+        "views": 19194
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 24261,
+        "like_count": 177,
+        "reply_count": 70,
+        "quote_count": 6,
+        "retweet_count": 2,
+        "bookmark_count": 18
+      },
+      "already_pushed": true,
+      "text": "I love reading the appeals\n\nAlmost every single appeal is fully AI bot spam replies but people flat out lie about it thinking I won't actually check the appeals\n\nI check every single one of them https://t.co/xCxUDaEcrR",
+      "text_zh": "我超爱看这些申诉。\n\n几乎每一条申诉都是彻头彻尾的 AI 机器人垃圾回复，但人们还是睁眼说瞎话，以为我不会真的去核查这些申诉。\n\n每一条我都会查。https://t.co/xCxUDaEcrR",
+      "hit": false
+    },
+    {
+      "id": "2124846691815993646",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2124846691815993646",
+      "created_at": "2026-11-23T12:45:03.000Z",
+      "created_at_bj": "2026-11-23 20:45",
+      "views": 11908,
+      "rate_per_hour": 2394,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-23T22:13:59+08:00",
+        "views": 10842
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 11908,
+        "like_count": 72,
+        "reply_count": 8,
+        "quote_count": 1,
+        "retweet_count": 0,
+        "bookmark_count": 2
+      },
+      "already_pushed": true,
+      "text": "Exactly! Same type of mass fraud! https://t.co/1AGVKD0BVh https://t.co/Bk7W3GPGvD",
+      "text_zh": "完全就是！同类型的大规模欺诈！https://t.co/1AGVKD0BVh https://t.co/Bk7W3GPGvD",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2124843052879470633",
+          "user": "lucky_strikes_x",
+          "text": "@levelsio It's super funny reading all the hate this project got.\n\nSomali learing centre fraud deja vu experience.",
+          "text_zh": "@levelsio 看这个项目招来的那些仇恨可太好笑了。\n\n有种 Somali learning centre fraud（索马里学习中心欺诈案）的既视感。"
+        }
+      ]
+    },
+    {
+      "id": "2124839288034775315",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2124839288034775315",
+      "created_at": "2026-11-23T12:15:38.000Z",
+      "created_at_bj": "2026-11-23 20:15",
+      "views": 19151,
+      "rate_per_hour": 2946,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-23T22:13:59+08:00",
+        "views": 17839
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 19151,
+        "like_count": 231,
+        "reply_count": 58,
+        "quote_count": 7,
+        "retweet_count": 0,
+        "bookmark_count": 18
+      },
+      "already_pushed": true,
+      "text": "Added user ID blocking now instead of username blocking\n\nThis means spammers cannot escape the block list by changing their username\n\nTheir account will be permanently marked as spam https://t.co/yTHjyTBOJI https://t.co/ZYLPWbqJ0H",
+      "text_zh": "现在改成按用户 ID 屏蔽，而不再按用户名屏蔽\n\n这意味着垃圾信息发送者无法再通过改用户名来逃避屏蔽名单\n\n他们的账号会被永久标记为垃圾账号 https://t.co/yTHjyTBOJI https://t.co/ZYLPWbqJ0H",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2124815676175249503",
+          "user": "OttoLorner",
+          "text": "@levelsio Is there a way to use user id instead? Otherwise people can change username and avoid being blocked by anyone who uses the list in future (unless you update the list after a change?)",
+          "text_zh": "@levelsio 有没有办法改用用户 ID？不然别人改了用户名，以后用这份名单的人就屏蔽不到他们了（除非你在对方改名后再更新名单？）"
+        }
+      ]
+    },
+    {
+      "id": "2124813326446461083",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2124813326446461083",
+      "created_at": "2026-11-23T10:32:28.000Z",
+      "created_at_bj": "2026-11-23 18:32",
+      "views": 19170,
+      "rate_per_hour": 1702,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-23T22:13:59+08:00",
+        "views": 18412
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 19170,
+        "like_count": 127,
+        "reply_count": 8,
+        "quote_count": 4,
+        "retweet_count": 0,
+        "bookmark_count": 10
+      },
+      "already_pushed": true,
+      "text": "It's lovely to get messages from people it's actually working 😊 https://t.co/MARWH8Fpzo https://t.co/2HL2FAs1uy",
+      "text_zh": "收到大家发来的消息，说它真的在起作用，这感觉太好了 😊 https://t.co/MARWH8Fpzo https://t.co/2HL2FAs1uy",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2124809062022095119",
+          "user": "levelsio",
+          "text": "The very kind @robj3d3 and @tibo_maker have graciously donated their domain to me which was originally gifted to them by @daniel_nguyenx who registered it first 🙏\n\n🛡️ https://t.co/RaiIDgiiI5\n\nPlease share it with your friends and make the 𝕏 reply section human again! https://t.co/dspo6djwiA https://t.co/C5g0R8WmVu",
+          "text_zh": "非常好心的 @robj3d3 和 @tibo_maker 慷慨地把他们的域名捐给了我，这个域名最初是 @daniel_nguyenx 注册后送给他们的 🙏\n\n🛡️ https://t.co/RaiIDgiiI5\n\n请分享给你的朋友，让 𝕏 的回复区重新变回人类的地方！ https://t.co/dspo6djwiA https://t.co/C5g0R8WmVu"
+        }
+      ]
+    },
+    {
+      "id": "2124809062022095119",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2124809062022095119",
+      "created_at": "2026-11-23T10:15:32.000Z",
+      "created_at_bj": "2026-11-23 18:15",
+      "views": 45739,
+      "rate_per_hour": 4287,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-23T22:13:59+08:00",
+        "views": 43830
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 45739,
+        "like_count": 308,
+        "reply_count": 35,
+        "quote_count": 14,
+        "retweet_count": 23,
+        "bookmark_count": 85
+      },
+      "already_pushed": true,
+      "text": "The very kind @robj3d3 and @tibo_maker have graciously donated their domain to me which was originally gifted to them by @daniel_nguyenx who registered it first 🙏\n\n🛡️ https://t.co/RaiIDgiiI5\n\nPlease share it with your friends and make the 𝕏 reply section human again! https://t.co/dspo6djwiA https://t.co/C5g0R8WmVu",
+      "text_zh": "非常好心的 @robj3d3 和 @tibo_maker 慷慨地把他们的域名捐给了我，这个域名最初是 @daniel_nguyenx 注册后送给他们的 🙏\n\n🛡️ https://t.co/RaiIDgiiI5\n\n请分享给你的朋友，让 𝕏 的回复区重新变回人类的地方！ https://t.co/dspo6djwiA https://t.co/C5g0R8WmVu",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2124806688947781738",
+          "user": "levelsio",
+          "text": "A big Tor flood attack today on my block list while I was sleeping\n\nAI spammers are very very very angry we're uncovering their massive spam network on X! https://t.co/ilv9N2As56 https://t.co/3gBBiIzFvi",
+          "text_zh": "今天我睡觉的时候，我的屏蔽名单遭到了一次大规模的 Tor 洪水攻击\n\nAI 垃圾信息发送者非常非常非常愤怒，因为我们正在揭开他们在 X 上的庞大垃圾网络！ https://t.co/ilv9N2As56 https://t.co/3gBBiIzFvi"
+        }
+      ]
+    },
+    {
+      "id": "2124806688947781738",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2124806688947781738",
+      "created_at": "2026-11-23T10:06:06.000Z",
+      "created_at_bj": "2026-11-23 18:06",
+      "views": 67695,
+      "rate_per_hour": 7002,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-23T22:13:59+08:00",
+        "views": 64577
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 67695,
+        "like_count": 776,
+        "reply_count": 37,
+        "quote_count": 10,
+        "retweet_count": 21,
+        "bookmark_count": 73
+      },
+      "already_pushed": true,
+      "text": "A big Tor flood attack today on my block list while I was sleeping\n\nAI spammers are very very very angry we're uncovering their massive spam network on X! https://t.co/ilv9N2As56 https://t.co/3gBBiIzFvi",
+      "text_zh": "今天我睡觉的时候，我的屏蔽名单遭到了一次大规模的 Tor 洪水攻击\n\nAI 垃圾信息发送者非常非常非常愤怒，因为我们正在揭开他们在 X 上的庞大垃圾网络！ https://t.co/ilv9N2As56 https://t.co/3gBBiIzFvi",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2124586276489695710",
+          "user": "levelsio",
+          "text": "Nobody likes AI replies but they're defending each other\n\nBecause they're part of a giant network of people who all are using AI bots to spam X replies, and people selling them the shady tools to do that including bot farms, telephone farms etc. They all defend each other on here\n\nWhen you poke a hornet's nest, they all come out to sting you, which they're doing to me today\n\nRemember @nikitabier's work on original content and demonetizing all the automated spam? That was the same thing and it got so vicious he had security issues due to it\n\nSo yes nobody likes AI replies, it's just a self sustaining ecosystem on here with a lot of people dependent on it to make money from X monetization and the shady businesses selling them the automation tools and bot farms to do so\n\nI'd call it a criminal enterprise",
+          "text_zh": "没人喜欢 AI 回复，但他们却在互相袒护。\n\n因为他们同属一个庞大的网络：里面的人都在用 AI 机器人刷 X 回复，还有人向他们出售做这件事的灰色工具，包括机器人农场、电话农场等等。他们在这里彼此袒护。\n\n你一旦捅了马蜂窝，它们就会倾巢而出叮你，今天它们就是这样对我的。\n\n还记得 @nikitabier 推动原创内容、取消所有自动垃圾内容变现的事情吗？当时也是一样，闹得非常凶，他还因此遇到了安全问题。\n\n所以没错，没人喜欢 AI 回复，这里只是一个自我维持的生态系统，很多人靠它从 X 变现赚钱，还有那些向他们出售自动化工具和机器人农场的灰色生意。\n\n我称之为一个犯罪企业。"
+        }
+      ]
+    },
+    {
+      "id": "2124869830280888751",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2124869830280888751",
+      "created_at": "2026-11-23T14:17:00.000Z",
+      "created_at_bj": "2026-11-23 22:17",
+      "views": 4234,
+      "rate_per_hour": 10719,
+      "basis": "first_sight",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 4234,
+        "like_count": 42,
+        "reply_count": 18,
+        "quote_count": 0,
+        "retweet_count": 1,
+        "bookmark_count": 7
+      },
+      "already_pushed": false,
+      "text": "Come with me in Dubai 🇦🇪\n\n🚀 Launching my 43rd startup https://t.co/gFu88pn7on\n🎉 Biggest Indie Hackers meetup!\n💰 $1,000,000 acquisition on https://t.co/MZc8tG9xWi\n🏨 Hotel room with pull up bars?!\n🏃‍♂️ HYROX training with @SashaMagicSpace & @AntoineBlanco99\n🛠️ Rebuilding my personal website https://t.co/4zCWHGJp1S\n⚔️ Hardcore playing WoW Forever",
+      "text_zh": "跟我一起来迪拜 🇦🇪\n\n🚀 正在上线我的第 43 个 startup https://t.co/gFu88pn7on\n🎉 最大规模的 Indie Hackers 聚会！\n💰 在 https://t.co/MZc8tG9xWi 上完成了 $1,000,000 的收购\n🏨 酒店房间里居然有引体向上杆？！\n🏃‍♂️ 和 @SashaMagicSpace 与 @AntoineBlanco99 一起做 HYROX 训练\n🛠️ 正在重建我的个人网站 https://t.co/4zCWHGJp1S\n⚔️ 狂打 WoW Forever",
+      "hit": true
+    },
+    {
+      "id": "2124866087418531921",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2124866087418531921",
+      "created_at": "2026-11-23T14:02:08.000Z",
+      "created_at_bj": "2026-11-23 22:02",
+      "views": 6444,
+      "rate_per_hour": 7492,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-23T22:13:59+08:00",
+        "views": 3108
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 6444,
+        "like_count": 42,
+        "reply_count": 23,
+        "quote_count": 4,
+        "retweet_count": 0,
+        "bookmark_count": 0
+      },
+      "already_pushed": true,
+      "text": "🤝 91 builders made $1+\n🤝 5 builders made $1,000+ https://t.co/pAjf4oxKxX https://t.co/haJAKxzynY",
+      "text_zh": "🤝 91 位 builders 赚到了 $1 以上\n🤝 5 位 builders 赚到了 $1,000 以上 https://t.co/pAjf4oxKxX https://t.co/haJAKxzynY",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2120155404957311464",
+          "user": "marclou",
+          "text": "Higgsfield gave me $100,000 to realize my dream:\n\nA hackathon where participants build a real business, not just an app.\n\nSo... Introducing The $100K Hackathon:\n🏴‍☠️ https://t.co/nHDJ5Qruhu 🏴‍☠️\n\nIt starts on November 16, and you'll have 30 days to build a startup and make it profitable. The prizes:\n\n🥇 $100,000\n🥈 iPhone Duo\n🥉 MacBook Neo\n\nThis is not a joke. The winner will get $100,000 in cash.\n\nTo win, you must:\n\n1. Start a completely new business on Nov 16\n2. Build a digital product (SaaS, directory, etc.)\n3. Make the most profit (not revenue)\n\nYou can already register at $99. When the hackathon starts on Nov 16, you can still join for $149.\n\nI'm running this with my dear friend @jackfriks, and we'll manually review each potential winner to make sure everything holds up.\n\nSee you on November 16, builders 🏴‍☠️🫡",
+          "text_zh": "Higgsfield 给了我 $100,000 来实现我的梦想：\n\n一场让参赛者去打造真实生意、而不只是做一个应用的黑客松。\n\n所以……隆重介绍 The $100K Hackathon：\n🏴‍☠️ https://t.co/nHDJ5Qruhu 🏴‍☠️\n\n它将于 11 月 16 日开始，你有 30 天时间去做出一家创业公司并让它盈利。奖项：\n\n🥇 $100,000\n🥈 iPhone Duo\n🥉 MacBook Neo\n\n这不是开玩笑。冠军将获得 $100,000 现金。\n\n要赢，你必须：\n\n1. 在 11 月 16 日从零开始一家全新的生意\n2. 做出一款数字产品（SaaS、directory 等）\n3. 赚到最多利润（不是营收）\n\n你现在可以用 $99 报名。黑客松在 11 月 16 日开始后，仍可以 $149 加入。\n\n我和我的好朋友 @jackfriks 一起办这件事，我们会人工审核每一位潜在赢家，确保一切都经得起核验。\n\n11 月 16 日见，builders 🏴‍☠️🫡"
+        }
+      ]
+    },
+    {
+      "id": "2124826494166081944",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2124826494166081944",
+      "created_at": "2026-11-23T11:24:48.000Z",
+      "created_at_bj": "2026-11-23 19:24",
+      "views": 2629,
+      "rate_per_hour": 526,
+      "basis": "snapshot",
+      "prev": {
+        "checked_at": "2026-11-23T22:13:59+08:00",
+        "views": 2395
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 2629,
+        "like_count": 98,
+        "reply_count": 0,
+        "quote_count": 0,
+        "retweet_count": 4,
+        "bookmark_count": 16
+      },
+      "already_pushed": false,
+      "text": "Off the page https://t.co/loIdpGYPK2",
+      "text_zh": "跳出纸面 https://t.co/loIdpGYPK2",
+      "hit": false
+    }
+  ],
+  "new_hits": [
+    {
+      "id": "2124874706700648823",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2124874706700648823",
+      "created_at": "2026-11-23T14:36:22.000Z",
+      "created_at_bj": "2026-11-23 22:36",
+      "views": 2969,
+      "rate_per_hour": 41109,
+      "basis": "first_sight",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 2969,
+        "like_count": 15,
+        "reply_count": 4,
+        "quote_count": 0,
+        "retweet_count": 0,
+        "bookmark_count": 0
+      },
+      "already_pushed": false,
+      "text": "The bad thing about IBKR is it's so slow to clear deposits and has the worst interface ever so you can't day trade\n\nThe good thing about IBKR is it's so slow to clear deposits and has the worst interface ever so you can't day trade https://t.co/JANkNHednK https://t.co/110WvGR6NE",
+      "text_zh": "IBKR 的坏处是入金到账特别慢，界面也是有史以来最差的，所以你没法做日内交易\n\nIBKR 的好处是入金到账特别慢，界面也是有史以来最差的，所以你没法做日内交易 https://t.co/JANkNHednK https://t.co/110WvGR6NE",
+      "hit": true,
+      "quoted": [
+        {
+          "id": "2124866879101493290",
+          "user": "levelsio",
+          "text": "HE'S BAAAAACKKKKKKK\n\nI'M GONNA CRY OF JOY 😭 😭  😭 https://t.co/kTP1XRSRNM",
+          "text_zh": "他回——来——啦————\n\n我要高兴哭了 😭 😭  😭 https://t.co/kTP1XRSRNM"
+        }
+      ]
+    },
+    {
+      "id": "2124869830280888751",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2124869830280888751",
+      "created_at": "2026-11-23T14:17:00.000Z",
+      "created_at_bj": "2026-11-23 22:17",
+      "views": 4234,
+      "rate_per_hour": 10719,
+      "basis": "first_sight",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 4234,
+        "like_count": 42,
+        "reply_count": 18,
+        "quote_count": 0,
+        "retweet_count": 1,
+        "bookmark_count": 7
+      },
+      "already_pushed": false,
+      "text": "Come with me in Dubai 🇦🇪\n\n🚀 Launching my 43rd startup https://t.co/gFu88pn7on\n🎉 Biggest Indie Hackers meetup!\n💰 $1,000,000 acquisition on https://t.co/MZc8tG9xWi\n🏨 Hotel room with pull up bars?!\n🏃‍♂️ HYROX training with @SashaMagicSpace & @AntoineBlanco99\n🛠️ Rebuilding my personal website https://t.co/4zCWHGJp1S\n⚔️ Hardcore playing WoW Forever",
+      "text_zh": "跟我一起来迪拜 🇦🇪\n\n🚀 正在上线我的第 43 个 startup https://t.co/gFu88pn7on\n🎉 最大规模的 Indie Hackers 聚会！\n💰 在 https://t.co/MZc8tG9xWi 上完成了 $1,000,000 的收购\n🏨 酒店房间里居然有引体向上杆？！\n🏃‍♂️ 和 @SashaMagicSpace 与 @AntoineBlanco99 一起做 HYROX 训练\n🛠️ 正在重建我的个人网站 https://t.co/4zCWHGJp1S\n⚔️ 狂打 WoW Forever",
+      "hit": true
+    }
+  ],
+  "counts": {
+    "checked": 11,
+    "new_hits": 2,
+    "snapshots_before": 10,
+    "snapshots_after": 11,
+    "pushed_before": 199,
+    "pushed_after": 201,
+    "aged_out": [
+      "2124691877752422804"
+    ],
+    "per_account": {
+      "levelsio": 8,
+      "marclou": 2,
+      "gregisenberg": 0,
+      "steipete": 0,
+      "egeberkina": 1,
+      "karpathy": 0
+    }
+  }
+}
