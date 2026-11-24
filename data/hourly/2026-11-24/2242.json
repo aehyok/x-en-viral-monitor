@@ -1,0 +1,342 @@
+{
+  "run_at": "2026-11-24T22:45:31+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "2242",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2125234676973363573",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2125234676973363573",
+      "created_at": "2026-11-24T14:26:46.000Z",
+      "created_at_bj": "2026-11-24 22:26",
+      "views": 437,
+      "rate_per_hour": 1398,
+      "basis": "first_seen",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 437,
+        "like_count": 4,
+        "reply_count": 0,
+        "quote_count": 0,
+        "retweet_count": 0,
+        "bookmark_count": 1
+      },
+      "already_pushed": false,
+      "text": "Hola España https://t.co/ePupLpIMhT https://t.co/9xAYap3Lw8",
+      "text_zh": "Hola España（你好，西班牙） https://t.co/ePupLpIMhT https://t.co/9xAYap3Lw8",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2124571306175889486",
+          "user": "egeberkina",
+          "text": "A little piece of the USA https://t.co/gRxt4y5diI https://t.co/KlF1KmuG4S",
+          "text_zh": "美国的一小片 https://t.co/gRxt4y5diI https://t.co/KlF1KmuG4S"
+        }
+      ]
+    },
+    {
+      "id": "2125234496371060791",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2125234496371060791",
+      "created_at": "2026-11-24T14:26:03.000Z",
+      "created_at_bj": "2026-11-24 22:26",
+      "views": 3821,
+      "rate_per_hour": 11777,
+      "basis": "first_seen",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 3821,
+        "like_count": 25,
+        "reply_count": 14,
+        "quote_count": 0,
+        "retweet_count": 0,
+        "bookmark_count": 1
+      },
+      "already_pushed": false,
+      "text": "New little feature on https://t.co/clUvlhGKw0: the all-website view now has a per-website filter.\n\nSuggested by @DanKulkov, shipped by Opus 5.5. https://t.co/YDiYOccMXC",
+      "text_zh": "https://t.co/clUvlhGKw0 上线了一个小功能：全部网站视图现在可以按单个网站筛选了。\n\n由 @DanKulkov 建议，Opus 5.5 完成开发。 https://t.co/YDiYOccMXC",
+      "hit": true,
+      "quoted": null
+    },
+    {
+      "id": "2125219710501273753",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2125219710501273753",
+      "created_at": "2026-11-24T13:27:18.000Z",
+      "created_at_bj": "2026-11-24 21:27",
+      "views": 21951,
+      "rate_per_hour": 15186,
+      "basis": "snapshot",
+      "prev": {
+        "views": 13548,
+        "checked_at": "2026-11-24T22:12:19+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 21951,
+        "like_count": 225,
+        "reply_count": 65,
+        "quote_count": 3,
+        "retweet_count": 10,
+        "bookmark_count": 288
+      },
+      "already_pushed": true,
+      "text": "\"software is dead\"\n\nguy is making $300k/month that uses AI to turn photos of your dog into a oil portrait from a sea fortress in sweden https://t.co/Xt6WAgNH7p",
+      "text_zh": "「software is dead」\n\n有个家伙每月赚 $300k，用 AI 把你家狗的照片变成油画肖像，而且是在瑞典的一座海上堡垒里做的 https://t.co/Xt6WAgNH7p",
+      "hit": false,
+      "quoted": null
+    },
+    {
+      "id": "2125207815132434577",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2125207815132434577",
+      "created_at": "2026-11-24T12:40:02.000Z",
+      "created_at_bj": "2026-11-24 20:40",
+      "views": 26606,
+      "rate_per_hour": 7531,
+      "basis": "snapshot",
+      "prev": {
+        "views": 22439,
+        "checked_at": "2026-11-24T22:12:19+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 26606,
+        "like_count": 234,
+        "reply_count": 63,
+        "quote_count": 2,
+        "retweet_count": 5,
+        "bookmark_count": 16
+      },
+      "already_pushed": true,
+      "text": "I will submit my AI detection algorithm to @X's team to implement it soon https://t.co/1hyU7M2iET",
+      "text_zh": "我很快会把我的 AI 检测算法提交给 @X 的团队来落地实现 https://t.co/1hyU7M2iET",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2125206444928536992",
+          "user": "aviggiano",
+          "text": "the sad part about @nikitabier leaving twitter isn't necessarily that he was good (maybe he was, it doesn't matter)\n\nit's that users now have nobody to complain to\n\nlook at the amazing work @levelsio is doing with his anti-AI spam list\n\nwho's going to incorporate that into the core app? I bet nikita would've been in the trenches discussing this, now it feels like nobody's paying attention.",
+          "text_zh": "@nikitabier 离开 Twitter 让人遗憾的，不一定是因为他做得好（也许他确实好，但这不重要）\n\n而是用户现在没人可以去投诉了\n\n看看 @levelsio 在反 AI 垃圾名单上做的出色工作\n\n谁会把它纳入核心应用呢？我打赌 Nikita 会一头扎进这种讨论里，现在却感觉没人在跟进了。"
+        }
+      ]
+    },
+    {
+      "id": "2125196511126737341",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2125196511126737341",
+      "created_at": "2026-11-24T11:55:07.000Z",
+      "created_at_bj": "2026-11-24 19:55",
+      "views": 52195,
+      "rate_per_hour": 10411,
+      "basis": "snapshot",
+      "prev": {
+        "views": 46434,
+        "checked_at": "2026-11-24T22:12:19+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 52195,
+        "like_count": 444,
+        "reply_count": 150,
+        "quote_count": 15,
+        "retweet_count": 4,
+        "bookmark_count": 61
+      },
+      "already_pushed": true,
+      "text": "I'm spending about $600/day now to block AI spammers\n\nHappy to bankroll this for a bit as the start of this project is the most expensive I think https://t.co/GVICvARxJP https://t.co/8hZHHp7hYi",
+      "text_zh": "我现在每天大概花 $600 来封堵 AI 垃圾账号\n\n这个项目刚开始阶段应该是最贵的，这段时间我愿意先自己掏钱撑着 https://t.co/GVICvARxJP https://t.co/8hZHHp7hYi",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2124968153512112447",
+          "user": "levelsio",
+          "text": "Now it's all fully AI agents appealing to be removed from the AI spam list \n\nYou can't make this up, it's like Moltbook 😂 https://t.co/Oi8109blMs https://t.co/MinE7o0Q2Q",
+          "text_zh": "现在全是清一色的 AI agents 在申诉，要求把自己从 AI 垃圾名单里移除\n\n这你都编不出来，简直像 Moltbook 😂 https://t.co/Oi8109blMs https://t.co/MinE7o0Q2Q"
+        }
+      ]
+    },
+    {
+      "id": "2125194495545504131",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2125194495545504131",
+      "created_at": "2026-11-24T11:47:06.000Z",
+      "created_at_bj": "2026-11-24 19:47",
+      "views": 10451,
+      "rate_per_hour": 1916,
+      "basis": "snapshot",
+      "prev": {
+        "views": 9391,
+        "checked_at": "2026-11-24T22:12:19+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 10451,
+        "like_count": 101,
+        "reply_count": 36,
+        "quote_count": 0,
+        "retweet_count": 2,
+        "bookmark_count": 34
+      },
+      "already_pushed": true,
+      "text": "I just added automations to https://t.co/doMhF11flP\n\n⚡️ Pick a start: a new subscriber or a link click\n📧 Drag emails & waits onto a path\n🔀 Split it with conditions (opened? clicked?)\n✅ Turn it on, and it runs on its own https://t.co/JVU5eA5tPf",
+      "text_zh": "我刚给 https://t.co/doMhF11flP 加上了 automations\n\n⚡️ 选择一个起点：新订阅者，或一次链接点击\n📧 把邮件和等待拖到一条路径上\n🔀 用条件做分流（打开了？点击了？）\n✅ 打开开关，它就会自动跑起来 https://t.co/JVU5eA5tPf",
+      "hit": false,
+      "quoted": null
+    },
+    {
+      "id": "2125184780694343909",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2125184780694343909",
+      "created_at": "2026-11-24T11:08:30.000Z",
+      "created_at_bj": "2026-11-24 19:08",
+      "views": 1262,
+      "rate_per_hour": 143,
+      "basis": "snapshot",
+      "prev": {
+        "views": 1183,
+        "checked_at": "2026-11-24T22:12:19+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 1262,
+        "like_count": 26,
+        "reply_count": 0,
+        "quote_count": 0,
+        "retweet_count": 1,
+        "bookmark_count": 2
+      },
+      "already_pushed": false,
+      "text": "1988 called https://t.co/YPWrcxByxC",
+      "text_zh": "1988 年来电了 https://t.co/YPWrcxByxC",
+      "hit": false,
+      "quoted": null
+    },
+    {
+      "id": "2125155472647106915",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2125155472647106915",
+      "created_at": "2026-11-24T09:12:02.000Z",
+      "created_at_bj": "2026-11-24 17:12",
+      "views": 24772,
+      "rate_per_hour": 2131,
+      "basis": "snapshot",
+      "prev": {
+        "views": 23593,
+        "checked_at": "2026-11-24T22:12:19+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 24772,
+        "like_count": 372,
+        "reply_count": 36,
+        "quote_count": 2,
+        "retweet_count": 15,
+        "bookmark_count": 38
+      },
+      "already_pushed": true,
+      "text": "You see this power law in every community, both online and offline\n\nA small % of people is responsible for the majority of disturbances\n\nWhich is why just enforcing the rules and removing those people is so effective\n\nBut we live in a time were simply doing that is frowned upon https://t.co/fkXM6Ea90Q",
+      "text_zh": "你会在每一个社区里看到这种幂律，无论线上还是线下\n\n一小部分人要为大多数扰乱负责\n\n这就是为什么只要执行规则、把这些人清出去，会如此有效\n\n但我们生活在一个，仅仅做这件事就会被另眼相看的时代 https://t.co/fkXM6Ea90Q",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2124984342027837484",
+          "user": "VickieforNYC",
+          "text": "I have said this for years. The criminal population is actually vanishingly small. This very small cohort is responsible for the VAST majority of crime and public misery.\n\nWe could fix almost everything by simply removing this very small and deeply antisocial cohort from the population by putting them in prison. There is literally no downside.\n\nWe used to understand this very basic fact as a matter of obvious common sense.\n\nThen the left, who run our big cities as a monopoly, decided that prison was no longer an option for moral/political reasons, and instead has made large-scale decarceration a top priority no matter how many crimes an individual has inflicted upon society.\n\nThey instead construct ever more complex Rube Goldberg systems of excuses/rationalizations for why the thing that actually works is morally obsolete and instead pour hundreds of billions into 'diversion' and 'alternatives' that accomplish exactly nothing other than lining the pockets of the nonprofits who administer them.\n\nSo now we have to live in a world where normal people live at the mercy of a small number of irredeemable scumbags who will never ever contribute anything to society and are free to immiserate us at a wildly disproportionate scale, simply because prison is no longer an option (because they say so).\n\nThis is the world the left has built for us.",
+          "text_zh": "这件事我已经说了很多年。犯罪人群其实极小。就是这极小的一群人，造成了绝大多数犯罪和公共苦难。\n\n我们几乎可以通过把这极小、且极度反社会的一群人关进监狱、从人群中清出去，来解决几乎所有问题。这件事几乎没有任何坏处。\n\n我们曾经把这个非常基本的事实当作显而易见的常识。\n\n然后垄断着我们大城市治理权的左翼，出于道德/政治理由，认定监狱不再是选项，并把大规模减少监禁当成首要目标，不管一个人已经对社会犯下多少罪行。\n\n他们转而搭建越来越复杂的鲁布·戈德堡式借口/合理化体系，来论证真正有效的办法已经在道德上过时，同时把数千亿美元砸进所谓「转处」和「替代方案」，而这些除了给经办它们的非营利组织塞钱之外，什么也办不成。\n\n于是我们现在不得不生活在这样的世界里：普通人要任由少数无可救药的败类摆布——这些人永远不会对社会有任何贡献，却能以极不成比例的规模把我们的生活搞得痛苦不堪——只因为监狱不再是选项（只因为他们这么说）。\n\n这就是左翼给我们建造的世界。"
+        }
+      ]
+    },
+    {
+      "id": "2125144248962162798",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2125144248962162798",
+      "created_at": "2026-11-24T08:27:26.000Z",
+      "created_at_bj": "2026-11-24 16:27",
+      "views": 65615,
+      "rate_per_hour": 8570,
+      "basis": "snapshot",
+      "prev": {
+        "views": 60873,
+        "checked_at": "2026-11-24T22:12:19+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 65615,
+        "like_count": 741,
+        "reply_count": 136,
+        "quote_count": 17,
+        "retweet_count": 45,
+        "bookmark_count": 255
+      },
+      "already_pushed": true,
+      "text": "Yes, I'm convinced it'll create another nomad wave around 2028\n\nMany offices will be a thing of the past (again!) as people will just be prompting from everywhere\n\nAdd to that self driving vehicles (and vans/RVs) and you get many perpetually people moving around again https://t.co/EKL2IfpDnF",
+      "text_zh": "是的，我确信这会在 2028 年左右再掀起一波数字游民浪潮\n\n很多办公室又会成为过去式（再一次！），因为人们可以在任何地方做 prompting\n\n再加上自动驾驶汽车（以及厢式车/房车），你会再次看到很多人处于持续移动的状态 https://t.co/EKL2IfpDnF",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2124853422675440077",
+          "user": "scottastevenson",
+          "text": "I’m legitimately starting to wonder: would today be more productive if I was prompting agents from the gym, or a hiking trail, rather than from a desk?\n\nThe great unshackling of knowledge workers might be a beautiful thing.",
+          "text_zh": "我是认真开始在想：如果我今天是在健身房或徒步小路上给 agents 下指令，而不是坐在书桌前，会不会更有效率？\n\n知识工作者的大解放，也许会是一件很美的事。"
+        }
+      ]
+    }
+  ],
+  "new_hits": [
+    {
+      "id": "2125234496371060791",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2125234496371060791",
+      "created_at": "2026-11-24T14:26:03.000Z",
+      "created_at_bj": "2026-11-24 22:26",
+      "views": 3821,
+      "rate_per_hour": 11777,
+      "basis": "first_seen",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 3821,
+        "like_count": 25,
+        "reply_count": 14,
+        "quote_count": 0,
+        "retweet_count": 0,
+        "bookmark_count": 1
+      },
+      "already_pushed": false,
+      "text": "New little feature on https://t.co/clUvlhGKw0: the all-website view now has a per-website filter.\n\nSuggested by @DanKulkov, shipped by Opus 5.5. https://t.co/YDiYOccMXC",
+      "text_zh": "https://t.co/clUvlhGKw0 上线了一个小功能：全部网站视图现在可以按单个网站筛选了。\n\n由 @DanKulkov 建议，Opus 5.5 完成开发。 https://t.co/YDiYOccMXC",
+      "hit": true,
+      "quoted": null
+    }
+  ],
+  "counts": {
+    "checked": 9,
+    "new_hits": 1,
+    "snapshots_before": 7,
+    "snapshots_after": 9,
+    "pushed_before": 211,
+    "pushed_after": 212,
+    "aged_out": [],
+    "per_account": {
+      "levelsio": 4,
+      "marclou": 2,
+      "gregisenberg": 1,
+      "steipete": 0,
+      "egeberkina": 2,
+      "karpathy": 0
+    }
+  }
+}
