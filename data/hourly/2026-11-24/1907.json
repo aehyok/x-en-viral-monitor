@@ -1,0 +1,132 @@
+{
+  "run_at": "2026-11-24T19:11:28+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "1907",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2125155472647106915",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2125155472647106915",
+      "created_at": "2026-11-24T09:12:02.000Z",
+      "created_at_bj": "2026-11-24 17:12",
+      "views": 14288,
+      "rate_per_hour": 4230,
+      "basis": "snapshot",
+      "prev": {
+        "views": 12374,
+        "checked_at": "2026-11-24T18:44:19+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 14288,
+        "like_count": 179,
+        "reply_count": 25,
+        "quote_count": 1,
+        "retweet_count": 8,
+        "bookmark_count": 20
+      },
+      "already_pushed": true,
+      "text": "You see this power law in every community, both online and offline\n\nA small % of people is responsible for the majority of disturbances\n\nWhich is why just enforcing the rules and removing those people is so effective\n\nBut we live in a time were simply doing that is frowned upon https://t.co/fkXM6Ea90Q",
+      "text_zh": "你会在每一个社区里看到这种幂律，无论线上还是线下\n\n一小部分人要为大多数扰乱负责\n\n这就是为什么只要执行规则、把这些人清出去，会如此有效\n\n但我们生活在一个，仅仅做这件事就会被另眼相看的时代 https://t.co/fkXM6Ea90Q",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2124984342027837484",
+          "user": "VickieforNYC",
+          "text": "I have said this for years. The criminal population is actually vanishingly small. This very small cohort is responsible for the VAST majority of crime and public misery.\n\nWe could fix almost everything by simply removing this very small and deeply antisocial cohort from the population by putting them in prison. There is literally no downside.\n\nWe used to understand this very basic fact as a matter of obvious common sense.\n\nThen the left, who run our big cities as a monopoly, decided that prison was no longer an option for moral/political reasons, and instead has made large-scale decarceration a top priority no matter how many crimes an individual has inflicted upon society.\n\nThey instead construct ever more complex Rube Goldberg systems of excuses/rationalizations for why the thing that actually works is morally obsolete and instead pour hundreds of billions into 'diversion' and 'alternatives' that accomplish exactly nothing other than lining the pockets of the nonprofits who administer them.\n\nSo now we have to live in a world where normal people live at the mercy of a small number of irredeemable scumbags who will never ever contribute anything to society and are free to immiserate us at a wildly disproportionate scale, simply because prison is no longer an option (because they say so).\n\nThis is the world the left has built for us.",
+          "text_zh": "这件事我已经说了很多年。犯罪人群其实极小。就是这极小的一群人，造成了绝大多数犯罪和公共苦难。\n\n我们几乎可以通过把这极小、且极度反社会的一群人关进监狱、从人群中清出去，来解决几乎所有问题。这件事几乎没有任何坏处。\n\n我们曾经把这个非常基本的事实当作显而易见的常识。\n\n然后垄断着我们大城市治理权的左翼，出于道德/政治理由，认定监狱不再是选项，并把大规模减少监禁当成首要目标，不管一个人已经对社会犯下多少罪行。\n\n他们转而搭建越来越复杂的鲁布·戈德堡式借口/合理化体系，来论证真正有效的办法已经在道德上过时，同时把数千亿美元砸进所谓「转处」和「替代方案」，而这些除了给经办它们的非营利组织塞钱之外，什么也办不成。\n\n于是我们现在不得不生活在这样的世界里：普通人要任由少数无可救药的败类摆布——这些人永远不会对社会有任何贡献，却能以极不成比例的规模把我们的生活搞得痛苦不堪——只因为监狱不再是选项（只因为他们这么说）。\n\n这就是左翼给我们建造的世界。"
+        }
+      ]
+    },
+    {
+      "id": "2125144248962162798",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2125144248962162798",
+      "created_at": "2026-11-24T08:27:26.000Z",
+      "created_at_bj": "2026-11-24 16:27",
+      "views": 32446,
+      "rate_per_hour": 11191,
+      "basis": "snapshot",
+      "prev": {
+        "views": 27382,
+        "checked_at": "2026-11-24T18:44:19+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 32446,
+        "like_count": 420,
+        "reply_count": 88,
+        "quote_count": 7,
+        "retweet_count": 21,
+        "bookmark_count": 137
+      },
+      "already_pushed": true,
+      "text": "Yes, I'm convinced it'll create another nomad wave around 2028\n\nMany offices will be a thing of the past (again!) as people will just be prompting from everywhere\n\nAdd to that self driving vehicles (and vans/RVs) and you get many perpetually people moving around again https://t.co/EKL2IfpDnF",
+      "text_zh": "是的，我确信这会在 2028 年左右再掀起一波数字游民浪潮\n\n很多办公室又会成为过去式（再一次！），因为人们可以在任何地方做 prompting\n\n再加上自动驾驶汽车（以及厢式车/房车），你会再次看到很多人处于持续移动的状态 https://t.co/EKL2IfpDnF",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2124853422675440077",
+          "user": "scottastevenson",
+          "text": "I’m legitimately starting to wonder: would today be more productive if I was prompting agents from the gym, or a hiking trail, rather than from a desk?\n\nThe great unshackling of knowledge workers might be a beautiful thing.",
+          "text_zh": "我是认真开始在想：如果我今天是在健身房或徒步小路上给 agents 下指令，而不是坐在书桌前，会不会更有效率？\n\n知识工作者的大解放，也许会是一件很美的事。"
+        }
+      ]
+    },
+    {
+      "id": "2125014929250148546",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2125014929250148546",
+      "created_at": "2026-11-23T23:53:34.000Z",
+      "created_at_bj": "2026-11-24 07:53",
+      "views": 16804,
+      "rate_per_hour": 404,
+      "basis": "snapshot",
+      "prev": {
+        "views": 16621,
+        "checked_at": "2026-11-24T18:44:19+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 16804,
+        "like_count": 55,
+        "reply_count": 26,
+        "quote_count": 2,
+        "retweet_count": 4,
+        "bookmark_count": 27
+      },
+      "already_pushed": true,
+      "text": "$1.1B robotics founder: millions of robots will exist in 10 years https://t.co/oRAM3zugmB",
+      "text_zh": "$1.1B 机器人公司创始人：十年内将有数百万台机器人 https://t.co/oRAM3zugmB",
+      "hit": false
+    }
+  ],
+  "new_hits": [],
+  "counts": {
+    "checked": 3,
+    "new_hits": 0,
+    "snapshots_before": 3,
+    "snapshots_after": 3,
+    "pushed_before": 207,
+    "pushed_after": 207,
+    "aged_out": [],
+    "per_account": {
+      "levelsio": 2,
+      "marclou": 0,
+      "gregisenberg": 1,
+      "steipete": 0,
+      "egeberkina": 0,
+      "karpathy": 0
+    }
+  }
+}
