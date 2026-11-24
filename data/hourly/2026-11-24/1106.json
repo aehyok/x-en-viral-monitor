@@ -1,0 +1,186 @@
+{
+  "run_at": "2026-11-24T11:07:27+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "1106",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2124968153512112447",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2124968153512112447",
+      "created_at": "2026-11-23T20:47:42.000Z",
+      "created_at_bj": "2026-11-24 04:47",
+      "views": 36193,
+      "rate_per_hour": 2115,
+      "basis": "snapshot",
+      "prev": {
+        "views": 35441,
+        "checked_at": "2026-11-24T10:46:05+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 36193,
+        "like_count": 314,
+        "reply_count": 62,
+        "quote_count": 6,
+        "retweet_count": 3,
+        "bookmark_count": 22
+      },
+      "already_pushed": true,
+      "text": "Now it's all fully AI agents appealing to be removed from the AI spam list \n\nYou can't make this up, it's like Moltbook 😂 https://t.co/Oi8109blMs https://t.co/MinE7o0Q2Q",
+      "text_zh": "现在全是清一色的 AI agents 在申诉，要求把自己从 AI 垃圾名单里移除\n\n这你都编不出来，简直像 Moltbook 😂 https://t.co/Oi8109blMs https://t.co/MinE7o0Q2Q",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2124853382821356015",
+          "user": "levelsio",
+          "text": "I love reading the appeals\n\nAlmost every single appeal is fully AI bot spam replies but people flat out lie about it thinking I won't actually check the appeals\n\nI check every single one of them https://t.co/xCxUDaEcrR",
+          "text_zh": "我超爱看这些申诉。\n\n几乎每一条申诉都是彻头彻尾的 AI 机器人垃圾回复，但人们还是睁眼说瞎话，以为我不会真的去核查这些申诉。\n\n每一条我都会查。https://t.co/xCxUDaEcrR"
+        }
+      ]
+    },
+    {
+      "id": "2124945790749851680",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2124945790749851680",
+      "created_at": "2026-11-23T19:18:50.000Z",
+      "created_at_bj": "2026-11-24 03:18",
+      "views": 50052,
+      "rate_per_hour": 1573,
+      "basis": "snapshot",
+      "prev": {
+        "views": 49492,
+        "checked_at": "2026-11-24T10:46:05+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 50052,
+        "like_count": 173,
+        "reply_count": 49,
+        "quote_count": 2,
+        "retweet_count": 5,
+        "bookmark_count": 56
+      },
+      "already_pushed": true,
+      "text": "For my 🇧🇷 Brazil house I need to get a guy to come do the electric wiring etc\n\nI also wanna have Home Assistant working\n\nIn Portugal the house came with KNX, then I bought a little box that made KNX work with Home Assistant, but KNX seems like a European system only\n\nWhat system do you suggest for Brazil? Any companies that are legit? This would be in Parana\n\nEssential it works with @home_assistant",
+      "text_zh": "为我在巴西 🇧🇷 的房子，我需要找人来做电线铺设等电气工程\n\n我也想把 Home Assistant 用起来\n\n在葡萄牙，房子自带 KNX，后来我买了一个小盒子让 KNX 能和 Home Assistant 一起工作，但 KNX 好像只是欧洲的系统\n\n你们会建议巴西用什么系统？有靠谱的公司吗？地点是巴拉那（Parana）\n\n关键是必须能和 @home_assistant 配合使用",
+      "hit": false
+    },
+    {
+      "id": "2124936167338791403",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2124936167338791403",
+      "created_at": "2026-11-23T18:40:36.000Z",
+      "created_at_bj": "2026-11-24 02:40",
+      "views": 41858,
+      "rate_per_hour": 1556,
+      "basis": "snapshot",
+      "prev": {
+        "views": 41304,
+        "checked_at": "2026-11-24T10:46:05+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 41858,
+        "like_count": 558,
+        "reply_count": 32,
+        "quote_count": 3,
+        "retweet_count": 19,
+        "bookmark_count": 128
+      },
+      "already_pushed": false,
+      "text": "Makers vs. Managers https://t.co/ILfcifdYqe",
+      "text_zh": "创造者 vs. 管理者 https://t.co/ILfcifdYqe",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2124886502320517448",
+          "user": "nntaleb",
+          "text": "There are two types of people. Those who create & do things (Jensen Huang), and those who play an imitative role in a performative game &, on the occasion, execute things.\nBut Markets figured it out.",
+          "text_zh": "世上有两种人。一种是创造并做事的人（Jensen Huang），另一种是在表演性游戏里扮演模仿角色、偶尔才去执行的人。\n但市场已经把这点看明白了。"
+        }
+      ]
+    },
+    {
+      "id": "2125014929250148546",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2125014929250148546",
+      "created_at": "2026-11-23T23:53:34.000Z",
+      "created_at_bj": "2026-11-24 07:53",
+      "views": 11580,
+      "rate_per_hour": 1567,
+      "basis": "snapshot",
+      "prev": {
+        "views": 11022,
+        "checked_at": "2026-11-24T10:46:05+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 11580,
+        "like_count": 30,
+        "reply_count": 17,
+        "quote_count": 2,
+        "retweet_count": 2,
+        "bookmark_count": 16
+      },
+      "already_pushed": true,
+      "text": "$1.1B robotics founder: millions of robots will exist in 10 years https://t.co/oRAM3zugmB",
+      "text_zh": "$1.1B 机器人公司创始人：十年内将有数百万台机器人 https://t.co/oRAM3zugmB",
+      "hit": false
+    },
+    {
+      "id": "2124899300132135214",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2124899300132135214",
+      "created_at": "2026-11-23T16:14:06.000Z",
+      "created_at_bj": "2026-11-24 00:14",
+      "views": 9726,
+      "rate_per_hour": 548,
+      "basis": "snapshot",
+      "prev": {
+        "views": 9531,
+        "checked_at": "2026-11-24T10:46:05+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 9726,
+        "like_count": 497,
+        "reply_count": 4,
+        "quote_count": 0,
+        "retweet_count": 43,
+        "bookmark_count": 77
+      },
+      "already_pushed": false,
+      "text": "YE. https://t.co/ZfWzma7dHm",
+      "text_zh": "YE. https://t.co/ZfWzma7dHm",
+      "hit": false
+    }
+  ],
+  "new_hits": [],
+  "counts": {
+    "checked": 5,
+    "new_hits": 0,
+    "snapshots_before": 5,
+    "snapshots_after": 5,
+    "pushed_before": 205,
+    "pushed_after": 205,
+    "aged_out": [],
+    "per_account": {
+      "levelsio": 3,
+      "marclou": 0,
+      "gregisenberg": 1,
+      "steipete": 0,
+      "egeberkina": 1,
+      "karpathy": 0
+    }
+  }
+}
