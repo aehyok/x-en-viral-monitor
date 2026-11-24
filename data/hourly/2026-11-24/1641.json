@@ -1,0 +1,162 @@
+{
+  "run_at": "2026-11-24T16:44:18+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "1641",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2125144248962162798",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2125144248962162798",
+      "created_at": "2026-11-24T08:27:26.000Z",
+      "created_at_bj": "2026-11-24 16:27",
+      "views": 4881,
+      "rate_per_hour": 17363,
+      "basis": "first_sight",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 4881,
+        "like_count": 27,
+        "reply_count": 11,
+        "quote_count": 0,
+        "retweet_count": 2,
+        "bookmark_count": 11
+      },
+      "already_pushed": false,
+      "text": "Yes, I'm convinced it'll create another nomad wave around 2028\n\nMany offices will be a thing of the past (again!) as people will just be prompting from everywhere\n\nAdd to that self driving vehicles (and vans/RVs) and you get many perpetually people moving around again https://t.co/EKL2IfpDnF",
+      "text_zh": "是的，我确信这会在 2028 年左右再掀起一波数字游民浪潮\n\n很多办公室又会成为过去式（再一次！），因为人们可以在任何地方做 prompting\n\n再加上自动驾驶汽车（以及厢式车/房车），你会再次看到很多人处于持续移动的状态 https://t.co/EKL2IfpDnF",
+      "hit": true,
+      "quoted": [
+        {
+          "id": "2124853422675440077",
+          "user": "scottastevenson",
+          "text": "I’m legitimately starting to wonder: would today be more productive if I was prompting agents from the gym, or a hiking trail, rather than from a desk?\n\nThe great unshackling of knowledge workers might be a beautiful thing.",
+          "text_zh": "我是认真开始在想：如果我今天是在健身房或徒步小路上给 agents 下指令，而不是坐在书桌前，会不会更有效率？\n\n知识工作者的大解放，也许会是一件很美的事。"
+        }
+      ]
+    },
+    {
+      "id": "2124968153512112447",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2124968153512112447",
+      "created_at": "2026-11-23T20:47:42.000Z",
+      "created_at_bj": "2026-11-24 04:47",
+      "views": 47297,
+      "rate_per_hour": 2540,
+      "basis": "snapshot",
+      "prev": {
+        "views": 45817,
+        "checked_at": "2026-11-24T16:09:20+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 47297,
+        "like_count": 402,
+        "reply_count": 92,
+        "quote_count": 7,
+        "retweet_count": 3,
+        "bookmark_count": 28
+      },
+      "already_pushed": true,
+      "text": "Now it's all fully AI agents appealing to be removed from the AI spam list \n\nYou can't make this up, it's like Moltbook 😂 https://t.co/Oi8109blMs https://t.co/MinE7o0Q2Q",
+      "text_zh": "现在全是清一色的 AI agents 在申诉，要求把自己从 AI 垃圾名单里移除\n\n这你都编不出来，简直像 Moltbook 😂 https://t.co/Oi8109blMs https://t.co/MinE7o0Q2Q",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2124853382821356015",
+          "user": "levelsio",
+          "text": "I love reading the appeals\n\nAlmost every single appeal is fully AI bot spam replies but people flat out lie about it thinking I won't actually check the appeals\n\nI check every single one of them https://t.co/xCxUDaEcrR",
+          "text_zh": "我超爱看这些申诉。\n\n几乎每一条申诉都是彻头彻尾的 AI 机器人垃圾回复，但人们还是睁眼说瞎话，以为我不会真的去核查这些申诉。\n\n每一条我都会查。https://t.co/xCxUDaEcrR"
+        }
+      ]
+    },
+    {
+      "id": "2125014929250148546",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2125014929250148546",
+      "created_at": "2026-11-23T23:53:34.000Z",
+      "created_at_bj": "2026-11-24 07:53",
+      "views": 15796,
+      "rate_per_hour": 479,
+      "basis": "snapshot",
+      "prev": {
+        "views": 15517,
+        "checked_at": "2026-11-24T16:09:20+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 15796,
+        "like_count": 48,
+        "reply_count": 23,
+        "quote_count": 2,
+        "retweet_count": 4,
+        "bookmark_count": 27
+      },
+      "already_pushed": true,
+      "text": "$1.1B robotics founder: millions of robots will exist in 10 years https://t.co/oRAM3zugmB",
+      "text_zh": "$1.1B 机器人公司创始人：十年内将有数百万台机器人 https://t.co/oRAM3zugmB",
+      "hit": false
+    }
+  ],
+  "new_hits": [
+    {
+      "id": "2125144248962162798",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2125144248962162798",
+      "created_at": "2026-11-24T08:27:26.000Z",
+      "created_at_bj": "2026-11-24 16:27",
+      "views": 4881,
+      "rate_per_hour": 17363,
+      "basis": "first_sight",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 4881,
+        "like_count": 27,
+        "reply_count": 11,
+        "quote_count": 0,
+        "retweet_count": 2,
+        "bookmark_count": 11
+      },
+      "already_pushed": false,
+      "text": "Yes, I'm convinced it'll create another nomad wave around 2028\n\nMany offices will be a thing of the past (again!) as people will just be prompting from everywhere\n\nAdd to that self driving vehicles (and vans/RVs) and you get many perpetually people moving around again https://t.co/EKL2IfpDnF",
+      "text_zh": "是的，我确信这会在 2028 年左右再掀起一波数字游民浪潮\n\n很多办公室又会成为过去式（再一次！），因为人们可以在任何地方做 prompting\n\n再加上自动驾驶汽车（以及厢式车/房车），你会再次看到很多人处于持续移动的状态 https://t.co/EKL2IfpDnF",
+      "hit": true,
+      "quoted": [
+        {
+          "id": "2124853422675440077",
+          "user": "scottastevenson",
+          "text": "I’m legitimately starting to wonder: would today be more productive if I was prompting agents from the gym, or a hiking trail, rather than from a desk?\n\nThe great unshackling of knowledge workers might be a beautiful thing.",
+          "text_zh": "我是认真开始在想：如果我今天是在健身房或徒步小路上给 agents 下指令，而不是坐在书桌前，会不会更有效率？\n\n知识工作者的大解放，也许会是一件很美的事。"
+        }
+      ]
+    }
+  ],
+  "counts": {
+    "checked": 3,
+    "new_hits": 1,
+    "snapshots_before": 2,
+    "snapshots_after": 3,
+    "pushed_before": 205,
+    "pushed_after": 206,
+    "aged_out": [],
+    "per_account": {
+      "levelsio": 2,
+      "marclou": 0,
+      "gregisenberg": 1,
+      "steipete": 0,
+      "egeberkina": 0,
+      "karpathy": 0
+    }
+  }
+}
