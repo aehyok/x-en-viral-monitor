@@ -1,0 +1,142 @@
+{
+  "run_at": "2026-11-25T13:39:18+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "1338",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2125422797304549672",
+      "user": "steipete",
+      "url": "https://x.com/steipete/status/2125422797304549672",
+      "created_at": "2026-11-25T02:54:17.000Z",
+      "created_at_bj": "2026-11-25 10:54",
+      "views": 37666,
+      "rate_per_hour": 5189,
+      "basis": "snapshot",
+      "prev": {
+        "views": 34949,
+        "checked_at": "2026-11-25T13:07:53+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 37666,
+        "like_count": 528,
+        "reply_count": 77,
+        "quote_count": 6,
+        "retweet_count": 26,
+        "bookmark_count": 56
+      },
+      "already_pushed": true,
+      "text": "What a year this has been! Time to reflect and do a blog post over the holidays.\n\nOC is in a great place, we found a niche in prosumer and enterprise adoption. The multiplayer team feature is best in class.\n\nShipping reliable and free open source is also really really hard, and waking up to countless user complaints every day is an emotional challenge. I’m glad the team is taking over most of the work these days.\n\nWe mostly been focussing on the boring part of ensuring things are fast, reliable and secure, with the exception of the new memory system and soon OpenClaw ID. \n\nTo many more years!",
+      "text_zh": "今年真是了不起的一年！假期里得好好回顾一下，写篇博客。\n\nOC 现在状态很好，我们在 prosumer 和企事业采用上找到了自己的定位。多人协作的团队功能是业内一流。\n\n把可靠且免费的开源持续交付出去，其实非常非常难，每天一睁眼就面对无数用户投诉，这在情绪上也是很大的挑战。很高兴团队现在已经把大部分工作接手过去了。\n\n我们主要一直在做那些不太起眼的部分：确保产品足够快、可靠、安全，例外是新的 memory 系统，以及即将推出的 OpenClaw ID。\n\n愿我们还能走很多年！",
+      "hit": true,
+      "quoted": [
+        {
+          "id": "2125273417561850199",
+          "user": "openclaw",
+          "text": "It's OpenClaws One Year Anniversary!\n\nThe best part of building in the open this past year has been seeing what you’ve made with it. \n\nThanks to everyone who shipped a patch, shared a setup, or helped someone get started\n\nA look back at year one\nhttps://t.co/4reusyeR7b https://t.co/seVqmbyvpA",
+          "text_zh": "今天是 OpenClaws 一周年！\n\n过去这一年开源共建最棒的部分，就是看到你们用它做出来的东西。\n\n感谢每一位提交过补丁、分享过配置、或帮别人入门的人\n\n回顾第一年\nhttps://t.co/4reusyeR7b https://t.co/seVqmbyvpA"
+        }
+      ]
+    },
+    {
+      "id": "2125312288517246983",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2125312288517246983",
+      "created_at": "2026-11-24T19:35:10.000Z",
+      "created_at_bj": "2026-11-25 03:35",
+      "views": 120407,
+      "rate_per_hour": 3252,
+      "basis": "snapshot",
+      "prev": {
+        "views": 118704,
+        "checked_at": "2026-11-25T13:07:53+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 120407,
+        "like_count": 602,
+        "reply_count": 42,
+        "quote_count": 3,
+        "retweet_count": 15,
+        "bookmark_count": 302
+      },
+      "already_pushed": true,
+      "text": "Yep \"the hack of the century\" and it will be the end of secrets https://t.co/Bjqdq7UHM9",
+      "text_zh": "没错，「the hack of the century（本世纪最大的黑客攻击）」，而且这将意味着秘密的终结 https://t.co/Bjqdq7UHM9",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2125297730499248503",
+          "user": "goncalo_canhoto",
+          "text": "I think there is now a non-zero chance that most messages, photos, and cloud backups you’ve ever sent eventually get leaked and searchable in a relatively accessible way\n\nI know it sounds insane and shit would go down, but I believe it’s now &gt;0%",
+          "text_zh": "我觉得现在有一个非零的可能性：你发过的大多数消息、照片和云备份，最终都会被泄露，并且能以相对容易的方式被搜索到\n\n我知道这听起来很疯狂，一旦发生会天下大乱，但我认为这个概率现在已经 &gt;0%"
+        }
+      ]
+    },
+    {
+      "id": "2125308828011131033",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2125308828011131033",
+      "created_at": "2026-11-24T19:21:25.000Z",
+      "created_at_bj": "2026-11-25 03:21",
+      "views": 68541,
+      "rate_per_hour": 2773,
+      "basis": "snapshot",
+      "prev": {
+        "views": 67089,
+        "checked_at": "2026-11-25T13:07:53+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 68541,
+        "like_count": 827,
+        "reply_count": 98,
+        "quote_count": 6,
+        "retweet_count": 11,
+        "bookmark_count": 67
+      },
+      "already_pushed": true,
+      "text": "Yesterday they started DDOS'ing my server\n\nToday they're buying fake followers to then report my account 🤯 \n\nThey're like 🐝 hornets https://t.co/H69PW2fMGK https://t.co/8hZHHp7hYi",
+      "text_zh": "昨天他们开始 DDOS 我的服务器\n\n今天他们又在买假粉丝，然后再去举报我的账号 🤯\n\n他们就像 🐝 黄蜂一样 https://t.co/H69PW2fMGK https://t.co/8hZHHp7hYi",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2124968153512112447",
+          "user": "levelsio",
+          "text": "Now it's all fully AI agents appealing to be removed from the AI spam list \n\nYou can't make this up, it's like Moltbook 😂 https://t.co/Oi8109blMs https://t.co/MinE7o0Q2Q",
+          "text_zh": "现在全是清一色的 AI agents 在申诉，要求把自己从 AI 垃圾名单里移除\n\n这你都编不出来，简直像 Moltbook 😂 https://t.co/Oi8109blMs https://t.co/MinE7o0Q2Q"
+        }
+      ]
+    }
+  ],
+  "new_hits": [],
+  "counts": {
+    "checked": 3,
+    "new_hits": 0,
+    "snapshots_before": 4,
+    "snapshots_after": 3,
+    "pushed_before": 216,
+    "pushed_after": 216,
+    "aged_out": [
+      "2125280594544431203"
+    ],
+    "per_account": {
+      "levelsio": 2,
+      "marclou": 0,
+      "gregisenberg": 0,
+      "steipete": 1,
+      "egeberkina": 0,
+      "karpathy": 0
+    }
+  }
+}
