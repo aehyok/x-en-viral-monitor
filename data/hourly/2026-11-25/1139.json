@@ -1,0 +1,245 @@
+{
+  "run_at": "2026-11-25T11:41:27+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "1139",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2125422797304549672",
+      "user": "steipete",
+      "url": "https://x.com/steipete/status/2125422797304549672",
+      "created_at": "2026-11-25T02:54:17.000Z",
+      "created_at_bj": "2026-11-25 10:54",
+      "views": 23195,
+      "rate_per_hour": 16311,
+      "basis": "snapshot",
+      "prev": {
+        "views": 16684,
+        "checked_at": "2026-11-25T11:17:30+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 23195,
+        "like_count": 300,
+        "reply_count": 41,
+        "quote_count": 4,
+        "retweet_count": 14,
+        "bookmark_count": 28
+      },
+      "already_pushed": true,
+      "text": "What a year this has been! Time to reflect and do a blog post over the holidays.\n\nOC is in a great place, we found a niche in prosumer and enterprise adoption. The multiplayer team feature is best in class.\n\nShipping reliable and free open source is also really really hard, and waking up to countless user complaints every day is an emotional challenge. I’m glad the team is taking over most of the work these days.\n\nWe mostly been focussing on the boring part of ensuring things are fast, reliable and secure, with the exception of the new memory system and soon OpenClaw ID. \n\nTo many more years!",
+      "text_zh": "今年真是了不起的一年！假期里得好好回顾一下，写篇博客。\n\nOC 现在状态很好，我们在 prosumer 和企事业采用上找到了自己的定位。多人协作的团队功能是业内一流。\n\n把可靠且免费的开源持续交付出去，其实非常非常难，每天一睁眼就面对无数用户投诉，这在情绪上也是很大的挑战。很高兴团队现在已经把大部分工作接手过去了。\n\n我们主要一直在做那些不太起眼的部分：确保产品足够快、可靠、安全，例外是新的 memory 系统，以及即将推出的 OpenClaw ID。\n\n愿我们还能走很多年！",
+      "hit": true,
+      "quoted": [
+        {
+          "id": "2125273417561850199",
+          "user": "openclaw",
+          "text": "It's OpenClaws One Year Anniversary!\n\nThe best part of building in the open this past year has been seeing what you’ve made with it. \n\nThanks to everyone who shipped a patch, shared a setup, or helped someone get started\n\nA look back at year one\nhttps://t.co/4reusyeR7b https://t.co/seVqmbyvpA",
+          "text_zh": "今天是 OpenClaws 一周年！\n\n过去这一年开源共建最棒的部分，就是看到你们用它做出来的东西。\n\n感谢每一位提交过补丁、分享过配置、或帮别人入门的人\n\n回顾第一年\nhttps://t.co/4reusyeR7b https://t.co/seVqmbyvpA"
+        }
+      ]
+    },
+    {
+      "id": "2125312288517246983",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2125312288517246983",
+      "created_at": "2026-11-24T19:35:10.000Z",
+      "created_at_bj": "2026-11-25 03:35",
+      "views": 113885,
+      "rate_per_hour": 3613,
+      "basis": "snapshot",
+      "prev": {
+        "views": 112443,
+        "checked_at": "2026-11-25T11:17:30+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 113885,
+        "like_count": 578,
+        "reply_count": 40,
+        "quote_count": 3,
+        "retweet_count": 15,
+        "bookmark_count": 286
+      },
+      "already_pushed": true,
+      "text": "Yep \"the hack of the century\" and it will be the end of secrets https://t.co/Bjqdq7UHM9",
+      "text_zh": "没错，「the hack of the century（本世纪最大的黑客攻击）」，而且这将意味着秘密的终结 https://t.co/Bjqdq7UHM9",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2125297730499248503",
+          "user": "goncalo_canhoto",
+          "text": "I think there is now a non-zero chance that most messages, photos, and cloud backups you’ve ever sent eventually get leaked and searchable in a relatively accessible way\n\nI know it sounds insane and shit would go down, but I believe it’s now &gt;0%",
+          "text_zh": "我觉得现在有一个非零的可能性：你发过的大多数消息、照片和云备份，最终都会被泄露，并且能以相对容易的方式被搜索到\n\n我知道这听起来很疯狂，一旦发生会天下大乱，但我认为这个概率现在已经 &gt;0%"
+        }
+      ]
+    },
+    {
+      "id": "2125308828011131033",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2125308828011131033",
+      "created_at": "2026-11-24T19:21:25.000Z",
+      "created_at_bj": "2026-11-25 03:21",
+      "views": 63010,
+      "rate_per_hour": 3227,
+      "basis": "snapshot",
+      "prev": {
+        "views": 61722,
+        "checked_at": "2026-11-25T11:17:30+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 63010,
+        "like_count": 778,
+        "reply_count": 91,
+        "quote_count": 6,
+        "retweet_count": 10,
+        "bookmark_count": 57
+      },
+      "already_pushed": true,
+      "text": "Yesterday they started DDOS'ing my server\n\nToday they're buying fake followers to then report my account 🤯 \n\nThey're like 🐝 hornets https://t.co/H69PW2fMGK https://t.co/8hZHHp7hYi",
+      "text_zh": "昨天他们开始 DDOS 我的服务器\n\n今天他们又在买假粉丝，然后再去举报我的账号 🤯\n\n他们就像 🐝 黄蜂一样 https://t.co/H69PW2fMGK https://t.co/8hZHHp7hYi",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2124968153512112447",
+          "user": "levelsio",
+          "text": "Now it's all fully AI agents appealing to be removed from the AI spam list \n\nYou can't make this up, it's like Moltbook 😂 https://t.co/Oi8109blMs https://t.co/MinE7o0Q2Q",
+          "text_zh": "现在全是清一色的 AI agents 在申诉，要求把自己从 AI 垃圾名单里移除\n\n这你都编不出来，简直像 Moltbook 😂 https://t.co/Oi8109blMs https://t.co/MinE7o0Q2Q"
+        }
+      ]
+    },
+    {
+      "id": "2125280594544431203",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2125280594544431203",
+      "created_at": "2026-11-24T17:29:14.000Z",
+      "created_at_bj": "2026-11-25 01:29",
+      "views": 35779,
+      "rate_per_hour": 1270,
+      "basis": "snapshot",
+      "prev": {
+        "views": 35272,
+        "checked_at": "2026-11-25T11:17:30+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 35779,
+        "like_count": 382,
+        "reply_count": 67,
+        "quote_count": 4,
+        "retweet_count": 7,
+        "bookmark_count": 48
+      },
+      "already_pushed": false,
+      "text": "So good to see @X listened to our feedback!\n\nThis is directly to stop AI spammers auto replying\n\nThey now have to build in some delay (not so hard) but it's the first fix to solving the spam problem on here https://t.co/5nm2r2XJ91",
+      "text_zh": "太好了，看到 @X 听进去了我们的反馈！\n\n这是直接用来阻止 AI 垃圾账号自动回复的\n\n他们现在必须做成带一点延迟（这并不难），但这是解决这里垃圾问题的第一个修复 https://t.co/5nm2r2XJ91",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2125234507900920208",
+          "user": "ThePeterMick",
+          "text": "X AI ALGORITHM UPDATE 🚨\n\nX's open source algorithm has a \"fast reply spam\" label for small accounts' replies, and this morning's update added one exception: posts that tagged you (so for posts that DIDN'T tag you, don't reply in seconds)\n\ntl;dr:\n\n- \"fast reply spam\" is a label X's automatic system can put on a reply\n- it stays on that reply for 30 days\n- meanwhile the person you replied to doesn't get notified, and the reply is kept out of For You\n- big accounts are skipped, small accounts aren't\n- new this morning: if the post tagged you by name, the label is skipped\n- X doesn't say how fast is too fast\n\nLesson learned: read the post and write a real reply before you hit send. A reply fired off in seconds can lose its notification for 30 days\n\nFull details:\n\n- What the label is\n\nX runs an automatic system that labels posts it thinks are spam. \"Fast reply spam\" is one of its labels, and it's been in the code since August.\n\nIt goes on the reply itself, not your whole account. Your other posts aren't touched by it.\n\n(btw every morning I read X's open source algo with Claude, and only the updates worth sharing make it here)\n\n- What it does for 30 days\n\nThe person you replied to doesn't get a notification for that reply. Even if they follow you.\n\nThe reply is kept out of For You.\n\nSo the whole point of the reply, getting noticed, is gone for a month.\n\n- How fast is \"too fast\"?\n\nThe code doesn't say. The label comes from a detector whose rules aren't public, so there's no number like \"wait 30 seconds\". If someone gives you one, they're guessing.\n\nMy read from the name: replies that land so quickly nobody could have read the post. Think of the instant \"great point\" under every viral post.\n\n- Who it hits\n\nAccounts above a certain follower count, and accounts X already trusts a lot, are skipped. The exact number is hidden in the code.\n\nSo it's small accounts that can get it.\n\n- What's new today\n\nBefore labeling a reply, X's code now reads the post you replied to. If that post typed your @ name, the label is skipped.\n\nThe @ names X adds to the top of every reply by itself don't count. Neither does someone simply replying to you.\n\nSo if someone tags you and you answer right away, the automatic labels skip that reply, \"llm slop\" and the other spam labels included.\n\n- What didn't change\n\nEvery score is the same: likes 0.708 points, replies 5, copy link 20, and 20 for a reply between mutuals.\n\nHere's a recap of what you should be doing:\n\n- read the whole post before replying, then say something only you would say\n- when a post tags you, answer as fast as you like, X's automatic labels skip that reply\n- a reply between mutuals scores up to 20 points, so follow back the people who talk to you\n- write posts people want to pass along, a copied link is worth 20 points again\n- a DM share is worth 5 points, the same as a reply\n- likes sit at 0.708 points, the highest I've tracked\n- time spent on your post pays more than it did in October\n- a tap that turns into 10+ seconds of reading adds 0.385 points\n- posts people read to the end are how strangers find you\n- below 50K followers, X may test a fresh original about 16 posts down someone's feed\n- whichever new post collects likes first gets that slot\n- you get 2 hours or 200 views for that push, so post while your people are awake\n- people who don't follow you only meet your originals in For You\n- like number 1 and like number 32 each give a post one more way out to new people\n- in the same feed, one strong post beats several average ones\n- a video needs to run past 10 seconds to make X's video lists\n- hook people in a video's first seconds, opening it alone scores 0 points\n- a post X expects to earn you a follow gets 4 points\n- your own words in every reply, big accounts or not\n- reread your pinned post the way a stranger would\n- give people a profile worth scrolling once they land on it\n\nWhat you should not be doing:\n\n- firing off replies in seconds under posts that never tagged you, a \"fast reply spam\" label silences that reply for 30 days\n- copy-paste or AI replies under big accounts, the \"llm slop\" flag is still there\n- asking people to copy your link, there's a \"copy link bait\" spam check in the code\n- building a plan on copy link alone, it went 20 → 0 → 20 points in 5 days\n- one reply copied under every post, once labeled it won't notify people who don't follow you\n- tagging non-followers in the photos of a spam-labeled post, they never get notified\n- chasing taps, they're worth just 0.274 points\n- drifting off your topic, a likely \"not interested\" costs 53.07 points\n- videos built for the tap, a video open is worth 0 points\n- posting at 3am, your 2 hour push burns out while people sleep\n- counting on your replies and reposts to find new people, For You doesn't send them\n- calling people names, that label hides the post from anyone who doesn't follow you\n- posts that look misleading or low quality, a labeled one gets a warning and loses likes and shares for strangers\n- adult content, 3 flagged in your last 5 posts labels the whole account\n- thinking a video is cleared forever, X checks again at 64 likes and at 512\n- an account-wide label, it cuts you off from strangers\n- pinning a link to a badly rated site, that label can last 7 days\n- reposting your old text word for word, the copypasta check doesn't care it's yours\n- a junk link plus tags for people who don't follow you, in one post\n- begging for likes or replies, nobody gets an exemption from that label\n- dumping several posts at once, they end up competing for the same feed\n- a wall of hashtags, not one of the 30 scores looks at them\n- treating bookmarks as a reach boost, X's 30 scores leave them out\n- waiting on a post from 3 days ago, For You stops showing it after 48 hours",
+          "text_zh": "X AI 算法更新 🚨\n\nX 的开源算法会给小账号的回复打上 \"fast reply spam\" 标签，而今早的更新增加了一个例外：原帖 @ 了你的情况（所以如果原帖没有 @ 你，就不要在几秒内回复）\n\n简要总结：\n\n- \"fast reply spam\" 是一个标签，X 的自动系统可以打在一条回复上\n- 这个标签会在该回复上保留 30 天\n- 在此期间，你回复的那个人不会收到通知，而且这条回复会被挡在 For You 之外\n- 大账号会被跳过，小账号不会\n- 今早的新变化：如果原帖点名 @ 了你，这个标签会被跳过\n- X 没有说明多快算太快\n\n得到的教训：先读完帖子、写出一条真正的回复，再按下发送。几秒内发出的回复，可能会失去通知，而且一挡就是 30 天\n\n完整细节：\n\n- 这个标签是什么\n\nX 有一套自动系统，会给它认为是垃圾的帖子打标签。\"Fast reply spam\" 是其中一种标签，从 8 月起就在代码里了。\n\n它打在这条回复本身上，不是打在你的整个账号上。你的其他帖子不会受它影响。\n\n（顺便说，我每天早上都会用 Claude 读 X 的开源算法，只有值得分享的更新才会发到这里）\n\n- 它在 30 天里会做什么\n\n你回复的那个人不会收到这条回复的通知。即使他们关注了你。\n\n这条回复进不了 For You。\n\n所以回复的全部意义——被看见——会消失一个月。\n\n- 多快算「太快」？\n\n代码里没写。这个标签来自一个规则不公开的检测器，所以没有「等 30 秒」这种数字。如果有人告诉你一个数字，那是在猜。\n\n我从名称上的理解是：快到不可能已经读过原帖的回复。比如每条爆款下面瞬间出现的 \"great point\"。\n\n- 它会打到谁\n\n超过一定粉丝量的账号，以及 X 已经非常信任的账号，会被跳过。确切数字藏在代码里。\n\n所以会中招的是小账号。\n\n- 今天新改了什么\n\n在给一条回复打标签之前，X 的代码现在会去读你回复的那条帖。如果那条帖打出了你的 @ 名字，这个标签就会被跳过。\n\nX 自己在每条回复顶部自动加上的 @ 名字不算。仅仅是有人回复了你，也不算。\n\n所以如果有人 @ 了你，你马上回答，自动标签会跳过这条回复，包括 \"llm slop\" 和其他垃圾标签。\n\n- 什么没变\n\n各项分数都没变：点赞 0.708 分，回复 5 分，复制链接 20 分，互关之间的回复也是 20 分。\n\n下面是你现在该做的事情的回顾：\n\n- 回复前先读完整条帖子，然后说只有你会说的话\n- 当一条帖 @ 了你，你想回多快都可以，X 的自动标签会跳过这条回复\n- 互关之间的回复最多 20 分，所以要回关那些跟你说话的人\n- 写出人们愿意转发的帖，复制链接再次值 20 分\n- 私信分享值 5 分，和回复一样\n- 点赞是 0.708 分，是我追踪到过的最高值\n- 别人在你帖子上停留的时间，比 10 月时给的分更多\n- 一次点击如果变成 10 秒以上的阅读，会加 0.385 分\n- 人们读完的帖子，是陌生人发现你的方式\n- 低于 5 万粉丝时，X 可能会在某人信息流大约第 16 条的位置测试一条全新的原创帖\n- 哪条新帖先收到点赞，就会占据那个位置\n- 这次推送你有 2 小时或 200 次浏览，所以要在你的受众醒着的时候发帖\n- 不关注你的人只会在 For You 里遇到你的原创帖\n- 第 1 个赞和第 32 个赞，都会再给帖子一条触达新用户的路\n- 在同一条信息流里，一条强帖胜过若干条平庸的帖\n- 视频需要播放超过 10 秒，才能进入 X 的视频列表\n- 要在视频的前几秒抓住人，仅仅被打开只得 0 分\n- 一条 X 预期能为你带来关注的帖得 4 分\n- 每一条回复都要用你自己的话，不管对不对大账号\n- 用陌生人的视角重新读你的置顶帖\n- 让人们点进主页后值得往下翻\n\n你不该做的事：\n\n- 在没有 @ 你的帖子下面几秒内就回复，\"fast reply spam\" 标签会让这条回复静音 30 天\n- 在大账号下面复制粘贴或用 AI 回复，\"llm slop\" 标记还在\n- 要求别人复制你的链接，代码里有 \"copy link bait\" 垃圾检测\n- 把计划只建立在复制链接上，它在 5 天里从 20 分变成 0 分又回到 20 分\n- 把同一条回复复制到每条帖下面，一旦被打标签，就不会再通知不关注你的人\n- 在一条被打了垃圾标签的帖的图片里 @ 非粉丝，他们永远不会收到通知\n- 追求点击，它们只值 0.274 分\n- 偏离你的主题，一次很可能的 \"not interested\" 会扣 53.07 分\n- 为了被点开而做的视频，打开视频只得 0 分\n- 凌晨 3 点发帖，你的 2 小时推送会在大家睡觉时耗尽\n- 指望你的回复和转发去找到新用户，For You 不会推送它们\n- 骂人，这个标签会把帖子对所有不关注你的人隐藏\n- 看起来有误导性或质量低的帖，被打标签后会有警告，并且会失去来自陌生人的点赞和分享\n- 成人内容，最近 5 条里有 3 条被标记，会给整个账号打标签\n- 以为视频过审就一劳永逸，X 会在 64 个赞和 512 个赞时再检查一次\n- 账号级标签，会让你与陌生人隔绝\n- 置顶一个指向评分很差的网站的链接，这个标签可能持续 7 天\n- 一字不差地转发你的旧文本，copypasta 检测才不管那是不是你自己的\n- 在一条帖里既放垃圾链接，又 @ 不关注你的人\n- 求赞或求回复，没有人能豁免这个标签\n- 一次倒出好几条帖，它们会在同一条信息流里互相竞争\n- 一墙的话题标签，30 项分数里没有一项会看它们\n- 把书签当成触达加成，X 的 30 项分数里没有书签\n- 还在等 3 天前的帖，For You 在 48 小时后就不再展示它"
+        }
+      ]
+    },
+    {
+      "id": "2125274547742277864",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2125274547742277864",
+      "created_at": "2026-11-24T17:05:12.000Z",
+      "created_at_bj": "2026-11-25 01:05",
+      "views": 26840,
+      "rate_per_hour": 443,
+      "basis": "snapshot",
+      "prev": {
+        "views": 26663,
+        "checked_at": "2026-11-25T11:17:30+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 26840,
+        "like_count": 235,
+        "reply_count": 28,
+        "quote_count": 3,
+        "retweet_count": 10,
+        "bookmark_count": 31
+      },
+      "already_pushed": false,
+      "text": "America is now a culture of abundance\n\nMeanwhile Europe has become a culture of extreme scarcity https://t.co/nLFBpJUQfe",
+      "text_zh": "美国现在是一种丰饶文化\n\n与此同时，欧洲已经变成了一种极端稀缺的文化 https://t.co/nLFBpJUQfe",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2125237182675738829",
+          "user": "WouterHODL",
+          "text": "Momenteel ben ik in Texas. 🇺🇸 Een enorme staat waarin letterlijk alles big, bigger, biggest is. En waar het ondernemerschap overal vanaf druipt. Ja, het is soms nogal in your face met al die reclames en het oneindige aantal restaurants langs de highways. Maar de incentive is duidelijk: ze willen gewoon geld verdienen en daar is in mijn optiek weinig mis mee. De bediening in die restaurants is eveneens krankzinnig vriendelijk dus daar betaal ik graag voor.\n\nEn op een plek waar je (zoals een bevriende Texaan me een paar dagen geleden zei) met een 'blank sheet of paper' kunt starten is het verschil met veel landen in Europa des te opvallender. En nee, natuurlijk zijn hier ook issues en problemen. En profiteert hier ook niet iedereen van The American Dream. Maar het verschil in mentaliteit is overduidelijk.\n\nWaar je hier bejubeld wordt als je succes hebt is er in Europa vooral sprake van een 'degrowth' agenda. Succes is verdacht, we moeten vooral 'leren' dat de wasmachine alleen op bepaalde tijdstippen aangezet mag worden en de politieke elite is vooral bezig om te bedenken hoe ze nog meer geld uit de samenleving kunnen trekken. Dit terwijl hun eigen parlementsgebouw voor 3 miljard euro wordt verbouwd.\n\nEn wat dezelfde Texaan die ik sprak ook scherp opmerkte: in een cultuur van succes is de sfeer ook beter. Mensen zijn relaxed, gunnen elkaar veel, zijn vriendelijk en positief. En ook dat valt me wederom op, hoe ongelooflijk aardig de mensen hier zijn.\n\nJa, als je dan weer een tijdje in Texas verblijft, dan is het verschil in zienswijze verbijsterend. Ik snap wel dat mijn dochter van 18 al zegt dat ze liever hier haar bestaan wil gaan opbouwen als ze de keuze heeft. Hier voel je letterlijk de vrijheid en de mogelijkheden. Wij als ouders zeggen haar: als je hier gelukkig bent: go for it. Wij steunen je wel en ik investeer graag in je, als je ooit voor jezelf wilt starten hier.\n\nEn in Europa: daar houden we ons intussen bezig met grammetjes CO2 en nieuwe heffingen.",
+          "text_zh": "我目前在得克萨斯。🇺🇸 这是一个巨大的州，简直一切都是 big、bigger、biggest。创业精神从每个角落往外淌。没错，那些广告，还有高速公路沿线多到数不清的餐厅，有时确实相当 in your face。但激励很明确：他们就是想赚钱，在我看来这没什么毛病。那些餐厅的服务也友好得离谱，所以我很乐意为此付钱。\n\n在一个（就像几天前一位得州朋友对我说的）你可以拿着一张 'blank sheet of paper' 从头开始的地方，和欧洲许多国家的反差就更加刺眼。当然，这里也有问题和麻烦。也不是每个人都能享受到 The American Dream。但心态上的差异是一目了然的。\n\n在这里，你成功了会受到称赞；而在欧洲，主导的却是一套 'degrowth' 议程。成功是可疑的，我们得「学会」洗衣机只能在特定时间打开，政治精英则忙着琢磨还能怎么从社会里再抽更多钱。与此同时，他们自己的议会大楼要花 30 亿欧元来翻修。\n\n我交谈过的那位得州人还有一句很敏锐的观察：在一种成功文化里，氛围也会更好。人们更放松，更愿意成全彼此，友善而积极。这一点再次让我印象深刻：这里的人友好得难以置信。\n\n是的，当你再在得克萨斯待上一段时间，看问题的方式差异会让人震惊。我完全理解我 18 岁的女儿为什么已经说，如果可以选择，她更愿意在这里建立自己的生活。在这里你能实实在在地感受到自由和机会。我们当父母的对她说：如果你在这里开心，go for it。我们会支持你，如果你有朝一日想在这里为自己创业，我也乐意投资于你。\n\n而在欧洲：我们这会儿忙着对付一克一克的 CO2 和新的税费。"
+        }
+      ]
+    },
+    {
+      "id": "2125270756192092394",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2125270756192092394",
+      "created_at": "2026-11-24T16:50:08.000Z",
+      "created_at_bj": "2026-11-25 00:50",
+      "views": 31956,
+      "rate_per_hour": 636,
+      "basis": "snapshot",
+      "prev": {
+        "views": 31702,
+        "checked_at": "2026-11-25T11:17:30+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 31956,
+        "like_count": 285,
+        "reply_count": 32,
+        "quote_count": 0,
+        "retweet_count": 0,
+        "bookmark_count": 15
+      },
+      "already_pushed": false,
+      "text": "Mom I think I finally made it 😁 https://t.co/EdmkZOayz5 https://t.co/WTLwYKN0za",
+      "text_zh": "妈，我觉得我终于出息了 😁 https://t.co/EdmkZOayz5 https://t.co/WTLwYKN0za",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2124842473998655548",
+          "user": "CtrlAltDwayne",
+          "text": "The downfall of levelsio needs to be studied.",
+          "text_zh": "The downfall of levelsio needs to be studied.（levelsio 的垮台值得被研究。）"
+        }
+      ]
+    }
+  ],
+  "new_hits": [],
+  "counts": {
+    "checked": 6,
+    "new_hits": 0,
+    "snapshots_before": 6,
+    "snapshots_after": 6,
+    "pushed_before": 216,
+    "pushed_after": 216,
+    "aged_out": [],
+    "per_account": {
+      "levelsio": 5,
+      "marclou": 0,
+      "gregisenberg": 0,
+      "steipete": 1,
+      "egeberkina": 0,
+      "karpathy": 0
+    }
+  }
+}
