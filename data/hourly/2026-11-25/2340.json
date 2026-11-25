@@ -1,0 +1,527 @@
+{
+  "run_at": "2026-11-25T23:40:00+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "2340",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2125613519873995002",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2125613519873995002",
+      "created_at": "2026-11-25T15:32:09.000Z",
+      "created_at_bj": "2026-11-25 23:32",
+      "views": 4884,
+      "rate_per_hour": 37330,
+      "basis": "first_seen",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 4884,
+        "like_count": 31,
+        "reply_count": 17,
+        "quote_count": 1,
+        "retweet_count": 0,
+        "bookmark_count": 1
+      },
+      "already_pushed": false,
+      "text": "Another DDOS!\n\n2.74 million requests in 10 minutes https://t.co/d15RoTQl2i https://t.co/LynaNmISC0",
+      "text_zh": "又一次 DDOS！\n\n10 分钟内 2.74 million 次请求 https://t.co/d15RoTQl2i https://t.co/LynaNmISC0\n配图：深色主题的 Requests over time（请求量随时间变化）图表，右上角 Group by 为 None，图例显示 Requests 2.74M。横轴从 Nov 24, 20:00 到 Nov 25, 16:00 之后，纵轴刻度为 0 至 1.8M。在 Nov 25 16:00 之前几乎贴着 0，之后出现一根极窄的高峰，峰值大约在 1.5M–1.8M 之间。",
+      "hit": true,
+      "quoted": [
+        {
+          "id": "2125592280505704637",
+          "user": "levelsio",
+          "text": "All my tweets are now AI spammer honeypots 👌 \n\nThey get instantly blocked and pushed to the network of people using the blocklist which mass blocks them\n\nEach account is investigated by Grok 4.7 with extra high reasoning effort and analyzes ALL their recent other replies and only once it's 100% conclusive it's blocked, no false positives\n\nThis nukes about 25-50 bots per day depending how much I tweet\n\n🍯",
+          "text_zh": "我现在所有推文都成了 AI 垃圾评论的蜜罐 👌\n\n它们会被立刻屏蔽，并推送到使用这份 blocklist 的网络里，由大家批量拉黑\n\n每个账号都会由 Grok 4.7 以 extra high reasoning effort 进行调查，分析它们最近的全部其他回复，只有在 100% 确定之后才会屏蔽，没有误伤\n\n根据我发推的多少，这每天大概能干掉 25-50 个机器人\n\n🍯"
+        }
+      ]
+    },
+    {
+      "id": "2125606495056449835",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2125606495056449835",
+      "created_at": "2026-11-25T15:04:14.000Z",
+      "created_at_bj": "2026-11-25 23:04",
+      "views": 10106,
+      "rate_per_hour": 11518,
+      "basis": "snapshot",
+      "prev": {
+        "views": 5115,
+        "checked_at": "2026-11-25T23:14:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 10106,
+        "like_count": 78,
+        "reply_count": 36,
+        "quote_count": 0,
+        "retweet_count": 1,
+        "bookmark_count": 1
+      },
+      "already_pushed": true,
+      "text": "You don't have to be nervous if you're not an AI spammer, there's no false positives here, it only blocks when it's conclusive and all your replies have the same AI spam https://t.co/qk3YXMtxzo",
+      "text_zh": "如果你不是 AI 垃圾评论账号，就不必紧张，这里没有误伤。只有在证据确凿、而且你的全部回复都是同一套 AI 垃圾评论时，才会屏蔽 https://t.co/qk3YXMtxzo",
+      "hit": true,
+      "quoted": [
+        {
+          "id": "2125597243122098509",
+          "user": "OttoLorner",
+          "text": "@levelsio Honestly nervous to reply to your posts at this point.",
+          "text_zh": "@levelsio 说实话，现在都有点不敢回复你的帖子了。"
+        }
+      ]
+    },
+    {
+      "id": "2125598637980069967",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2125598637980069967",
+      "created_at": "2026-11-25T14:33:01.000Z",
+      "created_at_bj": "2026-11-25 22:33",
+      "views": 6642,
+      "rate_per_hour": 3258,
+      "basis": "snapshot",
+      "prev": {
+        "views": 5230,
+        "checked_at": "2026-11-25T23:14:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 6642,
+        "like_count": 78,
+        "reply_count": 29,
+        "quote_count": 0,
+        "retweet_count": 2,
+        "bookmark_count": 10
+      },
+      "already_pushed": true,
+      "text": "2nd person to reach $10K+ revenue for the $100K Hackathon!! 👏👏\n\nAnd 122 people have made $1+. Up 34% since yesterday.\n\nLeaderboard → https://t.co/5XIpga2stf https://t.co/ErplrKYOFr https://t.co/VdS9F5v6Mb",
+      "text_zh": "第二位在 $100K Hackathon 中收入达到 $10K+ 的人！！👏👏\n\n而且已经有 122 人赚到了 $1+。比昨天增加 34%。\n\n排行榜 → https://t.co/5XIpga2stf https://t.co/ErplrKYOFr https://t.co/VdS9F5v6Mb\n配图：$100K Hackathon 排行榜截图，深色背景，CONTEST REVENUE 列：01 Jacky Chou $16,004、02 Frederick James $12,466、03 Bankai Clan $5,027、04 Joshua $3,341、05 dr. Gergely Fabian $2,554、06 Nikita Kolmogorov $2,175。",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2124866087418531921",
+          "user": "marclou",
+          "text": "🤝 91 builders made $1+\n🤝 5 builders made $1,000+ https://t.co/pAjf4oxKxX https://t.co/haJAKxzynY",
+          "text_zh": "🤝 91 位 builders 赚到了 $1+\n🤝 5 位 builders 赚到了 $1,000+ https://t.co/pAjf4oxKxX https://t.co/haJAKxzynY"
+        }
+      ]
+    },
+    {
+      "id": "2125594941149905376",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2125594941149905376",
+      "created_at": "2026-11-25T14:18:20.000Z",
+      "created_at_bj": "2026-11-25 22:18",
+      "views": 2726,
+      "rate_per_hour": 2868,
+      "basis": "snapshot",
+      "prev": {
+        "views": 1483,
+        "checked_at": "2026-11-25T23:14:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 2726,
+        "like_count": 134,
+        "reply_count": 2,
+        "quote_count": 2,
+        "retweet_count": 10,
+        "bookmark_count": 34
+      },
+      "already_pushed": false,
+      "text": "Privet Russia https://t.co/WbMHI4MrLb https://t.co/YDP9MLUjHD",
+      "text_zh": "Privet Russia（嗨，俄罗斯）https://t.co/WbMHI4MrLb https://t.co/YDP9MLUjHD\n配图：15 张俄罗斯主题插画，均为密集平铺构图：穿白 tutu（少数黑上衣）的芭蕾舞者、色彩缤纷的洋葱头教堂穹顶、罗宋汤（borscht）配酸奶油、莳萝、甜菜和黑麦面包（部分酸奶油上画有软音符 ь）、花纹套娃（matryoshka）、雪地松林中的棕熊、穿裘皮大衣与毛皮帽的女子、饰有纹章标签的伏特加酒瓶配黄瓜和小酒杯、金碧辉煌的地铁宫殿式穹顶与吊灯、薄饼配酸奶油、三文鱼、鱼子酱和浆果、冰上的花样滑冰者、绘有红花的三角巴拉莱卡琴（balalaika）、镶嵌珍珠与宝石的法贝热彩蛋（Fabergé）、民族服装民间舞者、碗中的饺子（pelmeni）配酸奶油和莳萝、以及蓝白花卉纹样的瓷器茶具。",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2125234676973363573",
+          "user": "egeberkina",
+          "text": "Hola España https://t.co/ePupLpIMhT https://t.co/9xAYap3Lw8",
+          "text_zh": "Hola España（你好，西班牙）https://t.co/ePupLpIMhT https://t.co/9xAYap3Lw8"
+        }
+      ]
+    },
+    {
+      "id": "2125592280505704637",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2125592280505704637",
+      "created_at": "2026-11-25T14:07:45.000Z",
+      "created_at_bj": "2026-11-25 22:07",
+      "views": 30640,
+      "rate_per_hour": 17342,
+      "basis": "snapshot",
+      "prev": {
+        "views": 23125,
+        "checked_at": "2026-11-25T23:14:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 30640,
+        "like_count": 384,
+        "reply_count": 126,
+        "quote_count": 11,
+        "retweet_count": 3,
+        "bookmark_count": 20
+      },
+      "already_pushed": true,
+      "text": "All my tweets are now AI spammer honeypots 👌 \n\nThey get instantly blocked and pushed to the network of people using the blocklist which mass blocks them\n\nEach account is investigated by Grok 4.7 with extra high reasoning effort and analyzes ALL their recent other replies and only once it's 100% conclusive it's blocked, no false positives\n\nThis nukes about 25-50 bots per day depending how much I tweet\n\n🍯",
+      "text_zh": "我现在所有推文都成了 AI 垃圾评论的蜜罐 👌\n\n它们会被立刻屏蔽，并推送到使用这份 blocklist 的网络里，由大家批量拉黑\n\n每个账号都会由 Grok 4.7 以 extra high reasoning effort 进行调查，分析它们最近的全部其他回复，只有在 100% 确定之后才会屏蔽，没有误伤\n\n根据我发推的多少，这每天大概能干掉 25-50 个机器人\n\n🍯\n配图：4 张 Situation Monitor 拦截通知截图，绿色涂鸦背景上的白卡片，标题为 Situation Monitor。分别是 Blocked @manirajannm (AI 87)、@mertcan_arguc (AI 78)、@guptasidddharth (AI 88) 与 @justindraplin (AI 82)、以及 @fischerls (AI 92)，均为对 @levelsio 帖子的 AI 回复；卡片里引用了对方原文和链接，并由 Grok 给出判定理由，例如重复使用 “isn't X, it's Y” / “the real moat” 等套话、短时间连发多条精致回复、几乎只回复不发原创、互动接近于零等。",
+      "hit": true,
+      "quoted": [
+        {
+          "id": "2125308828011131033",
+          "user": "levelsio",
+          "text": "Yesterday they started DDOS'ing my server\n\nToday they're buying fake followers to then report my account 🤯 \n\nThey're like 🐝 hornets https://t.co/H69PW2fMGK https://t.co/8hZHHp7hYi",
+          "text_zh": "昨天他们开始 DDOS 我的服务器\n\n今天他们又在买假粉丝，然后再去举报我的账号 🤯\n\n他们就像 🐝 黄蜂一样 https://t.co/H69PW2fMGK https://t.co/8hZHHp7hYi"
+        }
+      ]
+    },
+    {
+      "id": "2125589710860882313",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2125589710860882313",
+      "created_at": "2026-11-25T13:57:33.000Z",
+      "created_at_bj": "2026-11-25 21:57",
+      "views": 12804,
+      "rate_per_hour": 5765,
+      "basis": "snapshot",
+      "prev": {
+        "views": 10306,
+        "checked_at": "2026-11-25T23:14:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 12804,
+        "like_count": 182,
+        "reply_count": 105,
+        "quote_count": 8,
+        "retweet_count": 9,
+        "bookmark_count": 217
+      },
+      "already_pushed": true,
+      "text": "The most AI proof thing you can build right now is probably an audience (with AI agents)\n\nI know founders with great products and no audience, and I know founders with highly engaged audiences and average products\n\nThe second group is WAY less stressed. https://t.co/MMWCo8p5nD",
+      "text_zh": "眼下你能做的最 AI proof 的事情，大概就是（用 AI agents）做出一个受众群体\n\n我认识一些产品很出色但没有受众的创始人，也认识一些拥有高互动受众、但产品只是一般的创始人\n\n后一组人要轻松得多。https://t.co/MMWCo8p5nD\n配视频：80 秒竖屏视频，来自 THE STARTUP IDEAS PODCAST，画面标题为 BUILD A MEDIA COMPANY，@gregisenberg 出镜讲述。",
+      "hit": true,
+      "quoted": []
+    },
+    {
+      "id": "2125579762769035505",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2125579762769035505",
+      "created_at": "2026-11-25T13:18:01.000Z",
+      "created_at_bj": "2026-11-25 21:18",
+      "views": 9031,
+      "rate_per_hour": 1170,
+      "basis": "snapshot",
+      "prev": {
+        "views": 8524,
+        "checked_at": "2026-11-25T23:14:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 9031,
+        "like_count": 106,
+        "reply_count": 41,
+        "quote_count": 0,
+        "retweet_count": 2,
+        "bookmark_count": 6
+      },
+      "already_pushed": true,
+      "text": "TrustMRR is a little over 1 year old 🎂, and its domain rating is the second-highest I own, after ShipFast (74). https://t.co/uRq5jVchhy",
+      "text_zh": "TrustMRR 刚满一岁出头 🎂，它的 Domain Rating 是我名下第二高的，仅次于 ShipFast（74）。https://t.co/uRq5jVchhy\n配图：https://trustmrr.com/ 的 Domain Rating 截图，评分为 73，左侧有紫色环形图。",
+      "hit": false,
+      "quoted": []
+    },
+    {
+      "id": "2125556111927607726",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2125556111927607726",
+      "created_at": "2026-11-25T11:44:02.000Z",
+      "created_at_bj": "2026-11-25 19:44",
+      "views": 10783,
+      "rate_per_hour": 1115,
+      "basis": "snapshot",
+      "prev": {
+        "views": 10300,
+        "checked_at": "2026-11-25T23:14:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 10783,
+        "like_count": 97,
+        "reply_count": 49,
+        "quote_count": 1,
+        "retweet_count": 1,
+        "bookmark_count": 15
+      },
+      "already_pushed": true,
+      "text": "I just shipped this to https://t.co/D3PMnJqNa5:\n\n🔀 Yes/no branches\n🔗 UTM tags on links\n📈 Gmail pace per domain\n📋 Multiple signup forms\n🎨 Colored boxes in emails\n✨ Personal links per reader\n🌗 Light or dark for everyone\n🪟 Popup and slide-in signup forms\n🕐 Schedule in your readers' time zone\n🤖 Automations on a drag-and-drop canvas",
+      "text_zh": "我刚把这些功能上线到了 https://t.co/D3PMnJqNa5：\n\n🔀 是/否分支\n🔗 链接上的 UTM 标签\n📈 按域名的 Gmail 发送节奏\n📋 多个注册表单\n🎨 邮件里的彩色框\n✨ 每位读者的专属链接\n🌗 人人都能用浅色或深色\n🪟 弹出式和侧滑式注册表单\n🕐 按读者所在时区排期\n🤖 在拖放画布上做自动化\n配图：3 张 MailCheap.ai 产品截图。第一张是邮件自动化流程画布：条件节点「If they Opened the email before」（如果他们曾经打开过这封邮件），Yes 分支进入 Email 2「Did you get a chance to read it? / I'd love to hear what you think」（你有机会读一下吗？我想听听你的想法），No 分支进入 Email 2「Your guide is waiting for you / In case you missed it」（你的指南还在等你 / 以防你错过了），并提示「Add text and a link to each button」，两条分支最后都到 End。第二张是邮件预览「This week's best streaming deals」，带橙色 Theme 色块的「Deal of the week」和「Claim 60% off」按钮，以及 Box color 选择器（Gray、Theme、Yellow、Green、Blue、Pink）和底部 Quick tip 提示条。第三张是注册弹窗编辑预览：弹窗标题「The hens」，邮箱输入框和 Subscribe 按钮，下方可编辑 Headline、Text、是否询问 First name，以及按钮文案。",
+      "hit": false,
+      "quoted": []
+    },
+    {
+      "id": "2125550927130067362",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2125550927130067362",
+      "created_at": "2026-11-25T11:23:26.000Z",
+      "created_at_bj": "2026-11-25 19:23",
+      "views": 1600,
+      "rate_per_hour": 157,
+      "basis": "snapshot",
+      "prev": {
+        "views": 1532,
+        "checked_at": "2026-11-25T23:14:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 1600,
+        "like_count": 21,
+        "reply_count": 0,
+        "quote_count": 0,
+        "retweet_count": 2,
+        "bookmark_count": 3
+      },
+      "already_pushed": false,
+      "text": "Everything's better bedazzled\n\n--sref 2507624217 https://t.co/lx0c6lHPXJ https://t.co/LlSbypm7U7",
+      "text_zh": "万物镶上亮片都会更好看\n\n--sref 2507624217 https://t.co/lx0c6lHPXJ https://t.co/LlSbypm7U7\n配图：8 张图，均为镶满水钻/亮片的复古闪光风：镶钻美元符号扣的黑皮鞋、镶满水钻的墨镜与金发女子、通身亮片的经典轿车、戴钻石牙套和项链的杜宾犬、写有 LOVE 并带翅膀的心形棒棒糖、镶钻手枪皮带扣、戴巨型钻戒与蓝色长甲的手套、绿宝石与钻石拼成的大麻叶胸针。",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2125184780694343909",
+          "user": "egeberkina",
+          "text": "1988 called https://t.co/YPWrcxByxC",
+          "text_zh": "1988 年来电了 https://t.co/YPWrcxByxC\n配图：4 张八十年代复古电影感图片——星空与地球弧线下，穿西装的人坐在 CRT 电脑前；地球被做成闪亮金属底座上的水晶球；沙漠公路上汽车上方出现巨大闪电；一个人站在蓝色螺旋光场中。"
+        }
+      ]
+    },
+    {
+      "id": "2125539935054655586",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2125539935054655586",
+      "created_at": "2026-11-25T10:39:45.000Z",
+      "created_at_bj": "2026-11-25 18:39",
+      "views": 9381,
+      "rate_per_hour": 826,
+      "basis": "snapshot",
+      "prev": {
+        "views": 9023,
+        "checked_at": "2026-11-25T23:14:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 9381,
+        "like_count": 79,
+        "reply_count": 25,
+        "quote_count": 0,
+        "retweet_count": 0,
+        "bookmark_count": 5
+      },
+      "already_pushed": true,
+      "text": "POV running a startup acquisition business https://t.co/ashwi9yLbo",
+      "text_zh": "POV：经营一家创业公司收购业务 https://t.co/ashwi9yLbo\n配图：收款记录截图，Today 下有四笔入账：ESCROW.COM +24 USD、ESCROW.COM +450 USD、Internet Escrow +330 USD、Escrow.com +45 USD。",
+      "hit": false,
+      "quoted": []
+    },
+    {
+      "id": "2125530522130796596",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2125530522130796596",
+      "created_at": "2026-11-25T10:02:21.000Z",
+      "created_at_bj": "2026-11-25 18:02",
+      "views": 46259,
+      "rate_per_hour": 3639,
+      "basis": "snapshot",
+      "prev": {
+        "views": 44682,
+        "checked_at": "2026-11-25T23:14:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 46259,
+        "like_count": 526,
+        "reply_count": 88,
+        "quote_count": 6,
+        "retweet_count": 10,
+        "bookmark_count": 50
+      },
+      "already_pushed": true,
+      "text": "I'm seeing so much hate on social media the last few months\n\nPeople trying to cancel everyone\n\nI've seen these cycles before, it means there's lots of frustrated people and usually means it's uneasy unstable times for many https://t.co/Adrrxc9ntc",
+      "text_zh": "最近几个月，我在社交媒体上看到太多仇恨了\n\n人们试图把所有人都 cancel 掉\n\n这种周期我以前见过，意味着有很多人心怀不满，通常也意味着对许多人来说，这是一段不安、不稳定的时期 https://t.co/Adrrxc9ntc",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2125528116525166894",
+          "user": "nikuscs",
+          "text": "There is a lot of funny dramas going on, and honestly it hurts me to see so many low IQ humans around.\n\n- @theo is getting \"canceled\" over collecting metrics, every fucking app that you use daily collects the shit out of your life, take the time to intercept your phone for 5 minutes and you will have 100s of requests with telemetry, collecting your voice, your sleep schedule & so on. I guess people just want attention, this cant be serious lool. At the same time a swarm of bots is also rage baiting him with AI posts, Bots read the post, find the most agressive comment to post to ragebait and get views.\n\n- On the other frontier @levelsio is taking effort to block AI Replies, the army of AI bots is also trying to cancel him, this is a funny one because in the past days i got on my timeline a lot of people trying to cancel him, yelling to block him, you know the funny truth? i checked their replies and 99% of them are yes indeed AI slop, keep up the good work buddy.\n\n- @GoogleAIStudio  just released a damn great model, but yet they are determined to fail and bail, forcing you to use their own harness, banning 20+ years old accounts if your not doing so, leaving you locked out from your digital life for using not using their agy cli. \n\nWild timeline 🤣",
+          "text_zh": "最近有很多可笑的闹剧，老实说，看到身边这么多低智商的人，我觉得很难受。\n\n- @theo 因为收集指标而正在被“canceled”。说实话，你每天用的每一个该死的应用都在拼命收集你的生活数据，花 5 分钟拦截一下手机流量，就能看到上百个带 telemetry 的请求，在收集你的声音、睡眠作息等等。我觉得这些人只是想博关注，这不可能是认真的吧哈哈哈。与此同时，还有一大群机器人在用 AI 帖子对他进行情绪挑衅：机器人先读帖，再找出最有攻击性的评论去发，目的就是 ragebait、赚浏览量。\n\n- 另一边，@levelsio 正在花功夫屏蔽 AI 回复，AI 机器人大军也在试图 cancel 他。这件事挺好笑的，因为过去几天我的时间线上出现很多人要 cancel 他、喊着要屏蔽他。有趣的真相是什么？我检查了他们的回复，99% 确实是 AI slop。继续干得好，伙计。\n\n- @GoogleAIStudio 刚发布了一个非常出色的模型，但他们却铁了心要搞砸并跑路：强迫你使用他们自己的 harness，如果你不这么做，就会封掉 20 多年的老账号，让你因为没有使用他们的 agy cli 而被锁在数字生活之外。\n\n这时间线也太狂了 🤣"
+        }
+      ]
+    },
+    {
+      "id": "2125521085928182033",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2125521085928182033",
+      "created_at": "2026-11-25T09:24:51.000Z",
+      "created_at_bj": "2026-11-25 17:24",
+      "views": 31871,
+      "rate_per_hour": 2640,
+      "basis": "snapshot",
+      "prev": {
+        "views": 30727,
+        "checked_at": "2026-11-25T23:14:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 31871,
+        "like_count": 359,
+        "reply_count": 109,
+        "quote_count": 10,
+        "retweet_count": 12,
+        "bookmark_count": 60
+      },
+      "already_pushed": true,
+      "text": "Maybe if I was Anthropic or OpenAI, I'd fork or partner with Omarchy and sell my own basic laptop/desktop devices for very cheap with pre-installed Linux for desktop\n\nThat way you'd instantly eat Windows and Apple's desktop market for corporations\n\nMaybe https://t.co/9yfnkOW9zz",
+      "text_zh": "如果我是 Anthropic 或 OpenAI，也许我会 fork 或与 Omarchy 合作，以非常便宜的价格出售自己的基础笔记本/台式机，并预装桌面版 Linux\n\n这样就能立刻吃掉 Windows 和 Apple 的企业桌面市场\n\n也许吧 https://t.co/9yfnkOW9zz",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2125515439770104282",
+          "user": "levelsio",
+          "text": "Just a month ago saying this was highly controversial\n\nNow it's a reality with Claude spinning up its own personalized MacOS apps, next will probably be iOS apps (if Apple allows it) and of course Windows etc\n\nThe AI labs will try take over your OS so that every app you use will be theirs\n\nThe entire app layer will be personalized (what you need), dynamic (keeps changing) somewhat ephemeral (temporary apps) and live generated by AI labs\n\nAll I can say is I'm buying lots of Big Tech/Big AI stock to be a co-owner of all of this and somehow profit from it",
+          "text_zh": "就在一个月前，说这话还非常有争议\n\n现在已经成真了：Claude 正在生成它自己的个性化 MacOS 应用，接下来可能是 iOS 应用（如果 Apple 允许的话），当然还有 Windows 等等\n\nAI 实验室会试图接管你的操作系统，让你使用的每一个应用都是它们的\n\n整个应用层将会是个性化的（你需要什么就有什么）、动态的（不断变化）、某种程度上是短暂的（临时应用），并且由 AI 实验室实时生成\n\n我只能说，我正在大量买入 Big Tech/Big AI 的股票，好成为这一切的共同拥有者，并设法从中获利"
+        }
+      ]
+    },
+    {
+      "id": "2125515439770104282",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2125515439770104282",
+      "created_at": "2026-11-25T09:02:25.000Z",
+      "created_at_bj": "2026-11-25 17:02",
+      "views": 128588,
+      "rate_per_hour": 9937,
+      "basis": "snapshot",
+      "prev": {
+        "views": 124282,
+        "checked_at": "2026-11-25T23:14:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 128588,
+        "like_count": 1466,
+        "reply_count": 245,
+        "quote_count": 42,
+        "retweet_count": 58,
+        "bookmark_count": 607
+      },
+      "already_pushed": true,
+      "text": "Just a month ago saying this was highly controversial\n\nNow it's a reality with Claude spinning up its own personalized MacOS apps, next will probably be iOS apps (if Apple allows it) and of course Windows etc\n\nThe AI labs will try take over your OS so that every app you use will be theirs\n\nThe entire app layer will be personalized (what you need), dynamic (keeps changing) somewhat ephemeral (temporary apps) and live generated by AI labs\n\nAll I can say is I'm buying lots of Big Tech/Big AI stock to be a co-owner of all of this and somehow profit from it",
+      "text_zh": "就在一个月前，说这话还非常有争议\n\n现在已经成真了：Claude 正在生成它自己的个性化 MacOS 应用，接下来可能是 iOS 应用（如果 Apple 允许的话），当然还有 Windows 等等\n\nAI 实验室会试图接管你的操作系统，让你使用的每一个应用都是它们的\n\n整个应用层将会是个性化的（你需要什么就有什么）、动态的（不断变化）、某种程度上是短暂的（临时应用），并且由 AI 实验室实时生成\n\n我只能说，我正在大量买入 Big Tech/Big AI 的股票，好成为这一切的共同拥有者，并设法从中获利",
+      "hit": true,
+      "quoted": [
+        {
+          "id": "2109262337500705094",
+          "user": "levelsio",
+          "text": "Software is dead\n\nIt's now the era of personal software and everyone just builds what they need whenever they need it I think https://t.co/fsNr3PwMJm",
+          "text_zh": "软件已死\n\n现在是个人软件的时代，我觉得每个人都会在需要的时候，为自己需要的东西动手去做 https://t.co/fsNr3PwMJm"
+        }
+      ]
+    },
+    {
+      "id": "2125508105262043195",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2125508105262043195",
+      "created_at": "2026-11-25T08:33:16.000Z",
+      "created_at_bj": "2026-11-25 16:33",
+      "views": 173762,
+      "rate_per_hour": 15685,
+      "basis": "snapshot",
+      "prev": {
+        "views": 166965,
+        "checked_at": "2026-11-25T23:14:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 173762,
+        "like_count": 2542,
+        "reply_count": 166,
+        "quote_count": 22,
+        "retweet_count": 82,
+        "bookmark_count": 808
+      },
+      "already_pushed": true,
+      "text": "I told you they will eat everything https://t.co/DZNOm1B79n",
+      "text_zh": "我就说了，它们会把一切都吃掉 https://t.co/DZNOm1B79n",
+      "hit": true,
+      "quoted": [
+        {
+          "id": "2125315491522650299",
+          "user": "claudedevs",
+          "text": "You can now install Claude artifacts as desktop apps on Mac and Windows.\n\nAsk Claude to build an artifact, click \"Install as app\", and open it like any other app. It can use your connectors and, if you allow it, send notifications or add a menu bar item. https://t.co/8CBgqe5OKq",
+          "text_zh": "现在可以把 Claude artifacts 安装为 Mac 和 Windows 上的桌面应用了。\n\n让 Claude 做一个 artifact，点击 \"Install as app\"，就能像打开其他应用一样打开它。它可以调用你的 connectors，如果授权，还能发送通知或添加菜单栏图标。 https://t.co/8CBgqe5OKq"
+        }
+      ]
+    }
+  ],
+  "new_hits": [
+    {
+      "id": "2125613519873995002",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2125613519873995002",
+      "created_at": "2026-11-25T15:32:09.000Z",
+      "created_at_bj": "2026-11-25 23:32",
+      "views": 4884,
+      "rate_per_hour": 37330,
+      "basis": "first_seen",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 4884,
+        "like_count": 31,
+        "reply_count": 17,
+        "quote_count": 1,
+        "retweet_count": 0,
+        "bookmark_count": 1
+      },
+      "already_pushed": false,
+      "text": "Another DDOS!\n\n2.74 million requests in 10 minutes https://t.co/d15RoTQl2i https://t.co/LynaNmISC0",
+      "text_zh": "又一次 DDOS！\n\n10 分钟内 2.74 million 次请求 https://t.co/d15RoTQl2i https://t.co/LynaNmISC0\n配图：深色主题的 Requests over time（请求量随时间变化）图表，右上角 Group by 为 None，图例显示 Requests 2.74M。横轴从 Nov 24, 20:00 到 Nov 25, 16:00 之后，纵轴刻度为 0 至 1.8M。在 Nov 25 16:00 之前几乎贴着 0，之后出现一根极窄的高峰，峰值大约在 1.5M–1.8M 之间。",
+      "hit": true,
+      "quoted": [
+        {
+          "id": "2125592280505704637",
+          "user": "levelsio",
+          "text": "All my tweets are now AI spammer honeypots 👌 \n\nThey get instantly blocked and pushed to the network of people using the blocklist which mass blocks them\n\nEach account is investigated by Grok 4.7 with extra high reasoning effort and analyzes ALL their recent other replies and only once it's 100% conclusive it's blocked, no false positives\n\nThis nukes about 25-50 bots per day depending how much I tweet\n\n🍯",
+          "text_zh": "我现在所有推文都成了 AI 垃圾评论的蜜罐 👌\n\n它们会被立刻屏蔽，并推送到使用这份 blocklist 的网络里，由大家批量拉黑\n\n每个账号都会由 Grok 4.7 以 extra high reasoning effort 进行调查，分析它们最近的全部其他回复，只有在 100% 确定之后才会屏蔽，没有误伤\n\n根据我发推的多少，这每天大概能干掉 25-50 个机器人\n\n🍯"
+        }
+      ]
+    }
+  ],
+  "counts": {
+    "checked": 14,
+    "new_hits": 1,
+    "snapshots_before": 13,
+    "snapshots_after": 14,
+    "pushed_before": 227,
+    "pushed_after": 228,
+    "aged_out": [],
+    "per_account": {
+      "levelsio": 7,
+      "marclou": 4,
+      "gregisenberg": 1,
+      "steipete": 0,
+      "egeberkina": 2,
+      "karpathy": 0
+    }
+  }
+}
