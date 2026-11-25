@@ -1,0 +1,366 @@
+{
+  "run_at": "2026-11-26T07:42:00+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "0742",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2125693063917920599",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2125693063917920599",
+      "created_at": "2026-11-25T20:48:14.000Z",
+      "created_at_bj": "2026-11-26 04:48",
+      "views": 10471,
+      "rate_per_hour": 1602,
+      "basis": "snapshot",
+      "prev": {
+        "views": 9670,
+        "checked_at": "2026-11-26T07:12:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 10471,
+        "like_count": 56,
+        "reply_count": 11,
+        "quote_count": 0,
+        "retweet_count": 0,
+        "bookmark_count": 43
+      },
+      "already_pushed": false,
+      "text": "A dream and discipline. https://t.co/P5op0uDaAY",
+      "text_zh": "梦想，加上自律。https://t.co/P5op0uDaAY",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2125636393867042930",
+          "user": "zilvestro",
+          "text": "This is how I went from €0 MRR to building a SaaS that pays my bills.\n\nA lot of people asked what happened in early 2025 that finally made this graph move.\n\nSo here's the story.\n\nIt actually started with a random video on X.\n\nAt the time, I was working a full time sales job after going back to employment from being self employed.\n\nI had never heard of build in public and never seriously considered building a SaaS myself.\n\nI knew how to code a little PHP, which I had taught myself back in 2020. But that was about it.\n\nThen one day, @marclou's ShipFast launch video showed up on my timeline.\n\nIt was a Navy CIS style parody, and I thought it was hilarious.\n\nI started following Marc, watched his livestreams, and eventually bought ShipFast.\n\nHis content was packed with practical advice, and watching him build products live helped me understand how this whole SaaS thing worked.\n\nRemember, this was before AI coding tools became what they are today.\n\nI was literally copying code into ChatGPT whenever I got stuck. (Instead of searching on Stack Overflow)\n\nAnd I had never touched Next JS before.\n\nBut I wanted to learn.\n\nSo I started building.\n\nMy first project was a little website about children's books that I made with my girlfriend, who worked in childcare.\n\nNothing commercial. Just something to practice with.\n\nThen I started building a vitamin.\n\nI got pretty far before realizing I had absolutely no interest in the topic.\n\nSo I abandoned it.\n\nNext, I tried building a SEO keyword research tool.\n\nSEO tools were getting a lot of attention at the time, and I had some experience with SEO from my previous self-employment.\n\nBut while building it, I realized something.\n\nI knew the basics of SEO, but nowhere near enough to build a genuinely good product in that space.\n\nI would have needed to spend months learning the industry before even knowing what to build.\n\nThat's when I finally asked myself what I actually knew better than most people.\n\nAnd the answer was obvious.\n\nAffiliate marketing.\n\nI'd been working in affiliate marketing since around 2011.\n\nOver a decade of experience, recruiting affiliates, managing programs, working with different brands.\n\nFor the first time, I had an idea where my existing knowledge could actually give me an unfair advantage.\n\nSo I started researching the affiliate software market.\n\nI noticed that SaaS founders were mostly using the same handful of platforms.\n\nAnd I thought I could build something that made getting started with affiliate marketing easier and more affordable.\n\nThat's how Affonso started.\n\nAround August or September 2024, I started building the first version.\n\nThe hardest part was Stripe.\n\nI had never worked with Stripe before, and building reliable tracking for subscriptions, payments, and all the different edge cases took countless evenings.\n\nThe other nightmare was the landing page.\n\nI'm terrible at design, but somehow still have pretty high standards. Not the greatest combination when you're building everything yourself. 😂\n\nAfter roughly two months of working on it alongside my full-time job, I finally had something I could launch.\n\nAnd it was VERY basic.\n\nYou could connect Stripe, create an affiliate program, generate tracking links, and see some basic analytics.\n\nThe affiliate portal was basically a link and a tiny chart.\n\nThere wasn't even a payout system yet.\n\nAnd that was intentional.\n\nOne thing Marc kept repeating was to launch with the bare minimum.\n\nI knew that even if someone signed up immediately, it would take time before their affiliates generated sales and commissions became payable.\n\nSo I decided to build payouts when someone actually needed them.\n\nWhich is exactly what I did.\n\nI launched without a paywall. Anyone could sign up and use Affonso for free.\n\nAnd then absolutely nothing happened.\n\nI had a few users, but nobody was paying.\n\nFor weeks, I kept improving the product while trying to find people who might actually need it.\n\nI had no testimonials, no reputation in the SaaS space, and no real audience.\n\nAnd I refused to put fake testimonials on the landing page.\n\nSo I did the only thing I could think of.\n\nI started talking to people.\n\nI used X Pro to monitor conversations about affiliate software and SaaS affiliate programs.\n\nWhenever someone had a question I could help with, I joined the conversation.\n\nI wasn't pitching Affonso. I was trying to be useful.\n\nAnd when someone showed genuine interest or mentioned a problem I knew I could solve, I'd reach out.\n\nSometimes we'd chat for a while before I even mentioned that I was building affiliate software.\n\nThen I'd offer them free access and ask for feedback.\n\nIt was completely manual.\n\nNo automation, no AI outreach, no fancy growth strategy.\n\nJust finding people with a relevant problem and talking to them.\n\nBut even with all that effort, getting the first paying customer took months.\n\nBy January 2025, I was seriously considering giving up.\n\nI had already set myself a deadline. If nobody was willing to pay by then, I'd move on.\n\nAround that time, I introduced something called the Revenue Pass.\n\nInstead of offering a lifetime deal, I wanted to create an offer that was almost impossible to say no to.\n\nFor just $49, you could use Affonso until your affiliates had generated $10,000 in revenue.\n\nThe Revenue Pass gave customers a huge potential return for a tiny upfront investment while keeping the model sustainable.\n\nAnd then it happened.\n\nMy first paying customer.\n\nI actually reached out to him afterward.\n\nHe told me he loved the offer and wanted to secure it, even though he wasn't ready to actively work on affiliate marketing yet.\n\nThat one purchase meant so much to me.\n\nAfter months of building and wondering whether anyone would ever pay, someone finally had.\n\nAnd it gave me a reason to keep going.\n\nAbout a week later, another purchase came in.\n\nThen another.\n\nAt some point, I was getting two sales a week, then three, then four.\n\nEventually, people were buying Revenue Passes almost every day.\n\nI gradually increased the price and eventually stopped selling them.\n\nMeanwhile, more customers started choosing the regular subscription, which started at just $9/month.\n\nAnd slowly, word of mouth started doing its thing too.\n\nPeople were recommending Affonso to other founders.\n\nThe same people I had spent hours helping were now helping me grow.\n\nLooking back at this chart, I think the biggest lesson is how unexciting the beginning actually was.\n\nThere was no big launch that changed everything.\n\nI didn't have a huge following.\nI didn't spend money on ads.\nI didn't rank on Google.\n\nI spent my evenings building a very basic product and my free time talking to potential customers.\n\nAnd I kept doing that until something finally worked.\n\nToday, Affonso pays my bills, supports my family, and allows me to work on something I genuinely enjoy full-time.\n\nAnd it all started because a random video appeared on my timeline.\n\nFunny how things work out.\n\nIf you're currently sitting at €0 MRR, don't underestimate how far you can get by simply talking to people and solving a problem you actually understand.",
+          "text_zh": "这就是我如何从 €0 MRR，做到做出一款能养活自己的 SaaS。\n\n很多人问，2025 年初到底发生了什么，才终于让这张图开始往上走。\n\n所以下面就是这个故事。\n\n它其实始于 X 上一段随机刷到的视频。\n\n那时，我刚从自雇重新回到全职工作，正在做一份全职销售。\n\n我从未听说过 build in public，也从未认真考虑过自己去做一款 SaaS。\n\n我会一点点 PHP，是 2020 年自学的。但仅此而已。\n\n然后有一天，@marclou 的 ShipFast 上线视频出现在我的时间线上。\n\n那是一个 Navy CIS 风格的恶搞，我觉得非常好笑。\n\n我开始关注 Marc，看他的直播，最后买了 ShipFast。\n\n他的内容里全是实用建议，看着他现场做产品，也帮我搞懂了 SaaS 这一整套是怎么运转的。\n\n别忘了，那时候 AI 编程工具还远没有今天这个样子。\n\n我一卡住，就是把代码复制进 ChatGPT。（而不是去 Stack Overflow 上搜）\n\n而且我以前从未碰过 Next JS。\n\n但我想学。\n\n于是我开始动手做。\n\n我的第一个项目，是和在托儿行业工作的女朋友一起做的一个关于童书的小网站。\n\n不是商业项目，只是用来练习。\n\n然后我开始做一个维生素相关的项目。\n\n做了挺久，才意识到自己对这个话题完全没有兴趣。\n\n于是放弃了。\n\n接下来，我试着做一款 SEO 关键词研究工具。\n\n当时 SEO 工具很受关注，而且我在之前自雇时也有一些 SEO 经验。\n\n但做着做着，我意识到一件事。\n\n我只懂 SEO 的皮毛，远不够在这个领域做出真正出色的产品。\n\n我得先花几个月了解这个行业，才知道该做什么。\n\n就在那时，我终于问自己：到底有什么是我比大多数人更懂的？\n\n答案显而易见。\n\nAffiliate marketing（联盟营销）。\n\n我大概从 2011 年就开始做联盟营销了。\n\n十多年的经验：招募 affiliates、管理项目、和不同品牌合作。\n\n第一次，我有了一个能真正把已有知识变成不公平优势的想法。\n\n于是我开始研究联盟软件市场。\n\n我注意到，SaaS 创始人大多在用同一小撮平台。\n\n我觉得自己可以做一个让联盟营销起步更简单、也更便宜的产品。\n\nAffonso 就是这样开始的。\n\n大概在 2024 年 8 月或 9 月，我开始做第一版。\n\n最难的部分是 Stripe。\n\n我以前从未用过 Stripe，要为订阅、支付以及各种边界情况做出可靠的追踪，花了无数个晚上。\n\n另一场噩梦是落地页。\n\n我设计很差，但不知怎么标准又挺高。什么都自己做的时候，这可不是什么好组合。😂\n\n大概花了两个月，一边做全职工作一边开发，我终于有了可以上线的东西。\n\n而且它非常非常基础。\n\n你可以连接 Stripe、创建联盟项目、生成追踪链接，再看一些基础分析。\n\naffiliate portal 基本上就是一个链接加一张很小的图表。\n\n甚至还没有 payout（结算）系统。\n\n而这是故意的。\n\nMarc 反复强调的一点，就是用最低限度的功能先上线。\n\n我知道，哪怕有人立刻注册，也得过一段时间，他们的 affiliates 才会带来销售，佣金才会真正需要支付。\n\n所以我决定，等真有人需要结算时再去做 payouts。\n\n我也正是这么做的。\n\n我上线时没有付费墙。任何人都可以注册，免费使用 Affonso。\n\n然后，什么都没发生。\n\n有几个用户，但没有人付钱。\n\n连续几周，我一边改进产品，一边试图找到真正可能需要它的人。\n\n我没有推荐语，在 SaaS 圈子里没有声誉，也没有真正的受众。\n\n而且我拒绝在落地页上放假推荐。\n\n于是我做了当时唯一能想到的事。\n\n我开始和人聊天。\n\n我用 X Pro 监测关于联盟软件和 SaaS 联盟项目的讨论。\n\n只要有人提出我能帮忙的问题，我就加入对话。\n\n我不是在推销 Affonso，而是尽量变得有用。\n\n当有人表现出真正的兴趣，或提到一个我知道自己能解决的问题时，我就会主动联系。\n\n有时我们会先聊上一阵，我才提起自己正在做联盟软件。\n\n然后我会给他们免费使用，并请他们给反馈。\n\n这完全是手工的。\n\n没有自动化，没有 AI 外联，也没有花哨的增长策略。\n\n就是找到有相关问题的人，然后和他们聊。\n\n但即便付出了这么多，等到第一个付费客户，还是花了好几个月。\n\n到 2025 年 1 月，我已经在认真考虑放弃了。\n\n我给自己设过一个截止日期：如果到那时还没人愿意付钱，我就换方向。\n\n差不多在那个时候，我推出了一个叫 Revenue Pass 的东西。\n\n我不想做 lifetime deal，而是想做一个几乎让人没法拒绝的报价。\n\n只需 $49，你就可以一直用 Affonso，直到你的 affiliates 带来 $10,000 的收入。\n\nRevenue Pass 用极低的预付成本给了客户巨大的潜在回报，同时又让模式本身可持续。\n\n然后，它发生了。\n\n我的第一位付费客户。\n\n我后来还主动联系了他。\n\n他告诉我，他很喜欢这个报价，想先把它锁定，尽管当时还没准备好真正去做联盟营销。\n\n这一笔购买对我意义重大。\n\n做了好几个月、一直怀疑会不会有人付钱之后，终于有人付了。\n\n这也给了我继续做下去的理由。\n\n大约一周后，又来了一笔。\n\n然后又是一笔。\n\n后来变成一周两单，再变成三单、四单。\n\n最终，几乎每天都有人在买 Revenue Pass。\n\n我逐渐提高了价格，最后停止了销售。\n\n与此同时，越来越多客户开始选择普通订阅，起步价只有 $9/month。\n\n慢慢地，口碑也开始发挥作用。\n\n人们把 Affonso 推荐给其他创始人。\n\n那些我曾花几个小时帮助过的人，现在反过来在帮我增长。\n\n回看这张图，我觉得最大的教训是：开始阶段其实有多么平淡无奇。\n\n并没有一次改变一切的大爆发上线。\n\n我没有庞大的关注者。\n我没有砸钱投广告。\n我也没有在 Google 上排到前面。\n\n我用晚上的时间做一个非常基础的产品，再用空闲时间跟潜在客户聊天。\n\n然后一直这样做，直到终于有了效果。\n\n如今，Affonso 能支付我的账单、养活我的家人，也让我能全职做一件自己真正喜欢的事。\n\n而这一切，只是因为时间线上出现了一段随机视频。\n\n事情就是这么奇妙。\n\n如果你现在还停在 €0 MRR，不要低估一件事：只要愿意和人交流，并去解决一个你真正懂的问题，你能走得有多远。"
+        }
+      ]
+    },
+    {
+      "id": "2125654555262431248",
+      "user": "steipete",
+      "url": "https://x.com/steipete/status/2125654555262431248",
+      "created_at": "2026-11-25T18:15:13.000Z",
+      "created_at_bj": "2026-11-26 02:15",
+      "views": 58108,
+      "rate_per_hour": 5288,
+      "basis": "snapshot",
+      "prev": {
+        "views": 55464,
+        "checked_at": "2026-11-26T07:12:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 58108,
+        "like_count": 768,
+        "reply_count": 110,
+        "quote_count": 6,
+        "retweet_count": 34,
+        "bookmark_count": 161
+      },
+      "already_pushed": true,
+      "text": "huh, so Google finally built an MCP and is now forbidding clis like gog unless you pay them more? classy https://t.co/TnaqUMbpG9",
+      "text_zh": "哈，所以 Google 终于做了个 MCP，现在却禁止像 gog 这样的 CLI，除非你再多付钱给他们？真够体面的 https://t.co/TnaqUMbpG9",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2125547127803985932",
+          "user": "coccoinomane",
+          "text": "Google to forbid AI Agents from using Workspace APIs. @steipete does this affect gog and @openclaw?\n\nSource: https://t.co/iTvGBBQEVV https://t.co/Fk85ECh3NI",
+          "text_zh": "Google 将禁止 AI Agents 使用 Workspace API。@steipete 这会影响 gog 和 @openclaw 吗？\n\n来源：https://t.co/iTvGBBQEVV https://t.co/Fk85ECh3NI\n配图：Google Workspace Updates 文章截图，标题为 “Simplifying agent access while keeping organizations in control: MCP servers, CLI, standardized usage tiers, and admin policies”。"
+        }
+      ]
+    },
+    {
+      "id": "2125613519873995002",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2125613519873995002",
+      "created_at": "2026-11-25T15:32:09.000Z",
+      "created_at_bj": "2026-11-25 23:32",
+      "views": 25567,
+      "rate_per_hour": 1052,
+      "basis": "snapshot",
+      "prev": {
+        "views": 25041,
+        "checked_at": "2026-11-26T07:12:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 25567,
+        "like_count": 303,
+        "reply_count": 79,
+        "quote_count": 2,
+        "retweet_count": 3,
+        "bookmark_count": 13
+      },
+      "already_pushed": true,
+      "text": "Another DDOS!\n\n2.74 million requests in 10 minutes https://t.co/d15RoTQl2i https://t.co/LynaNmISC0",
+      "text_zh": "又一次 DDOS！\n\n10 分钟内 2.74 million 次请求 https://t.co/d15RoTQl2i https://t.co/LynaNmISC0\n配图：深色主题的 Requests over time（请求量随时间变化）图表，右上角 Group by 为 None，图例显示 Requests 2.74M。横轴从 Nov 24, 20:00 到 Nov 25, 16:00 之后，纵轴刻度为 0 至 1.8M。在 Nov 25 16:00 之前几乎贴着 0，之后出现一根极窄的高峰，峰值大约在 1.5M–1.8M 之间。",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2125592280505704637",
+          "user": "levelsio",
+          "text": "All my tweets are now AI spammer honeypots 👌 \n\nThey get instantly blocked and pushed to the network of people using the blocklist which mass blocks them\n\nEach account is investigated by Grok 4.7 with extra high reasoning effort and analyzes ALL their recent other replies and only once it's 100% conclusive it's blocked, no false positives\n\nThis nukes about 25-50 bots per day depending how much I tweet\n\n🍯",
+          "text_zh": "我现在所有推文都成了 AI 垃圾评论的蜜罐 👌\n\n它们会被立刻屏蔽，并推送到使用这份 blocklist 的网络里，由大家批量拉黑\n\n每个账号都会由 Grok 4.7 以 extra high reasoning effort 进行调查，分析它们最近的全部其他回复，只有在 100% 确定之后才会屏蔽，没有误伤\n\n根据我发推的多少，这每天大概能干掉 25-50 个机器人\n\n🍯"
+        }
+      ]
+    },
+    {
+      "id": "2125606495056449835",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2125606495056449835",
+      "created_at": "2026-11-25T15:04:14.000Z",
+      "created_at_bj": "2026-11-25 23:04",
+      "views": 24514,
+      "rate_per_hour": 836,
+      "basis": "snapshot",
+      "prev": {
+        "views": 24096,
+        "checked_at": "2026-11-26T07:12:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 24514,
+        "like_count": 242,
+        "reply_count": 74,
+        "quote_count": 1,
+        "retweet_count": 2,
+        "bookmark_count": 6
+      },
+      "already_pushed": true,
+      "text": "You don't have to be nervous if you're not an AI spammer, there's no false positives here, it only blocks when it's conclusive and all your replies have the same AI spam https://t.co/qk3YXMtxzo",
+      "text_zh": "如果你不是 AI 垃圾评论账号，就不必紧张，这里没有误伤。只有在证据确凿、而且你的全部回复都是同一套 AI 垃圾评论时，才会屏蔽 https://t.co/qk3YXMtxzo",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2125597243122098509",
+          "user": "OttoLorner",
+          "text": "@levelsio Honestly nervous to reply to your posts at this point.",
+          "text_zh": "@levelsio 说实话，现在都有点不敢回复你的帖子了。"
+        }
+      ]
+    },
+    {
+      "id": "2125598637980069967",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2125598637980069967",
+      "created_at": "2026-11-25T14:33:01.000Z",
+      "created_at_bj": "2026-11-25 22:33",
+      "views": 18156,
+      "rate_per_hour": 804,
+      "basis": "snapshot",
+      "prev": {
+        "views": 17754,
+        "checked_at": "2026-11-26T07:12:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 18156,
+        "like_count": 163,
+        "reply_count": 60,
+        "quote_count": 2,
+        "retweet_count": 4,
+        "bookmark_count": 24
+      },
+      "already_pushed": true,
+      "text": "2nd person to reach $10K+ revenue for the $100K Hackathon!! 👏👏\n\nAnd 122 people have made $1+. Up 34% since yesterday.\n\nLeaderboard → https://t.co/5XIpga2stf https://t.co/ErplrKYOFr https://t.co/VdS9F5v6Mb",
+      "text_zh": "第二位在 $100K Hackathon 中收入达到 $10K+ 的人！！👏👏\n\n而且已经有 122 人赚到了 $1+。比昨天增加 34%。\n\n排行榜 → https://t.co/5XIpga2stf https://t.co/ErplrKYOFr https://t.co/VdS9F5v6Mb\n配图：$100K Hackathon 排行榜截图，深色背景，CONTEST REVENUE 列：01 Jacky Chou $16,004、02 Frederick James $12,466、03 Bankai Clan $5,027、04 Joshua $3,341、05 dr. Gergely Fabian $2,554、06 Nikita Kolmogorov $2,175。",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2124866087418531921",
+          "user": "marclou",
+          "text": "🤝 91 builders made $1+\n🤝 5 builders made $1,000+ https://t.co/pAjf4oxKxX https://t.co/haJAKxzynY",
+          "text_zh": "🤝 91 位 builders 赚到了 $1+\n🤝 5 位 builders 赚到了 $1,000+ https://t.co/pAjf4oxKxX https://t.co/haJAKxzynY"
+        }
+      ]
+    },
+    {
+      "id": "2125594941149905376",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2125594941149905376",
+      "created_at": "2026-11-25T14:18:20.000Z",
+      "created_at_bj": "2026-11-25 22:18",
+      "views": 150704,
+      "rate_per_hour": 7720,
+      "basis": "snapshot",
+      "prev": {
+        "views": 146844,
+        "checked_at": "2026-11-26T07:12:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 150704,
+        "like_count": 6296,
+        "reply_count": 61,
+        "quote_count": 34,
+        "retweet_count": 466,
+        "bookmark_count": 1429
+      },
+      "already_pushed": true,
+      "text": "Privet Russia https://t.co/WbMHI4MrLb https://t.co/YDP9MLUjHD",
+      "text_zh": "Privet Russia（嗨，俄罗斯）https://t.co/WbMHI4MrLb https://t.co/YDP9MLUjHD\n配图：15 张俄罗斯主题插画，均为密集平铺构图：穿白 tutu（少数黑上衣）的芭蕾舞者、色彩缤纷的洋葱头教堂穹顶、罗宋汤（borscht）配酸奶油、莳萝、甜菜和黑麦面包（部分酸奶油上画有软音符 ь）、花纹套娃（matryoshka）、雪地松林中的棕熊、穿裘皮大衣与毛皮帽的女子、饰有纹章标签的伏特加酒瓶配黄瓜和小酒杯、金碧辉煌的地铁宫殿式穹顶与吊灯、薄饼配酸奶油、三文鱼、鱼子酱和浆果、冰上的花样滑冰者、绘有红花的三角巴拉莱卡琴（balalaika）、镶嵌珍珠与宝石的法贝热彩蛋（Fabergé）、民族服装民间舞者、碗中的饺子（pelmeni）配酸奶油和莳萝、以及蓝白花卉纹样的瓷器茶具。",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2125234676973363573",
+          "user": "egeberkina",
+          "text": "Hola España https://t.co/ePupLpIMhT https://t.co/9xAYap3Lw8",
+          "text_zh": "Hola España（你好，西班牙）https://t.co/ePupLpIMhT https://t.co/9xAYap3Lw8"
+        }
+      ]
+    },
+    {
+      "id": "2125592280505704637",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2125592280505704637",
+      "created_at": "2026-11-25T14:07:45.000Z",
+      "created_at_bj": "2026-11-25 22:07",
+      "views": 81559,
+      "rate_per_hour": 3056,
+      "basis": "snapshot",
+      "prev": {
+        "views": 80031,
+        "checked_at": "2026-11-26T07:12:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 81559,
+        "like_count": 771,
+        "reply_count": 233,
+        "quote_count": 25,
+        "retweet_count": 7,
+        "bookmark_count": 37
+      },
+      "already_pushed": true,
+      "text": "All my tweets are now AI spammer honeypots 👌 \n\nThey get instantly blocked and pushed to the network of people using the blocklist which mass blocks them\n\nEach account is investigated by Grok 4.7 with extra high reasoning effort and analyzes ALL their recent other replies and only once it's 100% conclusive it's blocked, no false positives\n\nThis nukes about 25-50 bots per day depending how much I tweet\n\n🍯",
+      "text_zh": "我现在所有推文都成了 AI 垃圾评论的蜜罐 👌\n\n它们会被立刻屏蔽，并推送到使用这份 blocklist 的网络里，由大家批量拉黑\n\n每个账号都会由 Grok 4.7 以 extra high reasoning effort 进行调查，分析它们最近的全部其他回复，只有在 100% 确定之后才会屏蔽，没有误伤\n\n根据我发推的多少，这每天大概能干掉 25-50 个机器人\n\n🍯\n配图：4 张 Situation Monitor 拦截通知截图，绿色涂鸦背景上的白卡片，标题为 Situation Monitor。分别是 Blocked @manirajannm (AI 87)、@mertcan_arguc (AI 78)、@guptasidddharth (AI 88) 与 @justindraplin (AI 82)、以及 @fischerls (AI 92)，均为对 @levelsio 帖子的 AI 回复；卡片里引用了对方原文和链接，并由 Grok 给出判定理由，例如重复使用 “isn't X, it's Y” / “the real moat” 等套话、短时间连发多条精致回复、几乎只回复不发原创、互动接近于零等。",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2125308828011131033",
+          "user": "levelsio",
+          "text": "Yesterday they started DDOS'ing my server\n\nToday they're buying fake followers to then report my account 🤯 \n\nThey're like 🐝 hornets https://t.co/H69PW2fMGK https://t.co/8hZHHp7hYi",
+          "text_zh": "昨天他们开始 DDOS 我的服务器\n\n今天他们又在买假粉丝，然后再去举报我的账号 🤯\n\n他们就像 🐝 黄蜂一样 https://t.co/H69PW2fMGK https://t.co/8hZHHp7hYi"
+        }
+      ]
+    },
+    {
+      "id": "2125589710860882313",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2125589710860882313",
+      "created_at": "2026-11-25T13:57:33.000Z",
+      "created_at_bj": "2026-11-25 21:57",
+      "views": 28017,
+      "rate_per_hour": 1110,
+      "basis": "snapshot",
+      "prev": {
+        "views": 27462,
+        "checked_at": "2026-11-26T07:12:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 28017,
+        "like_count": 413,
+        "reply_count": 208,
+        "quote_count": 16,
+        "retweet_count": 24,
+        "bookmark_count": 535
+      },
+      "already_pushed": true,
+      "text": "The most AI proof thing you can build right now is probably an audience (with AI agents)\n\nI know founders with great products and no audience, and I know founders with highly engaged audiences and average products\n\nThe second group is WAY less stressed. https://t.co/MMWCo8p5nD",
+      "text_zh": "眼下你能做的最 AI proof 的事情，大概就是（用 AI agents）做出一个受众群体\n\n我认识一些产品很出色但没有受众的创始人，也认识一些拥有高互动受众、但产品只是一般的创始人\n\n后一组人要轻松得多。https://t.co/MMWCo8p5nD\n配视频：80 秒竖屏视频，来自 THE STARTUP IDEAS PODCAST，画面标题为 BUILD A MEDIA COMPANY，@gregisenberg 出镜讲述。",
+      "hit": false,
+      "quoted": []
+    },
+    {
+      "id": "2125579762769035505",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2125579762769035505",
+      "created_at": "2026-11-25T13:18:01.000Z",
+      "created_at_bj": "2026-11-25 21:18",
+      "views": 15673,
+      "rate_per_hour": 556,
+      "basis": "snapshot",
+      "prev": {
+        "views": 15395,
+        "checked_at": "2026-11-26T07:12:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 15673,
+        "like_count": 167,
+        "reply_count": 52,
+        "quote_count": 0,
+        "retweet_count": 4,
+        "bookmark_count": 12
+      },
+      "already_pushed": true,
+      "text": "TrustMRR is a little over 1 year old 🎂, and its domain rating is the second-highest I own, after ShipFast (74). https://t.co/uRq5jVchhy",
+      "text_zh": "TrustMRR 刚满一岁出头 🎂，它的 Domain Rating 是我名下第二高的，仅次于 ShipFast（74）。https://t.co/uRq5jVchhy\n配图：https://trustmrr.com/ 的 Domain Rating 截图，评分为 73，左侧有紫色环形图。",
+      "hit": false,
+      "quoted": []
+    },
+    {
+      "id": "2125556111927607726",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2125556111927607726",
+      "created_at": "2026-11-25T11:44:02.000Z",
+      "created_at_bj": "2026-11-25 19:44",
+      "views": 16402,
+      "rate_per_hour": 318,
+      "basis": "snapshot",
+      "prev": {
+        "views": 16243,
+        "checked_at": "2026-11-26T07:12:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 16402,
+        "like_count": 116,
+        "reply_count": 59,
+        "quote_count": 1,
+        "retweet_count": 2,
+        "bookmark_count": 29
+      },
+      "already_pushed": true,
+      "text": "I just shipped this to https://t.co/D3PMnJqNa5:\n\n🔀 Yes/no branches\n🔗 UTM tags on links\n📈 Gmail pace per domain\n📋 Multiple signup forms\n🎨 Colored boxes in emails\n✨ Personal links per reader\n🌗 Light or dark for everyone\n🪟 Popup and slide-in signup forms\n🕐 Schedule in your readers' time zone\n🤖 Automations on a drag-and-drop canvas",
+      "text_zh": "我刚把这些功能上线到了 https://t.co/D3PMnJqNa5：\n\n🔀 是/否分支\n🔗 链接上的 UTM 标签\n📈 按域名的 Gmail 发送节奏\n📋 多个注册表单\n🎨 邮件里的彩色框\n✨ 每位读者的专属链接\n🌗 人人都能用浅色或深色\n🪟 弹出式和侧滑式注册表单\n🕐 按读者所在时区排期\n🤖 在拖放画布上做自动化\n配图：3 张 MailCheap.ai 产品截图。第一张是邮件自动化流程画布：条件节点「If they Opened the email before」（如果他们曾经打开过这封邮件），Yes 分支进入 Email 2「Did you get a chance to read it? / I'd love to hear what you think」（你有机会读一下吗？我想听听你的想法），No 分支进入 Email 2「Your guide is waiting for you / In case you missed it」（你的指南还在等你 / 以防你错过了），并提示「Add text and a link to each button」，两条分支最后都到 End。第二张是邮件预览「This week's best streaming deals」，带橙色 Theme 色块的「Deal of the week」和「Claim 60% off」按钮，以及 Box color 选择器（Gray、Theme、Yellow、Green、Blue、Pink）和底部 Quick tip 提示条。第三张是注册弹窗编辑预览：弹窗标题「The hens」，邮箱输入框和 Subscribe 按钮，下方可编辑 Headline、Text、是否询问 First name，以及按钮文案。",
+      "hit": false,
+      "quoted": []
+    }
+  ],
+  "new_hits": [],
+  "counts": {
+    "checked": 10,
+    "new_hits": 0,
+    "snapshots_before": 11,
+    "snapshots_after": 10,
+    "pushed_before": 230,
+    "pushed_after": 230,
+    "aged_out": [
+      "2125550927130067362"
+    ],
+    "per_account": {
+      "levelsio": 3,
+      "marclou": 4,
+      "gregisenberg": 1,
+      "steipete": 1,
+      "egeberkina": 1,
+      "karpathy": 0
+    }
+  }
+}
