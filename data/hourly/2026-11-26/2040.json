@@ -1,0 +1,353 @@
+{
+  "run_at": "2026-11-26T20:40:00+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "2040",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2125923307002470407",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2125923307002470407",
+      "created_at": "2026-11-26T12:03:08.000Z",
+      "created_at_bj": "2026-11-26 20:03",
+      "views": 11388,
+      "rate_per_hour": 14794,
+      "basis": "snapshot",
+      "prev": {
+        "views": 3498,
+        "checked_at": "2026-11-26T20:08:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 11388,
+        "like_count": 153,
+        "reply_count": 32,
+        "quote_count": 2,
+        "retweet_count": 4,
+        "bookmark_count": 12
+      },
+      "already_pushed": true,
+      "text": "🍀 Mini update: X is healing! \n\nThe AI replies have disappeared for me and many others too since I started 🛡️ https://t.co/fezByja7sZ a few days ago\n\nWe got 500+ X accounts that were confirmed to be AI spammers suspended\n\nThere was 4 false positives on ~4000 accounts, so a 0.1% error rate, they were quickly removed\n\nMany people who were AI reply spammers appealed and promised to never spam again: they were removed from the list. They're then monitored every hour for AI spam and if they do it again, they're back on the list but now permanently\n\nAll blocks are ONLY if they're 100% conclusive to be AI spammers (based on their replies history) AND then a human review again before ever being blocked\n\nThanks everyone for helping to clean up our replies!\n\nAnd thanks to @dillon_mulroy and @ryanvogel originally starting the AI spammer block list which I expanded on",
+      "text_zh": "🍀 小更新：X 正在好转！\n\n自从我几天前开始用 🛡️ https://t.co/fezByja7sZ 以来，对我和很多其他人来说，AI 回复都消失了\n\n我们已经让 500+ 个被确认是 AI 垃圾评论的 X 账号被封禁\n\n大约 4000 个账号里有 4 个误伤，所以误伤率是 0.1%，他们很快就被移出了名单\n\n很多曾经发 AI 垃圾回复的人提出申诉，并保证再也不刷了：他们被移出了名单。之后会每小时监测他们是否还在发 AI 垃圾，如果再犯，就会被重新加回名单，而且这次是永久的\n\n所有拉黑都只在 100% 确定他们是 AI 垃圾评论账号（基于其回复历史）之后才会执行，而且在真正拉黑前还会再经过一次人工审核\n\n谢谢大家帮忙清理我们的回复区！\n\n也感谢 @dillon_mulroy 和 @ryanvogel 最初发起的这份 AI 垃圾评论屏蔽名单，我是在他们的基础上扩展的",
+      "hit": true,
+      "quoted": [
+        {
+          "id": "2125897366419214479",
+          "user": "levelsio",
+          "text": "Sometimes you find AI spammer gems like this guy\n\nWhose prompt keeps leaking to the replies he posts 😂 https://t.co/D93H4jZmnD https://t.co/LynaNmISC0",
+          "text_zh": "有时候你会碰到这种 AI 垃圾评论的神级翻车\n\n这哥们的 prompt 一直泄漏到他自己发的回复里 😂 https://t.co/D93H4jZmnD https://t.co/LynaNmISC0"
+        }
+      ]
+    },
+    {
+      "id": "2125919752631796083",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2125919752631796083",
+      "created_at": "2026-11-26T11:49:01.000Z",
+      "created_at_bj": "2026-11-26 19:49",
+      "views": 7294,
+      "rate_per_hour": 7103,
+      "basis": "snapshot",
+      "prev": {
+        "views": 3506,
+        "checked_at": "2026-11-26T20:08:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 7294,
+        "like_count": 58,
+        "reply_count": 27,
+        "quote_count": 1,
+        "retweet_count": 1,
+        "bookmark_count": 15
+      },
+      "already_pushed": true,
+      "text": "Running a newsletter business (MailCheap — $3,500 MRR) is so different from running a web analytics business (DataFast — $28,000 MRR).\n\nWeb analytics are perceived as “nice.” I beg my users to spend enough time to get to the “aha” moment and stick with my product. Adoption takes time. Conversion rate is low.\n\nOn the other hand, a newsletter is someone’s business backbone. If the user can’t send emails, they don’t make money. I reject ~50% of senders to protect deliverability on MailCheap, and every day I get users on support begging me to reinstate their accounts. Conversion rate is much higher.\n\nIt took DataFast 10 months to get where MailCheap got in 1.5 months.",
+      "text_zh": "做 newsletter 生意（MailCheap —— $3,500 MRR）和做网站分析生意（DataFast —— $28,000 MRR）完全不是一回事。\n\n网站分析会被当成「锦上添花」。我得求用户花足够时间走到「aha」时刻，并留下来用我的产品。采用需要时间，转化率很低。\n\n另一方面，newsletter 是别人生意的中枢。如果用户发不出去邮件，他们就赚不到钱。为了保护 MailCheap 的送达率，我会拒掉大约 50% 的发信人，而且每天都有用户在客服里求我恢复他们的账号。转化率要高得多。\n\nDataFast 花了 10 个月才做到 MailCheap 用 1.5 个月达到的程度。",
+      "hit": true
+    },
+    {
+      "id": "2125915670525469140",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2125915670525469140",
+      "created_at": "2026-11-26T11:32:48.000Z",
+      "created_at_bj": "2026-11-26 19:32",
+      "views": 18675,
+      "rate_per_hour": 13678,
+      "basis": "snapshot",
+      "prev": {
+        "views": 11380,
+        "checked_at": "2026-11-26T20:08:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 18675,
+        "like_count": 82,
+        "reply_count": 31,
+        "quote_count": 1,
+        "retweet_count": 2,
+        "bookmark_count": 18
+      },
+      "already_pushed": true,
+      "text": "If I have Bluetooth enabled on my MacBook Pro, Chrome will request a list of paired Bluetooth devices 27 times per second, freezing my computer every 3 seconds\n\nAbout 15,000+ requests per minute\n\nThis is Chrome 158.0.8127.37\n\n@ChromiumDev \n\nFrom my clanker: \"Chrome is doing the same thing I found on Nov 11, and it's happening right now. It isn't caused by your superlevels extension, which has no Bluetooth code.\n\nWhat I measured just now (30 seconds of the Bluetooth service's log):\n- Chrome asked macOS for your list of paired devices about 27 times a second.\n- It asked for the state of individual devices about 190 times a second, roughly 7 devices on every pass.\n- That's about 15,000+ requests from Chrome per minute. Every other app combined sent about 60.\n- bluetoothd, the macOS Bluetooth service, is at 59% CPU because of it.\n\nWhy Chrome does this: Chrome keeps track of paired Bluetooth devices for passkey sign-in with your phone and for websites that connect to Bluetooth devices. Normally it checks every so often. Here it's stuck in a loop and checks dozens of times a second. No extension or Chrome flag is causing it, so it looks like a Chrome bug. On Nov 11 it started right after a Bluetooth device disconnected, and it has probably been stuck again since a disconnect at some point. Chrome has been running for 4.5 days.\"",
+      "text_zh": "如果我在 MacBook Pro 上开着 Bluetooth，Chrome 就会每秒请求 27 次已配对 Bluetooth 设备列表，导致我的电脑每 3 秒卡死一次\n\n大约每分钟 15,000+ 次请求\n\n这是 Chrome 158.0.8127.37\n\n@ChromiumDev\n\n来自我的 clanker：「Chrome 现在又在干我 11 月 11 日发现的同一件事，而且此刻正在发生。这不是你的 superlevels 扩展引起的，那个扩展里没有任何 Bluetooth 相关代码。\n\n我刚刚测量的结果（Bluetooth 服务日志的 30 秒）：\n- Chrome 每秒大约向 macOS 请求 27 次已配对设备列表。\n- 它每秒大约查询 190 次单个设备的状态，每次遍历大约 7 台设备。\n- 也就是说 Chrome 每分钟大约发出 15,000+ 次请求。其他所有应用加起来大约只有 60 次。\n- 正因为如此，macOS 的 Bluetooth 服务 bluetoothd 占用了 59% 的 CPU。\n\nChrome 为什么会这样做：Chrome 会跟踪已配对的 Bluetooth 设备，用于手机 passkey 登录，以及网站连接 Bluetooth 设备。正常情况下它只是偶尔检查一下。但现在它卡在循环里，每秒检查几十次。不是扩展或 Chrome flag 引起的，所以看起来像是 Chrome 的 bug。11 月 11 日那次是在一台 Bluetooth 设备断开后马上开始的，这次很可能也是某次断开之后又卡住了。Chrome 已经连续运行了 4.5 天。」",
+      "hit": true
+    },
+    {
+      "id": "2125899647336272276",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2125899647336272276",
+      "created_at": "2026-11-26T10:29:07.000Z",
+      "created_at_bj": "2026-11-26 18:29",
+      "views": 48963,
+      "rate_per_hour": 29376,
+      "basis": "snapshot",
+      "prev": {
+        "views": 33296,
+        "checked_at": "2026-11-26T20:08:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 48963,
+        "like_count": 482,
+        "reply_count": 78,
+        "quote_count": 16,
+        "retweet_count": 22,
+        "bookmark_count": 308
+      },
+      "already_pushed": true,
+      "text": "A lot of business owners, founders and CEOs now need to have the difficult conversation with themselves that their business simply doesn't have a reason to exist anymore in this new era\n\nI think the types of businesses (and people) that succeed in a post-AGI era might just be completely different\n\nYou understand better now the extremely aggressive pivots to AI many companies a few years ago did, completely resetting their company or rebuilding it from scratch after they realized this\n\nI remember Replit for example was just an online IDE that you could use with other people (targeted to coders), it got big with coding teachers, then in 2024 @amasad hard pivoted it to be an AI app and site generator target to the opposite audience: non-coders, which caused lots of backlash, but that worked, now it's projected to hit $1B ARR by end of this year!\n\nAnyway, we're in a completely new era with completely different dynamics for what businesses will survive and which will perish, what worked last year might not work this year anymore, and what works this year might not work next year anymore, because we're dealing with AI models that get exponentially better every year",
+      "text_zh": "现在很多企业主、创始人和 CEO 都得跟自己进行一场很难的对话：他们的生意在这个新时代里，已经没有继续存在的理由了\n\n我觉得，在后 AGI 时代能成功的那类生意（和那类人），可能完全不同\n\n现在你会更能理解，为什么前几年很多公司要那么激进地转向 AI——在意识到这一点之后，彻底重置公司，或者从零开始重建\n\n我记得 Replit 原来只是一个可以多人一起用的在线 IDE（面向程序员），后来在编程老师群体里做大了，然后 2024 年 @amasad 把它硬转向成面向相反受众（非程序员）的 AI 应用和网站生成器，当时引发了很多反弹，但这一步走通了，现在预计今年年底就能做到 $1B ARR！\n\n总之，我们正处在一个全新的时代，企业谁能活下来、谁会消失，背后的动力学已经完全不同；去年管用的今年未必还管用，今年管用的明年也未必还管用，因为我们面对的是每年都在指数级变强的 AI 模型",
+      "hit": true,
+      "quoted": [
+        {
+          "id": "2125884654037471455",
+          "user": "brendantully00",
+          "text": "@levelsio N8N so much more capable - I have n8n server plugged in my claude which significantly reduces token usage especially when doing long or heavy data manipulation, claude spins up its own temporary n8n workflows when it needs. Had Claude move us off Zapier after they 5x-d the price",
+          "text_zh": "@levelsio n8n 能干的事多得多——我把 n8n 服务器接到了自己的 Claude 里，尤其是在做长时间或重度数据处理时，能明显减少 token 消耗，Claude 需要的时候会自己拉起临时的 n8n workflows。他们把价格涨了 5 倍之后，我就让 Claude 帮我们从 Zapier 迁走了"
+        }
+      ]
+    },
+    {
+      "id": "2125897366419214479",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2125897366419214479",
+      "created_at": "2026-11-26T10:20:04.000Z",
+      "created_at_bj": "2026-11-26 18:20",
+      "views": 42456,
+      "rate_per_hour": 23226,
+      "basis": "snapshot",
+      "prev": {
+        "views": 30069,
+        "checked_at": "2026-11-26T20:08:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 42456,
+        "like_count": 351,
+        "reply_count": 77,
+        "quote_count": 4,
+        "retweet_count": 5,
+        "bookmark_count": 16
+      },
+      "already_pushed": true,
+      "text": "Sometimes you find AI spammer gems like this guy\n\nWhose prompt keeps leaking to the replies he posts 😂 https://t.co/D93H4jZmnD https://t.co/LynaNmISC0",
+      "text_zh": "有时候你会碰到这种 AI 垃圾评论的神级翻车\n\n这哥们的 prompt 一直泄漏到他自己发的回复里 😂 https://t.co/D93H4jZmnD https://t.co/LynaNmISC0",
+      "hit": true,
+      "quoted": [
+        {
+          "id": "2125592280505704637",
+          "user": "levelsio",
+          "text": "All my tweets are now AI spammer honeypots 👌 \n\nThey get instantly blocked and pushed to the network of people using the blocklist which mass blocks them\n\nEach account is investigated by Grok 4.7 with extra high reasoning effort and analyzes ALL their recent other replies and only once it's 100% conclusive it's blocked, no false positives\n\nThis nukes about 25-50 bots per day depending how much I tweet\n\n🍯",
+          "text_zh": "我现在所有推文都成了 AI 垃圾评论的蜜罐 👌\n\n它们会被立刻屏蔽，并推送到使用这份 blocklist 的网络里，由大家批量拉黑\n\n每个账号都会由 Grok 4.7 以 extra high reasoning effort 进行调查，分析它们最近的全部其他回复，只有在 100% 确定之后才会屏蔽，没有误伤\n\n根据我发推的多少，这每天大概能干掉 25-50 个机器人\n\n🍯"
+        }
+      ]
+    },
+    {
+      "id": "2125892102412239137",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2125892102412239137",
+      "created_at": "2026-11-26T09:59:09.000Z",
+      "created_at_bj": "2026-11-26 17:59",
+      "views": 1391,
+      "rate_per_hour": 304,
+      "basis": "snapshot",
+      "prev": {
+        "views": 1229,
+        "checked_at": "2026-11-26T20:08:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 1391,
+        "like_count": 26,
+        "reply_count": 2,
+        "quote_count": 0,
+        "retweet_count": 1,
+        "bookmark_count": 5
+      },
+      "already_pushed": false,
+      "text": "Golf drip https://t.co/lFHUZqQmKb",
+      "text_zh": "高尔夫潮装",
+      "hit": false
+    },
+    {
+      "id": "2125873514616074747",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2125873514616074747",
+      "created_at": "2026-11-26T08:45:17.000Z",
+      "created_at_bj": "2026-11-26 16:45",
+      "views": 9655,
+      "rate_per_hour": 1341,
+      "basis": "snapshot",
+      "prev": {
+        "views": 8940,
+        "checked_at": "2026-11-26T20:08:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 9655,
+        "like_count": 49,
+        "reply_count": 26,
+        "quote_count": 0,
+        "retweet_count": 2,
+        "bookmark_count": 16
+      },
+      "already_pushed": true,
+      "text": "Done ✅ \n\nMailCheap Automations now support up to:\n\n+ 250 steps\n+ 100 emails\n+ 6 condition levels https://t.co/lyJfFRDZQy https://t.co/GJfcXYor4u",
+      "text_zh": "搞定了 ✅\n\nMailCheap Automations 现在支持最高：\n\n+ 250 个步骤\n+ 100 封邮件\n+ 6 层条件 https://t.co/lyJfFRDZQy https://t.co/GJfcXYor4u",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2125572351538397372",
+          "user": "aodhanpmoran",
+          "text": "Yeah, sorry.\n\nWhen I was first considering MailChimp, I saw that the automations were limited to something like twenty or twenty five if-thens, if that makes sense.  MailChimp allows for something like 250 actions within a single automation. Is this something that you can cater to as well?",
+          "text_zh": "对不住。\n\n我当初考虑 MailChimp 的时候，发现自动化好像只能做到大概二十到二十五个 if-then，不知道我有没有说清楚。MailChimp 允许在单个 automation 里做到大约 250 个动作。你们这边能不能也做到这一点？"
+        }
+      ]
+    },
+    {
+      "id": "2125861313780039747",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2125861313780039747",
+      "created_at": "2026-11-26T07:56:48.000Z",
+      "created_at_bj": "2026-11-26 15:56",
+      "views": 35508,
+      "rate_per_hour": 3563,
+      "basis": "snapshot",
+      "prev": {
+        "views": 33608,
+        "checked_at": "2026-11-26T20:08:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 35508,
+        "like_count": 631,
+        "reply_count": 44,
+        "quote_count": 2,
+        "retweet_count": 8,
+        "bookmark_count": 17
+      },
+      "already_pushed": true,
+      "text": "So insanely cool, every kid in America will be a $SPCX shareholder! https://t.co/qu9vxI1Kgf",
+      "text_zh": "简直太酷了，美国每个孩子都会成为 $SPCX 的股东！https://t.co/qu9vxI1Kgf",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2125797463047258119",
+          "user": "elonmusk",
+          "text": "Every child in America will receive two SpaceX shares, one from the company and one from me personally",
+          "text_zh": "美国每个孩子都会得到两股 SpaceX 股份，一股来自公司，一股来自我个人。"
+        }
+      ]
+    },
+    {
+      "id": "2125856543690342764",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2125856543690342764",
+      "created_at": "2026-11-26T07:37:51.000Z",
+      "created_at_bj": "2026-11-26 15:37",
+      "views": 46040,
+      "rate_per_hour": 8925,
+      "basis": "snapshot",
+      "prev": {
+        "views": 41280,
+        "checked_at": "2026-11-26T20:08:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 46040,
+        "like_count": 474,
+        "reply_count": 146,
+        "quote_count": 7,
+        "retweet_count": 12,
+        "bookmark_count": 84
+      },
+      "already_pushed": true,
+      "text": "Zapier is an excellent acquisition target for Anthropic or OpenAI I think\n\nInstantly they'd integrate 10,000+ services with API endpoints into their AI chat apps and agents https://t.co/2SCcUcDlzo",
+      "text_zh": "我觉得 Zapier 是 Anthropic 或 OpenAI 的绝佳收购对象\n\n他们可以立刻把 10,000+ 带 API 接口的服务整合进自己的 AI 聊天应用和 agents https://t.co/2SCcUcDlzo",
+      "hit": true,
+      "quoted": [
+        {
+          "id": "2125590135227957619",
+          "user": "wadefoster",
+          "text": "Refounding Zapier means answering a lot of hard questions.\n\nLike: \"Why use Zapier, when Claude connects to my apps?\"\n\nThe short answer: use them together. Your agent does the thinking. Zapier MCP plugs it into 10,000+ apps so it can take real actions in the tools you need.\n\n@Zapier is for work that repeats: a new lead, a payment notification, the Monday morning report, anything that has to keep running after you close the chat.\n\nSure, you can set that up as a scheduled task in Claude, ChatGPT, etc. But then you're paying for AI tokens every time it wakes up to check for work, even when it finds nothing. \n\nZapier’s AI Workflow Index priced 2,944 real workflows and found that 𝘀𝗰𝗵𝗲𝗱𝘂𝗹𝗲𝗱 𝗮𝗴𝗲𝗻𝘁𝘀 𝗰𝗼𝘀𝘁 𝗮𝗻 𝗲𝘀𝘁𝗶𝗺𝗮𝘁𝗲𝗱 𝟮.𝟭𝘅 𝗮𝘀 𝗺𝘂𝗰𝗵 𝗮𝘀 𝗭𝗮𝗽𝘀.\n\nA Zap starts when something actually happens. It runs the same steps every time and only calls AI for the parts that need judgment.\n\nA scheduled task works great while you're at your computer. But who fixes it when it breaks at 2am? If you built it yourself, you do. If it's hosted on Zapier, Zapier fixes it on its own. Plus, when it sees you using AI for something simple automation or code could do? It recommends a fix. (Something the big labs aren’t enticed to do…)\n\nThe new Zapier works with whatever AI agent you already use. So use them together.\n\nThe next time you ask Claude or ChatGPT or Grok or Muse for the same thing twice, have it build a Zap.",
+          "text_zh": "重新创立 Zapier，意味着要回答很多难题。\n\n比如：\"既然 Claude 已经能连上我的应用，为什么还要用 Zapier？\"\n\n简短的回答是：两者一起用。你的 agent 负责思考。Zapier MCP 再把它接入 10,000+ 应用，这样它就能在你需要的工具里真正采取行动。\n\n@Zapier 适合那些会反复发生的工作：新线索、付款通知、周一早报，以及任何你关掉对话之后还得继续跑的事情。\n\n当然，你也可以在 Claude、ChatGPT 等里把它设成定时任务。但那样的话，每次它醒来检查有没有活干，你都得付 AI token 的钱，哪怕什么都没找到。\n\nZapier 的 AI Workflow Index 对 2,944 个真实 workflow 做了定价，发现定时 agent 的成本估计是 Zap 的 2.1 倍。\n\nZap 是在事情真正发生时才启动。它每次都执行同样的步骤，只在需要判断的部分才调用 AI。\n\n定时任务在你坐在电脑前的时候很好用。但凌晨 2 点它坏了谁来修？如果是你自己搭的，就得你自己修。如果托管在 Zapier 上，Zapier 会自己修好。而且，当它发现你在用 AI 做一些简单自动化或代码就能完成的事时，它会建议一个修复方案。（这可不是大实验室们有动力去做的事……）\n\n新的 Zapier 可以配合你已经在用的任何 AI agent。所以，一起用就好。\n\n下次你再向 Claude、ChatGPT、Grok 或 Muse 重复问同一件事时，让它直接帮你建一个 Zap。"
+        }
+      ]
+    },
+    {
+      "id": "2125779541952246039",
+      "user": "karpathy",
+      "url": "https://x.com/karpathy/status/2125779541952246039",
+      "created_at": "2026-11-26T02:31:52.000Z",
+      "created_at_bj": "2026-11-26 10:31",
+      "views": 994444,
+      "rate_per_hour": 81024,
+      "basis": "snapshot",
+      "prev": {
+        "views": 951231,
+        "checked_at": "2026-11-26T20:08:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 994444,
+        "like_count": 15249,
+        "reply_count": 867,
+        "quote_count": 407,
+        "retweet_count": 1240,
+        "bookmark_count": 8318
+      },
+      "already_pushed": true,
+      "text": "I asked Claude to populate a Civilization-style game map with real data from the US. Opus 5.5 downloaded and parse a ton of public data and 7 hours and 45K lines of code later... it works :)\n\n- 31 real data sources including Census, BEA, BLS, EIA, NOAA, USGS, DoD, NPS, FAA, FEMA, CDC...\n- Real elevation, land cover, GDP, jobs, power plants, mines, ports, airports, bases, parks, universities, freight flows, disasters; all reconciled onto one 25 km hex grid.\n- The data is converted into Civilization language, e.g. Gold yield is GDP. A city's districts are its real industry specializations: San Jose gets a Campus, Detroit is \"Motor city\". Its citizens are its real workforce: 1 in 4 San Jose workers are engineers, coders or scientists, against 1 in 14 nationally. Wonders are chosen by published rules, such as national parks by visitor numbers and universities by R&D spending, etc etc.\n- 19 lenses (income, degrees, faith, disasters…), a City View for 524 metros, and nine advisors plus an Explorer. The Explorer turns any column for any of 3,100+ counties into a table and scatter plot, linked to the map.\n- Claude decided to skip a few states and territories sry\n- Built using Claude Code desktop app, Opus 5.5 on medium and turning on ultracode.\n\nIt's deployed here: https://t.co/QMhmafXMj5 and the \"?\" has the source link too. I don't exactly know where I was going with this but it's really fun to browse and play with. Possibly it can be expanded or built into a game. I only have half of my weekly Claude quote left though so someone else will have to take over :D. Claude also made a trailer:",
+      "text_zh": "我让 Claude 用美国的真实数据去填充一张 Civilization 风格的游戏地图。Opus 5.5 下载并解析了大量公开数据，花了 7 小时、写了 45K 行代码之后……它能跑了 :)\n\n- 31 个真实数据源，包括 Census、BEA、BLS、EIA、NOAA、USGS、DoD、NPS、FAA、FEMA、CDC……\n- 真实的海拔、土地覆盖、GDP、就业、发电厂、矿场、港口、机场、军事基地、公园、大学、货运流、灾害；全部对齐到一张 25 km 的六边形网格上。\n- 数据被转成了 Civilization 的语言，例如 Gold yield 就是 GDP。一座城市的 districts 是它真实的产业特长：San Jose 会有一座 Campus，Detroit 则是 \"Motor city\"。它的市民就是真实的劳动力构成：San Jose 每 4 个工作者里就有 1 个是工程师、程序员或科学家，全国平均是每 14 人里才有 1 个。Wonders 按已公布的规则选定，比如国家公园按游客量、大学按 R&D 支出，诸如此类。\n- 19 种 lenses（收入、学历、信仰、灾害……），524 个都市区的 City View，以及九位顾问外加一个 Explorer。Explorer 可以把 3,100+ 个县的任意一列数据变成表格和散点图，并与地图联动。\n- Claude 决定跳过了若干州和领地，抱歉\n- 用 Claude Code 桌面应用构建，Opus 5.5 设为 medium，并打开了 ultracode。\n\n部署在这里：https://t.co/QMhmafXMj5 ，\"?\" 里也有源码链接。我其实不太确定自己到底想做成什么样，但浏览和把玩起来真的很有意思。也许它可以继续扩展，或者做成一款游戏。不过我每周的 Claude 配额只剩一半了，所以得请别人接手了 :D。Claude 还做了支预告片：\n配视频：30 秒 trailer，1920×1080。",
+      "hit": true
+    }
+  ],
+  "new_hits": [],
+  "counts": {
+    "checked": 10,
+    "new_hits": 0,
+    "snapshots_before": 10,
+    "snapshots_after": 10,
+    "pushed_before": 239,
+    "pushed_after": 239,
+    "per_account": {
+      "levelsio": 6,
+      "marclou": 2,
+      "gregisenberg": 0,
+      "steipete": 0,
+      "egeberkina": 1,
+      "karpathy": 1
+    },
+    "aged_out": []
+  }
+}
