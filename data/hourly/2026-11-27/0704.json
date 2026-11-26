@@ -1,0 +1,310 @@
+{
+  "run_at": "2026-11-27T07:11:56+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "0704",
+  "accounts": [
+    "levelsio",
+    "marclou",
+    "gregisenberg",
+    "steipete",
+    "egeberkina",
+    "karpathy"
+  ],
+  "posts": [
+    {
+      "id": "2126066175297913103",
+      "user": "egeberkina",
+      "created_at": "2026-11-26T21:30:51.000Z",
+      "created_at_bj": "2026-11-27 05:30",
+      "views": 925,
+      "metrics": {
+        "impression_count": 925,
+        "like_count": 13,
+        "reply_count": 0,
+        "quote_count": 0,
+        "retweet_count": 1,
+        "bookmark_count": 0
+      },
+      "already_pushed": false,
+      "text": "Wear the garden https://t.co/JOduXT5SXj https://t.co/mbGpsjP5dQ",
+      "text_zh": "穿上花园 https://t.co/JOduXT5SXj https://t.co/mbGpsjP5dQ",
+      "quoted": [
+        {
+          "id": "2125892102412239137",
+          "user": "egeberkina",
+          "text": "Golf drip https://t.co/lFHUZqQmKb",
+          "text_zh": "高尔夫潮装"
+        }
+      ],
+      "url": "https://x.com/egeberkina/status/2126066175297913103",
+      "rate_per_hour": 245,
+      "basis": "snapshot",
+      "prev": {
+        "views": 815,
+        "checked_at": "2026-11-27T06:45:00+08:00"
+      },
+      "edit_of": null,
+      "hit": false
+    },
+    {
+      "id": "2126059403950391768",
+      "user": "levelsio",
+      "created_at": "2026-11-26T21:03:56.000Z",
+      "created_at_bj": "2026-11-27 05:03",
+      "views": 15835,
+      "metrics": {
+        "impression_count": 15835,
+        "like_count": 72,
+        "reply_count": 17,
+        "quote_count": 0,
+        "retweet_count": 0,
+        "bookmark_count": 6
+      },
+      "already_pushed": true,
+      "text": "🇦🇪 Habibiiiiiiiii https://t.co/VvO5jciGyz",
+      "text_zh": "🇦🇪 Habibiiiiiiiii（嗨，宝贝）https://t.co/VvO5jciGyz",
+      "url": "https://x.com/levelsio/status/2126059403950391768",
+      "rate_per_hour": 3522,
+      "basis": "snapshot",
+      "prev": {
+        "views": 14254,
+        "checked_at": "2026-11-27T06:45:00+08:00"
+      },
+      "edit_of": null,
+      "hit": false
+    },
+    {
+      "id": "2126047321246826569",
+      "user": "gregisenberg",
+      "created_at": "2026-11-26T20:15:56.000Z",
+      "created_at_bj": "2026-11-27 04:15",
+      "views": 11756,
+      "metrics": {
+        "impression_count": 11756,
+        "like_count": 76,
+        "reply_count": 26,
+        "quote_count": 0,
+        "retweet_count": 3,
+        "bookmark_count": 14
+      },
+      "already_pushed": false,
+      "text": "Happy thanksgiving, friends. https://t.co/nx3dDUGN8i",
+      "text_zh": "感恩节快乐，朋友们。https://t.co/nx3dDUGN8i",
+      "url": "https://x.com/gregisenberg/status/2126047321246826569",
+      "rate_per_hour": 1027,
+      "basis": "snapshot",
+      "prev": {
+        "views": 11295,
+        "checked_at": "2026-11-27T06:45:00+08:00"
+      },
+      "edit_of": null,
+      "hit": false
+    },
+    {
+      "id": "2126004403052445733",
+      "user": "gregisenberg",
+      "created_at": "2026-11-26T17:25:23.000Z",
+      "created_at_bj": "2026-11-27 01:25",
+      "views": 81085,
+      "metrics": {
+        "impression_count": 81085,
+        "like_count": 1023,
+        "reply_count": 119,
+        "quote_count": 15,
+        "retweet_count": 94,
+        "bookmark_count": 794
+      },
+      "already_pushed": true,
+      "text": "A guy let Claude read his 1994 Jeep's engine computer through a $3 chip.\n\nIt found why the car kept failing smog, and he says it passed. \n\nThe whole thing cost about $15 in parts, and it's free on GitHub. https://t.co/E9kOFaX8sq",
+      "text_zh": "有人让 Claude 通过一枚 3 美元的芯片，读取他 1994 年 Jeep 的发动机电脑。\n\n它找出了这辆车一直过不了尾气检测（smog）的原因，他说后来通过了。\n\n全部零件大概只花了 15 美元，而且代码在 GitHub 上免费开源。https://t.co/E9kOFaX8sq",
+      "url": "https://x.com/gregisenberg/status/2126004403052445733",
+      "rate_per_hour": 9512,
+      "basis": "snapshot",
+      "prev": {
+        "views": 76815,
+        "checked_at": "2026-11-27T06:45:00+08:00"
+      },
+      "edit_of": null,
+      "hit": false
+    },
+    {
+      "id": "2125985178606551471",
+      "user": "egeberkina",
+      "created_at": "2026-11-26T16:09:00.000Z",
+      "created_at_bj": "2026-11-27 00:09",
+      "views": 6176,
+      "metrics": {
+        "impression_count": 6176,
+        "like_count": 251,
+        "reply_count": 4,
+        "quote_count": 2,
+        "retweet_count": 11,
+        "bookmark_count": 52
+      },
+      "already_pushed": false,
+      "text": "Ahlan Masr https://t.co/wurD5dMvrn https://t.co/6CT1beLRjD",
+      "text_zh": "Ahlan Masr（嗨，埃及）https://t.co/wurD5dMvrn https://t.co/6CT1beLRjD",
+      "quoted": [
+        {
+          "id": "2125594941149905376",
+          "user": "egeberkina",
+          "text": "Privet Russia https://t.co/WbMHI4MrLb https://t.co/YDP9MLUjHD",
+          "text_zh": "Privet Russia（嗨，俄罗斯）https://t.co/WbMHI4MrLb https://t.co/YDP9MLUjHD"
+        }
+      ],
+      "url": "https://x.com/egeberkina/status/2125985178606551471",
+      "rate_per_hour": 466,
+      "basis": "snapshot",
+      "prev": {
+        "views": 5967,
+        "checked_at": "2026-11-27T06:45:00+08:00"
+      },
+      "edit_of": null,
+      "hit": false
+    },
+    {
+      "id": "2125944241042186601",
+      "user": "levelsio",
+      "created_at": "2026-11-26T13:26:19.000Z",
+      "created_at_bj": "2026-11-26 21:26",
+      "views": 21914,
+      "metrics": {
+        "impression_count": 21914,
+        "like_count": 148,
+        "reply_count": 45,
+        "quote_count": 1,
+        "retweet_count": 5,
+        "bookmark_count": 29
+      },
+      "already_pushed": true,
+      "text": "🌏 My coworking day in 🇸🇬 Singapore is on!\n\nNext Monday on 30 November we'll meet to cowork, laptop, drink ☕️ coffee and talk!\n\nIf you want to come please register on Luma below, and add your X username so I know who's coming!\n\nhttps://t.co/TP3ILWCFaO\n\nAlso we have a special guest! My friend @dannypostma will be attending!\n\n👋 See you all there!",
+      "text_zh": "🌏 我在 🇸🇬 新加坡的 coworking day 定下来了！\n\n下周一 11 月 30 日，我们会见面一起办公、带上电脑、喝 ☕️ 咖啡，再聊聊天！\n\n想参加的话请在下面的 Luma 报名，并填上你的 X 用户名，方便我知道谁会来！\n\nhttps://t.co/TP3ILWCFaO\n\n另外还有一位特别嘉宾！我的朋友 @dannypostma 也会来！\n\n👋 到时候见！",
+      "quoted": [
+        {
+          "id": "2122003192708018240",
+          "user": "levelsio",
+          "text": "🌎 My Weekly Founder's Coworking Day is going global!\n\nI'll be in 🇸🇬 Singapore and 🇹🇭 Bangkok soon, and I'd love to host my weekly coworking day for founders there!\n\nIf you're interested to join let me know, and if you know a good venue also \n\n🤝 😊 https://t.co/LLamm1ViKV https://t.co/6mLxYIbFGH",
+          "text_zh": "🌎 我的每周创始人 Coworking Day 要走向全球了！\n\n我很快会到 🇸🇬 新加坡和 🇹🇭 曼谷，很希望在当地为创始人举办这次每周 coworking day！\n\n如果你有兴趣参加，告诉我一声；如果你知道合适的场地，也欢迎推荐\n\n🤝 😊 https://t.co/LLamm1ViKV https://t.co/6mLxYIbFGH"
+        }
+      ],
+      "url": "https://x.com/levelsio/status/2125944241042186601",
+      "rate_per_hour": 953,
+      "basis": "snapshot",
+      "prev": {
+        "views": 21486,
+        "checked_at": "2026-11-27T06:45:00+08:00"
+      },
+      "edit_of": null,
+      "hit": false
+    },
+    {
+      "id": "2125923307002470407",
+      "user": "levelsio",
+      "created_at": "2026-11-26T12:03:08.000Z",
+      "created_at_bj": "2026-11-26 20:03",
+      "views": 48457,
+      "metrics": {
+        "impression_count": 48457,
+        "like_count": 738,
+        "reply_count": 130,
+        "quote_count": 21,
+        "retweet_count": 22,
+        "bookmark_count": 70
+      },
+      "already_pushed": true,
+      "text": "🍀 Mini update: X is healing! \n\nThe AI replies have disappeared for me and many others too since I started 🛡️ https://t.co/fezByja7sZ a few days ago\n\nWe got 500+ X accounts that were confirmed to be AI spammers suspended\n\nThere was 4 false positives on ~4000 accounts, so a 0.1% error rate, they were quickly removed\n\nMany people who were AI reply spammers appealed and promised to never spam again: they were removed from the list. They're then monitored every hour for AI spam and if they do it again, they're back on the list but now permanently\n\nAll blocks are ONLY if they're 100% conclusive to be AI spammers (based on their replies history) AND then a human review again before ever being blocked\n\nThanks everyone for helping to clean up our replies!\n\nAnd thanks to @dillon_mulroy and @ryanvogel originally starting the AI spammer block list which I expanded on",
+      "text_zh": "🍀 小更新：X 正在好转！\n\n自从我几天前开始用 🛡️ https://t.co/fezByja7sZ 以来，对我和很多其他人来说，AI 回复都消失了\n\n我们已经让 500+ 个被确认是 AI 垃圾评论的 X 账号被封禁\n\n大约 4000 个账号里有 4 个误伤，所以误伤率是 0.1%，他们很快就被移出了名单\n\n很多曾经发 AI 垃圾回复的人提出申诉，并保证再也不刷了：他们被移出了名单。之后会每小时监测他们是否还在发 AI 垃圾，如果再犯，就会被重新加回名单，而且这次是永久的\n\n所有拉黑都只在 100% 确定他们是 AI 垃圾评论账号（基于其回复历史）之后才会执行，而且在真正拉黑前还会再经过一次人工审核\n\n谢谢大家帮忙清理我们的回复区！\n\n也感谢 @dillon_mulroy 和 @ryanvogel 最初发起的这份 AI 垃圾评论屏蔽名单，我是在他们的基础上扩展的",
+      "quoted": [
+        {
+          "id": "2125897366419214479",
+          "user": "levelsio",
+          "text": "Sometimes you find AI spammer gems like this guy\n\nWhose prompt keeps leaking to the replies he posts 😂 https://t.co/D93H4jZmnD https://t.co/LynaNmISC0",
+          "text_zh": "有时候你会碰到这种 AI 垃圾评论的神级翻车\n\n这哥们的 prompt 一直泄漏到他自己发的回复里 😂 https://t.co/D93H4jZmnD https://t.co/LynaNmISC0"
+        }
+      ],
+      "url": "https://x.com/levelsio/status/2125923307002470407",
+      "rate_per_hour": 1882,
+      "basis": "snapshot",
+      "prev": {
+        "views": 47612,
+        "checked_at": "2026-11-27T06:45:00+08:00"
+      },
+      "edit_of": null,
+      "hit": false
+    },
+    {
+      "id": "2125919752631796083",
+      "user": "marclou",
+      "created_at": "2026-11-26T11:49:01.000Z",
+      "created_at_bj": "2026-11-26 19:49",
+      "views": 31478,
+      "metrics": {
+        "impression_count": 31478,
+        "like_count": 245,
+        "reply_count": 107,
+        "quote_count": 4,
+        "retweet_count": 5,
+        "bookmark_count": 60
+      },
+      "already_pushed": true,
+      "text": "Running a newsletter business (MailCheap — $3,500 MRR) is so different from running a web analytics business (DataFast — $28,000 MRR).\n\nWeb analytics are perceived as “nice.” I beg my users to spend enough time to get to the “aha” moment and stick with my product. Adoption takes time. Conversion rate is low.\n\nOn the other hand, a newsletter is someone’s business backbone. If the user can’t send emails, they don’t make money. I reject ~50% of senders to protect deliverability on MailCheap, and every day I get users on support begging me to reinstate their accounts. Conversion rate is much higher.\n\nIt took DataFast 10 months to get where MailCheap got in 1.5 months.",
+      "text_zh": "做 newsletter 生意（MailCheap —— $3,500 MRR）和做网站分析生意（DataFast —— $28,000 MRR）完全不是一回事。\n\n网站分析会被当成「锦上添花」。我得求用户花足够时间走到「aha」时刻，并留下来用我的产品。采用需要时间，转化率很低。\n\n另一方面，newsletter 是别人生意的中枢。如果用户发不出去邮件，他们就赚不到钱。为了保护 MailCheap 的送达率，我会拒掉大约 50% 的发信人，而且每天都有用户在客服里求我恢复他们的账号。转化率要高得多。\n\nDataFast 花了 10 个月才做到 MailCheap 用 1.5 个月达到的程度。",
+      "url": "https://x.com/marclou/status/2125919752631796083",
+      "rate_per_hour": 956,
+      "basis": "snapshot",
+      "prev": {
+        "views": 31049,
+        "checked_at": "2026-11-27T06:45:00+08:00"
+      },
+      "edit_of": null,
+      "hit": false
+    },
+    {
+      "id": "2125915670525469140",
+      "user": "levelsio",
+      "created_at": "2026-11-26T11:32:48.000Z",
+      "created_at_bj": "2026-11-26 19:32",
+      "views": 78102,
+      "metrics": {
+        "impression_count": 78102,
+        "like_count": 400,
+        "reply_count": 89,
+        "quote_count": 1,
+        "retweet_count": 7,
+        "bookmark_count": 110
+      },
+      "already_pushed": true,
+      "text": "If I have Bluetooth enabled on my MacBook Pro, Chrome will request a list of paired Bluetooth devices 27 times per second, freezing my computer every 3 seconds\n\nAbout 15,000+ requests per minute\n\nThis is Chrome 158.0.8127.37\n\n@ChromiumDev \n\nFrom my clanker: \"Chrome is doing the same thing I found on Nov 11, and it's happening right now. It isn't caused by your superlevels extension, which has no Bluetooth code.\n\nWhat I measured just now (30 seconds of the Bluetooth service's log):\n- Chrome asked macOS for your list of paired devices about 27 times a second.\n- It asked for the state of individual devices about 190 times a second, roughly 7 devices on every pass.\n- That's about 15,000+ requests from Chrome per minute. Every other app combined sent about 60.\n- bluetoothd, the macOS Bluetooth service, is at 59% CPU because of it.\n\nWhy Chrome does this: Chrome keeps track of paired Bluetooth devices for passkey sign-in with your phone and for websites that connect to Bluetooth devices. Normally it checks every so often. Here it's stuck in a loop and checks dozens of times a second. No extension or Chrome flag is causing it, so it looks like a Chrome bug. On Nov 11 it started right after a Bluetooth device disconnected, and it has probably been stuck again since a disconnect at some point. Chrome has been running for 4.5 days.\"",
+      "text_zh": "如果我在 MacBook Pro 上开着 Bluetooth，Chrome 就会每秒请求 27 次已配对 Bluetooth 设备列表，导致我的电脑每 3 秒卡死一次\n\n大约每分钟 15,000+ 次请求\n\n这是 Chrome 158.0.8127.37\n\n@ChromiumDev\n\n来自我的 clanker：「Chrome 现在又在干我 11 月 11 日发现的同一件事，而且此刻正在发生。这不是你的 superlevels 扩展引起的，那个扩展里没有任何 Bluetooth 相关代码。\n\n我刚刚测量的结果（Bluetooth 服务日志的 30 秒）：\n- Chrome 每秒大约向 macOS 请求 27 次已配对设备列表。\n- 它每秒大约查询 190 次单个设备的状态，每次遍历大约 7 台设备。\n- 也就是说 Chrome 每分钟大约发出 15,000+ 次请求。其他所有应用加起来大约只有 60 次。\n- 正因为如此，macOS 的 Bluetooth 服务 bluetoothd 占用了 59% 的 CPU。\n\nChrome 为什么会这样做：Chrome 会跟踪已配对的 Bluetooth 设备，用于手机 passkey 登录，以及网站连接 Bluetooth 设备。正常情况下它只是偶尔检查一下。但现在它卡在循环里，每秒检查几十次。不是扩展或 Chrome flag 引起的，所以看起来像是 Chrome 的 bug。11 月 11 日那次是在一台 Bluetooth 设备断开后马上开始的，这次很可能也是某次断开之后又卡住了。Chrome 已经连续运行了 4.5 天。」",
+      "url": "https://x.com/levelsio/status/2125915670525469140",
+      "rate_per_hour": 2818,
+      "basis": "snapshot",
+      "prev": {
+        "views": 76837,
+        "checked_at": "2026-11-27T06:45:00+08:00"
+      },
+      "edit_of": null,
+      "hit": false
+    }
+  ],
+  "new_hits": [],
+  "counts": {
+    "checked": 9,
+    "new_hits": 0,
+    "snapshots_before": 9,
+    "snapshots_after": 9,
+    "pushed_before": 242,
+    "pushed_after": 242,
+    "aged_out": [],
+    "per_account": {
+      "levelsio": 4,
+      "marclou": 1,
+      "gregisenberg": 2,
+      "steipete": 0,
+      "egeberkina": 2,
+      "karpathy": 0
+    }
+  }
+}
