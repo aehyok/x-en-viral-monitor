@@ -1,0 +1,370 @@
+{
+  "run_at": "2026-11-27T06:14:21+08:00",
+  "baseline": true,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "0604",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2126066175297913103",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2126066175297913103",
+      "created_at": "2026-11-26T21:30:51.000Z",
+      "created_at_bj": "2026-11-27 05:30",
+      "views": 594,
+      "rate_per_hour": 819,
+      "basis": "first_sight",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 594,
+        "like_count": 6,
+        "reply_count": 0,
+        "quote_count": 0,
+        "retweet_count": 1,
+        "bookmark_count": 0
+      },
+      "already_pushed": false,
+      "text": "Wear the garden https://t.co/JOduXT5SXj https://t.co/mbGpsjP5dQ",
+      "text_zh": "穿上花园 https://t.co/JOduXT5SXj https://t.co/mbGpsjP5dQ",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2125892102412239137",
+          "user": "egeberkina",
+          "text": "Golf drip https://t.co/lFHUZqQmKb",
+          "text_zh": "高尔夫潮装"
+        }
+      ]
+    },
+    {
+      "id": "2126059403950391768",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2126059403950391768",
+      "created_at": "2026-11-26T21:03:56.000Z",
+      "created_at_bj": "2026-11-27 05:03",
+      "views": 11585,
+      "rate_per_hour": 9871,
+      "basis": "first_sight",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 11585,
+        "like_count": 54,
+        "reply_count": 15,
+        "quote_count": 0,
+        "retweet_count": 0,
+        "bookmark_count": 6
+      },
+      "already_pushed": false,
+      "text": "🇦🇪 Habibiiiiiiiii https://t.co/VvO5jciGyz",
+      "text_zh": "🇦🇪 Habibiiiiiiiii（嗨，宝贝）https://t.co/VvO5jciGyz",
+      "hit": false
+    },
+    {
+      "id": "2126047321246826569",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2126047321246826569",
+      "created_at": "2026-11-26T20:15:56.000Z",
+      "created_at_bj": "2026-11-27 04:15",
+      "views": 10326,
+      "rate_per_hour": 5232,
+      "basis": "first_sight",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 10326,
+        "like_count": 71,
+        "reply_count": 26,
+        "quote_count": 0,
+        "retweet_count": 3,
+        "bookmark_count": 13
+      },
+      "already_pushed": false,
+      "text": "Happy thanksgiving, friends. https://t.co/nx3dDUGN8i",
+      "text_zh": "感恩节快乐，朋友们。https://t.co/nx3dDUGN8i",
+      "hit": false
+    },
+    {
+      "id": "2126004403052445733",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2126004403052445733",
+      "created_at": "2026-11-26T17:25:23.000Z",
+      "created_at_bj": "2026-11-27 01:25",
+      "views": 69468,
+      "rate_per_hour": 14424,
+      "basis": "first_sight",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 69468,
+        "like_count": 882,
+        "reply_count": 112,
+        "quote_count": 12,
+        "retweet_count": 79,
+        "bookmark_count": 663
+      },
+      "already_pushed": false,
+      "text": "A guy let Claude read his 1994 Jeep's engine computer through a $3 chip.\n\nIt found why the car kept failing smog, and he says it passed. \n\nThe whole thing cost about $15 in parts, and it's free on GitHub. https://t.co/E9kOFaX8sq",
+      "text_zh": "有人让 Claude 通过一枚 3 美元的芯片，读取他 1994 年 Jeep 的发动机电脑。\n\n它找出了这辆车一直过不了尾气检测（smog）的原因，他说后来通过了。\n\n全部零件大概只花了 15 美元，而且代码在 GitHub 上免费开源。https://t.co/E9kOFaX8sq",
+      "hit": false
+    },
+    {
+      "id": "2125985178606551471",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2125985178606551471",
+      "created_at": "2026-11-26T16:09:00.000Z",
+      "created_at_bj": "2026-11-27 00:09",
+      "views": 5680,
+      "rate_per_hour": 933,
+      "basis": "first_sight",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 5680,
+        "like_count": 223,
+        "reply_count": 4,
+        "quote_count": 2,
+        "retweet_count": 9,
+        "bookmark_count": 46
+      },
+      "already_pushed": false,
+      "text": "Ahlan Masr https://t.co/wurD5dMvrn https://t.co/6CT1beLRjD",
+      "text_zh": "Ahlan Masr（嗨，埃及）https://t.co/wurD5dMvrn https://t.co/6CT1beLRjD",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2125594941149905376",
+          "user": "egeberkina",
+          "text": "Privet Russia https://t.co/WbMHI4MrLb https://t.co/YDP9MLUjHD",
+          "text_zh": "Privet Russia（嗨，俄罗斯）https://t.co/WbMHI4MrLb https://t.co/YDP9MLUjHD"
+        }
+      ]
+    },
+    {
+      "id": "2125944241042186601",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2125944241042186601",
+      "created_at": "2026-11-26T13:26:19.000Z",
+      "created_at_bj": "2026-11-26 21:26",
+      "views": 20926,
+      "rate_per_hour": 1379,
+      "basis": "snapshot",
+      "prev": {
+        "views": 11931,
+        "checked_at": "2026-11-26T23:43:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 20926,
+        "like_count": 145,
+        "reply_count": 44,
+        "quote_count": 1,
+        "retweet_count": 5,
+        "bookmark_count": 27
+      },
+      "already_pushed": true,
+      "text": "🌏 My coworking day in 🇸🇬 Singapore is on!\n\nNext Monday on 30 November we'll meet to cowork, laptop, drink ☕️ coffee and talk!\n\nIf you want to come please register on Luma below, and add your X username so I know who's coming!\n\nhttps://t.co/TP3ILWCFaO\n\nAlso we have a special guest! My friend @dannypostma will be attending!\n\n👋 See you all there!",
+      "text_zh": "🌏 我在 🇸🇬 新加坡的 coworking day 定下来了！\n\n下周一 11 月 30 日，我们会见面一起办公、带上电脑、喝 ☕️ 咖啡，再聊聊天！\n\n想参加的话请在下面的 Luma 报名，并填上你的 X 用户名，方便我知道谁会来！\n\nhttps://t.co/TP3ILWCFaO\n\n另外还有一位特别嘉宾！我的朋友 @dannypostma 也会来！\n\n👋 到时候见！",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2122003192708018240",
+          "user": "levelsio",
+          "text": "🌎 My Weekly Founder's Coworking Day is going global!\n\nI'll be in 🇸🇬 Singapore and 🇹🇭 Bangkok soon, and I'd love to host my weekly coworking day for founders there!\n\nIf you're interested to join let me know, and if you know a good venue also \n\n🤝 😊 https://t.co/LLamm1ViKV https://t.co/6mLxYIbFGH",
+          "text_zh": "🌎 我的每周创始人 Coworking Day 要走向全球了！\n\n我很快会到 🇸🇬 新加坡和 🇹🇭 曼谷，很希望在当地为创始人举办这次每周 coworking day！\n\n如果你有兴趣参加，告诉我一声；如果你知道合适的场地，也欢迎推荐\n\n🤝 😊 https://t.co/LLamm1ViKV https://t.co/6mLxYIbFGH"
+        }
+      ]
+    },
+    {
+      "id": "2125923307002470407",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2125923307002470407",
+      "created_at": "2026-11-26T12:03:08.000Z",
+      "created_at_bj": "2026-11-26 20:03",
+      "views": 46523,
+      "rate_per_hour": 2522,
+      "basis": "snapshot",
+      "prev": {
+        "views": 30074,
+        "checked_at": "2026-11-26T23:43:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 46523,
+        "like_count": 714,
+        "reply_count": 127,
+        "quote_count": 20,
+        "retweet_count": 22,
+        "bookmark_count": 66
+      },
+      "already_pushed": true,
+      "text": "🍀 Mini update: X is healing! \n\nThe AI replies have disappeared for me and many others too since I started 🛡️ https://t.co/fezByja7sZ a few days ago\n\nWe got 500+ X accounts that were confirmed to be AI spammers suspended\n\nThere was 4 false positives on ~4000 accounts, so a 0.1% error rate, they were quickly removed\n\nMany people who were AI reply spammers appealed and promised to never spam again: they were removed from the list. They're then monitored every hour for AI spam and if they do it again, they're back on the list but now permanently\n\nAll blocks are ONLY if they're 100% conclusive to be AI spammers (based on their replies history) AND then a human review again before ever being blocked\n\nThanks everyone for helping to clean up our replies!\n\nAnd thanks to @dillon_mulroy and @ryanvogel originally starting the AI spammer block list which I expanded on",
+      "text_zh": "🍀 小更新：X 正在好转！\n\n自从我几天前开始用 🛡️ https://t.co/fezByja7sZ 以来，对我和很多其他人来说，AI 回复都消失了\n\n我们已经让 500+ 个被确认是 AI 垃圾评论的 X 账号被封禁\n\n大约 4000 个账号里有 4 个误伤，所以误伤率是 0.1%，他们很快就被移出了名单\n\n很多曾经发 AI 垃圾回复的人提出申诉，并保证再也不刷了：他们被移出了名单。之后会每小时监测他们是否还在发 AI 垃圾，如果再犯，就会被重新加回名单，而且这次是永久的\n\n所有拉黑都只在 100% 确定他们是 AI 垃圾评论账号（基于其回复历史）之后才会执行，而且在真正拉黑前还会再经过一次人工审核\n\n谢谢大家帮忙清理我们的回复区！\n\n也感谢 @dillon_mulroy 和 @ryanvogel 最初发起的这份 AI 垃圾评论屏蔽名单，我是在他们的基础上扩展的",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2125897366419214479",
+          "user": "levelsio",
+          "text": "Sometimes you find AI spammer gems like this guy\n\nWhose prompt keeps leaking to the replies he posts 😂 https://t.co/D93H4jZmnD https://t.co/LynaNmISC0",
+          "text_zh": "有时候你会碰到这种 AI 垃圾评论的神级翻车\n\n这哥们的 prompt 一直泄漏到他自己发的回复里 😂 https://t.co/D93H4jZmnD https://t.co/LynaNmISC0"
+        }
+      ]
+    },
+    {
+      "id": "2125919752631796083",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2125919752631796083",
+      "created_at": "2026-11-26T11:49:01.000Z",
+      "created_at_bj": "2026-11-26 19:49",
+      "views": 30311,
+      "rate_per_hour": 1817,
+      "basis": "snapshot",
+      "prev": {
+        "views": 18459,
+        "checked_at": "2026-11-26T23:43:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 30311,
+        "like_count": 240,
+        "reply_count": 106,
+        "quote_count": 3,
+        "retweet_count": 5,
+        "bookmark_count": 57
+      },
+      "already_pushed": true,
+      "text": "Running a newsletter business (MailCheap — $3,500 MRR) is so different from running a web analytics business (DataFast — $28,000 MRR).\n\nWeb analytics are perceived as “nice.” I beg my users to spend enough time to get to the “aha” moment and stick with my product. Adoption takes time. Conversion rate is low.\n\nOn the other hand, a newsletter is someone’s business backbone. If the user can’t send emails, they don’t make money. I reject ~50% of senders to protect deliverability on MailCheap, and every day I get users on support begging me to reinstate their accounts. Conversion rate is much higher.\n\nIt took DataFast 10 months to get where MailCheap got in 1.5 months.",
+      "text_zh": "做 newsletter 生意（MailCheap —— $3,500 MRR）和做网站分析生意（DataFast —— $28,000 MRR）完全不是一回事。\n\n网站分析会被当成「锦上添花」。我得求用户花足够时间走到「aha」时刻，并留下来用我的产品。采用需要时间，转化率很低。\n\n另一方面，newsletter 是别人生意的中枢。如果用户发不出去邮件，他们就赚不到钱。为了保护 MailCheap 的送达率，我会拒掉大约 50% 的发信人，而且每天都有用户在客服里求我恢复他们的账号。转化率要高得多。\n\nDataFast 花了 10 个月才做到 MailCheap 用 1.5 个月达到的程度。",
+      "hit": false
+    },
+    {
+      "id": "2125915670525469140",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2125915670525469140",
+      "created_at": "2026-11-26T11:32:48.000Z",
+      "created_at_bj": "2026-11-26 19:32",
+      "views": 75117,
+      "rate_per_hour": 4181,
+      "basis": "snapshot",
+      "prev": {
+        "views": 47845,
+        "checked_at": "2026-11-26T23:43:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 75117,
+        "like_count": 387,
+        "reply_count": 88,
+        "quote_count": 1,
+        "retweet_count": 7,
+        "bookmark_count": 106
+      },
+      "already_pushed": true,
+      "text": "If I have Bluetooth enabled on my MacBook Pro, Chrome will request a list of paired Bluetooth devices 27 times per second, freezing my computer every 3 seconds\n\nAbout 15,000+ requests per minute\n\nThis is Chrome 158.0.8127.37\n\n@ChromiumDev \n\nFrom my clanker: \"Chrome is doing the same thing I found on Nov 11, and it's happening right now. It isn't caused by your superlevels extension, which has no Bluetooth code.\n\nWhat I measured just now (30 seconds of the Bluetooth service's log):\n- Chrome asked macOS for your list of paired devices about 27 times a second.\n- It asked for the state of individual devices about 190 times a second, roughly 7 devices on every pass.\n- That's about 15,000+ requests from Chrome per minute. Every other app combined sent about 60.\n- bluetoothd, the macOS Bluetooth service, is at 59% CPU because of it.\n\nWhy Chrome does this: Chrome keeps track of paired Bluetooth devices for passkey sign-in with your phone and for websites that connect to Bluetooth devices. Normally it checks every so often. Here it's stuck in a loop and checks dozens of times a second. No extension or Chrome flag is causing it, so it looks like a Chrome bug. On Nov 11 it started right after a Bluetooth device disconnected, and it has probably been stuck again since a disconnect at some point. Chrome has been running for 4.5 days.\"",
+      "text_zh": "如果我在 MacBook Pro 上开着 Bluetooth，Chrome 就会每秒请求 27 次已配对 Bluetooth 设备列表，导致我的电脑每 3 秒卡死一次\n\n大约每分钟 15,000+ 次请求\n\n这是 Chrome 158.0.8127.37\n\n@ChromiumDev\n\n来自我的 clanker：「Chrome 现在又在干我 11 月 11 日发现的同一件事，而且此刻正在发生。这不是你的 superlevels 扩展引起的，那个扩展里没有任何 Bluetooth 相关代码。\n\n我刚刚测量的结果（Bluetooth 服务日志的 30 秒）：\n- Chrome 每秒大约向 macOS 请求 27 次已配对设备列表。\n- 它每秒大约查询 190 次单个设备的状态，每次遍历大约 7 台设备。\n- 也就是说 Chrome 每分钟大约发出 15,000+ 次请求。其他所有应用加起来大约只有 60 次。\n- 正因为如此，macOS 的 Bluetooth 服务 bluetoothd 占用了 59% 的 CPU。\n\nChrome 为什么会这样做：Chrome 会跟踪已配对的 Bluetooth 设备，用于手机 passkey 登录，以及网站连接 Bluetooth 设备。正常情况下它只是偶尔检查一下。但现在它卡在循环里，每秒检查几十次。不是扩展或 Chrome flag 引起的，所以看起来像是 Chrome 的 bug。11 月 11 日那次是在一台 Bluetooth 设备断开后马上开始的，这次很可能也是某次断开之后又卡住了。Chrome 已经连续运行了 4.5 天。」",
+      "hit": false
+    },
+    {
+      "id": "2125899647336272276",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2125899647336272276",
+      "created_at": "2026-11-26T10:29:07.000Z",
+      "created_at_bj": "2026-11-26 18:29",
+      "views": 177804,
+      "rate_per_hour": 10044,
+      "basis": "snapshot",
+      "prev": {
+        "views": 112291,
+        "checked_at": "2026-11-26T23:43:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 177804,
+        "like_count": 1519,
+        "reply_count": 212,
+        "quote_count": 47,
+        "retweet_count": 56,
+        "bookmark_count": 1045
+      },
+      "already_pushed": true,
+      "text": "A lot of business owners, founders and CEOs now need to have the difficult conversation with themselves that their business simply doesn't have a reason to exist anymore in this new era\n\nI think the types of businesses (and people) that succeed in a post-AGI era might just be completely different\n\nYou understand better now the extremely aggressive pivots to AI many companies a few years ago did, completely resetting their company or rebuilding it from scratch after they realized this\n\nI remember Replit for example was just an online IDE that you could use with other people (targeted to coders), it got big with coding teachers, then in 2024 @amasad hard pivoted it to be an AI app and site generator target to the opposite audience: non-coders, which caused lots of backlash, but that worked, now it's projected to hit $1B ARR by end of this year!\n\nAnyway, we're in a completely new era with completely different dynamics for what businesses will survive and which will perish, what worked last year might not work this year anymore, and what works this year might not work next year anymore, because we're dealing with AI models that get exponentially better every year",
+      "text_zh": "现在很多企业主、创始人和 CEO 都得跟自己进行一场很难的对话：他们的生意在这个新时代里，已经没有继续存在的理由了\n\n我觉得，在后 AGI 时代能成功的那类生意（和那类人），可能完全不同\n\n现在你会更能理解，为什么前几年很多公司要那么激进地转向 AI——在意识到这一点之后，彻底重置公司，或者从零开始重建\n\n我记得 Replit 原来只是一个可以多人一起用的在线 IDE（面向程序员），后来在编程老师群体里做大了，然后 2024 年 @amasad 把它硬转向成面向相反受众（非程序员）的 AI 应用和网站生成器，当时引发了很多反弹，但这一步走通了，现在预计今年年底就能做到 $1B ARR！\n\n总之，我们正处在一个全新的时代，企业谁能活下来、谁会消失，背后的动力学已经完全不同；去年管用的今年未必还管用，今年管用的明年也未必还管用，因为我们面对的是每年都在指数级变强的 AI 模型",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2125884654037471455",
+          "user": "brendantully00",
+          "text": "@levelsio N8N so much more capable - I have n8n server plugged in my claude which significantly reduces token usage especially when doing long or heavy data manipulation, claude spins up its own temporary n8n workflows when it needs. Had Claude move us off Zapier after they 5x-d the price",
+          "text_zh": "@levelsio n8n 能干的事多得多——我把 n8n 服务器接到了自己的 Claude 里，尤其是在做长时间或重度数据处理时，能明显减少 token 消耗，Claude 需要的时候会自己拉起临时的 n8n workflows。他们把价格涨了 5 倍之后，我就让 Claude 帮我们从 Zapier 迁走了"
+        }
+      ]
+    },
+    {
+      "id": "2125897366419214479",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2125897366419214479",
+      "created_at": "2026-11-26T10:20:04.000Z",
+      "created_at_bj": "2026-11-26 18:20",
+      "views": 115522,
+      "rate_per_hour": 5180,
+      "basis": "snapshot",
+      "prev": {
+        "views": 81737,
+        "checked_at": "2026-11-26T23:43:00+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 115522,
+        "like_count": 669,
+        "reply_count": 93,
+        "quote_count": 5,
+        "retweet_count": 7,
+        "bookmark_count": 48
+      },
+      "already_pushed": true,
+      "text": "Sometimes you find AI spammer gems like this guy\n\nWhose prompt keeps leaking to the replies he posts 😂 https://t.co/D93H4jZmnD https://t.co/LynaNmISC0",
+      "text_zh": "有时候你会碰到这种 AI 垃圾评论的神级翻车\n\n这哥们的 prompt 一直泄漏到他自己发的回复里 😂 https://t.co/D93H4jZmnD https://t.co/LynaNmISC0",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2125592280505704637",
+          "user": "levelsio",
+          "text": "All my tweets are now AI spammer honeypots 👌 \n\nThey get instantly blocked and pushed to the network of people using the blocklist which mass blocks them\n\nEach account is investigated by Grok 4.7 with extra high reasoning effort and analyzes ALL their recent other replies and only once it's 100% conclusive it's blocked, no false positives\n\nThis nukes about 25-50 bots per day depending how much I tweet\n\n🍯",
+          "text_zh": "我现在所有推文都成了 AI 垃圾评论的蜜罐 👌\n\n它们会被立刻屏蔽，并推送到使用这份 blocklist 的网络里，由大家批量拉黑\n\n每个账号都会由 Grok 4.7 以 extra high reasoning effort 进行调查，分析它们最近的全部其他回复，只有在 100% 确定之后才会屏蔽，没有误伤\n\n根据我发推的多少，这每天大概能干掉 25-50 个机器人\n\n🍯"
+        }
+      ]
+    }
+  ],
+  "new_hits": [],
+  "counts": {
+    "checked": 11,
+    "new_hits": 0,
+    "snapshots_before": 10,
+    "snapshots_after": 11,
+    "pushed_before": 240,
+    "pushed_after": 240,
+    "aged_out": [
+      "2125892102412239137",
+      "2125873514616074747",
+      "2125861313780039747",
+      "2125856543690342764"
+    ],
+    "per_account": {
+      "levelsio": 6,
+      "marclou": 1,
+      "gregisenberg": 2,
+      "steipete": 0,
+      "egeberkina": 2,
+      "karpathy": 0
+    }
+  }
+}
