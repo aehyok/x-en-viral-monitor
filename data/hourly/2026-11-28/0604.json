@@ -1,0 +1,405 @@
+{
+  "run_at": "2026-11-28T06:14:30+08:00",
+  "baseline": true,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "0604",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2126425412200964224",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2126425412200964224",
+      "created_at": "2026-11-27T21:18:19.000Z",
+      "created_at_bj": "2026-11-28 05:18",
+      "views": 12656,
+      "rate_per_hour": 13516,
+      "basis": "first_sight",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 12656,
+        "like_count": 121,
+        "reply_count": 54,
+        "quote_count": 2,
+        "retweet_count": 3,
+        "bookmark_count": 37
+      },
+      "already_pushed": false,
+      "text": "I don't want to have to do it but there needs to exist a YC for bootstrapped, creator-led, semi-autonomous companies mostly run by AI agents \n\nSorely needed!",
+      "text_zh": "我不想自己必须去做这件事，但确实需要有一个面向自举（bootstrapped）、创作者主导、主要由 AI agents 来运转的半自主公司的 YC。\n\n太需要了！",
+      "hit": false,
+      "quoted": []
+    },
+    {
+      "id": "2126415966548455725",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2126415966548455725",
+      "created_at": "2026-11-27T20:40:47.000Z",
+      "created_at_bj": "2026-11-28 04:40",
+      "views": 2194,
+      "rate_per_hour": 1405,
+      "basis": "first_sight",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 2194,
+        "like_count": 78,
+        "reply_count": 3,
+        "quote_count": 0,
+        "retweet_count": 7,
+        "bookmark_count": 26
+      },
+      "already_pushed": false,
+      "text": "Postcards from Indonesia https://t.co/62ynSI0DW3 https://t.co/3ZfOhbnksl",
+      "text_zh": "来自 Indonesia 的明信片 https://t.co/62ynSI0DW3 https://t.co/3ZfOhbnksl",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2125985178606551471",
+          "user": "egeberkina",
+          "text": "Ahlan Masr https://t.co/wurD5dMvrn https://t.co/6CT1beLRjD",
+          "text_zh": "Ahlan Masr（嗨，埃及）https://t.co/wurD5dMvrn https://t.co/6CT1beLRjD"
+        }
+      ]
+    },
+    {
+      "id": "2126356350875709581",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2126356350875709581",
+      "created_at": "2026-11-27T16:43:54.000Z",
+      "created_at_bj": "2026-11-28 00:43",
+      "views": 115788,
+      "rate_per_hour": 21014,
+      "basis": "first_sight",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 115788,
+        "like_count": 1726,
+        "reply_count": 215,
+        "quote_count": 36,
+        "retweet_count": 57,
+        "bookmark_count": 780
+      },
+      "already_pushed": false,
+      "text": "New trend I'm observing:\n\n1. Startup raises venture capital\n2. Uses venture dollars to become creator \n3. Startup fails\n4. Fall back on becoming a full-time creator and makes $500k-$5M/year as creator\n5. Incubates other products bootstrapped\n6. Never raises VC again",
+      "text_zh": "我观察到的新趋势：\n\n1. 创业公司融到风险投资\n2. 用风投的钱把自己做成创作者\n3. 创业公司失败\n4. 退回去做全职创作者，一年靠创作赚 $500k-$5M\n5. 再用自举的方式孵化其他产品\n6. 再也不向 VC 融资",
+      "hit": false,
+      "quoted": []
+    },
+    {
+      "id": "2126348650217447749",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2126348650217447749",
+      "created_at": "2026-11-27T16:13:18.000Z",
+      "created_at_bj": "2026-11-28 00:13",
+      "views": 1646,
+      "rate_per_hour": 273,
+      "basis": "first_sight",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 1646,
+        "like_count": 19,
+        "reply_count": 3,
+        "quote_count": 0,
+        "retweet_count": 0,
+        "bookmark_count": 3
+      },
+      "already_pushed": false,
+      "text": "ok I didn't expect this to work this well\n\ngave Kling Image 4.0 one pic of my character and just kept throwing them into totally different movies. noir, desert... and it's the same woman every single time\n\nusually by image 3 the face starts melting into someone else lol. not here\n\nif you do any kind of film pitch or storyboard stuff this is kind of a cheat code",
+      "text_zh": "好吧，我没想到效果会这么好\n\n只给了 Kling Image 4.0 一张我的角色图，然后不断把她扔进完全不同的电影里。noir、desert……每次都还是同一个女人\n\n通常到第 3 张图，脸就开始融化成别人了 lol。但这里没有\n\n如果你做任何电影提案或 storyboard 之类的东西，这几乎算是开挂",
+      "hit": false,
+      "quoted": []
+    },
+    {
+      "id": "2126341534240874831",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2126341534240874831",
+      "created_at": "2026-11-27T15:45:01.000Z",
+      "created_at_bj": "2026-11-27 23:45",
+      "views": 55973,
+      "rate_per_hour": 8623,
+      "basis": "first_sight",
+      "prev": null,
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 55973,
+        "like_count": 543,
+        "reply_count": 89,
+        "quote_count": 3,
+        "retweet_count": 9,
+        "bookmark_count": 376
+      },
+      "already_pushed": false,
+      "text": "Visited a beautiful coworking / cafe / hotel in 🇦🇪 Dubai recommended by @fadieacc \n\nIt's called Dubai Founders HQ and you can become a member or just visit the cafe for free\n\nAlso very very good coffee and fast WiFi, beautiful interior and perfect AC temperature\n\n10/10 https://t.co/DoVcycbFwT https://t.co/UicA7GSSWJ",
+      "text_zh": "去了一家很漂亮的 coworking / 咖啡馆 / 酒店，在 🇦🇪 Dubai，是 @fadieacc 推荐的。\n\n它叫 Dubai Founders HQ，你可以办会员，也可以免费去咖啡馆坐坐。\n\n咖啡非常非常好喝，WiFi 很快，室内设计很美，空调温度也刚刚好。\n\n10/10 https://t.co/DoVcycbFwT https://t.co/UicA7GSSWJ",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2126059403950391768",
+          "user": "levelsio",
+          "text": "🇦🇪 Habibiiiiiiiii https://t.co/VvO5jciGyz",
+          "text_zh": "🇦🇪 Habibiiiiiiiii（嗨，宝贝）https://t.co/VvO5jciGyz"
+        }
+      ]
+    },
+    {
+      "id": "2126331968292102498",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2126331968292102498",
+      "created_at": "2026-11-27T15:07:01.000Z",
+      "created_at_bj": "2026-11-27 23:07",
+      "views": 27850,
+      "rate_per_hour": 3254,
+      "basis": "snapshot",
+      "prev": {
+        "views": 6627,
+        "checked_at": "2026-11-27T23:43:07+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 27850,
+        "like_count": 203,
+        "reply_count": 61,
+        "quote_count": 14,
+        "retweet_count": 7,
+        "bookmark_count": 49
+      },
+      "already_pushed": true,
+      "text": "I'm shutting down the $100K Hackathon...\n\n...because it's now the $150K Hackathon 🫡\n\n@higgsfield_ai just added another $50K for Black Friday to support solo builders shipping their own products.\n\nEvery cash prize is now 50% bigger!\n\n🥇 $45,000\n🥈 $30,000\n🥉 $15,000\n\neven 10th place gets $7,500.\n\nSame goal: Build the most profitable business.\n\nIt's free to join, and there are 19 days left: https://t.co/hHY6mlcu5F",
+      "text_zh": "我要关停这个 $100K Hackathon 了……\n\n……因为它现在变成了 $150K Hackathon 🫡\n\n@higgsfield_ai 刚刚为 Black Friday 又追加了 $50K，用来支持独立开发者把自己的产品做出来上线。\n\n每档现金奖金现在都大了 50%！\n\n🥇 $45,000\n🥈 $30,000\n🥉 $15,000\n\n就算第 10 名也能拿到 $7,500。\n\n目标不变：做出最赚钱的生意。\n\n免费参加，还剩 19 天：https://t.co/hHY6mlcu5F",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2120155404957311464",
+          "user": "marclou",
+          "text": "Higgsfield gave me $100,000 to realize my dream:\n\nA hackathon where participants build a real business, not just an app.\n\nSo... Introducing The $100K Hackathon:\n🏴‍☠️ https://t.co/nHDJ5Qruhu 🏴‍☠️\n\nIt starts on November 16, and you'll have 30 days to build a startup and make it profitable. The prizes:\n\n🥇 $100,000\n🥈 iPhone Duo\n🥉 MacBook Neo\n\nThis is not a joke. The winner will get $100,000 in cash.\n\nTo win, you must:\n\n1. Start a completely new business on Nov 16\n2. Build a digital product (SaaS, directory, etc.)\n3. Make the most profit (not revenue)\n\nYou can already register at $99. When the hackathon starts on Nov 16, you can still join for $149.\n\nI'm running this with my dear friend @jackfriks, and we'll manually review each potential winner to make sure everything holds up.\n\nSee you on November 16, builders 🏴‍☠️🫡",
+          "text_zh": "Higgsfield 给了我 $100,000 来实现我的梦想：\n\n一场让参赛者去打造真正生意、而不只是做一个应用的黑客松。\n\n所以……隆重介绍 The $100K Hackathon：\n🏴‍☠️ https://t.co/nHDJ5Qruhu 🏴‍☠️\n\n11 月 16 日开始，你们有 30 天时间做出一家创业公司并把它做成盈利。奖项：\n\n🥇 $100,000\n🥈 iPhone Duo\n🥉 MacBook Neo\n\n这不是开玩笑。赢家将获得 $100,000 现金。\n\n要获胜，你必须：\n\n1. 在 11 月 16 日创办一家全新的生意\n2. 做出一款数字产品（SaaS、directory 等）\n3. 赚到最多的利润（不是收入）\n\n现在就可以 $99 报名。黑客松在 11 月 16 日开始后，还可以 $149 加入。\n\n我是和好友 @jackfriks 一起办的，我们会人工审核每一位潜在赢家，确保一切经得起检验。\n\n11 月 16 日见，builders 🏴‍☠️🫡"
+        }
+      ]
+    },
+    {
+      "id": "2126316431444959453",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2126316431444959453",
+      "created_at": "2026-11-27T14:05:16.000Z",
+      "created_at_bj": "2026-11-27 22:05",
+      "views": 28203,
+      "rate_per_hour": 2115,
+      "basis": "snapshot",
+      "prev": {
+        "views": 14409,
+        "checked_at": "2026-11-27T23:43:07+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 28203,
+        "like_count": 279,
+        "reply_count": 57,
+        "quote_count": 12,
+        "retweet_count": 8,
+        "bookmark_count": 16
+      },
+      "already_pushed": true,
+      "text": "Added this section from @X's own rules\n\nMost people don't know that AI reply bots are explicitly not permitted to run on here\n\nAnd duplicate pasting the same reply with automation is the same thing\n\nX has an entire page dedicated to it\n\nThe reason for the \"Let's connect 🤝\" reply spam is simple, people run automated bots (or do it manually) so that when they get a reply with connect in it, they follow the person and that person automatically follows them too\n\nThat way they both get 1 new follower, and that brings them closer to the minimum of 500 verified followers to get accepted into X's Monetization program\n\nBefore reply spamming paid you good money: about $10 per million views, so they scripted that and auto replied and they made money. But @X killed that in January this year. Now only timeline views pay you money\n\nAlso you need 500,000 impressions in the last 3 months (~166,000 per month) to get into X's Monetization Program, so the idea is to pump replies/posts too such a high level that you force these amounts of views\n\nNow the scheme is to grow an account to a few thousand followers, then sell it, or use it for paid product placements, crypto pump and dumps or AI apps/tools\n\nA large part of spam comes from poor countries where just making $100/mo more from X makes a big difference, so I get it, but I think we should also actively fight it because reply spam is destroying this platform and then people will just leave and I don't like that\n\nI made so many friends on here over the last decade and want to continue doing so, if most of my interactions on here are with spam bots, I won't be able to do that anymore!\n\nhttps://t.co/jDDqmG0c8h",
+      "text_zh": "我从 @X 自己的规则里加了这一段\n\n大多数人不知道，AI 回复机器人在这里是被明确禁止运行的\n\n而且用自动化重复粘贴同一条回复，性质是一样的\n\nX 有整整一页专门讲这个\n\n那些 “Let's connect 🤝” 回复垃圾信息的原因其实很简单：有人会跑自动机器人（或者手工操作），一旦收到带 connect 字样的回复，他们就去关注对方，而对方也会自动回关\n\n这样一来双方各多 1 个新粉丝，也就更接近进入 X 的 Monetization program 所需的 500 个认证粉丝最低门槛\n\n以前靠回复刷垃圾还能赚不少：大约每百万浏览 $10，所以他们写了脚本自动回复来赚钱。但 @X 在今年 1 月把这条路掐掉了。现在只有时间线浏览才给你钱\n\n另外，要进入 X 的 Monetization Program，你还需要最近 3 个月有 500,000 次展示（大约每月 166,000），所以他们的想法是把回复/发帖刷到极高的量，强行凑够这些浏览量\n\n现在这套玩法是：把一个账号养到几千粉，然后卖掉，或者拿去接付费植入、crypto pump and dumps，或推广 AI 应用/工具\n\n很大一部分垃圾信息来自贫穷国家，在那些地方，每月哪怕多赚 $100 也很重要，所以我能理解，但我认为我们还是应该主动反击，因为回复垃圾正在毁掉这个平台，然后人们就会离开，而我不希望那样\n\n过去十年我在这里交了很多朋友，也想继续交下去；如果我在这里的大部分互动都是在跟垃圾机器人打交道，我就没法再这样做了！\n\nhttps://t.co/jDDqmG0c8h",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2126303459159011392",
+          "user": "levelsio",
+          "text": "\"We have to fight back\" https://t.co/NBm5SsOjJ9 https://t.co/2R9SuP4R8c",
+          "text_zh": "「我们得反击了」 https://t.co/NBm5SsOjJ9 https://t.co/2R9SuP4R8c"
+        }
+      ]
+    },
+    {
+      "id": "2126303459159011392",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2126303459159011392",
+      "created_at": "2026-11-27T13:13:44.000Z",
+      "created_at_bj": "2026-11-27 21:13",
+      "views": 91291,
+      "rate_per_hour": 6139,
+      "basis": "snapshot",
+      "prev": {
+        "views": 51243,
+        "checked_at": "2026-11-27T23:43:07+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 91291,
+        "like_count": 1427,
+        "reply_count": 170,
+        "quote_count": 18,
+        "retweet_count": 18,
+        "bookmark_count": 36
+      },
+      "already_pushed": true,
+      "text": "\"We have to fight back\" https://t.co/NBm5SsOjJ9 https://t.co/2R9SuP4R8c",
+      "text_zh": "「我们得反击了」 https://t.co/NBm5SsOjJ9 https://t.co/2R9SuP4R8c",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2126227928988152223",
+          "user": "patrick_kuhnke_",
+          "text": "we have to fight back against this AI reply list.\n\nif we dont speak up we let big accounts cyber-bully us.\n\nI got on the list for replying to lets connect posts.\n\nso pretty much everyone is now in danger! https://t.co/qUQvyaRrAU",
+          "text_zh": "我们得反击这份 AI 回复名单了。\n\n如果我们不发声，就是在放任大号网暴我们。\n\n我上榜是因为回复了一些 let's connect 的帖子。\n\n所以差不多每个人现在都有危险！ https://t.co/qUQvyaRrAU"
+        }
+      ]
+    },
+    {
+      "id": "2126280882688537056",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2126280882688537056",
+      "created_at": "2026-11-27T11:44:01.000Z",
+      "created_at_bj": "2026-11-27 19:44",
+      "views": 14270,
+      "rate_per_hour": 677,
+      "basis": "snapshot",
+      "prev": {
+        "views": 9853,
+        "checked_at": "2026-11-27T23:43:07+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 14270,
+        "like_count": 71,
+        "reply_count": 33,
+        "quote_count": 0,
+        "retweet_count": 5,
+        "bookmark_count": 9
+      },
+      "already_pushed": true,
+      "text": "Nobody’s safe on this leaderboard 🥵\n\n@indexsy and @frederickjames keep stealing 🥇 from each other.\n\n@nishanttiwaari and @joshiii999 are battling for 🥉 https://t.co/GhQ9e44v8P https://t.co/Z4Bm1EAnc8",
+      "text_zh": "这份排行榜上谁都不安全 🥵\n\n@indexsy 和 @frederickjames 一直在互相抢 🥇。\n\n@nishanttiwaari 和 @joshiii999 正在争夺 🥉 https://t.co/GhQ9e44v8P https://t.co/Z4Bm1EAnc8",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2120155404957311464",
+          "user": "marclou",
+          "text": "Higgsfield gave me $100,000 to realize my dream:\n\nA hackathon where participants build a real business, not just an app.\n\nSo... Introducing The $100K Hackathon:\n🏴‍☠️ https://t.co/nHDJ5Qruhu 🏴‍☠️\n\nIt starts on November 16, and you'll have 30 days to build a startup and make it profitable. The prizes:\n\n🥇 $100,000\n🥈 iPhone Duo\n🥉 MacBook Neo\n\nThis is not a joke. The winner will get $100,000 in cash.\n\nTo win, you must:\n\n1. Start a completely new business on Nov 16\n2. Build a digital product (SaaS, directory, etc.)\n3. Make the most profit (not revenue)\n\nYou can already register at $99. When the hackathon starts on Nov 16, you can still join for $149.\n\nI'm running this with my dear friend @jackfriks, and we'll manually review each potential winner to make sure everything holds up.\n\nSee you on November 16, builders 🏴‍☠️🫡",
+          "text_zh": "Higgsfield 给了我 $100,000 来实现我的梦想：\n\n一场让参赛者去打造真正生意、而不只是做一个应用的黑客松。\n\n所以……隆重介绍 The $100K Hackathon：\n🏴‍☠️ https://t.co/nHDJ5Qruhu 🏴‍☠️\n\n11 月 16 日开始，你们有 30 天时间做出一家创业公司并把它做成盈利。奖项：\n\n🥇 $100,000\n🥈 iPhone Duo\n🥉 MacBook Neo\n\n这不是开玩笑。赢家将获得 $100,000 现金。\n\n要获胜，你必须：\n\n1. 在 11 月 16 日创办一家全新的生意\n2. 做出一款数字产品（SaaS、directory 等）\n3. 赚到最多的利润（不是收入）\n\n现在就可以 $99 报名。黑客松在 11 月 16 日开始后，还可以 $149 加入。\n\n我是和好友 @jackfriks 一起办的，我们会人工审核每一位潜在赢家，确保一切经得起检验。\n\n11 月 16 日见，builders 🏴‍☠️🫡"
+        }
+      ]
+    },
+    {
+      "id": "2126274973811519691",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2126274973811519691",
+      "created_at": "2026-11-27T11:20:32.000Z",
+      "created_at_bj": "2026-11-27 19:20",
+      "views": 34559,
+      "rate_per_hour": 1442,
+      "basis": "snapshot",
+      "prev": {
+        "views": 25156,
+        "checked_at": "2026-11-27T23:43:07+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 34559,
+        "like_count": 238,
+        "reply_count": 117,
+        "quote_count": 7,
+        "retweet_count": 2,
+        "bookmark_count": 53
+      },
+      "already_pushed": true,
+      "text": "Human spotted talking to his clanker to ship his app (2026) https://t.co/EnVZN5qzCS",
+      "text_zh": "发现有人类正在跟他的 clanker 说话，好把他的应用做出来上线（2026） https://t.co/EnVZN5qzCS",
+      "hit": false,
+      "quoted": []
+    },
+    {
+      "id": "2126270412430426157",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2126270412430426157",
+      "created_at": "2026-11-27T11:02:25.000Z",
+      "created_at_bj": "2026-11-27 19:02",
+      "views": 2342,
+      "rate_per_hour": 95,
+      "basis": "snapshot",
+      "prev": {
+        "views": 1722,
+        "checked_at": "2026-11-27T23:43:07+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 2342,
+        "like_count": 24,
+        "reply_count": 1,
+        "quote_count": 0,
+        "retweet_count": 1,
+        "bookmark_count": 3
+      },
+      "already_pushed": false,
+      "text": "ice cream season never really ends https://t.co/a7FZ7lnmS1",
+      "text_zh": "冰淇淋季节其实从未真正结束 https://t.co/a7FZ7lnmS1",
+      "hit": false,
+      "quoted": []
+    },
+    {
+      "id": "2126270153599951005",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2126270153599951005",
+      "created_at": "2026-11-27T11:01:23.000Z",
+      "created_at_bj": "2026-11-27 19:01",
+      "views": 87445,
+      "rate_per_hour": 4981,
+      "basis": "snapshot",
+      "prev": {
+        "views": 54953,
+        "checked_at": "2026-11-27T23:43:07+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 87445,
+        "like_count": 794,
+        "reply_count": 92,
+        "quote_count": 5,
+        "retweet_count": 11,
+        "bookmark_count": 286
+      },
+      "already_pushed": true,
+      "text": "🧔‍♂️ On Hoodmaps, for some reason the entire city of New York City became tagged green (rich) over time, I thought something was wrong and tried to fix it but was never able to\n\nHoodmaps works by letting anyone categorize a city's neighborhoods by coloring it based on if it's tourist (red), cool (yellow), rich (green), business (blue), university (dark blue) or crime (dark gray)\n\nIt would then take ALL the pixel drawings by everybody over the last decade and calculate the median for every pixel\n\nBut it all became \"rich\", why? So I asked Fable 5.2 today and it figured it out\n\nOver time with more data you get general average tendencies of people that become a problem where big cities are mostly painted rich (green) because people see them as expensive, but that's not very useful information to navigate a city\n\nSo Fable 5.2 suggested to calculate each category color by calculating what's more common there than in the city as whole\n\nAnd it works! And you can see very granular data now like the NYU university area with a spike seeping into Union Square but then being surrounded by tourists, or Hunters Point being a mix of tourists, crime and businesses",
+      "text_zh": "🧔‍♂️ 在 Hoodmaps 上，不知为什么，整个 New York City 随着时间推移都被标成了绿色（rich，富人区），我以为出了问题，也试过修复，但一直没能修好。\n\nHoodmaps 的原理是让任何人给一座城市的街区分类上色：tourist（红色，游客区）、cool（黄色，酷街区）、rich（绿色，富人区）、business（蓝色，商务区）、university（深蓝色，大学区）或 crime（深灰色，犯罪区）。\n\n然后它会把过去十年里所有人画过的像素全部拿来，计算每个像素的中位数。\n\n可结果全变成了 “rich”，为什么？于是我今天问了 Fable 5.2，它找出了原因。\n\n随着数据变多，会出现人们的总体平均倾向，这会变成一个问题：大城市大多被涂成 rich（绿色），因为人们觉得这些地方很贵，但这对在城市里找路并没有多大用处。\n\n所以 Fable 5.2 建议：每个分类颜色，按「该处比整座城市整体更常见」来计算。\n\n而且有效！现在能看到非常细的颗粒度，比如 NYU 大学区有一块突起渗进 Union Square，但又被游客区包围；或者 Hunters Point 是游客、犯罪和商务混杂的区域。",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2104318653487288455",
+          "user": "levelsio",
+          "text": "I've now fully integrated my new site Hotelist into Hoodmaps\n\nSo now it lets you tap [ 🏨 Hotels ] and you see all available hotels in the area\n\nYou can hover over them or tap them and it'll show the same hover tooltip you see on Hotelist, and then when you tap again it opens the hotel\n\nNice to find a good area in a city and then book a place there\n\nThis was a recommendation by AI to try and monetize Hoodmaps, it gets almost 171,000 vistors per month but never made money in almost a decade, so I asked AI\n\nIt makes sense cause hotels are something aligned with when you're trying to find the best area in a city and it makes money!\n\nIt only shows when you click [ 🏨 Hotels ] though, so not annoying",
+          "text_zh": "我已经把新站点 Hotelist 完全接入了 Hoodmaps。\n\n现在点击 [ 🏨 Hotels ]，就能看到该地区所有可订酒店。\n\n把鼠标悬停或点一下，会看到和 Hotelist 上一样的悬停提示，再点一次就会打开这家酒店。\n\n很适合先在城市里找到一个好区域，然后再在那里订住处。\n\n这是 AI 给的建议，想给 Hoodmaps 找变现方式——它每月差不多有 171,000 名访问者，但近十年几乎从没赚过钱，所以我去问了 AI。\n\n这很合理，因为你在一座城市里找最佳区域的时候，酒店正好对得上需求，而且能赚钱！\n\n不过只有在你点击 [ 🏨 Hotels ] 时才会显示，所以并不打扰。"
+        }
+      ]
+    }
+  ],
+  "new_hits": [],
+  "counts": {
+    "checked": 12,
+    "new_hits": 0,
+    "snapshots_before": 7,
+    "snapshots_after": 12,
+    "pushed_before": 248,
+    "pushed_after": 248,
+    "aged_out": [],
+    "per_account": {
+      "levelsio": 5,
+      "marclou": 2,
+      "gregisenberg": 2,
+      "steipete": 0,
+      "egeberkina": 3,
+      "karpathy": 0
+    }
+  }
+}
