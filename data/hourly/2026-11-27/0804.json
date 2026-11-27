@@ -1,0 +1,224 @@
+{
+  "run_at": "2026-11-27T08:12:14+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "0804",
+  "accounts": [
+    "levelsio",
+    "marclou",
+    "gregisenberg",
+    "steipete",
+    "egeberkina",
+    "karpathy"
+  ],
+  "posts": [
+    {
+      "id": "2126066175297913103",
+      "user": "egeberkina",
+      "created_at": "2026-11-26T21:30:51.000Z",
+      "created_at_bj": "2026-11-27 05:30",
+      "views": 1150,
+      "metrics": {
+        "impression_count": 1150,
+        "like_count": 18,
+        "reply_count": 0,
+        "quote_count": 0,
+        "retweet_count": 1,
+        "bookmark_count": 1
+      },
+      "already_pushed": false,
+      "text": "Wear the garden https://t.co/JOduXT5SXj https://t.co/mbGpsjP5dQ",
+      "text_zh": "穿上花园 https://t.co/JOduXT5SXj https://t.co/mbGpsjP5dQ",
+      "quoted": [
+        {
+          "id": "2125892102412239137",
+          "user": "egeberkina",
+          "text": "Golf drip https://t.co/lFHUZqQmKb",
+          "text_zh": "高尔夫潮装"
+        }
+      ],
+      "url": "https://x.com/egeberkina/status/2126066175297913103",
+      "rate_per_hour": 191,
+      "basis": "snapshot",
+      "prev": {
+        "views": 1068,
+        "checked_at": "2026-11-27T07:46:32+08:00"
+      },
+      "edit_of": null,
+      "hit": false
+    },
+    {
+      "id": "2126059403950391768",
+      "user": "levelsio",
+      "created_at": "2026-11-26T21:03:56.000Z",
+      "created_at_bj": "2026-11-27 05:03",
+      "views": 18685,
+      "metrics": {
+        "impression_count": 18685,
+        "like_count": 85,
+        "reply_count": 18,
+        "quote_count": 0,
+        "retweet_count": 0,
+        "bookmark_count": 7
+      },
+      "already_pushed": true,
+      "text": "🇦🇪 Habibiiiiiiiii https://t.co/VvO5jciGyz",
+      "text_zh": "🇦🇪 Habibiiiiiiiii（嗨，宝贝）https://t.co/VvO5jciGyz",
+      "url": "https://x.com/levelsio/status/2126059403950391768",
+      "rate_per_hour": 2652,
+      "basis": "snapshot",
+      "prev": {
+        "views": 17549,
+        "checked_at": "2026-11-27T07:46:32+08:00"
+      },
+      "edit_of": null,
+      "hit": false
+    },
+    {
+      "id": "2126047321246826569",
+      "user": "gregisenberg",
+      "created_at": "2026-11-26T20:15:56.000Z",
+      "created_at_bj": "2026-11-27 04:15",
+      "views": 12646,
+      "metrics": {
+        "impression_count": 12646,
+        "like_count": 83,
+        "reply_count": 29,
+        "quote_count": 0,
+        "retweet_count": 3,
+        "bookmark_count": 14
+      },
+      "already_pushed": false,
+      "text": "Happy thanksgiving, friends. https://t.co/nx3dDUGN8i",
+      "text_zh": "感恩节快乐，朋友们。https://t.co/nx3dDUGN8i",
+      "url": "https://x.com/gregisenberg/status/2126047321246826569",
+      "rate_per_hour": 787,
+      "basis": "snapshot",
+      "prev": {
+        "views": 12309,
+        "checked_at": "2026-11-27T07:46:32+08:00"
+      },
+      "edit_of": null,
+      "hit": false
+    },
+    {
+      "id": "2126004403052445733",
+      "user": "gregisenberg",
+      "created_at": "2026-11-26T17:25:23.000Z",
+      "created_at_bj": "2026-11-27 01:25",
+      "views": 91307,
+      "metrics": {
+        "impression_count": 91307,
+        "like_count": 1157,
+        "reply_count": 124,
+        "quote_count": 20,
+        "retweet_count": 110,
+        "bookmark_count": 901
+      },
+      "already_pushed": true,
+      "text": "A guy let Claude read his 1994 Jeep's engine computer through a $3 chip.\n\nIt found why the car kept failing smog, and he says it passed. \n\nThe whole thing cost about $15 in parts, and it's free on GitHub. https://t.co/E9kOFaX8sq",
+      "text_zh": "有人让 Claude 通过一枚 3 美元的芯片，读取他 1994 年 Jeep 的发动机电脑。\n\n它找出了这辆车一直过不了尾气检测（smog）的原因，他说后来通过了。\n\n全部零件大概只花了 15 美元，而且代码在 GitHub 上免费开源。https://t.co/E9kOFaX8sq",
+      "url": "https://x.com/gregisenberg/status/2126004403052445733",
+      "rate_per_hour": 9595,
+      "basis": "snapshot",
+      "prev": {
+        "views": 87197,
+        "checked_at": "2026-11-27T07:46:32+08:00"
+      },
+      "edit_of": null,
+      "hit": false
+    },
+    {
+      "id": "2125985178606551471",
+      "user": "egeberkina",
+      "created_at": "2026-11-26T16:09:00.000Z",
+      "created_at_bj": "2026-11-27 00:09",
+      "views": 6751,
+      "metrics": {
+        "impression_count": 6751,
+        "like_count": 270,
+        "reply_count": 4,
+        "quote_count": 2,
+        "retweet_count": 15,
+        "bookmark_count": 60
+      },
+      "already_pushed": false,
+      "text": "Ahlan Masr https://t.co/wurD5dMvrn https://t.co/6CT1beLRjD",
+      "text_zh": "Ahlan Masr（嗨，埃及）https://t.co/wurD5dMvrn https://t.co/6CT1beLRjD",
+      "quoted": [
+        {
+          "id": "2125594941149905376",
+          "user": "egeberkina",
+          "text": "Privet Russia https://t.co/WbMHI4MrLb https://t.co/YDP9MLUjHD",
+          "text_zh": "Privet Russia（嗨，俄罗斯）https://t.co/WbMHI4MrLb https://t.co/YDP9MLUjHD"
+        }
+      ],
+      "url": "https://x.com/egeberkina/status/2125985178606551471",
+      "rate_per_hour": 598,
+      "basis": "snapshot",
+      "prev": {
+        "views": 6495,
+        "checked_at": "2026-11-27T07:46:32+08:00"
+      },
+      "edit_of": null,
+      "hit": false
+    },
+    {
+      "id": "2125944241042186601",
+      "user": "levelsio",
+      "created_at": "2026-11-26T13:26:19.000Z",
+      "created_at_bj": "2026-11-26 21:26",
+      "views": 22753,
+      "metrics": {
+        "impression_count": 22753,
+        "like_count": 149,
+        "reply_count": 45,
+        "quote_count": 1,
+        "retweet_count": 5,
+        "bookmark_count": 29
+      },
+      "already_pushed": true,
+      "text": "🌏 My coworking day in 🇸🇬 Singapore is on!\n\nNext Monday on 30 November we'll meet to cowork, laptop, drink ☕️ coffee and talk!\n\nIf you want to come please register on Luma below, and add your X username so I know who's coming!\n\nhttps://t.co/TP3ILWCFaO\n\nAlso we have a special guest! My friend @dannypostma will be attending!\n\n👋 See you all there!",
+      "text_zh": "🌏 我在 🇸🇬 新加坡的 coworking day 定下来了！\n\n下周一 11 月 30 日，我们会见面一起办公、带上电脑、喝 ☕️ 咖啡，再聊聊天！\n\n想参加的话请在下面的 Luma 报名，并填上你的 X 用户名，方便我知道谁会来！\n\nhttps://t.co/TP3ILWCFaO\n\n另外还有一位特别嘉宾！我的朋友 @dannypostma 也会来！\n\n👋 到时候见！",
+      "quoted": [
+        {
+          "id": "2122003192708018240",
+          "user": "levelsio",
+          "text": "🌎 My Weekly Founder's Coworking Day is going global!\n\nI'll be in 🇸🇬 Singapore and 🇹🇭 Bangkok soon, and I'd love to host my weekly coworking day for founders there!\n\nIf you're interested to join let me know, and if you know a good venue also \n\n🤝 😊 https://t.co/LLamm1ViKV https://t.co/6mLxYIbFGH",
+          "text_zh": "🌎 我的每周创始人 Coworking Day 要走向全球了！\n\n我很快会到 🇸🇬 新加坡和 🇹🇭 曼谷，很希望在当地为创始人举办这次每周 coworking day！\n\n如果你有兴趣参加，告诉我一声；如果你知道合适的场地，也欢迎推荐\n\n🤝 😊 https://t.co/LLamm1ViKV https://t.co/6mLxYIbFGH"
+        }
+      ],
+      "url": "https://x.com/levelsio/status/2125944241042186601",
+      "rate_per_hour": 798,
+      "basis": "snapshot",
+      "prev": {
+        "views": 22411,
+        "checked_at": "2026-11-27T07:46:32+08:00"
+      },
+      "edit_of": null,
+      "hit": false
+    }
+  ],
+  "new_hits": [],
+  "counts": {
+    "checked": 6,
+    "new_hits": 0,
+    "snapshots_before": 8,
+    "snapshots_after": 6,
+    "pushed_before": 242,
+    "pushed_after": 242,
+    "aged_out": [
+      "2125923307002470407",
+      "2125919752631796083"
+    ],
+    "per_account": {
+      "levelsio": 2,
+      "marclou": 0,
+      "gregisenberg": 2,
+      "steipete": 0,
+      "egeberkina": 2,
+      "karpathy": 0
+    }
+  }
+}
