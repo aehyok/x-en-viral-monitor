@@ -1,0 +1,36 @@
+{
+  "run_at": "2026-11-27T17:41:38+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "1734",
+  "accounts": [
+    "levelsio",
+    "marclou",
+    "gregisenberg",
+    "steipete",
+    "egeberkina",
+    "karpathy"
+  ],
+  "posts": [],
+  "new_hits": [],
+  "counts": {
+    "checked": 0,
+    "new_hits": 0,
+    "snapshots_before": 1,
+    "snapshots_after": 0,
+    "pushed_before": 242,
+    "pushed_after": 242,
+    "aged_out": [
+      "2126066175297913103"
+    ],
+    "per_account": {
+      "levelsio": 0,
+      "marclou": 0,
+      "gregisenberg": 0,
+      "steipete": 0,
+      "egeberkina": 0,
+      "karpathy": 0
+    }
+  }
+}
