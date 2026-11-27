@@ -1,0 +1,194 @@
+{
+  "run_at": "2026-11-27T21:53:05+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "2134",
+  "accounts": [
+    "levelsio",
+    "marclou",
+    "gregisenberg",
+    "steipete",
+    "egeberkina",
+    "karpathy"
+  ],
+  "posts": [
+    {
+      "id": "2126303459159011392",
+      "user": "levelsio",
+      "created_at": "2026-11-27T13:13:44.000Z",
+      "created_at_bj": "2026-11-27 21:13",
+      "views": 14810,
+      "metrics": {
+        "impression_count": 14810,
+        "like_count": 290,
+        "reply_count": 53,
+        "quote_count": 3,
+        "retweet_count": 5,
+        "bookmark_count": 6
+      },
+      "already_pushed": true,
+      "text": "\"We have to fight back\" https://t.co/NBm5SsOjJ9 https://t.co/2R9SuP4R8c",
+      "text_zh": "「我们得反击了」 https://t.co/NBm5SsOjJ9 https://t.co/2R9SuP4R8c",
+      "url": "https://x.com/levelsio/status/2126303459159011392",
+      "rate_per_hour": 19879,
+      "basis": "snapshot",
+      "prev": {
+        "views": 2949,
+        "checked_at": "2026-11-27T21:17:17+08:00"
+      },
+      "edit_of": null,
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2126227928988152223",
+          "user": "patrick_kuhnke_",
+          "text": "we have to fight back against this AI reply list.\n\nif we dont speak up we let big accounts cyber-bully us.\n\nI got on the list for replying to lets connect posts.\n\nso pretty much everyone is now in danger! https://t.co/qUQvyaRrAU",
+          "text_zh": "我们得反击这份 AI 回复名单了。\n\n如果我们不发声，就是在放任大号网暴我们。\n\n我上榜是因为回复了一些 let's connect 的帖子。\n\n所以差不多每个人现在都有危险！ https://t.co/qUQvyaRrAU"
+        }
+      ]
+    },
+    {
+      "id": "2126280882688537056",
+      "user": "marclou",
+      "created_at": "2026-11-27T11:44:01.000Z",
+      "created_at_bj": "2026-11-27 19:44",
+      "views": 7380,
+      "metrics": {
+        "impression_count": 7380,
+        "like_count": 34,
+        "reply_count": 25,
+        "quote_count": 0,
+        "retweet_count": 1,
+        "bookmark_count": 4
+      },
+      "already_pushed": true,
+      "text": "Nobody’s safe on this leaderboard 🥵\n\n@indexsy and @frederickjames keep stealing 🥇 from each other.\n\n@nishanttiwaari and @joshiii999 are battling for 🥉 https://t.co/GhQ9e44v8P https://t.co/Z4Bm1EAnc8",
+      "text_zh": "这份排行榜上谁都不安全 🥵\n\n@indexsy 和 @frederickjames 一直在互相抢 🥇。\n\n@nishanttiwaari 和 @joshiii999 正在争夺 🥉 https://t.co/GhQ9e44v8P https://t.co/Z4Bm1EAnc8",
+      "url": "https://x.com/marclou/status/2126280882688537056",
+      "rate_per_hour": 1663,
+      "basis": "snapshot",
+      "prev": {
+        "views": 6388,
+        "checked_at": "2026-11-27T21:17:17+08:00"
+      },
+      "edit_of": null,
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2120155404957311464",
+          "user": "marclou",
+          "text": "Higgsfield gave me $100,000 to realize my dream:\n\nA hackathon where participants build a real business, not just an app.\n\nSo... Introducing The $100K Hackathon:\n🏴‍☠️ https://t.co/nHDJ5Qruhu 🏴‍☠️\n\nIt starts on November 16, and you'll have 30 days to build a startup and make it profitable. The prizes:\n\n🥇 $100,000\n🥈 iPhone Duo\n🥉 MacBook Neo\n\nThis is not a joke. The winner will get $100,000 in cash.\n\nTo win, you must:\n\n1. Start a completely new business on Nov 16\n2. Build a digital product (SaaS, directory, etc.)\n3. Make the most profit (not revenue)\n\nYou can already register at $99. When the hackathon starts on Nov 16, you can still join for $149.\n\nI'm running this with my dear friend @jackfriks, and we'll manually review each potential winner to make sure everything holds up.\n\nSee you on November 16, builders 🏴‍☠️🫡",
+          "text_zh": "Higgsfield 给了我 $100,000 来实现我的梦想：\n\n一场让参赛者去打造真正生意、而不只是做一个应用的黑客松。\n\n所以……隆重介绍 The $100K Hackathon：\n🏴‍☠️ https://t.co/nHDJ5Qruhu 🏴‍☠️\n\n11 月 16 日开始，你们有 30 天时间做出一家创业公司并把它做成盈利。奖项：\n\n🥇 $100,000\n🥈 iPhone Duo\n🥉 MacBook Neo\n\n这不是开玩笑。赢家将获得 $100,000 现金。\n\n要获胜，你必须：\n\n1. 在 11 月 16 日创办一家全新的生意\n2. 做出一款数字产品（SaaS、directory 等）\n3. 赚到最多的利润（不是收入）\n\n现在就可以 $99 报名。黑客松在 11 月 16 日开始后，还可以 $149 加入。\n\n我是和好友 @jackfriks 一起办的，我们会人工审核每一位潜在赢家，确保一切经得起检验。\n\n11 月 16 日见，builders 🏴‍☠️🫡"
+        }
+      ]
+    },
+    {
+      "id": "2126274973811519691",
+      "user": "levelsio",
+      "created_at": "2026-11-27T11:20:32.000Z",
+      "created_at_bj": "2026-11-27 19:20",
+      "views": 19876,
+      "metrics": {
+        "impression_count": 19876,
+        "like_count": 146,
+        "reply_count": 72,
+        "quote_count": 7,
+        "retweet_count": 1,
+        "bookmark_count": 34
+      },
+      "already_pushed": true,
+      "text": "Human spotted talking to his clanker to ship his app (2026) https://t.co/EnVZN5qzCS",
+      "text_zh": "发现有人类正在跟他的 clanker 说话，好把他的应用做出来上线（2026） https://t.co/EnVZN5qzCS",
+      "url": "https://x.com/levelsio/status/2126274973811519691",
+      "rate_per_hour": 4669,
+      "basis": "snapshot",
+      "prev": {
+        "views": 17090,
+        "checked_at": "2026-11-27T21:17:17+08:00"
+      },
+      "edit_of": null,
+      "hit": false
+    },
+    {
+      "id": "2126270412430426157",
+      "user": "egeberkina",
+      "created_at": "2026-11-27T11:02:25.000Z",
+      "created_at_bj": "2026-11-27 19:02",
+      "views": 1399,
+      "metrics": {
+        "impression_count": 1399,
+        "like_count": 13,
+        "reply_count": 0,
+        "quote_count": 0,
+        "retweet_count": 1,
+        "bookmark_count": 2
+      },
+      "already_pushed": false,
+      "text": "ice cream season never really ends https://t.co/a7FZ7lnmS1",
+      "text_zh": "冰淇淋季节其实从未真正结束 https://t.co/a7FZ7lnmS1",
+      "url": "https://x.com/egeberkina/status/2126270412430426157",
+      "rate_per_hour": 208,
+      "basis": "snapshot",
+      "prev": {
+        "views": 1275,
+        "checked_at": "2026-11-27T21:17:17+08:00"
+      },
+      "edit_of": null,
+      "hit": false
+    },
+    {
+      "id": "2126270153599951005",
+      "user": "levelsio",
+      "created_at": "2026-11-27T11:01:23.000Z",
+      "created_at_bj": "2026-11-27 19:01",
+      "views": 35856,
+      "metrics": {
+        "impression_count": 35856,
+        "like_count": 296,
+        "reply_count": 46,
+        "quote_count": 3,
+        "retweet_count": 5,
+        "bookmark_count": 95
+      },
+      "already_pushed": true,
+      "text": "🧔‍♂️ On Hoodmaps, for some reason the entire city of New York City became tagged green (rich) over time, I thought something was wrong and tried to fix it but was never able to\n\nHoodmaps works by letting anyone categorize a city's neighborhoods by coloring it based on if it's tourist (red), cool (yellow), rich (green), business (blue), university (dark blue) or crime (dark gray)\n\nIt would then take ALL the pixel drawings by everybody over the last decade and calculate the median for every pixel\n\nBut it all became \"rich\", why? So I asked Fable 5.2 today and it figured it out\n\nOver time with more data you get general average tendencies of people that become a problem where big cities are mostly painted rich (green) because people see them as expensive, but that's not very useful information to navigate a city\n\nSo Fable 5.2 suggested to calculate each category color by calculating what's more common there than in the city as whole\n\nAnd it works! And you can see very granular data now like the NYU university area with a spike seeping into Union Square but then being surrounded by tourists, or Hunters Point being a mix of tourists, crime and businesses",
+      "text_zh": "🧔‍♂️ 在 Hoodmaps 上，不知为什么，整个 New York City 随着时间推移都被标成了绿色（rich，富人区），我以为出了问题，也试过修复，但一直没能修好。\n\nHoodmaps 的原理是让任何人给一座城市的街区分类上色：tourist（红色，游客区）、cool（黄色，酷街区）、rich（绿色，富人区）、business（蓝色，商务区）、university（深蓝色，大学区）或 crime（深灰色，犯罪区）。\n\n然后它会把过去十年里所有人画过的像素全部拿来，计算每个像素的中位数。\n\n可结果全变成了 “rich”，为什么？于是我今天问了 Fable 5.2，它找出了原因。\n\n随着数据变多，会出现人们的总体平均倾向，这会变成一个问题：大城市大多被涂成 rich（绿色），因为人们觉得这些地方很贵，但这对在城市里找路并没有多大用处。\n\n所以 Fable 5.2 建议：每个分类颜色，按「该处比整座城市整体更常见」来计算。\n\n而且有效！现在能看到非常细的颗粒度，比如 NYU 大学区有一块突起渗进 Union Square，但又被游客区包围；或者 Hunters Point 是游客、犯罪和商务混杂的区域。",
+      "url": "https://x.com/levelsio/status/2126270153599951005",
+      "rate_per_hour": 11851,
+      "basis": "snapshot",
+      "prev": {
+        "views": 28785,
+        "checked_at": "2026-11-27T21:17:17+08:00"
+      },
+      "edit_of": null,
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2104318653487288455",
+          "user": "levelsio",
+          "text": "I've now fully integrated my new site Hotelist into Hoodmaps\n\nSo now it lets you tap [ 🏨 Hotels ] and you see all available hotels in the area\n\nYou can hover over them or tap them and it'll show the same hover tooltip you see on Hotelist, and then when you tap again it opens the hotel\n\nNice to find a good area in a city and then book a place there\n\nThis was a recommendation by AI to try and monetize Hoodmaps, it gets almost 171,000 vistors per month but never made money in almost a decade, so I asked AI\n\nIt makes sense cause hotels are something aligned with when you're trying to find the best area in a city and it makes money!\n\nIt only shows when you click [ 🏨 Hotels ] though, so not annoying",
+          "text_zh": "我已经把新站点 Hotelist 完全接入了 Hoodmaps。\n\n现在点击 [ 🏨 Hotels ]，就能看到该地区所有可订酒店。\n\n把鼠标悬停或点一下，会看到和 Hotelist 上一样的悬停提示，再点一次就会打开这家酒店。\n\n很适合先在城市里找到一个好区域，然后再在那里订住处。\n\n这是 AI 给的建议，想给 Hoodmaps 找变现方式——它每月差不多有 171,000 名访问者，但近十年几乎从没赚过钱，所以我去问了 AI。\n\n这很合理，因为你在一座城市里找最佳区域的时候，酒店正好对得上需求，而且能赚钱！\n\n不过只有在你点击 [ 🏨 Hotels ] 时才会显示，所以并不打扰。"
+        }
+      ]
+    }
+  ],
+  "new_hits": [],
+  "counts": {
+    "checked": 5,
+    "new_hits": 0,
+    "snapshots_before": 5,
+    "snapshots_after": 5,
+    "pushed_before": 246,
+    "pushed_after": 246,
+    "aged_out": [],
+    "per_account": {
+      "levelsio": 3,
+      "marclou": 1,
+      "gregisenberg": 0,
+      "steipete": 0,
+      "egeberkina": 1,
+      "karpathy": 0
+    }
+  }
+}
