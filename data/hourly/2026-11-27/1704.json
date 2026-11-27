@@ -1,0 +1,72 @@
+{
+  "run_at": "2026-11-27T17:15:22+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "1704",
+  "accounts": [
+    "levelsio",
+    "marclou",
+    "gregisenberg",
+    "steipete",
+    "egeberkina",
+    "karpathy"
+  ],
+  "posts": [
+    {
+      "id": "2126066175297913103",
+      "user": "egeberkina",
+      "created_at": "2026-11-26T21:30:51.000Z",
+      "created_at_bj": "2026-11-27 05:30",
+      "views": 2149,
+      "metrics": {
+        "impression_count": 2149,
+        "like_count": 26,
+        "reply_count": 0,
+        "quote_count": 0,
+        "retweet_count": 1,
+        "bookmark_count": 3
+      },
+      "already_pushed": false,
+      "text": "Wear the garden https://t.co/JOduXT5SXj https://t.co/mbGpsjP5dQ",
+      "text_zh": "穿上花园 https://t.co/JOduXT5SXj https://t.co/mbGpsjP5dQ",
+      "url": "https://x.com/egeberkina/status/2126066175297913103",
+      "edit_of": null,
+      "quoted": [
+        {
+          "id": "2125892102412239137",
+          "user": "egeberkina",
+          "text": "Golf drip https://t.co/lFHUZqQmKb",
+          "text_zh": "高尔夫潮装"
+        }
+      ],
+      "rate_per_hour": 77,
+      "basis": "snapshot",
+      "prev": {
+        "views": 2104,
+        "checked_at": "2026-11-27T16:40:26+08:00"
+      },
+      "hit": false
+    }
+  ],
+  "new_hits": [],
+  "counts": {
+    "checked": 1,
+    "new_hits": 0,
+    "snapshots_before": 2,
+    "snapshots_after": 1,
+    "pushed_before": 242,
+    "pushed_after": 242,
+    "aged_out": [
+      "2126059403950391768"
+    ],
+    "per_account": {
+      "levelsio": 0,
+      "marclou": 0,
+      "gregisenberg": 0,
+      "steipete": 0,
+      "egeberkina": 1,
+      "karpathy": 0
+    }
+  }
+}
