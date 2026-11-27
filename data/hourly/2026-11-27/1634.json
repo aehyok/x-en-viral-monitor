@@ -1,0 +1,99 @@
+{
+  "run_at": "2026-11-27T16:40:26+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "1634",
+  "accounts": [
+    "levelsio",
+    "marclou",
+    "gregisenberg",
+    "steipete",
+    "egeberkina",
+    "karpathy"
+  ],
+  "posts": [
+    {
+      "id": "2126066175297913103",
+      "user": "egeberkina",
+      "created_at": "2026-11-26T21:30:51.000Z",
+      "created_at_bj": "2026-11-27 05:30",
+      "views": 2104,
+      "metrics": {
+        "impression_count": 2104,
+        "like_count": 26,
+        "reply_count": 0,
+        "quote_count": 0,
+        "retweet_count": 1,
+        "bookmark_count": 3
+      },
+      "already_pushed": false,
+      "text": "Wear the garden https://t.co/JOduXT5SXj https://t.co/mbGpsjP5dQ",
+      "text_zh": "穿上花园 https://t.co/JOduXT5SXj https://t.co/mbGpsjP5dQ",
+      "url": "https://x.com/egeberkina/status/2126066175297913103",
+      "rate_per_hour": 96,
+      "basis": "snapshot",
+      "prev": {
+        "views": 2058,
+        "checked_at": "2026-11-27T16:11:41+08:00"
+      },
+      "edit_of": null,
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2125892102412239137",
+          "user": "egeberkina",
+          "text": "Golf drip https://t.co/lFHUZqQmKb",
+          "text_zh": "高尔夫潮装"
+        }
+      ]
+    },
+    {
+      "id": "2126059403950391768",
+      "user": "levelsio",
+      "created_at": "2026-11-26T21:03:56.000Z",
+      "created_at_bj": "2026-11-27 05:03",
+      "views": 36457,
+      "metrics": {
+        "impression_count": 36457,
+        "like_count": 205,
+        "reply_count": 43,
+        "quote_count": 0,
+        "retweet_count": 1,
+        "bookmark_count": 17
+      },
+      "already_pushed": true,
+      "text": "🇦🇪 Habibiiiiiiiii https://t.co/VvO5jciGyz",
+      "text_zh": "🇦🇪 Habibiiiiiiiii（嗨，宝贝）https://t.co/VvO5jciGyz",
+      "url": "https://x.com/levelsio/status/2126059403950391768",
+      "rate_per_hour": 1755,
+      "basis": "snapshot",
+      "prev": {
+        "views": 35616,
+        "checked_at": "2026-11-27T16:11:41+08:00"
+      },
+      "edit_of": null,
+      "hit": false
+    }
+  ],
+  "new_hits": [],
+  "counts": {
+    "checked": 2,
+    "new_hits": 0,
+    "snapshots_before": 3,
+    "snapshots_after": 2,
+    "pushed_before": 242,
+    "pushed_after": 242,
+    "aged_out": [
+      "2126047321246826569"
+    ],
+    "per_account": {
+      "levelsio": 1,
+      "marclou": 0,
+      "gregisenberg": 0,
+      "steipete": 0,
+      "egeberkina": 1,
+      "karpathy": 0
+    }
+  }
+}
