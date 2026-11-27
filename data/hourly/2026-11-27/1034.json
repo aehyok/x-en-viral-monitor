@@ -1,0 +1,189 @@
+{
+  "run_at": "2026-11-27T10:48:44+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "1034",
+  "accounts": [
+    "levelsio",
+    "marclou",
+    "gregisenberg",
+    "steipete",
+    "egeberkina",
+    "karpathy"
+  ],
+  "posts": [
+    {
+      "id": "2126066175297913103",
+      "user": "egeberkina",
+      "created_at": "2026-11-26T21:30:51.000Z",
+      "created_at_bj": "2026-11-27 05:30",
+      "views": 1514,
+      "metrics": {
+        "impression_count": 1514,
+        "like_count": 20,
+        "reply_count": 0,
+        "quote_count": 0,
+        "retweet_count": 1,
+        "bookmark_count": 1
+      },
+      "already_pushed": false,
+      "text": "Wear the garden https://t.co/JOduXT5SXj https://t.co/mbGpsjP5dQ",
+      "text_zh": "穿上花园 https://t.co/JOduXT5SXj https://t.co/mbGpsjP5dQ",
+      "url": "https://x.com/egeberkina/status/2126066175297913103",
+      "rate_per_hour": 112,
+      "basis": "snapshot",
+      "prev": {
+        "views": 1459,
+        "checked_at": "2026-11-27T10:19:11+08:00"
+      },
+      "edit_of": null,
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2125892102412239137",
+          "user": "egeberkina",
+          "text": "Golf drip https://t.co/lFHUZqQmKb",
+          "text_zh": "高尔夫潮装"
+        }
+      ]
+    },
+    {
+      "id": "2126059403950391768",
+      "user": "levelsio",
+      "created_at": "2026-11-26T21:03:56.000Z",
+      "created_at_bj": "2026-11-27 05:03",
+      "views": 23746,
+      "metrics": {
+        "impression_count": 23746,
+        "like_count": 103,
+        "reply_count": 22,
+        "quote_count": 0,
+        "retweet_count": 1,
+        "bookmark_count": 12
+      },
+      "already_pushed": true,
+      "text": "🇦🇪 Habibiiiiiiiii https://t.co/VvO5jciGyz",
+      "text_zh": "🇦🇪 Habibiiiiiiiii（嗨，宝贝）https://t.co/VvO5jciGyz",
+      "url": "https://x.com/levelsio/status/2126059403950391768",
+      "rate_per_hour": 1732,
+      "basis": "snapshot",
+      "prev": {
+        "views": 22893,
+        "checked_at": "2026-11-27T10:19:11+08:00"
+      },
+      "edit_of": null,
+      "hit": false,
+      "quoted": null
+    },
+    {
+      "id": "2126047321246826569",
+      "user": "gregisenberg",
+      "created_at": "2026-11-26T20:15:56.000Z",
+      "created_at_bj": "2026-11-27 04:15",
+      "views": 14154,
+      "metrics": {
+        "impression_count": 14154,
+        "like_count": 92,
+        "reply_count": 31,
+        "quote_count": 0,
+        "retweet_count": 4,
+        "bookmark_count": 14
+      },
+      "already_pushed": false,
+      "text": "Happy thanksgiving, friends. https://t.co/nx3dDUGN8i",
+      "text_zh": "感恩节快乐，朋友们。https://t.co/nx3dDUGN8i",
+      "url": "https://x.com/gregisenberg/status/2126047321246826569",
+      "rate_per_hour": 540,
+      "basis": "snapshot",
+      "prev": {
+        "views": 13888,
+        "checked_at": "2026-11-27T10:19:11+08:00"
+      },
+      "edit_of": null,
+      "hit": false,
+      "quoted": null
+    },
+    {
+      "id": "2126004403052445733",
+      "user": "gregisenberg",
+      "created_at": "2026-11-26T17:25:23.000Z",
+      "created_at_bj": "2026-11-27 01:25",
+      "views": 111563,
+      "metrics": {
+        "impression_count": 111563,
+        "like_count": 1453,
+        "reply_count": 135,
+        "quote_count": 28,
+        "retweet_count": 147,
+        "bookmark_count": 1112
+      },
+      "already_pushed": true,
+      "text": "A guy let Claude read his 1994 Jeep's engine computer through a $3 chip.\n\nIt found why the car kept failing smog, and he says it passed. \n\nThe whole thing cost about $15 in parts, and it's free on GitHub. https://t.co/E9kOFaX8sq",
+      "text_zh": "有人让 Claude 通过一枚 3 美元的芯片，读取他 1994 年 Jeep 的发动机电脑。\n\n它找出了这辆车一直过不了尾气检测（smog）的原因，他说后来通过了。\n\n全部零件大概只花了 15 美元，而且代码在 GitHub 上免费开源。https://t.co/E9kOFaX8sq",
+      "url": "https://x.com/gregisenberg/status/2126004403052445733",
+      "rate_per_hour": 7253,
+      "basis": "snapshot",
+      "prev": {
+        "views": 107991,
+        "checked_at": "2026-11-27T10:19:11+08:00"
+      },
+      "edit_of": null,
+      "hit": false,
+      "quoted": null
+    },
+    {
+      "id": "2125985178606551471",
+      "user": "egeberkina",
+      "created_at": "2026-11-26T16:09:00.000Z",
+      "created_at_bj": "2026-11-27 00:09",
+      "views": 8268,
+      "metrics": {
+        "impression_count": 8268,
+        "like_count": 329,
+        "reply_count": 4,
+        "quote_count": 4,
+        "retweet_count": 20,
+        "bookmark_count": 76
+      },
+      "already_pushed": false,
+      "text": "Ahlan Masr https://t.co/wurD5dMvrn https://t.co/6CT1beLRjD",
+      "text_zh": "Ahlan Masr（嗨，埃及）https://t.co/wurD5dMvrn https://t.co/6CT1beLRjD",
+      "url": "https://x.com/egeberkina/status/2125985178606551471",
+      "rate_per_hour": 887,
+      "basis": "snapshot",
+      "prev": {
+        "views": 7831,
+        "checked_at": "2026-11-27T10:19:11+08:00"
+      },
+      "edit_of": null,
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2125594941149905376",
+          "user": "egeberkina",
+          "text": "Privet Russia https://t.co/WbMHI4MrLb https://t.co/YDP9MLUjHD",
+          "text_zh": "Privet Russia（嗨，俄罗斯）https://t.co/WbMHI4MrLb https://t.co/YDP9MLUjHD"
+        }
+      ]
+    }
+  ],
+  "new_hits": [],
+  "counts": {
+    "checked": 5,
+    "new_hits": 0,
+    "snapshots_before": 5,
+    "snapshots_after": 5,
+    "pushed_before": 242,
+    "pushed_after": 242,
+    "aged_out": [],
+    "per_account": {
+      "levelsio": 1,
+      "marclou": 0,
+      "gregisenberg": 2,
+      "steipete": 0,
+      "egeberkina": 2,
+      "karpathy": 0
+    }
+  }
+}
