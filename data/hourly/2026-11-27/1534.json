@@ -1,0 +1,124 @@
+{
+  "run_at": "2026-11-27T15:46:28+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "1534",
+  "accounts": [
+    "levelsio",
+    "marclou",
+    "gregisenberg",
+    "steipete",
+    "egeberkina",
+    "karpathy"
+  ],
+  "posts": [
+    {
+      "id": "2126066175297913103",
+      "user": "egeberkina",
+      "created_at": "2026-11-26T21:30:51.000Z",
+      "created_at_bj": "2026-11-27 05:30",
+      "views": 2014,
+      "metrics": {
+        "impression_count": 2014,
+        "like_count": 25,
+        "reply_count": 0,
+        "quote_count": 0,
+        "retweet_count": 1,
+        "bookmark_count": 3
+      },
+      "already_pushed": false,
+      "text": "Wear the garden https://t.co/JOduXT5SXj https://t.co/mbGpsjP5dQ",
+      "text_zh": "穿上花园 https://t.co/JOduXT5SXj https://t.co/mbGpsjP5dQ",
+      "url": "https://x.com/egeberkina/status/2126066175297913103",
+      "rate_per_hour": 140,
+      "basis": "snapshot",
+      "prev": {
+        "views": 1938,
+        "checked_at": "2026-11-27T15:13:47+08:00"
+      },
+      "edit_of": null,
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2125892102412239137",
+          "user": "egeberkina",
+          "text": "Golf drip https://t.co/lFHUZqQmKb",
+          "text_zh": "高尔夫潮装"
+        }
+      ]
+    },
+    {
+      "id": "2126059403950391768",
+      "user": "levelsio",
+      "created_at": "2026-11-26T21:03:56.000Z",
+      "created_at_bj": "2026-11-27 05:03",
+      "views": 34749,
+      "metrics": {
+        "impression_count": 34749,
+        "like_count": 193,
+        "reply_count": 41,
+        "quote_count": 0,
+        "retweet_count": 1,
+        "bookmark_count": 17
+      },
+      "already_pushed": true,
+      "text": "🇦🇪 Habibiiiiiiiii https://t.co/VvO5jciGyz",
+      "text_zh": "🇦🇪 Habibiiiiiiiii（嗨，宝贝）https://t.co/VvO5jciGyz",
+      "url": "https://x.com/levelsio/status/2126059403950391768",
+      "rate_per_hour": 3101,
+      "basis": "snapshot",
+      "prev": {
+        "views": 33060,
+        "checked_at": "2026-11-27T15:13:47+08:00"
+      },
+      "edit_of": null,
+      "hit": false
+    },
+    {
+      "id": "2126047321246826569",
+      "user": "gregisenberg",
+      "created_at": "2026-11-26T20:15:56.000Z",
+      "created_at_bj": "2026-11-27 04:15",
+      "views": 16300,
+      "metrics": {
+        "impression_count": 16300,
+        "like_count": 118,
+        "reply_count": 37,
+        "quote_count": 0,
+        "retweet_count": 4,
+        "bookmark_count": 18
+      },
+      "already_pushed": false,
+      "text": "Happy thanksgiving, friends. https://t.co/nx3dDUGN8i",
+      "text_zh": "感恩节快乐，朋友们。https://t.co/nx3dDUGN8i",
+      "url": "https://x.com/gregisenberg/status/2126047321246826569",
+      "rate_per_hour": 430,
+      "basis": "snapshot",
+      "prev": {
+        "views": 16066,
+        "checked_at": "2026-11-27T15:13:47+08:00"
+      },
+      "edit_of": null,
+      "hit": false
+    }
+  ],
+  "new_hits": [],
+  "counts": {
+    "checked": 3,
+    "new_hits": 0,
+    "snapshots_before": 3,
+    "snapshots_after": 3,
+    "pushed_before": 242,
+    "pushed_after": 242,
+    "aged_out": [],
+    "per_account": {
+      "levelsio": 1,
+      "marclou": 0,
+      "gregisenberg": 1,
+      "steipete": 0,
+      "egeberkina": 1,
+      "karpathy": 0
+    }
+  }
+}
