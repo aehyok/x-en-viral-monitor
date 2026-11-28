@@ -1,0 +1,116 @@
+{
+  "run_at": "2026-11-28T13:06:45+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "1305",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2126529485227126943",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2126529485227126943",
+      "created_at": "2026-11-28T04:11:52.000Z",
+      "created_at_bj": "2026-11-28 12:11",
+      "views": 14593,
+      "rate_per_hour": 14699,
+      "basis": "snapshot",
+      "prev": {
+        "views": 7868,
+        "checked_at": "2026-11-28T12:39:18+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 14593,
+        "like_count": 63,
+        "reply_count": 17,
+        "quote_count": 1,
+        "retweet_count": 1,
+        "bookmark_count": 13
+      },
+      "already_pushed": true,
+      "text": "Great reply bait because indeed we all did! https://t.co/W2Av0zZveC",
+      "text_zh": "超棒的回复诱饵，因为我们确实都这么做过！ https://t.co/W2Av0zZveC",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2126366189521920471",
+          "user": "weswinder",
+          "text": "everyone keeps saying claude killed saas\n\nok. so name one tool you canceled because you vibe coded it yourself\n\nand you still use your version a month later\n\njust one\n\ni'll wait",
+          "text_zh": "大家都在说 Claude 把 SaaS 给杀了\n\n行。那就举出一个你因为自己 vibe coded 出来而取消订阅的工具\n\n而且一个月后你还在用自己那个版本\n\n就一个\n\n我等着"
+        }
+      ]
+    },
+    {
+      "id": "2126425412200964224",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2126425412200964224",
+      "created_at": "2026-11-27T21:18:19.000Z",
+      "created_at_bj": "2026-11-28 05:18",
+      "views": 41270,
+      "rate_per_hour": 2660,
+      "basis": "snapshot",
+      "prev": {
+        "views": 40053,
+        "checked_at": "2026-11-28T12:39:18+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 41270,
+        "like_count": 533,
+        "reply_count": 136,
+        "quote_count": 7,
+        "retweet_count": 14,
+        "bookmark_count": 179
+      },
+      "already_pushed": true,
+      "text": "I don't want to have to do it but there needs to exist a YC for bootstrapped, creator-led, semi-autonomous companies mostly run by AI agents \n\nSorely needed!",
+      "text_zh": "我不想自己必须去做这件事，但确实需要有一个面向自举（bootstrapped）、创作者主导、主要由 AI agents 来运转的半自主公司的 YC。\n\n太需要了！",
+      "hit": false,
+      "quoted": []
+    },
+    {
+      "id": "2126415966548455725",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2126415966548455725",
+      "created_at": "2026-11-27T20:40:47.000Z",
+      "created_at_bj": "2026-11-28 04:40",
+      "views": 175420,
+      "rate_per_hour": 32709,
+      "basis": "snapshot",
+      "prev": {
+        "views": 160455,
+        "checked_at": "2026-11-28T12:39:18+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 175420,
+        "like_count": 10943,
+        "reply_count": 34,
+        "quote_count": 55,
+        "retweet_count": 2095,
+        "bookmark_count": 2090
+      },
+      "already_pushed": true,
+      "text": "Postcards from Indonesia https://t.co/62ynSI0DW3 https://t.co/3ZfOhbnksl",
+      "text_zh": "来自 Indonesia 的明信片 https://t.co/62ynSI0DW3 https://t.co/3ZfOhbnksl",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2125985178606551471",
+          "user": "egeberkina",
+          "text": "Ahlan Masr https://t.co/wurD5dMvrn https://t.co/6CT1beLRjD",
+          "text_zh": "Ahlan Masr（嗨，埃及）https://t.co/wurD5dMvrn https://t.co/6CT1beLRjD"
+        }
+      ]
+    }
+  ],
+  "new_hits": []
+}
