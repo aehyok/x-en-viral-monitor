@@ -1,0 +1,224 @@
+{
+  "run_at": "2026-11-28T10:38:36+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "1036",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2126425412200964224",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2126425412200964224",
+      "created_at": "2026-11-27T21:18:19.000Z",
+      "created_at_bj": "2026-11-28 05:18",
+      "views": 33873,
+      "rate_per_hour": 3469,
+      "basis": "snapshot",
+      "prev": {
+        "views": 32164,
+        "checked_at": "2026-11-28T10:09:02+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 33873,
+        "like_count": 422,
+        "reply_count": 116,
+        "quote_count": 5,
+        "retweet_count": 13,
+        "bookmark_count": 150
+      },
+      "already_pushed": true,
+      "text": "I don't want to have to do it but there needs to exist a YC for bootstrapped, creator-led, semi-autonomous companies mostly run by AI agents \n\nSorely needed!",
+      "text_zh": "我不想自己必须去做这件事，但确实需要有一个面向自举（bootstrapped）、创作者主导、主要由 AI agents 来运转的半自主公司的 YC。\n\n太需要了！",
+      "hit": false,
+      "quoted": []
+    },
+    {
+      "id": "2126415966548455725",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2126415966548455725",
+      "created_at": "2026-11-27T20:40:47.000Z",
+      "created_at_bj": "2026-11-28 04:40",
+      "views": 86953,
+      "rate_per_hour": 37357,
+      "basis": "snapshot",
+      "prev": {
+        "views": 68547,
+        "checked_at": "2026-11-28T10:09:02+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 86953,
+        "like_count": 5763,
+        "reply_count": 21,
+        "quote_count": 29,
+        "retweet_count": 1102,
+        "bookmark_count": 1096
+      },
+      "already_pushed": true,
+      "text": "Postcards from Indonesia https://t.co/62ynSI0DW3 https://t.co/3ZfOhbnksl",
+      "text_zh": "来自 Indonesia 的明信片 https://t.co/62ynSI0DW3 https://t.co/3ZfOhbnksl",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2125985178606551471",
+          "user": "egeberkina",
+          "text": "Ahlan Masr https://t.co/wurD5dMvrn https://t.co/6CT1beLRjD",
+          "text_zh": "Ahlan Masr（嗨，埃及）https://t.co/wurD5dMvrn https://t.co/6CT1beLRjD"
+        }
+      ]
+    },
+    {
+      "id": "2126356350875709581",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2126356350875709581",
+      "created_at": "2026-11-27T16:43:54.000Z",
+      "created_at_bj": "2026-11-28 00:43",
+      "views": 191007,
+      "rate_per_hour": 27309,
+      "basis": "snapshot",
+      "prev": {
+        "views": 177552,
+        "checked_at": "2026-11-28T10:09:02+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 191007,
+        "like_count": 2387,
+        "reply_count": 256,
+        "quote_count": 55,
+        "retweet_count": 83,
+        "bookmark_count": 1121
+      },
+      "already_pushed": true,
+      "text": "New trend I'm observing:\n\n1. Startup raises venture capital\n2. Uses venture dollars to become creator \n3. Startup fails\n4. Fall back on becoming a full-time creator and makes $500k-$5M/year as creator\n5. Incubates other products bootstrapped\n6. Never raises VC again",
+      "text_zh": "我观察到的新趋势：\n\n1. 创业公司融到风险投资\n2. 用风投的钱把自己做成创作者\n3. 创业公司失败\n4. 退回去做全职创作者，一年靠创作赚 $500k-$5M\n5. 再用自举的方式孵化其他产品\n6. 再也不向 VC 融资",
+      "hit": false,
+      "quoted": []
+    },
+    {
+      "id": "2126348650217447749",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2126348650217447749",
+      "created_at": "2026-11-27T16:13:18.000Z",
+      "created_at_bj": "2026-11-28 00:13",
+      "views": 2575,
+      "rate_per_hour": 213,
+      "basis": "snapshot",
+      "prev": {
+        "views": 2470,
+        "checked_at": "2026-11-28T10:09:02+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 2575,
+        "like_count": 31,
+        "reply_count": 3,
+        "quote_count": 0,
+        "retweet_count": 0,
+        "bookmark_count": 12
+      },
+      "already_pushed": false,
+      "text": "ok I didn't expect this to work this well\n\ngave Kling Image 4.0 one pic of my character and just kept throwing them into totally different movies. noir, desert... and it's the same woman every single time\n\nusually by image 3 the face starts melting into someone else lol. not here\n\nif you do any kind of film pitch or storyboard stuff this is kind of a cheat code",
+      "text_zh": "好吧，我没想到效果会这么好\n\n只给了 Kling Image 4.0 一张我的角色图，然后不断把她扔进完全不同的电影里。noir、desert……每次都还是同一个女人\n\n通常到第 3 张图，脸就开始融化成别人了 lol。但这里没有\n\n如果你做任何电影提案或 storyboard 之类的东西，这几乎算是开挂",
+      "hit": false,
+      "quoted": []
+    },
+    {
+      "id": "2126341534240874831",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2126341534240874831",
+      "created_at": "2026-11-27T15:45:01.000Z",
+      "created_at_bj": "2026-11-27 23:45",
+      "views": 64025,
+      "rate_per_hour": 1662,
+      "basis": "snapshot",
+      "prev": {
+        "views": 63206,
+        "checked_at": "2026-11-28T10:09:02+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 64025,
+        "like_count": 623,
+        "reply_count": 101,
+        "quote_count": 3,
+        "retweet_count": 11,
+        "bookmark_count": 417
+      },
+      "already_pushed": false,
+      "text": "Visited a beautiful coworking / cafe / hotel in 🇦🇪 Dubai recommended by @fadieacc \n\nIt's called Dubai Founders HQ and you can become a member or just visit the cafe for free\n\nAlso very very good coffee and fast WiFi, beautiful interior and perfect AC temperature\n\n10/10 https://t.co/DoVcycbFwT https://t.co/UicA7GSSWJ",
+      "text_zh": "去了一家很漂亮的 coworking / 咖啡馆 / 酒店，在 🇦🇪 Dubai，是 @fadieacc 推荐的。\n\n它叫 Dubai Founders HQ，你可以办会员，也可以免费去咖啡馆坐坐。\n\n咖啡非常非常好喝，WiFi 很快，室内设计很美，空调温度也刚刚好。\n\n10/10 https://t.co/DoVcycbFwT https://t.co/UicA7GSSWJ",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2126059403950391768",
+          "user": "levelsio",
+          "text": "🇦🇪 Habibiiiiiiiii https://t.co/VvO5jciGyz",
+          "text_zh": "🇦🇪 Habibiiiiiiiii（嗨，宝贝）https://t.co/VvO5jciGyz"
+        }
+      ]
+    },
+    {
+      "id": "2126331968292102498",
+      "user": "marclou",
+      "url": "https://x.com/marclou/status/2126331968292102498",
+      "created_at": "2026-11-27T15:07:01.000Z",
+      "created_at_bj": "2026-11-27 23:07",
+      "views": 36419,
+      "rate_per_hour": 1457,
+      "basis": "snapshot",
+      "prev": {
+        "views": 35701,
+        "checked_at": "2026-11-28T10:09:02+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 36419,
+        "like_count": 230,
+        "reply_count": 69,
+        "quote_count": 17,
+        "retweet_count": 10,
+        "bookmark_count": 61
+      },
+      "already_pushed": true,
+      "text": "I'm shutting down the $100K Hackathon...\n\n...because it's now the $150K Hackathon 🫡\n\n@higgsfield_ai just added another $50K for Black Friday to support solo builders shipping their own products.\n\nEvery cash prize is now 50% bigger!\n\n🥇 $45,000\n🥈 $30,000\n🥉 $15,000\n\neven 10th place gets $7,500.\n\nSame goal: Build the most profitable business.\n\nIt's free to join, and there are 19 days left: https://t.co/hHY6mlcu5F",
+      "text_zh": "我要关停这个 $100K Hackathon 了……\n\n……因为它现在变成了 $150K Hackathon 🫡\n\n@higgsfield_ai 刚刚为 Black Friday 又追加了 $50K，用来支持独立开发者把自己的产品做出来上线。\n\n每档现金奖金现在都大了 50%！\n\n🥇 $45,000\n🥈 $30,000\n🥉 $15,000\n\n就算第 10 名也能拿到 $7,500。\n\n目标不变：做出最赚钱的生意。\n\n免费参加，还剩 19 天：https://t.co/hHY6mlcu5F",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2120155404957311464",
+          "user": "marclou",
+          "text": "Higgsfield gave me $100,000 to realize my dream:\n\nA hackathon where participants build a real business, not just an app.\n\nSo... Introducing The $100K Hackathon:\n🏴‍☠️ https://t.co/nHDJ5Qruhu 🏴‍☠️\n\nIt starts on November 16, and you'll have 30 days to build a startup and make it profitable. The prizes:\n\n🥇 $100,000\n🥈 iPhone Duo\n🥉 MacBook Neo\n\nThis is not a joke. The winner will get $100,000 in cash.\n\nTo win, you must:\n\n1. Start a completely new business on Nov 16\n2. Build a digital product (SaaS, directory, etc.)\n3. Make the most profit (not revenue)\n\nYou can already register at $99. When the hackathon starts on Nov 16, you can still join for $149.\n\nI'm running this with my dear friend @jackfriks, and we'll manually review each potential winner to make sure everything holds up.\n\nSee you on November 16, builders 🏴‍☠️🫡",
+          "text_zh": "Higgsfield 给了我 $100,000 来实现我的梦想：\n\n一场让参赛者去打造真正生意、而不只是做一个应用的黑客松。\n\n所以……隆重介绍 The $100K Hackathon：\n🏴‍☠️ https://t.co/nHDJ5Qruhu 🏴‍☠️\n\n11 月 16 日开始，你们有 30 天时间做出一家创业公司并把它做成盈利。奖项：\n\n🥇 $100,000\n🥈 iPhone Duo\n🥉 MacBook Neo\n\n这不是开玩笑。赢家将获得 $100,000 现金。\n\n要获胜，你必须：\n\n1. 在 11 月 16 日创办一家全新的生意\n2. 做出一款数字产品（SaaS、directory 等）\n3. 赚到最多的利润（不是收入）\n\n现在就可以 $99 报名。黑客松在 11 月 16 日开始后，还可以 $149 加入。\n\n我是和好友 @jackfriks 一起办的，我们会人工审核每一位潜在赢家，确保一切经得起检验。\n\n11 月 16 日见，builders 🏴‍☠️🫡"
+        }
+      ]
+    }
+  ],
+  "new_hits": [],
+  "counts": {
+    "aged_out": [],
+    "checked": 6,
+    "new_hits": 0,
+    "per_account": {
+      "levelsio": 1,
+      "marclou": 1,
+      "gregisenberg": 2,
+      "steipete": 0,
+      "egeberkina": 2,
+      "karpathy": 0
+    },
+    "pushed_after": 251,
+    "pushed_before": 251,
+    "snapshots_after": 6,
+    "snapshots_before": 6
+  }
+}
