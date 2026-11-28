@@ -1,0 +1,156 @@
+{
+  "run_at": "2026-11-28T12:06:50+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "1205",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2126425412200964224",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2126425412200964224",
+      "created_at": "2026-11-27T21:18:19.000Z",
+      "created_at_bj": "2026-11-28 05:18",
+      "views": 38437,
+      "rate_per_hour": 3225,
+      "basis": "snapshot",
+      "prev": {
+        "views": 36960,
+        "checked_at": "2026-11-28T11:39:22+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 38437,
+        "like_count": 491,
+        "reply_count": 130,
+        "quote_count": 7,
+        "retweet_count": 14,
+        "bookmark_count": 167
+      },
+      "already_pushed": true,
+      "text": "I don't want to have to do it but there needs to exist a YC for bootstrapped, creator-led, semi-autonomous companies mostly run by AI agents \n\nSorely needed!",
+      "text_zh": "我不想自己必须去做这件事，但确实需要有一个面向自举（bootstrapped）、创作者主导、主要由 AI agents 来运转的半自主公司的 YC。\n\n太需要了！",
+      "hit": false,
+      "quoted": []
+    },
+    {
+      "id": "2126415966548455725",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2126415966548455725",
+      "created_at": "2026-11-27T20:40:47.000Z",
+      "created_at_bj": "2026-11-28 04:40",
+      "views": 142886,
+      "rate_per_hour": 32289,
+      "basis": "snapshot",
+      "prev": {
+        "views": 128100,
+        "checked_at": "2026-11-28T11:39:22+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 142886,
+        "like_count": 9116,
+        "reply_count": 30,
+        "quote_count": 47,
+        "retweet_count": 1761,
+        "bookmark_count": 1704
+      },
+      "already_pushed": true,
+      "text": "Postcards from Indonesia https://t.co/62ynSI0DW3 https://t.co/3ZfOhbnksl",
+      "text_zh": "来自 Indonesia 的明信片 https://t.co/62ynSI0DW3 https://t.co/3ZfOhbnksl",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2125985178606551471",
+          "user": "egeberkina",
+          "text": "Ahlan Masr https://t.co/wurD5dMvrn https://t.co/6CT1beLRjD",
+          "text_zh": "Ahlan Masr（嗨，埃及）https://t.co/wurD5dMvrn https://t.co/6CT1beLRjD"
+        }
+      ]
+    },
+    {
+      "id": "2126356350875709581",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2126356350875709581",
+      "created_at": "2026-11-27T16:43:54.000Z",
+      "created_at_bj": "2026-11-28 00:43",
+      "views": 220793,
+      "rate_per_hour": 15629,
+      "basis": "snapshot",
+      "prev": {
+        "views": 213636,
+        "checked_at": "2026-11-28T11:39:22+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 220793,
+        "like_count": 2576,
+        "reply_count": 270,
+        "quote_count": 56,
+        "retweet_count": 88,
+        "bookmark_count": 1220
+      },
+      "already_pushed": true,
+      "text": "New trend I'm observing:\n\n1. Startup raises venture capital\n2. Uses venture dollars to become creator \n3. Startup fails\n4. Fall back on becoming a full-time creator and makes $500k-$5M/year as creator\n5. Incubates other products bootstrapped\n6. Never raises VC again",
+      "text_zh": "我观察到的新趋势：\n\n1. 创业公司融到风险投资\n2. 用风投的钱把自己做成创作者\n3. 创业公司失败\n4. 退回去做全职创作者，一年靠创作赚 $500k-$5M\n5. 再用自举的方式孵化其他产品\n6. 再也不向 VC 融资",
+      "hit": false,
+      "quoted": []
+    },
+    {
+      "id": "2126348650217447749",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2126348650217447749",
+      "created_at": "2026-11-27T16:13:18.000Z",
+      "created_at_bj": "2026-11-28 00:13",
+      "views": 2901,
+      "rate_per_hour": 199,
+      "basis": "snapshot",
+      "prev": {
+        "views": 2810,
+        "checked_at": "2026-11-28T11:39:22+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 2901,
+        "like_count": 32,
+        "reply_count": 3,
+        "quote_count": 0,
+        "retweet_count": 0,
+        "bookmark_count": 15
+      },
+      "already_pushed": false,
+      "text": "ok I didn't expect this to work this well\n\ngave Kling Image 4.0 one pic of my character and just kept throwing them into totally different movies. noir, desert... and it's the same woman every single time\n\nusually by image 3 the face starts melting into someone else lol. not here\n\nif you do any kind of film pitch or storyboard stuff this is kind of a cheat code",
+      "text_zh": "好吧，我没想到效果会这么好\n\n只给了 Kling Image 4.0 一张我的角色图，然后不断把她扔进完全不同的电影里。noir、desert……每次都还是同一个女人\n\n通常到第 3 张图，脸就开始融化成别人了 lol。但这里没有\n\n如果你做任何电影提案或 storyboard 之类的东西，这几乎算是开挂",
+      "hit": false,
+      "quoted": []
+    }
+  ],
+  "new_hits": [],
+  "counts": {
+    "aged_out": [
+      "2126341534240874831"
+    ],
+    "checked": 4,
+    "new_hits": 0,
+    "per_account": {
+      "levelsio": 0,
+      "marclou": 0,
+      "gregisenberg": 2,
+      "steipete": 0,
+      "egeberkina": 2,
+      "karpathy": 0
+    },
+    "pushed_after": 251,
+    "pushed_before": 251,
+    "snapshots_after": 4,
+    "snapshots_before": 5
+  }
+}
