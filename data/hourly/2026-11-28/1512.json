@@ -1,0 +1,238 @@
+{
+  "run_at": "2026-11-28T15:14:19+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "1512",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2126562531678322893",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2126562531678322893",
+      "created_at": "2026-11-28T06:23:11.000Z",
+      "created_at_bj": "2026-11-28 14:23",
+      "views": 9745,
+      "rate_per_hour": 9130,
+      "basis": "snapshot",
+      "prev": {
+        "views": 4308,
+        "checked_at": "2026-11-28T14:38:36+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 9745,
+        "like_count": 44,
+        "reply_count": 6,
+        "quote_count": 1,
+        "retweet_count": 0,
+        "bookmark_count": 12
+      },
+      "already_pushed": true,
+      "text": "I liked this so much I had to make the whole foods version of this https://t.co/7pM1YQrHvq https://t.co/qX34xYLp4V",
+      "text_zh": "我实在太喜欢这个了，于是自己做了这个的 Whole Foods 版本 https://t.co/7pM1YQrHvq https://t.co/qX34xYLp4V",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2126011616881946962",
+          "user": "pnwguerrilla",
+          "text": "I suppose we shouldn’t be surprised but i have never seen percentages of the ingredients and wow does this really change the perspective on these products. https://t.co/39ra87napF",
+          "text_zh": "我猜我们不该感到惊讶，但我从来没见过这些配料的百分比，哇，这真的彻底改变了对这些产品的看法。 https://t.co/39ra87napF"
+        }
+      ]
+    },
+    {
+      "id": "2126554051345076689",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2126554051345076689",
+      "created_at": "2026-11-28T05:49:29.000Z",
+      "created_at_bj": "2026-11-28 13:49",
+      "views": 9358,
+      "rate_per_hour": 3550,
+      "basis": "snapshot",
+      "prev": {
+        "views": 7244,
+        "checked_at": "2026-11-28T14:38:36+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 9358,
+        "like_count": 30,
+        "reply_count": 15,
+        "quote_count": 0,
+        "retweet_count": 0,
+        "bookmark_count": 6
+      },
+      "already_pushed": true,
+      "text": "If anyone knows a venue where to host this that'd be nice!\n\nIt'll be about 100 people I think https://t.co/zf6JQVtHIl",
+      "text_zh": "如果有人知道能办这个活动的场地，那就太好了！\n\n我估计大概会有 100 人 https://t.co/zf6JQVtHIl",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2125944241042186601",
+          "user": "levelsio",
+          "text": "🌏 My coworking day in 🇸🇬 Singapore is on!\n\nNext Monday on 30 November we'll meet to cowork, laptop, drink ☕️ coffee and talk!\n\nIf you want to come please register on Luma below, and add your X username so I know who's coming!\n\nhttps://t.co/TP3ILWCFaO\n\nAlso we have a special guest! My friend @dannypostma will be attending!\n\n👋 See you all there!",
+          "text_zh": "🌏 我在 🇸🇬 Singapore 的联合办公日定下来了！\n\n下周一 11 月 30 日我们会见面一起 cowork、带上笔记本、喝 ☕️ 咖啡、聊天！\n\n想参加的话请在下面的 Luma 报名，并填上你的 X 用户名，好让我知道谁会来！\n\nhttps://t.co/TP3ILWCFaO\n\n还有一位特别嘉宾！我的朋友 @dannypostma 会来参加！\n\n👋 到时见！"
+        }
+      ]
+    },
+    {
+      "id": "2126543261309555159",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2126543261309555159",
+      "created_at": "2026-11-28T05:06:37.000Z",
+      "created_at_bj": "2026-11-28 13:06",
+      "views": 13924,
+      "rate_per_hour": 3776,
+      "basis": "snapshot",
+      "prev": {
+        "views": 11675,
+        "checked_at": "2026-11-28T14:38:36+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 13924,
+        "like_count": 133,
+        "reply_count": 31,
+        "quote_count": 1,
+        "retweet_count": 1,
+        "bookmark_count": 17
+      },
+      "already_pushed": true,
+      "text": "We've now had 24/7 DDOS'ing, fake reports to Cloudflare and now the spammers have fake reported it to Xfinity/Comcast to try take the site down\n\nBut it's still up! \n\nThanks @dotmanish for helping unblock it! https://t.co/mLEv0LdHgM https://t.co/FRqEKqz13T",
+      "text_zh": "我们现在已经遭遇了全天候 DDOS 攻击、有人向 Cloudflare 虚假举报，现在这些垃圾信息发送者又向 Xfinity/Comcast 虚假举报，试图把网站搞下线。\n\n但网站还在！\n\n感谢 @dotmanish 帮忙解封！ https://t.co/mLEv0LdHgM https://t.co/FRqEKqz13T",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2126316431444959453",
+          "user": "levelsio",
+          "text": "Added this section from @X's own rules\n\nMost people don't know that AI reply bots are explicitly not permitted to run on here\n\nAnd duplicate pasting the same reply with automation is the same thing\n\nX has an entire page dedicated to it\n\nThe reason for the \"Let's connect 🤝\" reply spam is simple, people run automated bots (or do it manually) so that when they get a reply with connect in it, they follow the person and that person automatically follows them too\n\nThat way they both get 1 new follower, and that brings them closer to the minimum of 500 verified followers to get accepted into X's Monetization program\n\nBefore reply spamming paid you good money: about $10 per million views, so they scripted that and auto replied and they made money. But @X killed that in January this year. Now only timeline views pay you money\n\nAlso you need 500,000 impressions in the last 3 months (~166,000 per month) to get into X's Monetization Program, so the idea is to pump replies/posts too such a high level that you force these amounts of views\n\nNow the scheme is to grow an account to a few thousand followers, then sell it, or use it for paid product placements, crypto pump and dumps or AI apps/tools\n\nA large part of spam comes from poor countries where just making $100/mo more from X makes a big difference, so I get it, but I think we should also actively fight it because reply spam is destroying this platform and then people will just leave and I don't like that\n\nI made so many friends on here over the last decade and want to continue doing so, if most of my interactions on here are with spam bots, I won't be able to do that anymore!\n\nhttps://t.co/jDDqmG0c8h",
+          "text_zh": "我从 @X 自己的规则里加了这一段\n\n大多数人不知道，AI 回复机器人在这里是明确不被允许运行的\n\n用自动化重复粘贴同一条回复，本质也是一回事\n\nX 专门有一整页讲这个\n\n那些「Let's connect 🤝」回复垃圾信息出现的原因很简单：有人跑自动机器人（或者手动操作），一旦收到带 connect 的回复，他们就关注对方，对方也会自动回关\n\n这样双方各多一个粉丝，从而更接近进入 X Monetization 计划所需的 500 个认证粉丝门槛\n\n以前靠回复刷垃圾还能赚不少：大约每百万浏览 $10，所以他们写了脚本自动回复来赚钱。但 @X 在今年 1 月把这条路掐掉了。现在只有时间线浏览才给你付钱\n\n另外，要进入 X Monetization Program，你还需要过去 3 个月有 500,000 次曝光（约合每月 166,000），所以他们的做法就是把回复/帖子刷到很高的量，好硬凑出这些浏览\n\n现在这套手法是：把账号养到几千粉丝，然后卖掉，或者用来接付费植入、加密货币拉盘砸盘，或推销 AI 应用/工具\n\n很大一部分垃圾信息来自较贫穷的国家，在那些地方每月多赚 $100 就很可观，所以我能理解，但我觉得我们还是应该积极打击，因为回复垃圾正在毁掉这个平台，然后人们就会离开，我不希望看到这样\n\n过去十年我在这里交了很多朋友，也想继续交下去；如果我在这里的互动大多是在跟垃圾机器人打交道，我就没法再这么做了！\n\nhttps://t.co/jDDqmG0c8h"
+        }
+      ]
+    },
+    {
+      "id": "2126529485227126943",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2126529485227126943",
+      "created_at": "2026-11-28T04:11:52.000Z",
+      "created_at_bj": "2026-11-28 12:11",
+      "views": 37094,
+      "rate_per_hour": 8928,
+      "basis": "snapshot",
+      "prev": {
+        "views": 31777,
+        "checked_at": "2026-11-28T14:38:36+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 37094,
+        "like_count": 144,
+        "reply_count": 33,
+        "quote_count": 1,
+        "retweet_count": 2,
+        "bookmark_count": 47
+      },
+      "already_pushed": true,
+      "text": "Great reply bait because indeed we all did! https://t.co/W2Av0zZveC",
+      "text_zh": "超棒的回复诱饵，因为我们确实都这么做过！ https://t.co/W2Av0zZveC",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2126366189521920471",
+          "user": "weswinder",
+          "text": "everyone keeps saying claude killed saas\n\nok. so name one tool you canceled because you vibe coded it yourself\n\nand you still use your version a month later\n\njust one\n\ni'll wait",
+          "text_zh": "大家都在说 Claude 把 SaaS 给杀了\n\n行。那就举出一个你因为自己 vibe coded 出来而取消订阅的工具\n\n而且一个月后你还在用自己那个版本\n\n就一个\n\n我等着"
+        }
+      ]
+    },
+    {
+      "id": "2126425412200964224",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2126425412200964224",
+      "created_at": "2026-11-27T21:18:19.000Z",
+      "created_at_bj": "2026-11-28 05:18",
+      "views": 45223,
+      "rate_per_hour": 1625,
+      "basis": "snapshot",
+      "prev": {
+        "views": 44255,
+        "checked_at": "2026-11-28T14:38:36+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 45223,
+        "like_count": 580,
+        "reply_count": 149,
+        "quote_count": 7,
+        "retweet_count": 14,
+        "bookmark_count": 191
+      },
+      "already_pushed": true,
+      "text": "I don't want to have to do it but there needs to exist a YC for bootstrapped, creator-led, semi-autonomous companies mostly run by AI agents \n\nSorely needed!",
+      "text_zh": "我不想自己必须去做这件事，但确实需要有一个面向自举（bootstrapped）、创作者主导、主要由 AI agents 来运转的半自主公司的 YC。\n\n太需要了！",
+      "hit": false,
+      "quoted": []
+    },
+    {
+      "id": "2126415966548455725",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2126415966548455725",
+      "created_at": "2026-11-27T20:40:47.000Z",
+      "created_at_bj": "2026-11-28 04:40",
+      "views": 237675,
+      "rate_per_hour": 23691,
+      "basis": "snapshot",
+      "prev": {
+        "views": 223566,
+        "checked_at": "2026-11-28T14:38:36+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 237675,
+        "like_count": 14436,
+        "reply_count": 48,
+        "quote_count": 65,
+        "retweet_count": 2785,
+        "bookmark_count": 2782
+      },
+      "already_pushed": true,
+      "text": "Postcards from Indonesia https://t.co/62ynSI0DW3 https://t.co/3ZfOhbnksl",
+      "text_zh": "来自 Indonesia 的明信片 https://t.co/62ynSI0DW3 https://t.co/3ZfOhbnksl",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2125985178606551471",
+          "user": "egeberkina",
+          "text": "Ahlan Masr https://t.co/wurD5dMvrn https://t.co/6CT1beLRjD",
+          "text_zh": "Ahlan Masr（嗨，埃及）https://t.co/wurD5dMvrn https://t.co/6CT1beLRjD"
+        }
+      ]
+    }
+  ],
+  "new_hits": [],
+  "counts": {
+    "aged_out": [],
+    "checked": 6,
+    "new_hits": 0,
+    "per_account": {
+      "levelsio": 4,
+      "marclou": 0,
+      "gregisenberg": 1,
+      "steipete": 0,
+      "egeberkina": 1,
+      "karpathy": 0
+    },
+    "pushed_after": 255,
+    "pushed_before": 255,
+    "snapshots_after": 6,
+    "snapshots_before": 6
+  }
+}
