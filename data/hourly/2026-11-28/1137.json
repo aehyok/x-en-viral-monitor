@@ -1,0 +1,189 @@
+{
+  "run_at": "2026-11-28T11:39:22+08:00",
+  "baseline": false,
+  "threshold_per_hour": 5000,
+  "lookback_hours": 12,
+  "schedule_slot": "1137",
+  "accounts": {
+    "levelsio": "1577241403",
+    "marclou": "2311987360",
+    "gregisenberg": "14642331",
+    "steipete": "25401953",
+    "egeberkina": "1790083138959400961",
+    "karpathy": "33836629"
+  },
+  "posts": [
+    {
+      "id": "2126425412200964224",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2126425412200964224",
+      "created_at": "2026-11-27T21:18:19.000Z",
+      "created_at_bj": "2026-11-28 05:18",
+      "views": 36960,
+      "rate_per_hour": 2845,
+      "basis": "snapshot",
+      "prev": {
+        "views": 35527,
+        "checked_at": "2026-11-28T11:09:09+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 36960,
+        "like_count": 467,
+        "reply_count": 125,
+        "quote_count": 6,
+        "retweet_count": 14,
+        "bookmark_count": 163
+      },
+      "already_pushed": true,
+      "text": "I don't want to have to do it but there needs to exist a YC for bootstrapped, creator-led, semi-autonomous companies mostly run by AI agents \n\nSorely needed!",
+      "text_zh": "我不想自己必须去做这件事，但确实需要有一个面向自举（bootstrapped）、创作者主导、主要由 AI agents 来运转的半自主公司的 YC。\n\n太需要了！",
+      "hit": false,
+      "quoted": []
+    },
+    {
+      "id": "2126415966548455725",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2126415966548455725",
+      "created_at": "2026-11-27T20:40:47.000Z",
+      "created_at_bj": "2026-11-28 04:40",
+      "views": 128100,
+      "rate_per_hour": 38706,
+      "basis": "snapshot",
+      "prev": {
+        "views": 108605,
+        "checked_at": "2026-11-28T11:09:09+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 128100,
+        "like_count": 8263,
+        "reply_count": 28,
+        "quote_count": 42,
+        "retweet_count": 1580,
+        "bookmark_count": 1543
+      },
+      "already_pushed": true,
+      "text": "Postcards from Indonesia https://t.co/62ynSI0DW3 https://t.co/3ZfOhbnksl",
+      "text_zh": "来自 Indonesia 的明信片 https://t.co/62ynSI0DW3 https://t.co/3ZfOhbnksl",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2125985178606551471",
+          "user": "egeberkina",
+          "text": "Ahlan Masr https://t.co/wurD5dMvrn https://t.co/6CT1beLRjD",
+          "text_zh": "Ahlan Masr（嗨，埃及）https://t.co/wurD5dMvrn https://t.co/6CT1beLRjD"
+        }
+      ]
+    },
+    {
+      "id": "2126356350875709581",
+      "user": "gregisenberg",
+      "url": "https://x.com/gregisenberg/status/2126356350875709581",
+      "created_at": "2026-11-27T16:43:54.000Z",
+      "created_at_bj": "2026-11-28 00:43",
+      "views": 213636,
+      "rate_per_hour": 18504,
+      "basis": "snapshot",
+      "prev": {
+        "views": 204316,
+        "checked_at": "2026-11-28T11:09:09+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 213636,
+        "like_count": 2521,
+        "reply_count": 264,
+        "quote_count": 55,
+        "retweet_count": 87,
+        "bookmark_count": 1185
+      },
+      "already_pushed": true,
+      "text": "New trend I'm observing:\n\n1. Startup raises venture capital\n2. Uses venture dollars to become creator \n3. Startup fails\n4. Fall back on becoming a full-time creator and makes $500k-$5M/year as creator\n5. Incubates other products bootstrapped\n6. Never raises VC again",
+      "text_zh": "我观察到的新趋势：\n\n1. 创业公司融到风险投资\n2. 用风投的钱把自己做成创作者\n3. 创业公司失败\n4. 退回去做全职创作者，一年靠创作赚 $500k-$5M\n5. 再用自举的方式孵化其他产品\n6. 再也不向 VC 融资",
+      "hit": false,
+      "quoted": []
+    },
+    {
+      "id": "2126348650217447749",
+      "user": "egeberkina",
+      "url": "https://x.com/egeberkina/status/2126348650217447749",
+      "created_at": "2026-11-27T16:13:18.000Z",
+      "created_at_bj": "2026-11-28 00:13",
+      "views": 2810,
+      "rate_per_hour": 177,
+      "basis": "snapshot",
+      "prev": {
+        "views": 2721,
+        "checked_at": "2026-11-28T11:09:09+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 2810,
+        "like_count": 31,
+        "reply_count": 3,
+        "quote_count": 0,
+        "retweet_count": 0,
+        "bookmark_count": 13
+      },
+      "already_pushed": false,
+      "text": "ok I didn't expect this to work this well\n\ngave Kling Image 4.0 one pic of my character and just kept throwing them into totally different movies. noir, desert... and it's the same woman every single time\n\nusually by image 3 the face starts melting into someone else lol. not here\n\nif you do any kind of film pitch or storyboard stuff this is kind of a cheat code",
+      "text_zh": "好吧，我没想到效果会这么好\n\n只给了 Kling Image 4.0 一张我的角色图，然后不断把她扔进完全不同的电影里。noir、desert……每次都还是同一个女人\n\n通常到第 3 张图，脸就开始融化成别人了 lol。但这里没有\n\n如果你做任何电影提案或 storyboard 之类的东西，这几乎算是开挂",
+      "hit": false,
+      "quoted": []
+    },
+    {
+      "id": "2126341534240874831",
+      "user": "levelsio",
+      "url": "https://x.com/levelsio/status/2126341534240874831",
+      "created_at": "2026-11-27T15:45:01.000Z",
+      "created_at_bj": "2026-11-27 23:45",
+      "views": 65772,
+      "rate_per_hour": 1703,
+      "basis": "snapshot",
+      "prev": {
+        "views": 64914,
+        "checked_at": "2026-11-28T11:09:09+08:00"
+      },
+      "edit_of": null,
+      "metrics": {
+        "impression_count": 65772,
+        "like_count": 638,
+        "reply_count": 101,
+        "quote_count": 3,
+        "retweet_count": 11,
+        "bookmark_count": 430
+      },
+      "already_pushed": false,
+      "text": "Visited a beautiful coworking / cafe / hotel in 🇦🇪 Dubai recommended by @fadieacc \n\nIt's called Dubai Founders HQ and you can become a member or just visit the cafe for free\n\nAlso very very good coffee and fast WiFi, beautiful interior and perfect AC temperature\n\n10/10 https://t.co/DoVcycbFwT https://t.co/UicA7GSSWJ",
+      "text_zh": "去了一家很漂亮的 coworking / 咖啡馆 / 酒店，在 🇦🇪 Dubai，是 @fadieacc 推荐的。\n\n它叫 Dubai Founders HQ，你可以办会员，也可以免费去咖啡馆坐坐。\n\n咖啡非常非常好喝，WiFi 很快，室内设计很美，空调温度也刚刚好。\n\n10/10 https://t.co/DoVcycbFwT https://t.co/UicA7GSSWJ",
+      "hit": false,
+      "quoted": [
+        {
+          "id": "2126059403950391768",
+          "user": "levelsio",
+          "text": "🇦🇪 Habibiiiiiiiii https://t.co/VvO5jciGyz",
+          "text_zh": "🇦🇪 Habibiiiiiiiii（嗨，宝贝）https://t.co/VvO5jciGyz"
+        }
+      ]
+    }
+  ],
+  "new_hits": [],
+  "counts": {
+    "aged_out": [],
+    "checked": 5,
+    "new_hits": 0,
+    "per_account": {
+      "levelsio": 1,
+      "marclou": 0,
+      "gregisenberg": 2,
+      "steipete": 0,
+      "egeberkina": 2,
+      "karpathy": 0
+    },
+    "pushed_after": 251,
+    "pushed_before": 251,
+    "snapshots_after": 5,
+    "snapshots_before": 5
+  }
+}
